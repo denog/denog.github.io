@@ -1,0 +1,63 @@
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-4">
+        <a href="{{ site.url }}/index.html">
+          <img class="footer-logo" src="{{ site.url }}/images/logo-denog-small.png" alt="">
+        </a>
+        <ul class="footer-contacts">
+          <li><i class="ion-android-pin"></i>Addresse:<br/>man-da.de GmbH<br/>Mornewegstraße 26-32<br/>64293 Darmstadt</li>
+          <li><i class="ion-android-phone-portrait"></i> Telefon: +49 6151 16 - 0</li>
+          <li><i class="ion-android-mail"></i>E-mail: denog@fsck.info</li>
+        </ul>
+        <ul class="footer-social">
+          <li><a href="{{ site.url }}/#"><i class="ion-social-vimeo"></i></a></li>
+          <li><a href="{{ site.url }}/#"><i class="ion-social-instagram"></i></a></li>
+          <li><a href="{{ site.url }}/#"><i class="ion-social-github"></i></a></li>
+          <li><a href="{{ site.url }}/#"><i class="ion-social-facebook"></i></a></li>
+          <li><a href="{{ site.url }}/#"><i class="ion-social-twitter"></i></a></li>
+          <li><a href="{{ site.url }}/#"><i class="ion-social-googleplus"></i></a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        <div class="footer-title">Recent tweets</div>
+        <ul class="footer-twitter">
+          <li class="footer-tweet ion-social-twitter-outline">
+            <a href="{{ site.url }}/#">@laconic</a>
+            Lorem ipsum dolor sit amet, consectetur adipisicing.
+            <a href="{{ site.url }}/#" class="tweet-link">https://twitter.com/tweet</a>
+            <div class="tweet-time">3 days ago</div>
+          </li>
+          <li class="footer-tweet ion-social-twitter-outline">
+            <a href="{{ site.url }}/#">@laconic</a>
+            Lorem ipsum dolor sit amet, consectetur adipisicing.
+            <a href="{{ site.url }}/#" class="tweet-link">https://twitter.com/tweet</a>
+            <div class="tweet-time">4 days ago</div>
+          </li>
+        </ul>
+      </div>
+      <div class="col-sm-4">
+        
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <div>
+            Copyright © 2011-{{ site.time |date:'%Y' }} <a href="{{ site.url }}/#">DENOG</a>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <ul class="footer-menu">
+            {% assign navigationData = site.data.navigation[page.lang] %}
+            {% for entry in navigationData.bottom %}
+            <li><a href="{{ site.url }}{% if entry.url != 'index.html' %}/{{ page.lang }}{% endif %}/{{ entry.url }}">{{ entry.text }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
