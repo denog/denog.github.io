@@ -1,0 +1,60 @@
+{
+	"de": {
+		"top": [
+			{"url": "index.html", "text": "Home"},
+			{"url": "#", "text": "Informationen", "childs": [
+				{"url": "informationen.html", "text": "Übersicht"},
+				{"url": "charta.html", "text": "Charta"},
+				{"url": "informationen.html#irc-channel", "text": "IRC"},
+				{"url": "mailingliste.html", "text": "Mailingliste"},
+				{"url": "chatterliste.html", "text": "Chatterliste"}
+			]},
+			{"url": "#", "text": "DENOG8 Meeting", "childs": [
+				{"url": "meetings/denog8/denog8.html", "text": "Übersicht"},
+				{"url": "anmeldung.html", "text": "Anmeldung"},
+				{"url": "meetings/denog8/agenda.html", "text": "Agenda"},
+				{"url": "ortundhotels.html", "text": "Veranstaltungsort & Hotels"},
+				{"url": "teilnehmer.html", "text": "Teilnehmer"},
+				{"url": "sponsoren.html", "text": "Hosts & Sponsoren"},
+				{"url": "organisation.html", "text": "Meeting Organisation"},
+				{"url": "archiv.html", "text": "Vorherige Meetings"}
+			]},
+			{"url": "archiv.html", "text": "Archiv"},
+			{"url": "kontakt.html", "text": "Kontakt"}
+		],
+		"bottom": [
+			{"url": "index.html", "text": "Home"},
+			{"url": "kontakt.html", "text": "Kontakt"},
+			{"url": "impressum.html", "text": "Impressum"}
+		]
+	},
+	"en": {
+		"top": [
+			{"url": "index.html", "text": "Start"},
+			{"url": "#", "text": "Information", "childs": [
+				{"url": "informationen.html", "text": "Overview"},
+				{"url": "charta.html", "text": "Charta"},
+				{"url": "informationen.html#irc-channel", "text": "IRC"},
+				{"url": "mailingliste.html", "text": "Mailinglist"},
+				{"url": "chatterliste.html", "text": "Chatterlist"}
+			]},
+			{"url": "#", "text": "DENOG8 Meeting", "childs": [
+				{"url": "meetings/denog8/denog8.html", "text": "Overview"},
+				{"url": "anmeldung.html", "text": "Registration"},
+				{"url": "meetings/denog8/agenda.html", "text": "Agenda"},
+				{"url": "ortundhotels.html", "text": "Event Location & Hotels"},
+				{"url": "teilnehmer.html", "text": "Attendees"},
+				{"url": "sponsoren.html", "text": "Hosts & Sponsors"},
+				{"url": "organisation.html", "text": "Meeting Organisation"},
+				{"url": "archiv.html", "text": "Previous Meetings"}
+			]},
+			{"url": "archiv.html", "text": "Archive"},
+			{"url": "kontakt.html", "text": "Contact"}
+		],
+		"bottom": [
+			{"url": "index.html", "text": "Home"},
+			{"url": "kontakt.html", "text": "Contact"},
+			{"url": "impressum.html", "text": "Imprint"}
+		]
+	}
+}

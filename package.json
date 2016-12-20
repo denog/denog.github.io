@@ -1,0 +1,20 @@
+{
+  "name": "denog.github.io",
+  "version": "1.0.0",
+  "description": "denog website",
+  "main": "index.html",
+  "scripts": {
+    "start": "bundle exec jekyll s",
+    "build": "bundle exec jekyll b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrauStief/denog.github.io.git"
+  },
+  "author": "Arne Gockeln",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrauStief/denog.github.io/issues"
+  },
+  "homepage": "https://github.com/FrauStief/denog.github.io#readme"
+}
