@@ -23,7 +23,7 @@ markdown: kramdown
 #env: "development"
 
 # production
-url: ""
+#url: "http://"
 env: "production"
 
 # exclude from building
