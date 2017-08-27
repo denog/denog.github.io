@@ -8,7 +8,7 @@ ref: index
             <div class="col-sm-12">
                 <div class="mainpagebox mainpageboxlarge">
                     <div>
-                        <img id="mainpagelogo" src="{{ site.url }}/images/logo-denog-large.png" />
+                        <img src="{{ site.url }}/images/logo-denog-large.png" id="mainpagelogo" />
                         <h2 class="mainpageboxheadline">Donnerstag 23. und Freitag 24. November 2017, Darmstadt</h2>
                         <p><a href="#" class="btn btn-custom-default">Mehr erfahren <i class="ion-arrow-right-c"></i></a></p>                    
                     </div>
@@ -47,7 +47,7 @@ ref: index
         <div class="row">
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser">
+                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser" />
                     <div class="caption">
                         <small>17. Oktober 2017</small>
                         <h3>Teaser 1</h3>
@@ -57,7 +57,7 @@ ref: index
             </div>
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser">
+                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser" />
                     <div class="caption">
                         <small>17. Oktober 2017</small>
                         <h3>Teaser 2</h3>
@@ -67,7 +67,7 @@ ref: index
             </div>
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser">
+                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser" />
                     <div class="caption">
                         <small>17. Oktober 2017</small>
                         <h3>Teaser 3</h3>
