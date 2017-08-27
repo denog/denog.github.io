@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: denog
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "/"
 # Build settings
 markdown: kramdown
 
