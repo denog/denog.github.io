@@ -1,0 +1,54 @@
+header{min-height:70px;}
+.navbar.navbar-default{width:100%;height:70px;color:#000000;background:#ffffff;box-shadow:0px 0px 15px 0px #f1f1f1;}
+.navbar.navbar-default .navbar-collapse{background:#ffffff;}
+.navbar.navbar-default .collapse.in{position:relative;z-index:5000;}
+.navbar-brand, .nav.navbar-nav.navbar-right > li > a, .menu-fixed.navbar.navbar-default .navbar-brand, .menu-fixed.navbar.navbar-default .nav.navbar-nav.navbar-right > li > a{height:70px;line-height:70px;padding:0px 15px 0px 15px;font-size:14px;}
+.nav.navbar-nav.navbar-right > li > a.active{border-bottom:4px solid #f8c400;}
+.dropdown-menu > li > a.active, .dropdown-menu > li > a.active:hover{background:#f8c400;}
+.navbar-brand img, .menu-fixed.navbar.navbar-default .navbar-brand img{max-height:50px;}
+.nav.navbar-nav.navbar-right > li > a.langlink, .menu-fixed.navbar.navbar-default .nav.navbar-nav.navbar-right > li > a.langlink{height:30px;line-height:30px;margin:20px 0px 20px 0px;color:#000000;background:#f9cd00;text-transform:uppercase;}
+.nav.navbar-nav.navbar-right > li > a.langlink.active{display:none;}
+.navbar .dropdown-menu{border-top:1px solid #f1f1f1;}
+.navbar-toggle{margin-top:18px;}
+
+.btn-custom-default{color:#f1f1f1;background:#3a3a3a;border:1px solid #1a2644;}
+.btn-custom-default:hover, .btn-custom-default:focus{color:#f1f1f1;background:#3a3a3a;border:1px solid #1a2644;}
+
+#page{min-height:600px;}
+.page-section{padding-top:20px;}
+
+h2{margin-top:30px;font-size:22px;text-transform:uppercase;}
+h3{margin-top:20px;font-size:18px;text-transform:uppercase;}
+
+.bigheadliner{font-size:24px;text-align:center;}
+.pagecontentblock + .pagecontentblock{margin-top:60px;}
+.pagecontentblock .thumbnail{border:0px solid #000000;}
+.pagecontentblock .thumbnail h3{margin:0px;}
+.pagecontentblock .thumbnail .caption{padding:4px 0px 4px 0px;}
+
+#footertopbadge{min-height:95px;line-height:95px;}
+#footertopbadge #footertopbadgetext{font-size:20px;text-transform:uppercase;}
+#footertopbadge #footertopbadgebutton{margin:30px 100px 30px;float:right;}
+.mainbgcolor{background:#f9cd00;background:-moz-linear-gradient(left,#f9cd00 0%,#f8af00 100%);background:-webkit-linear-gradient(left,#f9cd00 0%,#f8af00 100%);background:linear-gradient(to right,#f9cd00 0%,#f8af00 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9cd00',endColorstr='#f8af00',GradientType=1);}
+footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
+
+#mainpage .mainpagebox{background:url(../images/hometopicimage.jpg) center center;position:relative;}
+#mainpage .mainpageboxsmall{margin-top:20px;}
+#mainpage .mainpagebox .mainpageboxlink{width:25px;height:25px;line-height:25px;right:8px;bottom:8px;margin:0px;padding:0px;font-size:20px;text-align:center;position:absolute;}
+#mainpage .mainpagebox > div{background:rgb(249,205,0);background:-moz-linear-gradient(top,rgba(249,205,0,0.95) 0%,rgba(248,175,0,0.95) 100%);background:-webkit-linear-gradient(top,rgba(249,205,0,0.95) 0%,rgba(248,175,0,0.95) 100%);background:linear-gradient(to bottom,rgba(249,205,0,0.95) 0%,rgba(248,175,0,0.95) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9cd00',endColorstr='#f8af00',GradientType=0);}
+#mainpage .mainpagebox #mainpagelogo{max-width:788px;width:50%;min-width:250px;margin:0px auto 0px auto;padding-top:60px;display:block;clear:both;}
+#mainpage .mainpagebox .mainpageboxheadline{color:#3a393a;text-align:center;}
+#mainpage .mainpagebox .mainpageboxheadline + p{padding:20px 0px 60px 0px;text-align:center;}
+#mainpage .mainpageboxlarge .mainpageboxheadline{margin:0px;padding:40px 0px 40px 0px;font-size:22px;}
+#mainpage .mainpageboxsmall .mainpageboxheadline{margin:0px;padding:80px 0px 80px 0px;font-size:16px;}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    #footertopbadge #footertopbadgetext{font-size:16px;}
+    #mainpage .mainpageboxlarge .mainpageboxheadline{font-size:20px;}
+    #mainpage .mainpageboxsmall .mainpageboxheadline{font-size:14px;}
+}
+@media (max-width: 992px) {
+    #footertopbadge #footertopbadgetext{font-size:12px;}
+    #mainpage .mainpageboxlarge .mainpageboxheadline{font-size:18px;}
+    #mainpage .mainpageboxsmall .mainpageboxheadline{font-size:12px;}
+}

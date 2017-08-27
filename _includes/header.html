@@ -1,83 +1,56 @@
 <header>
-  <div class="header-top">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6 col-xs-12">
-          <ul class="contacts-top">
-            <li><i class="ion-ios-telephone-outline"></i>
-              +49 6151 16 - 0
-            </li>
-            <li><i class="ion-ios-email-outline"></i>
-              denog@fsck.info
-            </li>
-          </ul>
+    <nav class="navbar navbar-default">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="{{ site.url }}/{{ page.lang }}/"><img src="{{ site.url }}/images/logo-denog.jpg" alt=""></a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    {% assign currentUrl = page.url %}
+                    {% assign navigationData = site.data.navigation[page.lang] %}
+                    {% for entry in navigationData.top %}
+                    {% if entry.childs %}
+                    <li class="dropdown">
+                        {% assign mainClass = '' %}
+                        {% for subentry in entry.childs %}
+                            {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
+                            {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
+                            {% if targetUrlTmp == currentUrl %}{% assign mainClass = ' active' %}{% endif %}
+                        {% endfor %}
+                        <a class="dropdown-toggle{{ mainClass }}" data-toggle="dropdown" role="button" aria-expanded="false">{{ entry.text }} <span class="ion-ios-arrow-down"></span></a>
+                        <ul class="dropdown-menu" role="menu">
+                            {% for subentry in entry.childs %}
+                                {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
+                                {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
+                                <li><a href="{{ site.url }}{{ targetUrl }}" {% if targetUrlTmp == currentUrl %}class="active"{% endif %}>{{ subentry.text }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </li>
+                    {% else %}
+                        {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ entry.url }}{% endif %}{% endcapture %}
+                        {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
+                        <li><a href="{{ site.url }}{{ targetUrl }}" {% if targetUrl == currentUrl or targetUrlTmp == currentUrl %}class="active"{% endif %}>{{ entry.text }}</a></li>
+                    {% endif %}
+                    {% endfor %}  
+                        {% for language in site.data.navigation %}
+                        {% assign pageLang = page.lang|default: '' %}
+                            {% if page.url == '/' %}
+                                {% assign langUrl = site.url|append: page.url|append: language[0] %}
+                            {% else %}    
+                                {% assign oldLangStr = '/' | append: pageLang | append: '/' %}
+                                {% assign newLangStr = '/' | append: language[0] | append: '/' %}
+                                {% assign langUrl = site.url|append: page.url|replace_first: oldLangStr, newLangStr %}
+                        {% endif %}
+                        <li><a href="{{ langUrl }}" class="langlink{% if page.lang == language[0] %} active{% endif %}">{{ language[0] }}</a></li>
+                    {% endfor %}
+                </ul>                
+            </div>
         </div>
-        <div class="col-sm-6 col-xs-12">
-          <ul class="social-top">
-            {% for language in site.data.navigation %}
-            {% assign pageLang = page.lang|default: '' %}
-            {% if page.url == '/' %}
-              {% assign langUrl = site.url|append: page.url|append: language[0]|append: '/index.html' %}
-            {% else %}  
-              {% assign langUrl = site.url|append: page.url|replace_first: pageLang, language[0] %}
-            {% endif %}
-            <li><a href="{{ langUrl }}">{{ language[0] }}</a><br/></li>
-            {% endfor %}
-            <li><a href="{{ site.url }}/#"><i class="ion-social-vimeo-outline"></i></a></li>
-            <li><a href="{{ site.url }}/#"><i class="ion-social-instagram-outline"></i></a></li>
-            <li><a href="{{ site.url }}/#"><i class="ion-social-github-outline"></i></a></li>
-            <li><a href="{{ site.url }}/#"><i class="ion-social-facebook-outline"></i></a></li>
-            <li><a href="{{ site.url }}/#"><i class="ion-social-twitter-outline"></i></a></li>
-            <li><a href="{{ site.url }}/#"><i class="ion-social-googleplus-outline"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <nav class="navbar navbar-default">
-    <div class="container">
-      <div class="row pos-rel">
-        <div class="search-form-wrap">
-          <a class="search-close ion-android-close"></a>
-          <form>
-            <input type="text" placeholder="Type And Press Enter">
-          </form>
-        </div>
-      </div>
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="{{ site.url }}/index.html"><img src="{{ site.url }}/images/logo-denog.jpg" alt=""></a>
-      </div>
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-        <ul class="nav navbar-nav navbar-right">
-          <li class="mobile-search">
-            <form>
-              <input type="text" placeholder="Search">
-            </form>
-          </li>
-          {% assign navigationData = site.data.navigation[page.lang] %}
-          {% for entry in navigationData.top %}
-          {% if entry.childs %}
-          <li class="dropdown">
-            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">{{ entry.text }} <span class="ion-ios-arrow-down"></span></a>
-            <ul class="dropdown-menu" role="menu">
-              {% for subentry in entry.childs %}
-              <li><a href="{{ site.url }}/{{ page.lang }}/{{ subentry.url }}">{{ subentry.text }}</a></li>
-              {% endfor %}
-            </ul>
-          </li>
-          {% else %}
-          <li><a href="{{ site.url }}{% if entry.url != 'index.html' %}/{{ page.lang }}{% endif %}/{{ entry.url }}">{{ entry.text }}</a></li>
-          {% endif %}
-          {% endfor %}
-          <li><a class="ion-ios-search-strong search-open"></a></li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+    </nav>
 </header>

@@ -1,3 +1,9 @@
+<div id="footertopbadge" class="mainbgcolor">
+    <div class="container">
+        <span id="footertopbadgetext">Denog 9 Meeting 2017 - Hier Anmelden</span>
+        <a href="#" class="btn btn-custom-default" id="footertopbadgebutton">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+    </div>
+</div>
 <footer>
   <div class="container">
     <div class="row">
@@ -46,14 +52,14 @@
       <div class="row">
         <div class="col-sm-6">
           <div>
-            Copyright © 2011-{{ site.time |date:'%Y' }} <a href="{{ site.url }}/#">DENOG</a>
+            Copyright © 2011-{{ site.time |date:'%Y' }} <a href="{{ site.url }}/{{ page.lang }}/">DENOG</a>
           </div>
         </div>
         <div class="col-sm-6">
           <ul class="footer-menu">
             {% assign navigationData = site.data.navigation[page.lang] %}
             {% for entry in navigationData.bottom %}
-            <li><a href="{{ site.url }}{% if entry.url != 'index.html' %}/{{ page.lang }}{% endif %}/{{ entry.url }}">{{ entry.text }}</a></li>
+            <li><a href="{{ site.url }}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ entry.url }}{% endif %}">{{ entry.text }}</a></li>
             {% endfor %}
           </ul>
         </div>
