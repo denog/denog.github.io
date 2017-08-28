@@ -11,7 +11,7 @@ header{min-height:70px;}
 .navbar .dropdown-menu{border-top:1px solid #f1f1f1;}
 .navbar-toggle{margin-top:18px;}
 
-.btn-custom-default{color:#f1f1f1;background:#3a3a3a;border:1px solid #1a2644;}
+.btn-custom-default{color:#f1f1f1;background:#3a3a3a;border:1px solid #1a2644;border-radius:0px;}
 .btn-custom-default:hover, .btn-custom-default:focus{color:#f1f1f1;background:#3a3a3a;border:1px solid #1a2644;}
 
 #page{min-height:600px;}
@@ -23,8 +23,8 @@ h3{margin-top:20px;font-size:18px;text-transform:uppercase;}
 .bigheadliner{font-size:24px;text-align:center;}
 .pagecontentblock + .pagecontentblock{margin-top:60px;}
 .pagecontentblock .thumbnail{border:0px solid #000000;}
-.pagecontentblock .thumbnail h3{margin:0px;}
-.pagecontentblock .thumbnail .caption{padding:4px 0px 4px 0px;}
+.pagecontentblock .thumbnail .caption{padding:0px}
+.pagecontentblock .thumbnail .caption h3{margin:2px 0px 4px 0px;}
 
 #footertopbadge{min-height:95px;line-height:95px;}
 #footertopbadge #footertopbadgetext{font-size:20px;text-transform:uppercase;}
