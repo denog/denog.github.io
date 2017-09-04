@@ -1,5 +1,5 @@
 ---
-lang: de 
+lang: de
 ref: index
 ---
 <div id="mainpage">
@@ -10,7 +10,7 @@ ref: index
                     <div>
                         <img src="{{ site.url }}/images/logo-denog-large.png" id="mainpagelogo" />
                         <h2 class="mainpageboxheadline">Donnerstag 23. und Freitag 24. November 2017, Darmstadt</h2>
-                        <p><a href="#" class="btn btn-custom-default">Mehr erfahren <i class="ion-arrow-right-c"></i></a></p>                    
+                        <p><a href="http://www.denog.de/meetings/denog9" target="new" class="btn btn-custom-default">Mehr erfahren <i class="ion-arrow-right-c"></i></a></p>                    
                     </div>
                 </div>
             </div>
