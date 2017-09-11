@@ -32,7 +32,7 @@ h3{margin-top:20px;font-size:18px;text-transform:uppercase;}
 .mainbgcolor{background:#f9cd00;background:-moz-linear-gradient(left,#f9cd00 0%,#f8af00 100%);background:-webkit-linear-gradient(left,#f9cd00 0%,#f8af00 100%);background:linear-gradient(to right,#f9cd00 0%,#f8af00 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9cd00',endColorstr='#f8af00',GradientType=1);}
 footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
 
-#mainpage .mainpagebox{background:url(../images/hometopicimage.jpg) center center;position:relative;}
+#mainpage .mainpagebox{background:url(../images/exhibition2016.jpg) center center;position:relative;}
 #mainpage .mainpageboxsmall{margin-top:20px;}
 #mainpage .mainpagebox .mainpageboxlink{width:25px;height:25px;line-height:24px;right:8px;bottom:8px;margin:0px;padding:0px;font-size:20px;text-align:center;position:absolute;}
 #mainpage .mainpagebox > div{background:rgb(249,205,0);background:-moz-linear-gradient(top,rgba(249,205,0,0.95) 0%,rgba(248,175,0,0.95) 100%);background:-webkit-linear-gradient(top,rgba(249,205,0,0.95) 0%,rgba(248,175,0,0.95) 100%);background:linear-gradient(to bottom,rgba(249,205,0,0.95) 0%,rgba(248,175,0,0.95) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9cd00',endColorstr='#f8af00',GradientType=0);}
