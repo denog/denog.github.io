@@ -47,31 +47,31 @@ ref: index
         <div class="row">
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser" />
+                    <img src="{{ site.url }}/images/megaportlounge.jpg" alt="Teaser" />
                     <div class="caption">
-                        <small>17. Oktober 2017</small>
-                        <h3>Teaser 1</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                        <small>DENOG9 Update I</small>
+                        <h3>Social Sponsor</h3>
+                        <p>Megaport ist unser Social Sponsor 2017 und wird auch wieder eine Lounge-Area im darmstatdium haben..</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser" />
+                    <img src="{{ site.url }}/images/coffeebar.jpg" alt="Teaser" />
                     <div class="caption">
-                        <small>17. Oktober 2017</small>
-                        <h3>Teaser 2</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                        <small>DENOG9 Sponsoren II</small>
+                        <h3>Coffee Sponsor</h3>
+                        <p>Nach einem Jahr Pause wird 2017 syseleven wieder ausreichend Kaffee in den Pausen sorgen.</p>
                     </div>
                 </div>
             </div>
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="{{ site.url }}/images/hometopicimage.jpg" alt="Teaser" />
+                    <img src="{{ site.url }}/images/lunch-bufett.jpg" alt="Teaser" />
                     <div class="caption">
-                        <small>17. Oktober 2017</small>
-                        <h3>Teaser 3</h3>
-                        <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
+                        <small>DENOG9 Sponsoren III</small>
+                        <h3>Lunch Sponsor</h3>
+                        <pZum ersten Mal als Hauptsponsor an Board: Globalways wünscht guten Appetit und wird sorgt für ausreichend Energiezufuhr in den Mittagspausen..</p>
                     </div>
                 </div>
             </div>
