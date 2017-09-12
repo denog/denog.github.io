@@ -67,11 +67,11 @@ ref: index
             </div>
             <div class="col-sm-4">
                 <div class="thumbnail">
-                    <img src="{{ site.url }}/images/lunch-bufett.jpg" alt="Teaser" />
+                    <img src="{{ site.url }}/images/regdesk.jpg" alt="Teaser" />
                     <div class="caption">
-                        <small>DENOG9 Sponsoren III</small>
-                        <h3>Lunch Sponsor</h3>
-                        <pZum ersten Mal als Hauptsponsor an Board: Globalways wünscht guten Appetit und wird sorgt für ausreichend Energiezufuhr in den Mittagspausen..</p>
+                        <small>DENOG9 Registrierung</small>
+                        <h3>Early Bird</h3>
+                        <p>Der Early Bird Preis gilt noch bis Ende September. Vergesst nicht, Euch rechtzeitig <a href="http://www.denog.de/meetings/denog9/registration.php" traget="new">anzumelden</a>..</p>
                     </div>
                 </div>
             </div>
