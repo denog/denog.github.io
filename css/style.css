@@ -46,8 +46,10 @@ footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
 #mainpage .mainpagepaddedbox{padding:20px;text-align:justify;}
 
 #sponsorslider{}
-#sponsorslider .sponsorsliderlogo{width:33%;height:140px;padding:40px;float:left;display:none;}
-#sponsorslider .sponsorsliderlogo img{max-width:100%;margin:auto;vertical-align:center;display:block;}
+#sponsorslider .sponsorsliderlogo{width:10%;height:220px;padding:40px;overflow:hidden;float:left;}
+#sponsorslider .sponsorsliderlogo .sponsorsliderlogowrapper{width:100%;height:140px;position:relative;}
+#sponsorslider .sponsorsliderlogo .sponsorsliderlogowrapper .sponsorsliderlogoinnerwrapper{width:100%;height:140px;background:#ffffff;display:flex;align-items:center;justify-content:space-around;position:absolute;}
+#sponsorslider .sponsorsliderlogo .sponsorsliderlogowrapper .sponsorsliderlogoinnerwrapper img{max-width:100%;max-height:140px;display:block;}
 
 @media (min-width: 992px) and (max-width: 1200px) {
     #footertopbadge #footertopbadgetext{font-size:16px;}
