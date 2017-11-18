@@ -15,7 +15,7 @@ header{min-height:70px;}
 .btn-custom-default:hover, .btn-custom-default:focus{color:#000000;background:#f9cd00;}
 
 #page{min-height:600px;}
-.page-section{padding-top:20px;}
+.page-section{padding-top:0px;}
 
 h2{margin-top:30px;font-size:22px;text-transform:uppercase;}
 h3{margin-top:20px;font-size:18px;text-transform:uppercase;}
@@ -41,6 +41,7 @@ footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
 #mainpage .mainpagebox .mainpageboxheadline + p{padding:20px 0px 20px 0px;text-align:center;}
 #mainpage .mainpageboxlarge .mainpageboxheadline{margin:0px;padding:40px 0px 40px 0px;font-size:22px;}
 #mainpage .mainpageboxsmall .mainpageboxheadline{margin:0px;padding:80px 0px 80px 0px;font-size:16px;}
+#mainpage .mainpagepaddedbox{padding:20px;text-align:justify;}
 
 @media (min-width: 992px) and (max-width: 1200px) {
     #footertopbadge #footertopbadgetext{font-size:16px;}
