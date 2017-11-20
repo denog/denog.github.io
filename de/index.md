@@ -26,35 +26,35 @@ ref: index
         <div class="container">
             <div class="mainpagepaddedbox">
                 <h3>Über Denog</h3>
-                <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                <a href="http://www.denog.de/meetings/denog9" target="new" class="btn btn-custom-default pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                <p>DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. Im Rahmen dieses technischen Forums treffen sich Menschen, die mit, für oder am Internet arbeiten und netzwerkspezifische Themen mit gleichgesinnten diskutieren, um sie dadurch einfacher lösen zu können.</p>
+                <a href="informationen.html" class="btn btn-custom-default pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 <div class="clearfix"></div>
             </div>
             <div class="row">
                 <div class="col-sm-4">
                     <div class="mainpagepaddedbox">
                         <div>
-                            <h4>Lorem Ipsum Dolor Sit Amet</h4>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                            <a href="#" class="btn btn-custom-default mainpageboxlink pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                            <h4>Agenda final</h4>
+                            <p>Die Agenda für das DENOG9 ist jetzt final.</p>
+                            <a href="meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="mainpagepaddedbox">
                         <div>
-                            <h4>Lorem Ipsum Dolor Sit Amet</h4>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                            <a href="#" class="btn btn-custom-default mainpageboxlink pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                            <h4>Vereinsgründung</h4>
+                            <p>Die Versammlung zur Gründung des DENOG-Vereins findet im Rahmen des DENOG9 statt. Der Zugang zur Versammlung ist für alle Interessierten frei.</p>
+                            <a href="meetings/denog8/agenda.html" class="btn btn-custom-default mainpageboxlink pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="mainpagepaddedbox">
                         <div>
-                            <h4>Lorem Ipsum Dolor Sit Amet</h4>
-                            <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-                            <a href="#" class="btn btn-custom-default mainpageboxlink pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                            <h4>Gewinnen mit den Sponsoren der DENOG9</h4>
+                            <p>Dieses Jahr gibt es gleich zwei Verlosungen mit vielen tollen Preisen. Sowohl Megaport als auch Thomas Krenn haben hochwertige Preise gestiftet. Meldet Euch gleich an.</p>
+                            <a href="http://www.denog.de/meetings/denog9/registration.php" class="btn btn-custom-default mainpageboxlink pull-right" target="new">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                         </div>
                     </div>
                 </div>
