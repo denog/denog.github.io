@@ -3,7 +3,7 @@ lang: de
 ref: organisation
 title: MEETING ORGANISATION
 ---
-Die Organisatoren des Meetings können per E-Mail unter [denog8@meeting.denog.de](mailto:denog8@meeting.denog.de) kontaktiert werden und besteht aus:
+Die Organisatoren des Meetings können per E-Mail unter [denog9@meeting.denog.de](mailto:denog9@meeting.denog.de) kontaktiert werden und besteht aus:
 
 {:class="table"}
 | Name | Aufgabe |

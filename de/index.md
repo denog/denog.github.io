@@ -35,7 +35,7 @@ ref: index
                 <div class="newsblock">
                     <h4>Vereinsgründung</h4>
                     <p>Die Versammlung zur Gründung des DENOG-Vereins findet im Rahmen des DENOG9 statt. Der Zugang zur Versammlung ist für alle Interessierten frei.</p>
-                    <a href="meetings/denog8/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                    <a href="meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>Gewinnen mit den Sponsoren der DENOG9</h4>

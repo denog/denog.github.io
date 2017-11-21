@@ -1,9 +1,9 @@
 ---
-title: DENOG 8 MEETING - ANMELDUNG
+title: DENOG 9 MEETING - ANMELDUNG
 lang: de 
 ref: anmeldung
 ---
-23./24. November 2016\\
+23./24. November 2017\\
 Darmstadt
 
 ## Ort
@@ -28,7 +28,7 @@ In der Teilnahmegebühr sind enthalten:
 
 ## Anmeldung
 
-Bei Problemen oder Fragen zur Anmeldung können Sie uns per E-Mail unter denog8@meeting.denog.de erreichen. Die Anmeldung erfolgt über XING Events GmbH, es gelten die im Anmeldeformular verlinkten AGBs.
+Bei Problemen oder Fragen zur Anmeldung können Sie uns per E-Mail unter denog9@meeting.denog.de erreichen. Die Anmeldung erfolgt über XING Events GmbH, es gelten die im Anmeldeformular verlinkten AGBs.
 
 Die Anmeldung ist bis zum 16. November möglich. Bitte beachtet, dass wir keine späteren Anmeldungen, insbesondere keine Anmeldungen vor Ort am 23./24. November vornehmen können.
 
