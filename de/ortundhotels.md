@@ -1,9 +1,9 @@
 ---
 lang: de
 ref: ortundhotels
-title: DENOG8 - VERANSTALTUNGSORT & HOTELS
+title: DENOG9 - VERANSTALTUNGSORT & HOTELS
 ---
-23.-24. November 2016 Darmstadt
+23.-24. November 2017 Darmstadt
 
 ## Ort
 
