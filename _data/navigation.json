@@ -14,10 +14,7 @@
 				{"url": "anmeldung.html", "text": "Anmeldung"},
 				{"url": "meetings/denog9/agenda.html", "text": "Agenda"},
 				{"url": "ortundhotels.html", "text": "Veranstaltungsort & Hotels"},
-				{"url": "teilnehmer.html", "text": "Teilnehmer"},
-				{"url": "sponsoren.html", "text": "Hosts & Sponsoren"},
-				{"url": "organisation.html", "text": "Meeting Organisation"},
-				{"url": "archiv.html", "text": "Vorherige Meetings"}
+				{"url": "teilnehmer.html", "text": "Teilnehmer"}
 			]},
 			{"url": "archiv.html", "text": "Archiv"},
 			{"url": "kontakt.html", "text": "Kontakt"}

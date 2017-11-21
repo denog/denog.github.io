@@ -24,8 +24,15 @@
 </head>
 <body>
 {% include header.html %}
-	
-  {{ content }}	
+
+  {% if page.url == '/de/' or page.url == '/' %}
+    {{ content }}
+  {% else %}    
+    <div class="container">
+      {{ content }}
+    </div>
+  {% endif %}
+  
 
   {% include footer.html %}
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
