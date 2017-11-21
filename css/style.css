@@ -15,6 +15,7 @@ header{min-height:70px;}
 .btn-custom-default:hover, .btn-custom-default:focus{color:#000000;background:#ffffff;border:1px solid #f9cd00;}
 
 #page{min-height:600px;}
+.page-section{padding-top:20px;}
 #mainpage .page-section{padding-top:0px;}
 
 h2{margin-top:30px;font-size:22px;text-transform:uppercase;}
