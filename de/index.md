@@ -4,20 +4,16 @@ ref: index
 ---
 <div id="mainpage">
     <div class="pagecontentblock">
-        <div class="row">
-            <div class="col-sm-12">
-                <div class="mainpagebox mainpageboxlarge">
-                    <div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-sm-6">
-                                    <img src="{{ site.url }}/images/denog_logo_konferenz_outline_large.jpg" id="mainpagelogo" />
-                                </div>
-                                <div class="col-sm-6">
-                                    <h2 class="mainpageboxheadline">Donnerstag 23. und Freitag 24. November 2017, Darmstadt</h2>
-                                    <p><a href="{{ site.url }}/{{ page.lang }}/anmeldung.html" class="btn btn-custom-default">Anmeldung <i class="ion-arrow-right-c"></i></a></p>                    
-                                </div>
-                            </div>
+        <div class="mainpagebox mainpageboxlarge">
+            <div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <img src="{{ site.url }}/images/denog_logo_konferenz_outline_large.jpg" id="mainpagelogo" />
+                        </div>
+                        <div class="col-sm-6">
+                            <h2 class="mainpageboxheadline">Donnerstag 23. und Freitag 24. November 2017, Darmstadt</h2>
+                            <p><a href="{{ site.url }}/{{ page.lang }}/anmeldung.html" class="btn btn-custom-default">Anmeldung <i class="ion-arrow-right-c"></i></a></p>                    
                         </div>
                     </div>
                 </div>
