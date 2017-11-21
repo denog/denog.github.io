@@ -46,7 +46,7 @@ footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
 #mainpage .mainpagepaddedbox{padding:20px;text-align:justify;}
 
 .newsblockwrapper{display:flex;justify-content:space-between;flex-wrap:wrap;}
-.newsblockwrapper .newsblock{width:27%;margin:10px;padding:20px 20px 30px 20px;position:relative;}
+.newsblockwrapper .newsblock{width:27%;min-width:250px;padding:20px 20px 30px 20px;position:relative;}
 .newsblockwrapper .newsblock .newsblocklink{bottom:0px;right:20px;position:absolute;}
 
 #sponsorslider{}
