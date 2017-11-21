@@ -47,7 +47,7 @@
                                 {% assign newLangStr = '/' | append: language[0] | append: '/' %}
                                 {% assign langUrl = site.url|append: page.url|replace_first: oldLangStr, newLangStr %}
                         {% endif %}
-                        <li><a href="{{ langUrl }}" class="langlink{% if page.lang == language[0] %} active{% endif %}">{{ language[0] }}</a></li>
+                        <li style="display:none;"><a href="{{ langUrl }}" class="langlink{% if page.lang == language[0] %} active{% endif %}">{{ language[0] }}</a></li>
                     {% endfor %}
                 </ul>                
             </div>
