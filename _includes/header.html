@@ -8,7 +8,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="{{ site.url }}/{{ page.lang }}/"><img src="{{ site.url }}/images/denog_logo_outline_dark_small.jpg" alt=""></a>
+                <a class="navbar-brand" href="{{ site.url }}/"><img src="{{ site.url }}/images/denog_logo_outline_dark_small.jpg" alt=""></a>
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
@@ -19,21 +19,21 @@
                     <li class="dropdown">
                         {% assign mainClass = '' %}
                         {% for subentry in entry.childs %}
-                            {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
+                            {% capture targetUrl %}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
                             {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
                             {% if targetUrlTmp == currentUrl %}{% assign mainClass = ' active' %}{% endif %}
                         {% endfor %}
                         <a class="dropdown-toggle{{ mainClass }}" data-toggle="dropdown" role="button" aria-expanded="false">{{ entry.text }} <span class="ion-ios-arrow-down"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             {% for subentry in entry.childs %}
-                                {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
+                                {% capture targetUrl %}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
                                 {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
                                 <li><a href="{{ site.url }}{{ targetUrl }}" {% if targetUrlTmp == currentUrl %}class="active"{% endif %}>{{ subentry.text }}</a></li>
                             {% endfor %}
                         </ul>
                     </li>
                     {% else %}
-                        {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ entry.url }}{% endif %}{% endcapture %}
+                        {% capture targetUrl %}/{% if entry.url != 'index.html' %}{{ entry.url }}{% endif %}{% endcapture %}
                         {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
                         <li><a href="{{ site.url }}{{ targetUrl }}" {% if targetUrl == currentUrl or targetUrlTmp == currentUrl %}class="active"{% endif %}>{{ entry.text }}</a></li>
                     {% endif %}
