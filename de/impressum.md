@@ -34,7 +34,7 @@ eco Service GmbH\\
 Lichtstrasse 43i\\
 50825 Köln\\
 Germany\\
-E-mail: info@eco.de\\
+E-mail: <a href="mailto:meeting-orga@lists.denog.de">DENOG-Meeting Organisationskomittee</a>\\
 Tel.: +49 221 7000 48 0
 
 Company registration / Handelsregister Köln: HRB 52579\\
