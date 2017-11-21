@@ -30,33 +30,21 @@ ref: index
                 <a href="informationen.html" class="btn btn-custom-default pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 <div class="clearfix"></div>
             </div>
-            <div class="row">
-                <div class="col-sm-4">
-                    <div class="mainpagepaddedbox">
-                        <div>
-                            <h4>Agenda final</h4>
-                            <p>Die Agenda für das DENOG9 ist jetzt final.</p>
-                            <a href="meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
-                        </div>
-                    </div>
+            <div class="newsblockwrapper">
+                <div class="newsblock">
+                    <h4>Agenda final</h4>
+                    <p>Die Agenda für das DENOG9 ist jetzt final.</p>
+                    <a href="meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 </div>
-                <div class="col-sm-4">
-                    <div class="mainpagepaddedbox">
-                        <div>
-                            <h4>Vereinsgründung</h4>
-                            <p>Die Versammlung zur Gründung des DENOG-Vereins findet im Rahmen des DENOG9 statt. Der Zugang zur Versammlung ist für alle Interessierten frei.</p>
-                            <a href="meetings/denog8/agenda.html" class="btn btn-custom-default mainpageboxlink pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
-                        </div>
-                    </div>
+                <div class="newsblock">
+                    <h4>Vereinsgründung</h4>
+                    <p>Die Versammlung zur Gründung des DENOG-Vereins findet im Rahmen des DENOG9 statt. Der Zugang zur Versammlung ist für alle Interessierten frei.</p>
+                    <a href="meetings/denog8/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 </div>
-                <div class="col-sm-4">
-                    <div class="mainpagepaddedbox">
-                        <div>
-                            <h4>Gewinnen mit den Sponsoren der DENOG9</h4>
-                            <p>Dieses Jahr gibt es gleich zwei Verlosungen mit vielen tollen Preisen. Sowohl Megaport als auch Thomas Krenn haben hochwertige Preise gestiftet. Meldet Euch gleich an.</p>
-                            <a href="http://www.denog.de/meetings/denog9/registration.php" class="btn btn-custom-default mainpageboxlink pull-right" target="new">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
-                        </div>
-                    </div>
+                <div class="newsblock">
+                    <h4>Gewinnen mit den Sponsoren der DENOG9</h4>
+                    <p>Dieses Jahr gibt es gleich zwei Verlosungen mit vielen tollen Preisen. Sowohl Megaport als auch Thomas Krenn haben hochwertige Preise gestiftet. Meldet Euch gleich an.</p>
+                    <a href="http://www.denog.de/meetings/denog9/registration.php" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>
         </div>
