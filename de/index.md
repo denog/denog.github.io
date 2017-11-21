@@ -13,7 +13,7 @@ ref: index
                         </div>
                         <div class="col-sm-6">
                             <h2 class="mainpageboxheadline">Donnerstag 23. und Freitag 24. November 2017, Darmstadt</h2>
-                            <p><a href="{{ site.url }}/anmeldung.html" class="btn btn-custom-default">Anmeldung <i class="ion-arrow-right-c"></i></a></p>                    
+                            <p><a href="{{ site.url }}/{{ page.lang }}/anmeldung.html" class="btn btn-custom-default">Anmeldung <i class="ion-arrow-right-c"></i></a></p>                    
                         </div>
                     </div>
                 </div>
