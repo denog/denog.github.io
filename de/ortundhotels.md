@@ -7,7 +7,7 @@ title: DENOG8 - VERANSTALTUNGSORT & HOTELS
 
 ## Ort
 
-Das 8. DENOG-Meeting findet im darmstadtium statt:
+Das 9. DENOG-Meeting findet im darmstadtium statt:
 
 darmstadtium\\
 Schloßgraben 1\\
