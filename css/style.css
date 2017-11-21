@@ -11,8 +11,8 @@ header{min-height:70px;}
 .navbar .dropdown-menu{border-top:1px solid #f1f1f1;}
 .navbar-toggle{margin-top:18px;}
 
-.btn-custom-default{color:#000000;background:#f9cd00;border-radius:0px;}
-.btn-custom-default:hover, .btn-custom-default:focus{color:#000000;background:#f9cd00;}
+.btn-custom-default{color:#000000;background:#ffffff;border:1px solid #f9cd00;border-radius:0px;}
+.btn-custom-default:hover, .btn-custom-default:focus{color:#000000;background:#ffffff;border:1px solid #f9cd00;}
 
 #page{min-height:600px;}
 .page-section{padding-top:0px;}
@@ -26,7 +26,7 @@ h3{margin-top:20px;font-size:18px;text-transform:uppercase;}
 .pagecontentblock .thumbnail .caption{padding:0px}
 .pagecontentblock .thumbnail .caption h3{margin:2px 0px 4px 0px;}
 
-hr.verticaldivider{margin:40px 0px 0px 0px;border-top:95px solid #f9cd00;}
+hr.verticaldivider{margin:40px 0px 0px 0px;border-top:2px solid #f9cd00;}
 
 #footertopbadge{min-height:95px;line-height:95px;}
 #footertopbadge #footertopbadgetext{font-size:20px;text-transform:uppercase;}
