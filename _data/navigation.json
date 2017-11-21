@@ -9,10 +9,10 @@
 				{"url": "mailingliste.html", "text": "Mailingliste"},
 				{"url": "chatterliste.html", "text": "Chatterliste"}
 			]},
-			{"url": "#", "text": "DENOG8 Meeting", "childs": [
-				{"url": "meetings/denog8/denog8.html", "text": "Übersicht"},
+			{"url": "#", "text": "DENOG9 Meeting", "childs": [
+				{"url": "meetings/denog9/denog9.html", "text": "Übersicht"},
 				{"url": "anmeldung.html", "text": "Anmeldung"},
-				{"url": "meetings/denog8/agenda.html", "text": "Agenda"},
+				{"url": "meetings/denog9/agenda.html", "text": "Agenda"},
 				{"url": "ortundhotels.html", "text": "Veranstaltungsort & Hotels"},
 				{"url": "teilnehmer.html", "text": "Teilnehmer"},
 				{"url": "sponsoren.html", "text": "Hosts & Sponsoren"},
