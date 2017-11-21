@@ -7,7 +7,7 @@ title: WILLKOMMEN BEI DENOG9
 
 ## Live Stream
 
-DENOG9 hat begonnen. Du kannst nicht dabei sein? Dann haben wir dank des [großartigen C3VOC](https://c3voc.de/){:target="_blank"} einen [Live Stream](https://streaming.media.ccc.de/denog17/q2/#schedule){:target="_blank"} für euch.
+DENOG9 hat begonnen.
 
 ## Agenda komplett
 
