@@ -19,9 +19,9 @@ Schloßgraben 1\\
 
 Die [Anreisebeschreibung des Darmstadtium](http://www.darmstadtium.de/index.cfm/content/index.cfm/content/anreise/pa_li_id/347/sp_id/2/){:target="_blank"} ist so vollständig, dass wir nichts mehr hinzuzufügen haben.
 
-### Social am Mittwoch Abend
+### Social am Donnerstag Abend
 
-Das Social am Mittwoch Abend wird im [Corroboree Darmstadt](http://corroboree.info/de/darmstadt-cafe-restaurant-bar/){:target="_blank"} stattfinden:
+Das Social am Donnerstag Abend wird im [Corroboree Darmstadt](http://corroboree.info/de/darmstadt-cafe-restaurant-bar/){:target="_blank"} stattfinden:
 
 **Corroboree\\
 Kasinostr. 4 – 6\\
