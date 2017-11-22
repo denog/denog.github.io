@@ -1,7 +1,10 @@
 ---
-lang: de 
-ref: agenda8
-title: WILLKOMMEN BEI DENOG8
+layout: page
+lang: de
+title: DENOG6
+year: 2016
+city: Darmstadt
+breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 ![](/images/meeting-8.jpg){:class="img-responsive"}
 
