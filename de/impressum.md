@@ -11,7 +11,7 @@ Mornewegstraße 26-32\\
 Telefon: +49 6151 16 - 0\\
 E-Mail: denog@fsck.info\\
 
-If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at denog@lists.de-cix.net.
+If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at meeting-orga@lists.denog.de.
 
 The DENOG meeting is hosted by DE-CIX.\\
 The DENOG meeting organizer on behalf of DENOG is: 
