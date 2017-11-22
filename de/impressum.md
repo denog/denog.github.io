@@ -3,13 +3,11 @@ lang: de
 ref: impressum
 title: Impressum
 ---
-Marcus Stögbauer\\
-c/o man-da.de GmbH\\
-Mornewegstraße 26-32\\
-64293 Darmstadt
+Theo Voss \\
+Ferdinandstr. 23a \\
+12209 Berlin 
 
-Telefon: +49 6151 16 - 0\\
-E-Mail: denog@fsck.info\\
+E-Mail: mail@theo-voss.de \\
 
 If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at meeting-orga@lists.denog.de.
 
