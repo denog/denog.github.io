@@ -10,12 +10,10 @@ Die Organisatoren des Meetings können per E-Mail unter [denog9@meeting.denog.de
 |-
 | Carolin Geib | Logistik/Host |
 | Richard Hartmann | Koordination |
-| Jens Hoffmann |	Steering |
 | Kerstin Mende-Stief |	Sponsoring |
 | Christoph Neukirch | Kommunikation |
 | Arnold Nipper |	Steering |
 | Sascha E. Pollok | Koordination |
-| Marcus Stögbauer | Koordination |
 | Stefan Wahl |	Steering |
 
 Das Programm-Komitee sorgt für die Anwerbung und Auswahl der Präsentationen für das Meeting und kann per E-Mail unter [pc@meeting.denog.de](mailto:pc@meeting.denog.de) kontaktiert werden.
@@ -29,5 +27,4 @@ Das Programm-Komitee sorgt für die Anwerbung und Auswahl der Präsentationen f�
 | Thomas Jessen |	
 | Sascha Lenz |	
 | Sascha Pollok |
-| Marcus Stögbauer |	
 | Wolfgang Tremmel |
