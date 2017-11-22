@@ -10,7 +10,6 @@ Mornewegstraße 26-32\\
 
 Telefon: +49 6151 16 - 0\\
 E-Mail: denog@fsck.info\\
-Web-Entwicklung von: <http://www.webchef.de>
 
 If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at denog@lists.de-cix.net.
 
