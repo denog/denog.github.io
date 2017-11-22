@@ -10,6 +10,7 @@ Die Organisatoren des Meetings können per E-Mail unter [denog9@meeting.denog.de
 |-
 | Carolin Geib | Logistik/Host |
 | Richard Hartmann | Koordination |
+| Stefan Jakob | Koordination |
 | Kerstin Mende-Stief |	Sponsoring |
 | Christoph Neukirch | Kommunikation |
 | Arnold Nipper |	Steering |
@@ -24,6 +25,7 @@ Das Programm-Komitee sorgt für die Anwerbung und Auswahl der Präsentationen f�
 | Moritz Frenzel | Leitung |
 | Wolfgang Stief | Leitung |
 | Richard Hartmann |	
+| Stefan Jakob |
 | Thomas Jessen |	
 | Sascha Lenz |	
 | Sascha Pollok |
