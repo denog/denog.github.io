@@ -7,7 +7,7 @@ Theo Voss \\
 Ferdinandstr. 23a \\
 12209 Berlin 
 
-E-Mail: mail@theo-voss.de \\
+E-Mail: mail@theo-voss.de
 
 If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at meeting-orga@lists.denog.de.
 
