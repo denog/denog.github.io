@@ -2,4 +2,4 @@
 lang: de
 ref: mailingliste
 ---
-mailingliste de 
+<iframe src="http://lists.denog.de/mailman/listinfo"></iframe>
