@@ -3,8 +3,5 @@ lang: de
 ref: kontakt
 title: Kontakt
 ---
-Theo Voss \\
-Ferdinandstr. 23a \\
-12209 Berlin 
-
-E-Mail: mail@theo-voss.de
+DENOG Organisationskomittee
+<a href="mailto:meeting-orga@lists.de-nog.de">Email</a> 
