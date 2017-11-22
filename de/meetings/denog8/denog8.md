@@ -1,7 +1,7 @@
 ---
 layout: page
 lang: de
-title: DENOG6
+title: DENOG8
 year: 2016
 city: Darmstadt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
