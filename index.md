@@ -65,5 +65,6 @@ ref: index
         '{{ site.url }}/images/sponsoren2017/nokia.jpg',
         '{{ site.url }}/images/sponsoren2017/syseleven.jpg',
         '{{ site.url }}/images/sponsoren2017/thomas-krenn.jpg',
+        '{{ site.url }}/images/sponsoren2017/globalways.jpg',        
     ];
 </script>
