@@ -16,6 +16,7 @@ Weitere Informationen zum Veranstaltungsort und dem Social am Mittwoch Abend fin
 
 Wir freuen uns, zum achten DENOG-Meeting in Darmstadt einladen zu können. Das Meeting findet vom 23. bis 24. November 2017 im [darmstadtium in Darmstadt](http://www.darmstadtium.de/){:target="_blank"} statt.
 
+<hr class="verticaldivider" />
 <div class="mainpagepaddedbox">
     <h3>Sponsoren</h3>
     <div id="sponsorslider" data-images="4"></div>
