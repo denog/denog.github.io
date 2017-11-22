@@ -46,4 +46,21 @@ Schloßgraben 1<br />
 <p>Das Anmeldeformular ist ein iframe, dessen Informationen über HTTPS zu XING Events übertragen werden.</p>
 <script type="text/javascript" src="https://XKCYCON-modules.xing-events.com/resources/js/amiandoExport.js"></script>
 <iframe src="https://XKCYCON-modules.xing-events.com/XKCYCON.html?viewType=iframe& distributionChannel=CHANNEL_IFRAME&useDefaults=false&resizeIFrame=true" frameborder="0" width="100%" height="650px" id="_amiandoIFrame3007885"><p>Diese Seite benötigt die Unterstützung von Frames durch Ihren Browser. Bitte nutzen Sie einen Browser, der die Darstellung von Frames unterstützt, damit das Ticketvorverkaufs-Modul angezeigt werden kann.</p><p>Probieren Sie die XING Events <a href="https://www.xing-events.com">online Registrierung</a> noch heute aus.</p></iframe><p style="text-align: left; font-size:10px;"><a href="https://www.xing-events.com?viralRefId=XKCYCON&utm_campaign=ev-XKCYC ON&utm_medium=viral&utm_source=EventWebsite&utm_content=TextLinkBottom&utm _term=text-link" target="_blank" alt="Konferenz - Online Event Management" title="Konferenz - Online Event Management" >Konferenz - Online Event Management</a> mit der Ticketing-Lösung von XING Events</p>
-	
+
+<div class="mainpagepaddedbox">
+    <h3>Sponsoren</h3>
+    <div id="sponsorslider" data-images="4"></div>
+</div>
+<script type="text/javascript">
+    var sliderImageItems = [
+        '{{ site.url }}/images/sponsoren2017/11xantaro.jpg',
+        '{{ site.url }}/images/sponsoren2017/12juniper.jpg',
+        '{{ site.url }}/images/sponsoren2017/21megaport.jpg',
+        '{{ site.url }}/images/sponsoren2017/22ecix.jpg',
+        '{{ site.url }}/images/sponsoren2017/anexia.jpg',
+        '{{ site.url }}/images/sponsoren2017/nokia.jpg',
+        '{{ site.url }}/images/sponsoren2017/syseleven.jpg',
+        '{{ site.url }}/images/sponsoren2017/thomas-krenn.jpg',
+        '{{ site.url }}/images/sponsoren2017/globalways.jpg',        
+    ];
+</script>
