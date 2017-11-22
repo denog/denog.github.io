@@ -23,19 +23,19 @@ ref: index
             <div class="mainpagepaddedbox">
                 <h3>Über Denog</h3>
                 <p>DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. Im Rahmen dieses technischen Forums treffen sich Menschen, die mit, für oder am Internet arbeiten und netzwerkspezifische Themen mit gleichgesinnten diskutieren, um sie dadurch einfacher lösen zu können.</p>
-                <a href="informationen.html" class="btn btn-custom-default pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                <a href="{{ site.url }}/{{ page.lang }}/informationen.html" class="btn btn-custom-default pull-right">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 <div class="clearfix"></div>
             </div>
             <div class="newsblockwrapper">
                 <div class="newsblock">
                     <h4>Agenda final</h4>
                     <p>Die Agenda für das DENOG9 ist jetzt final.</p>
-                    <a href="meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>Vereinsgründung</h4>
                     <p>Die Versammlung zur Gründung des DENOG-Vereins findet im Rahmen des DENOG9 statt. Der Zugang zur Versammlung ist für alle Interessierten frei.</p>
-                    <a href="meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog9/agenda.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Mehr erfahren <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>Gewinnen mit den Sponsoren der DENOG9</h4>
