@@ -14,7 +14,7 @@ title: DENOG9 - VORLÄUFIGE AGENDA
         <tr><td><strong>13:15-13:45</strong></td><td><a href="#peeringdb">Peering DB Update</a></td><td>Arnold Nipper</td></tr>
         <tr><td><strong>13:45-14:15</strong></td><td><a href="#alien">200G over Alien Wavelength</a></td><td>Moritz Frenzel / Marc Helmus</td></tr>
         <tr><td><strong>14:15-14:45</strong></td><td><a href="#ipmi">Secure your server's IPMI remote management</a></td><td>Werner Fischer</td></tr>
-        <tr><td><strong>14:45-15:15</strong></td><td><a href="#iphijack">IP Hijack Attacks: Challenges in Detection</a></td><td>Yuval Shavitt</td></tr>
+        <tr><td><strong>14:45-15:15</strong></td><td>IP Quo vadis Prometheus?</td><td>Richard Hartmann</td></tr>
         <tr><td><strong>15:15-16:00</strong></td><td>Kaffeepause</td><td></td></tr>
         <tr><td><strong>16:00-16:45</strong></td><td><a href="#lt">Lightning Talks</a></td><td></td></tr>
         <tr><td><strong>16:45-17:00</strong></td><td>DENOG Vereinsgr&uuml;ndung (Ank&uuml;ndigung)</td><td>DENOG</td></tr>
@@ -35,9 +35,9 @@ title: DENOG9 - VORLÄUFIGE AGENDA
         <tr><td><strong>10:00-10:30</strong></td><td><a href="#juniper">Automating Juniper Devices with Ansible</a></td><td>Rudolph Bott</td></tr>
         <tr><td><strong>10:30-11:00</strong></td><td>DENOG Vereinsgr&uuml;ndung (Gr&uuml;ndungsversammlung)</td><td>DENOG</td></tr>
         <tr><td><strong>11:00-11:45</strong></td><td>Kaffeepause</td><td></td></tr>
-        <tr><td><strong>11:45-12:15</strong></td><td><a href="#alicelg">Alice-LG Looking glass</a></td><td>Stefan Plug</td></tr>
+        <tr><td><strong>11:45-12:15</strong></td><td><a href="#alicelg">Alice-LG Looking glass</a></td><td>Stefan Plug / Matthias Hanning</td></tr>
         <tr><td><strong>12:15-12:45</strong></td><td><a href="#routers">Routing Software vs. Hardware Routers</a></td><td>Oliver Knapp</td></tr>
-        <tr><td><strong>12:45-13:00</strong></td><td>Abschluss</td><td>DENOG Orga</td></tr>
+        <tr><td><strong>12:45-13:00</strong></td><td>Abschluss</td><td>denog e. V.</td></tr>
         <tr><td><strong>13:00</strong></td><td>Farewell Lunch</td><td></td></tr>
     </tbody>
 </table>
@@ -73,14 +73,6 @@ Two factors, however, have prompted security experts to devote themselves closer
 In the previous years, security analyzes published in this context revealed major flaws and the IPMI firmware images did not show a good testimony. For administrators reason enough, not to operate IPMI interfaces publicly on the Internet - so one should actually mean. Network scans carried out on a large scale showed that hundreds of thousands of servers can be accessed publicly via the Internet via IPMI.<br>
 
 The lack of awareness about existing risks and non-existent knowledge about safe configuration are often the reasons why IPMI interfaces are publicly operated on the Internet. In this talk Werner Fischer will show you can secure your own server's IPMI configuration and how you can detect suspicious traffic in your networks."<br>
-<a href="#top">back to top</a>
-
-<p>&nbsp;</p>
-<strong><a name="iphijack">IP Hijack Attacks: Challenges in Detection</a></strong><br>
-<em>Yuval Shavitt, BGProtect Ltd. and Tel Aviv University</em><br>
-IP Hijack is an emerging technology that enables sophisticated attackers to perform man-in-the-middle attacks against a network in order to penetrate it, and spy on outgoing or incoming traffic. The IP hijack attack can be done using DNS, BGP, or data plane attacks.  The ability to identify these attacks as they occur (in near real time) is crucial to the ability to mitigate their damage and activate protection measures.<br>
-
-In this talk I will explain the attacks and the difficulties in exposing them.  I will give examples of real attacks as much as time permits.<br>
 <a href="#top">back to top</a>
 
 <p>&nbsp;</p>
@@ -180,19 +172,23 @@ Software routing based on standard x86 server hardware has become a viable alter
 
 <br><br>
 <strong>Status Quo IPv6 Sub-assignment Clarification (RIPE address policy proposal 2016-04)</strong><br>
-<em>Maximilian Wilhelm, Zentrum für Informations- und Medientechnologien (IMT) Universität Paderborn</em>
+<em>Maximilian Wilhelm, Freifunk Hochstift / Freifunk Rheinland</em>
 
 <br><br>
 <strong>Avoid blackholing: Selective Next-Hop Resolution</strong><br>
 <em>Oliver Herms, EXARING AG</em>
 
 <br><br>
-<strong>We take care about data quality</strong><br>
-<em>Jan Stumpf, DE-CIX Management GmbH</em>
+<strong>Environmental Monitoring</strong><br>
+<em>Wolfgang Tremmel, DE-CIX Academy</em>
 
 <br><br>
 <strong>Verify it!</strong><br>
 <em>André Niemann, becon GmbH</em>
+
+<br><br>
+<strong>Long Term Storage with Prometheus</strong><br>
+<em>Richard Hartmann, SpaceNet GmbH</em>
 
 <br><br>
 <a href="#top">back to top</a>
