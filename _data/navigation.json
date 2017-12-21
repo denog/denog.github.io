@@ -7,8 +7,7 @@
 				{"url": "charta.html", "text": "Charta"},
 				{"url": "informationen.html#irc-channel", "text": "IRC"},
 				{"url": "mailingliste.html", "text": "Mailingliste"},
-				{"url": "chatterliste.html", "text": "Chatterliste"},
-				{"url": "http://wiki.denog.de/", "text": "Wiki"}
+				{"url": "chatterliste.html", "text": "Chatterliste"}
 			]},
 			{"url": "#", "text": "DENOG9 Meeting", "childs": [
 				{"url": "meetings/denog9/denog9.html", "text": "Übersicht"},
