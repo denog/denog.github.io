@@ -13,7 +13,8 @@ ref: index
                         </div>
                         <div class="col-sm-6">
                             <h2 class="mainpageboxheadline">DENOG ist jetzt DENOG e.V. i.G.</h2>
-                            <p><a href="https://drive.google.com/file/d/1meWndZlf2UiiVQk0gkPUlFDmzTPBjeLs/view?usp=drive_openl" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a></p>                    
+                            <p><a href="https://drive.google.com/file/d/1meWndZlf2UiiVQk0gkPUlFDmzTPBjeLs/view?usp=drive_openl" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a></p>
+                              <p><a href="/images/verein/20171124-DENOG_Beitragsordnung.pdf" class="btn btn-custom-default">Zur Beitragsordnung <i class="ion-arrow-right-c"></i></a> ;&nbsp <a href="/images/verein/20171124-DENOG_Satzung.pdf" class="btn btn-custom-default">Zur Satzung <i class="ion-arrow-right-c"></i></a></p>                     
                         </div>
                     </div>
                 </div>
