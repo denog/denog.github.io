@@ -7,7 +7,7 @@
 				{"url": "charta.html", "text": "Charta"},
 				{"url": "informationen.html#irc-channel", "text": "IRC"},
 				{"url": "mailingliste.html", "text": "Mailingliste"},
-				{"url": "chatterliste.html", "text": "Chatterliste"}
+				{"url": "http://old.denog.de/info/chatlist-raw.php", "text": "Chatterliste"}
 			]},
 			{"url": "#", "text": "DENOG9 Meeting", "childs": [
 				{"url": "meetings/denog9/denog9.html", "text": "Übersicht"},
@@ -33,7 +33,7 @@
 				{"url": "charta.html", "text": "Charta"},
 				{"url": "informationen.html#irc-channel", "text": "IRC"},
 				{"url": "mailingliste.html", "text": "Mailinglist"},
-				{"url": "chatterliste.html", "text": "Chatterlist"}
+				{"url": "http://old.denog.de/info/chatlist-raw.php", "text": "Chatterlist"}
 			]},
 			{"url": "#", "text": "DENOG8 Meeting", "childs": [
 				{"url": "meetings/denog8/denog8.html", "text": "Overview"},
