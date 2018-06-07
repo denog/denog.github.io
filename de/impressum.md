@@ -8,6 +8,6 @@ c/o Patrick Bußmann \\
 Bernhardstr. 39 \\
 80995 München 
 
-E-Mail: vorstand@denog.de
+E-Mail: <a href="mailto:vorstand@nog.de">vorstand@denog.de</a>
 
 If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at <a href="mailto:vorstand@nog.de">vorstand@denog.de</a>
