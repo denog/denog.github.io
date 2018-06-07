@@ -3,5 +3,5 @@ lang: de
 ref: kontakt
 title: Kontakt
 ---
-DENOG Organisationskomittee
-<a href="mailto:meeting-orga@lists.denog.de">Email</a> 
+DENOG e.V. Vorstand
+<a href="mailto:vorstand@nog.de">Email</a> 
