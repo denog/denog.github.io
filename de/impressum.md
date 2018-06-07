@@ -10,4 +10,4 @@ Bernhardstr. 39 \\
 
 E-Mail: vorstand@denog.de
 
-If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at vorstand@denog.de
+If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at <a href="mailto:vorstand@nog.de">vorstand@denog.de</a>
