@@ -1,5 +1,5 @@
 ---
-lang: de 
+lang: de
 ref: impressum
 title: Impressum
 ---
@@ -8,6 +8,4 @@ c/o Patrick Bußmann \\
 Bernhardstr. 39 \\
 80995 München 
 
-E-Mail: <a href="mailto:vorstand@nog.de">vorstand@denog.de</a>
-
-If you have any questions or comments about the DENOG meeting, sponsorship, etc you can reach us via email at <a href="mailto:vorstand@nog.de">vorstand@denog.de</a>
+E-Mail: <a href="mailto:denog-vorstand@lists.shackspace.de">denog-vorstand@lists.shackspace.de</a>
