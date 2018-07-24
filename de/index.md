@@ -38,8 +38,8 @@ ref: index
                     <a href="https://goo.gl/forms/EPqL2TEIt0q5k5Qv1" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Formular<i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG10 schon in Planung</h4>
-                    <p>Auch 2018 wird es wieder eine DENOG-Konferenz geben. Bald erfahrt Ihr mehr.</p>
+                    <h4>DENOG10</h4>
+                    <p>DENOG10 findet am 21. & 22.11. in Mannheim statt!</p>
                     <!-- a href="https://drive.google.com/file/d/1meWndZlf2UiiVQk0gkPUlFDmzTPBjeLs/view?usp=drive_openl" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mtglied werden<i class="ion-arrow-right-c"></i></a -->
                 </div>
             </div>
