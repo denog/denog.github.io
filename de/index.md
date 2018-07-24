@@ -49,22 +49,9 @@ ref: index
         </div>
         <div class="container">
             <div class="mainpagepaddedbox">
-                <h3>Sponsoren DENOG9</h3>
+                <h3>Sponsoren DENOG10</h3>
                 <div id="sponsorslider" data-images="4"></div>
             </div>
         </div>
     </div>
 </div>
-<script type="text/javascript">
-    var sliderImageItems = [
-        '{{ site.url }}/images/sponsoren2017/11xantaro.jpg',
-        '{{ site.url }}/images/sponsoren2017/12juniper.jpg',
-        '{{ site.url }}/images/sponsoren2017/21megaport.jpg',
-        '{{ site.url }}/images/sponsoren2017/22ecix.jpg',
-        '{{ site.url }}/images/sponsoren2017/anexia.jpg',
-        '{{ site.url }}/images/sponsoren2017/nokia.jpg',
-        '{{ site.url }}/images/sponsoren2017/syseleven.jpg',
-        '{{ site.url }}/images/sponsoren2017/thomas-krenn.jpg',
-        '{{ site.url }}/images/sponsoren2017/globalways.jpg',        
-    ];
-</script>
