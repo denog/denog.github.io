@@ -7,11 +7,9 @@ title: Impressum
 <p>DENOG e. V.<br />
 Bernhardstr. 39<br />80995 München</p>
 <p>Telefon: -<br />
-E-Mail: <a href="mailto:denog-vorstand@lists.shackspace.de">denog-vorstand@lists.shackspace.de</a><br />
+E-Mail: <a href="mailto:vorstand@denog.de">vorstand@denog.de</a><br />
 </p>
-<p><strong>Vertreten durch:</strong><br />Patrick Bußmann</p><p><strong>Registereintrag:</strong><br />Eingetragen im Vereinsregister.<br />Registergericht: Amtsgericht Frankfurt am Main<br />Registernummer: VR 16234</p><p><strong>Umsatzsteuer-ID: </strong><br />Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz:<br />wird noch bekannt gegeben</p><br />
-Unsere E-Mail lautet: <a href="mailto:denog-vorstand@lists.shackspace.de">denog-vorstand@lists.shackspace.de</a></p><br /><br />
-
+<p><strong>Vertreten durch:</strong><br />Patrick Bußmann, Florian Hibler, Arnold Nipper</p><p><strong>Registereintrag:</strong><br />Eingetragen im Vereinsregister.<br />Registergericht: Amtsgericht Frankfurt am Main<br />Registernummer: VR 16234</p><p><strong>Umsatzsteuer-ID: </strong><br />Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz:<br />wird noch bekannt gegeben</p>
 <h2>Disclaimer – rechtliche Hinweise</h2>
 § 1 Warnhinweis zu Inhalten<br />
 Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Der Anbieter dieser Webseite übernimmt jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Allein durch den Aufruf der kostenlosen und frei zugänglichen Inhalte kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande, insoweit fehlt es am Rechtsbindungswillen des Anbieters.<br />
@@ -302,4 +300,3 @@ Vor einer Bereitstellung personenbezogener Daten durch den Betroffenen muss sich
 <p>Als verantwortungsbewusstes Unternehmen verzichten wir auf eine automatische Entscheidungsfindung oder ein Profiling.</p>
 
 <p>Diese Muster Datenschutzerklärung wurde durch den <a href="https://dg-datenschutz.de/muster-datenschutzerklarung/">DSGVO Datenschutzerklärungs Generator</a> der Deutschen Gesellschaft für Datenschutz, in Kooperation mit der Kanzlei für <b><a href="https://www.wbs-law.de/taetigkeitsgebiete/medienrecht/">Medienrecht</a> WILDE BEUGER SOLMECKE | Rechtsanwälte erstellt.
-</p>

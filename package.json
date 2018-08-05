@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrauStief/denog.github.io.git"
+    "url": "git+https://github.com/denog/denog.github.io.git"
   },
   "author": "Arne Gockeln",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FrauStief/denog.github.io/issues"
+    "url": "https://github.com/denog/denog.github.io/issues"
   },
-  "homepage": "https://github.com/FrauStief/denog.github.io#readme"
+  "homepage": "https://github.com/denog/denog.github.io#readme"
 }

@@ -1,6 +1,7 @@
 ---
 lang: de
 ref: index
+redirect_from: "/"
 ---
 <div id="mainpage">
     <div class="pagecontentblock">
@@ -9,11 +10,12 @@ ref: index
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                            <img src="{{ site.url }}/images/denog_logo_konferenz_outline_large.jpg" id="mainpagelogo" />
+                            <img src="{{ site.url }}/images/denog_Vorstand.jpg" id="mainpagelogo" />
                         </div>
                         <div class="col-sm-6">
-                        <h2 class="mainpageboxheadline">DENOG ist jetzt DENOG e.V. i.G.</h2>
-                        <p><a href="https://drive.google.com/file/d/1meWndZlf2UiiVQk0gkPUlFDmzTPBjeLs/view?usp=drive_openl" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a></p>                    
+                        <h2 class="mainpageboxheadline">DENOG ist jetzt DENOG e.V.</h2>
+                        <p><a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v17_SEPA_20180613.pdf" class="btn btn-custom-default">Vollwertiges Mitglied werden <i class="ion-arrow-right-c"></i></a><a href="/files/verein/DENOG_Antrag_Foerdermitgliedschaft_v17_20180613.pdf" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a><br /> <br />
+                        <a href="/files/verein/20171124-DENOG_Beitragsordnung.pdf" class="btn btn-custom-default">Zur Beitragsordnung <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/20171124-DENOG_Satzung.pdf" class="btn btn-custom-default">Zur Satzung <i class="ion-arrow-right-c"></i></a></p>
                         </div>
                     </div>
                 </div>
@@ -28,22 +30,23 @@ ref: index
             </div>
             <div class="newsblockwrapper">
                 <div class="newsblock">
+                    <h4>DENOG10</h4>
+                    <p>DENOG10 findet am 21. & 22.11.2018 in Darmstadt statt!</p>
+                    <a href="https://pretix.eu/denog/denog10/" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Ticketverkauf <i class="ion-arrow-right-c"></i></a>
+                </div>
+                <div class="newsblock">
                     <h4>DENOG e.V. Gründung</h4>
                     <p>Auf der DENOG9 wurde mit 101 Interessierten die Gründung des DENOG e. V. beschlossen und ein Vorstand gewählt.</p>
-                      <a href="https://drive.google.com/file/d/1meWndZlf2UiiVQk0gkPUlFDmzTPBjeLs/view?usp=drive_openl" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mtglied werden<i class="ion-arrow-right-c"></i></a>
+                    <a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v17_SEPA_20180613.pdf" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mtglied werden <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>DENOG9 Feedback</h4>
-                    <p>Du warst am 23. und 24.11. in Darmstadt dabei? Wir freuen uns auf Dein Feedback!</p>
-                    <a href="https://goo.gl/forms/EPqL2TEIt0q5k5Qv1" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Formular<i class="ion-arrow-right-c"></i></a>
-                </div>
-                <div class="newsblock">
-                    <h4>DENOG10</h4>
-                    <p>DENOG10 findet am 21. & 22.11. in Mannheim statt!</p>
-                    <!-- a href="https://drive.google.com/file/d/1meWndZlf2UiiVQk0gkPUlFDmzTPBjeLs/view?usp=drive_openl" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mtglied werden<i class="ion-arrow-right-c"></i></a -->
+                    <p>Du warst am 23.11. und 24.11.2017 in Darmstadt dabei? Wir freuen uns auf Dein Feedback!</p>
+                    <a href="https://goo.gl/forms/EPqL2TEIt0q5k5Qv1" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Formular <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>
         </div>
+        <!--
         <div class="container">
             <hr class="verticaldivider" />
         </div>
@@ -53,5 +56,6 @@ ref: index
                 <div id="sponsorslider" data-images="4"></div>
             </div>
         </div>
+        -->
     </div>
 </div>
