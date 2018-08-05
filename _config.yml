@@ -3,7 +3,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 env: "production"
 
-exclude: ['_theme', package.json, Gemfile, Gemfile.lock, '.idea']
+exclude: ['_theme', package.json, Gemfile, Gemfile.lock, '.idea', '.travis.yml']
 
 plugins:
   - jekyll-redirect-from
