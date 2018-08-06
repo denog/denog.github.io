@@ -5,7 +5,7 @@ title: Impressum
 ---
 <h2>Impressum</h2>
 <p>DENOG e.V.<br />
-c/o Patrick Bussmann<br />
+p. Adr. Patrick Bussmann<br />
 Bernhardstr. 39<br />80995 München</p>
 <p>Telefon: -<br />
 E-Mail: <a href="mailto:vorstand@denog.de">vorstand@denog.de</a><br />
