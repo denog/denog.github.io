@@ -4,12 +4,13 @@ ref: impressum
 title: Impressum
 ---
 <h2>Impressum</h2>
-<p>DENOG e. V.<br />
+<p>DENOG e.V.<br />
+c/o Patrick Bussmann<br />
 Bernhardstr. 39<br />80995 München</p>
 <p>Telefon: -<br />
 E-Mail: <a href="mailto:vorstand@denog.de">vorstand@denog.de</a><br />
 </p>
-<p><strong>Vertreten durch:</strong><br />Patrick Bußmann, Florian Hibler, Arnold Nipper</p><p><strong>Registereintrag:</strong><br />Eingetragen im Vereinsregister.<br />Registergericht: Amtsgericht Frankfurt am Main<br />Registernummer: VR 16234</p><p><strong>Umsatzsteuer-ID: </strong><br />Umsatzsteuer-Identifikationsnummer nach §27a Umsatzsteuergesetz:<br />wird noch bekannt gegeben</p>
+<p><strong>Vertreten durch:</strong><br />Patrick Bußmann, Florian Hibler, Arnold Nipper</p><p><strong>Registereintrag:</strong><br />Registergericht: Amtsgericht Frankfurt am Main<br />Registernummer: VR 16234</p><p><strong>Steuernummer:</strong><br />045 255 26385</p>
 <h2>Disclaimer – rechtliche Hinweise</h2>
 § 1 Warnhinweis zu Inhalten<br />
 Die kostenlosen und frei zugänglichen Inhalte dieser Webseite wurden mit größtmöglicher Sorgfalt erstellt. Der Anbieter dieser Webseite übernimmt jedoch keine Gewähr für die Richtigkeit und Aktualität der bereitgestellten kostenlosen und frei zugänglichen journalistischen Ratgeber und Nachrichten. Namentlich gekennzeichnete Beiträge geben die Meinung des jeweiligen Autors und nicht immer die Meinung des Anbieters wieder. Allein durch den Aufruf der kostenlosen und frei zugänglichen Inhalte kommt keinerlei Vertragsverhältnis zwischen dem Nutzer und dem Anbieter zustande, insoweit fehlt es am Rechtsbindungswillen des Anbieters.<br />
