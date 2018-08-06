@@ -10,7 +10,7 @@ city: Darmstadt
 
 Dear all,
 
-it is my pleasure to hereby invite you to submit to DENOG10 here: https://cfp.denog.de/denog10/cfp
+it is my pleasure to hereby invite you to submit to DENOG10 here: <https://cfp.denog.de/denog10/cfp>{:target="_blank"}
 
 The tenth anniversary meeting of the German Network Operators Group (DENOG) will be held in Darmstadt, Germany, on the 21st and 22nd November 2018! We are pleased to hereby invite applications for presentations or lightning talks to be held at this event.
 
@@ -21,10 +21,10 @@ DENOG is a community for professionals within Germany who are operating, designi
 The meeting is designed to provide an opportunity for the exchange of information among network operators, engineers, researchers and other professionals close to the network community.
 
 More information about DENOG (in German) can be found at
-http://www.denog.de/
+<https://www.denog.de/>{:target="_blank"}
 
 Information about the meeting will be published at
-http://www.denog.de/meetings/
+<https://www.denog.de/meetings/denog10/denog10.html>{:target="_blank"}
 
 ## Topics for Presentations/Talks
 
@@ -62,7 +62,7 @@ We will collect all submissions until the deadline for submissions and will coll
 
 We also welcome suggestions for specific presentations which you feel would be valuable to the DENOG community.
 
-If you have any questions or requests concerning presentation submissions please send an email to <denog10@cfp.denog.de>{:target="_blank"}.
+If you have any questions or requests concerning presentation submissions please send an email to [denog10@cfp.denog.de](mailto:denog10@cfp.denog.de){:target="_blank"}.
 
 ## Who should submit
 DENOG10 is open for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
@@ -71,7 +71,7 @@ We judge your submissions solely upon the submission guidelines.
 DENOG10 also welcomes first time speakers.
 
 ## Questions
-Should you have any questions regarding the CfP or your submission do not hesitate to get in touch with us at <denog10@cfp.denog.de>{:target="_blank"}.
+Should you have any questions regarding the CfP or your submission do not hesitate to get in touch with us at [denog10@cfp.denog.de](mailto:denog10@cfp.denog.de){:target="_blank"}.
  Should you require a personal contact get in touch with the program committee chairs Wolfgang Stief (ws [at] sys4.de) and/or Moritz Frenzel (mf [at] dc1.com).
 
 With best regards
