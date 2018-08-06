@@ -37,7 +37,7 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>DENOG10 Call for Papers</h4>
                     <p>Der DENOG10 Call for Papers wurde gestartet. Wir freuen uns über rege Teilnahme und viele interessante Präsentationen.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/cfp.html">Zum Call for Papers <i class="ion-arrow-right-c"></i></a>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/cfp.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Zum Call for Papers <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>DENOG e.V. Gründung</h4>
