@@ -1,8 +1,6 @@
 _site
-.sass-cache
-.jekyll-metadata
 _theme
-.idea
-npm-debug.log
-Gemfile.lock
-images/.DS_Store
+.*
+**/.log
+Gemfile.*
+**/.DS_Store
