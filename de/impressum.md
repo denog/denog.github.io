@@ -78,13 +78,14 @@ Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorg
 <h4>2. Name und Anschrift des für die Verarbeitung Verantwortlichen</h4>
 <p>Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:</p>
 
-<p>DENOG e. V.</p>
-<p>Bernhardstr. 39</p>
-<p>80995 München</p>
-<p>Deutschland</p>
-<p>Tel.: -</p>
-<p>E-Mail: denog-vorstand@lists.shackspace.de</p>
-<p>Website: www.denog.de</p>
+<p>DENOG e.V.<br />
+p. Adr. Patrick Bussmann<br />
+Bernhardstr. 39<br />
+80995 München<br />
+Deutschland<br />
+Tel.: -<br />
+E-Mail: <a href="mailto:vorstand@denog.de">vorstand@denog.de</a><br />
+Website: <a href="https://www.denog.de">https://www.denog.de</a></p>
 
 <h4>3. Cookies</h4>
 <p>Die Internetseiten der DENOG e. V. verwenden Cookies. Cookies sind Textdateien, welche über einen Internetbrowser auf einem Computersystem abgelegt und gespeichert werden.</p>
