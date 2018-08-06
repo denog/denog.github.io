@@ -3,11 +3,12 @@ lang: de
 ref: denog10-ortundhotels
 title: DENOG10 - VERANSTALTUNGSORT & HOTELS
 ---
+
 21. & 22. November 2018 Darmstadt
 
 ## Ort
 
-Das 9. DENOG-Meeting findet im darmstadtium statt:
+Das 10. DENOG-Meeting findet im darmstadtium statt:
 
 darmstadtium\\
 Schloßgraben 1\\
