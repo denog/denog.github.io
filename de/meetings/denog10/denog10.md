@@ -8,18 +8,8 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 ![](/images/meeting-10.jpg){:class="img-responsive"}
 
-## Live Stream
-
-DENOG9 hat begonnen.
-
-## Agenda komplett
-
-Wir haben eine Agenda! Bitte [hier entlang, für das vollständige Programm]({{ site.url }}/meetings/denog9/agenda.html)
-Weitere Informationen zum Veranstaltungsort und dem Social am Donnerstag Abend finden sich unter [Veranstaltungsort & Hotels]({{ site.url }}/ortundhotels.html).
-
-
-2010-09-14 REGISTRATION OPEN
-Registrations for DENOG2 on the 4th of November are now open. We have an Early Bird rebate until beginning of October and the agenda will be finalized until end of September.
+## 2018-08-06 REGISTRATION OPEN
+Der Ticketverkauf für DENOG10 hat begonnen! [Tickets](https://pretix.eu/denog/denog10/){:target="_blank"}
 
 ## 2018-07-02 CALL FOR PAPERS
 Wir freuen uns den diesjährigen Call for Papers für die DENOG10 zu eröffnen: [Call for Papers]({{ site.url }}/meetings/denog10/cfp.html)
