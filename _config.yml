@@ -2,6 +2,7 @@ title: DENOG e.V.
 baseurl: "" # the subpath of your site, e.g. /blog
 markdown: kramdown
 env: "production"
+url: https://www.denog.de
 
 exclude: ['_theme', package.json, Gemfile, Gemfile.lock, '.idea', '.travis.yml']
 
