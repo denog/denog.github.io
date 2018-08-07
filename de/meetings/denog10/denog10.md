@@ -17,7 +17,6 @@ Wir freuen uns den diesjährigen Call for Papers für die DENOG10 zu eröffnen: 
 ## 2018-06-29 SAVE THE DATE
 Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das Meeting findet vom 21. bis 22. November 2018 im [darmstadtium in Darmstadt](http://www.darmstadtium.de/){:target="_blank"} statt.
 
-<!--
 <hr class="verticaldivider" />
 <div class="mainpagepaddedbox">
     <h3>Sponsoren</h3>
@@ -25,15 +24,6 @@ Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das 
 </div>
 <script type="text/javascript">
     var sliderImageItems = [
-        '{{ site.url }}/images/sponsoren2017/11xantaro.jpg',
-        '{{ site.url }}/images/sponsoren2017/12juniper.jpg',
-        '{{ site.url }}/images/sponsoren2017/21megaport.jpg',
-        '{{ site.url }}/images/sponsoren2017/22ecix.jpg',
-        '{{ site.url }}/images/sponsoren2017/anexia.jpg',
-        '{{ site.url }}/images/sponsoren2017/nokia.jpg',
-        '{{ site.url }}/images/sponsoren2017/syseleven.jpg',
-        '{{ site.url }}/images/sponsoren2017/thomas-krenn.jpg',
-        '{{ site.url }}/images/sponsoren2017/globalways.jpg',        
+        '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',     
     ];
 </script>
--->

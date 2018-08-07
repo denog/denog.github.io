@@ -46,7 +46,6 @@ redirect_from: "/"
                 </div>
             </div>
         </div>
-        <!--
         <div class="container">
             <hr class="verticaldivider" />
         </div>
@@ -55,7 +54,11 @@ redirect_from: "/"
                 <h3>Sponsoren DENOG10</h3>
                 <div id="sponsorslider" data-images="4"></div>
             </div>
+            <script type="text/javascript">
+            var sliderImageItems = [
+                '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',     
+               ];
+</script>
         </div>
-        -->
     </div>
 </div>
