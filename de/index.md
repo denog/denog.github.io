@@ -52,7 +52,7 @@ redirect_from: "/"
         <div class="container">
             <div class="mainpagepaddedbox">
                 <h3>Sponsoren DENOG10</h3>
-                <div id="sponsorslider" data-images="4"></div>
+                <div id="sponsorslider" data-images="1"></div>
             </div>
             <script type="text/javascript">
             var sliderImageItems = [
