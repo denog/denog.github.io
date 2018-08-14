@@ -20,7 +20,7 @@ Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das 
 <hr class="verticaldivider" />
 <div class="mainpagepaddedbox">
     <h3>Sponsoren</h3>
-    <div id="sponsorslider" data-images="1"></div>
+    <div id="sponsorslider" data-images="2"></div>
 </div>
 <script type="text/javascript">
     var sliderImageItems = [
