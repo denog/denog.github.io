@@ -20,11 +20,12 @@ Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das 
 <hr class="verticaldivider" />
 <div class="mainpagepaddedbox">
     <h3>Sponsoren</h3>
-    <div id="sponsorslider" data-images="2"></div>
+    <div id="sponsorslider" data-images="3"></div>
 </div>
 <script type="text/javascript">
     var sliderImageItems = [
         '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
         '{{ site.url }}/images/meetings/denog10/sponsor_dc1.jpg',
+        '{{ site.url }}/images/meetings/denog10/sponsor_gasline.png',
     ];
 </script>

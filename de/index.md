@@ -52,12 +52,13 @@ redirect_from: "/"
         <div class="container">
             <div class="mainpagepaddedbox">
                 <h3>Sponsoren DENOG10</h3>
-                <div id="sponsorslider" data-images="2"></div>
+                <div id="sponsorslider" data-images="3"></div>
             </div>
             <script type="text/javascript">
             var sliderImageItems = [
                 '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_dc1.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_gasline.png',
                ];
 </script>
         </div>
