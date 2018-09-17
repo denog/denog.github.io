@@ -30,6 +30,11 @@ redirect_from: "/"
             </div>
             <div class="newsblockwrapper">
                 <div class="newsblock">
+                    <h4>DENOG10 Talk Sneak Peak</h4>
+                    <p>Einen ersten Blick auf die Talks die euch auf der DENOG10 erwarten ist online!/p>
+                    <a href="https://cfp.denog.de/denog10/sneak" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Sneak Peak <i class="ion-arrow-right-c"></i></a>
+                </div>
+                <div class="newsblock">
                     <h4>DENOG10 Tickets</h4>
                     <p>DENOG10 findet am 21. & 22.11.2018 in Darmstadt statt!</p>
                     <a href="https://pretix.eu/denog/denog10/" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Ticketverkauf <i class="ion-arrow-right-c"></i></a>
