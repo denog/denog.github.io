@@ -31,7 +31,7 @@ redirect_from: "/"
             <div class="newsblockwrapper">
                 <div class="newsblock">
                     <h4>DENOG10 Talk Sneak Peak</h4>
-                    <p>Einen ersten Blick auf die Talks die euch auf der DENOG10 erwarten ist online!/p>
+                    <p>Einen ersten Blick auf die Talks die euch auf der DENOG10 erwarten ist online!</p>
                     <a href="https://cfp.denog.de/denog10/sneak" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Sneak Peak <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
