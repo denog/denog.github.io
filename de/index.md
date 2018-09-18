@@ -40,11 +40,6 @@ redirect_from: "/"
                     <a href="https://pretix.eu/denog/denog10/" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Ticketverkauf <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG10 Call for Papers</h4>
-                    <p>Der DENOG10 Call for Papers wurde gestartet. Wir freuen uns über rege Teilnahme und viele interessante Präsentationen.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/cfp.html" class="btn btn-custom-default mainpageboxlink newsblocklink">Zum Call for Papers <i class="ion-arrow-right-c"></i></a>
-                </div>
-                <div class="newsblock">
                     <h4>DENOG e.V. Gründung</h4>
                     <p>Auf der DENOG9 wurde mit 101 Interessierten die Gründung des DENOG e. V. beschlossen und ein Vorstand gewählt.</p>
                     <a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v17_SEPA_20180613.pdf" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mitglied werden <i class="ion-arrow-right-c"></i></a>
