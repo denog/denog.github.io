@@ -24,8 +24,13 @@ Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das 
 </div>
 <script type="text/javascript">
     var sliderImageItems = [
-        '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
-        '{{ site.url }}/images/meetings/denog10/sponsor_dc1.jpg',
-        '{{ site.url }}/images/meetings/denog10/sponsor_gasline.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_dc1.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_gasline.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_megaport.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_syseleven.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_thomaskrenn.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
     ];
 </script>

@@ -30,9 +30,9 @@ redirect_from: "/"
             </div>
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>DENOG10 Talk Sneak Peak</h4>
+                    <h4>DENOG10 Talk Sneak Peek</h4>
                     <p>Einen ersten Blick auf die Talks die euch auf der DENOG10 erwarten ist online!</p>
-                    <a href="https://cfp.denog.de/denog10/sneak" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Sneak Peak <i class="ion-arrow-right-c"></i></a>
+                    <a href="https://cfp.denog.de/denog10/sneak" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Sneak Peek <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>DENOG10 Tickets</h4>
@@ -59,6 +59,11 @@ redirect_from: "/"
                 '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_dc1.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_gasline.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_megaport.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_syseleven.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_thomaskrenn.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
                ];
 </script>
         </div>
