@@ -14,7 +14,7 @@ redirect_from: "/"
                         </div>
                         <div class="col-sm-6">
                         <h2 class="mainpageboxheadline">DENOG ist jetzt DENOG e.V.</h2>
-                        <p><a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v17_SEPA_20180613.pdf" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/DENOG_Antrag_Foerdermitgliedschaft_v17_20180613.pdf" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a><br /> <br />
+                        <p><a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v18_SEPA_20181002.pdf" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/DENOG_Antrag_Foerdermitgliedschaft_v18_20181002.pdf" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a><br /> <br />
                         <a href="/files/verein/20171124-DENOG_Beitragsordnung.pdf" class="btn btn-custom-default">Zur Beitragsordnung <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/20171124-DENOG_Satzung.pdf" class="btn btn-custom-default">Zur Satzung <i class="ion-arrow-right-c"></i></a></p>
                         </div>
                     </div>
@@ -42,7 +42,7 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>DENOG e.V. Gründung</h4>
                     <p>Auf der DENOG9 wurde mit 101 Interessierten die Gründung des DENOG e. V. beschlossen und ein Vorstand gewählt.</p>
-                    <a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v17_SEPA_20180613.pdf" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mitglied werden <i class="ion-arrow-right-c"></i></a>
+                    <a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v18_SEPA_20181002.pdf" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mitglied werden <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>
         </div>
