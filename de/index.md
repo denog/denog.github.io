@@ -64,6 +64,8 @@ redirect_from: "/"
                 '{{ site.url }}/images/meetings/denog10/sponsor_thomaskrenn.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
+                '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
                ];
 </script>
         </div>
