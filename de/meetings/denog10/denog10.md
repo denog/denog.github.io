@@ -34,6 +34,7 @@ Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das 
                 '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
+                '{{ site.url }}/images/meetings/denog10/Sponsor_NL-IX.png',
                 '{{ site.url }}/images/meetings/denog10/xantaro-logo-x2.png', 
     ];
 </script>
