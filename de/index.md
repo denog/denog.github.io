@@ -58,6 +58,8 @@ redirect_from: "/"
             var sliderImageItems = [
                 '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_eshelter.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_eshelter.png',
                 '{{ site.url }}/images/meetings/denog10/Sponsor_NL-IX.png',
                 '{{ site.url }}/images/meetings/denog10/Sponsor_NL-IX.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
@@ -67,9 +69,8 @@ redirect_from: "/"
                 '{{ site.url }}/images/meetings/denog10/sponsor_syseleven.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_thomaskrenn.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg'
+                '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_centurylink.png'
-                '{{ site.url }}/images/meetings/denog10/sponsor_eshelter.png'
                ];
 </script>
         </div>
