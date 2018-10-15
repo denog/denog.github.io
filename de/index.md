@@ -70,7 +70,8 @@ redirect_from: "/"
                 '{{ site.url }}/images/meetings/denog10/sponsor_thomaskrenn.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_centurylink.png'
+                '{{ site.url }}/images/meetings/denog10/sponsor_centurylink.png',
+                '{{ site.url }}/images/meetings/denog10/xantaro-logo-x2.png'
                ];
 </script>
         </div>
