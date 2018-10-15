@@ -11,6 +11,8 @@
 			]},
 			{"url": "#", "text": "DENOG10 Meeting", "childs": [
 				{"url": "meetings/denog10/denog10.html", "text": "Übersicht"},
+				{"url": "meetings/denog10/attendee.html", "text": "Teilnehmerliste"},
+				{"url": "https://cfp.denog.de/denog10/schedule/", "text": "Programm"},
 				{"url": "meetings/denog10/cfp.html", "text": "Call for Papers"},
 				{"url": "meetings/denog10/tickets", "text": "Tickets"},
 				{"url": "meetings/denog10/ortundhotels.html", "text": "Veranstaltungsort & Hotels"}
