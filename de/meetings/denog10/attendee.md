@@ -41,16 +41,16 @@ Felix Gebauer |  |
 Florian Hibler | 55064 | florian
 Frank Holmes | 50629 | 
 Frank Menzel |  | 
-Franz Georg Kââhler | 29066 | 
+Franz Georg Köhler | 29066 | 
 Frederic Jaeckel | 36459 | jchome
-Fredy KâÂşnzler | 13030 | 
+Fredy Künzler | 13030 | 
 Gerrit Mester | 20647 | 
-Gert Dââring | 5539 | cron2
+Gert Döring | 5539 | cron2
 Gordon Gidofalvy | 0 | vista
-Gordon HeinrichsrâÂşscher | 49034 | 
+Gordon Gidofalvy | 49034 | 
 Gregor Radtke |  | elch
 Gregor von Stangen | 8469 | 
-Gunnar SchlâÂ§fer | 15725 | 
+Gunnar Schläfer | 15725 | 
 Hans-Christoph Deeken | 8878 | Glenlivet
 Hendrik Braasch |  | dr3x
 Holger Zuleger |  | 
@@ -64,7 +64,7 @@ Johannes Jakob | 48918 |
 Johannes Moos | 51531 | 
 Kai Siering | 206813 | wusel
 Kay Rechthien | 20940 | kay
-Lars BuâĂźmann |  | LarsB
+Lars Bußmann |  | LarsB
 Lars Kollstedt | 8365 | 
 Leon Weber | 9033 | leonn
 Lobo |  | 
@@ -73,7 +73,7 @@ Lutz Donnerhacke | 15725 | Donner
 Malte Jan Kafffenberger |  | 
 Malte von dem Hagen | 20771 | 
 Marc Haber |  | Zugschlus
-Marco Dââhler |  | 
+Marco Döhler |  | 
 Marco Prause | 31529 | Bitjab
 Marc Ruberg | 553 | ruby7
 Marcus Brauckmann | 6695 | 
@@ -84,13 +84,13 @@ Martina Dresbach | 286 |
 Martin Poppen | 50629 | l3akage
 Martin Sofaru |  | nitram
 Martin Weinelt | 8365 | hexa
-MâÂ°tâÂŠ Eckl | 3320 | ecklm
+Matthias Eckl | 3320 | ecklm
 Matthias Hannig |  | dls
 Matthias Ordner | 12337 | mordner
 Maurice Boltze | 20773 | 
 Michael Hayler | 12857 | raider
 Michael Wagner | 29140 | 
-Oguzhan Gââkal | 48823 | 
+Oguzhan Gökal | 48823 | 
 Oliver Herms | 51324 | takt
 Oliver Sachs | 62177 | 
 Oliver Seufer | 41955 | 
@@ -109,7 +109,7 @@ Richard Hartmann | 5539 | RichiH
 Robert Finze |  | 
 Robert Remenyi | 13045 | robrem
 Rolf Munzlinger | 1273 | 
-Ronny Bââsger |  | 
+Ronny Bösger |  | 
 Ruben Herold | 62086 | 
 Rudolph Bott |  | 
 Sascha Lenz | 29317 | master
@@ -124,15 +124,15 @@ Stefan Hedenig | 4.714.742.473 |
 Stefan Jakob | 31529 | 
 Stefan Wahl | 41948 | swaio
 Stephan |  | 
-Susann Bââhme | 16374 | 
+Susann Böhme  | 16374 | 
 Sven Ellingen | 8469 | 
 Theo Voss | 4.714.742.473 | tvberlin
 Thomas |  | 
 Thomas Jessen | 286 | Toshima
-Thomas RâÂşter | 20647 | 
+Thomas Räşter | 20647 | 
 Thomas Trede | 199163 | 
 Tim Kleefass | 51324 | TimKleefass
-Tobias GroâĂźer |  | vrmfndl
+Tobias Großer |  | vrmfndl
 Tobias Hadem |  | 
 Tobias Heister | 203520 | izemaen
 Tobias Just | 9033 | 
