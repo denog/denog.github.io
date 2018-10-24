@@ -39,6 +39,7 @@ Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das 
                 '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
                 '{{ site.url }}/images/meetings/denog10/sponsor_centurylink.png',
+                '{{ site.url }}/images/meetings/denog10/sponsor_core_backbone_infinera.png',
                 '{{ site.url }}/images/meetings/denog10/sponsor_xantaro.png'
     ];
 </script>
