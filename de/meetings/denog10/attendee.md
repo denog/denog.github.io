@@ -11,6 +11,7 @@ city: Darmstadt
 Updated: Monday 04.11.2018 15.47h (PBU)
 
 Attendee | AS Nummer | IRC Nickname
+|-------|--------|---------|
 Aaron A Glenn | 57335 | aag
 Abdulrahman Alshawakri |  | 
 Adolfo Sicre-Artalejo | 1299 | 
