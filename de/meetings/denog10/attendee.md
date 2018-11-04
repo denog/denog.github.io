@@ -53,17 +53,17 @@ Florian Hibler | 55064 | florian
 Florian Sander | 52088 | fs-5a6b
 Frank Holmes | 50629 | 
 Frank Menzel |  | 
-Franz Georg Kââhler | 29066 | 
+Franz Georg Köhler | 29066 | 
 Franziska Lichtblau |  | rhalina
 Frederic Jaeckel | 36459 | jchome
-Fredy KâÂşnzler | 13030 | 
+Fredy Künzler | 13030 | 
 Gerrit Mester | 20647 | 
-Gert Dââring | 5539 | cron2
+Gert Döring | 5539 | cron2
 Gordon Gidofalvy | 0 | vista
-Gordon HeinrichsrâÂşscher | 49034 | 
+Gordon Heinrichsrüscher | 49034 | 
 Gregor Radtke |  | elch
 Gregor von Stangen | 8469 | 
-Gunnar SchlâÂ§fer | 15725 | 
+Gunnar Schläfer | 15725 | 
 Hans-Christoph Deeken | 8878 | Glenlivet
 Harald Singer | 21259 | 
 Harm Werkman | 34307 | 
@@ -76,7 +76,7 @@ Ivaylo | 34307 |
 Jan Czmok | 31025 | 
 Jan Walzer | 42263 | iQ
 Jean-Pierre Schwickerath |  | 
-Jens Mââller |  | 
+Jens Möller |  | 
 Jerry Grondel | 34307 | 
 Joachim Knauer | 3209 | 
 Joerg Dorchain |  | pfy
@@ -85,18 +85,18 @@ Johannes Moos | 51531 |
 Kai Siering | 206813 | wusel
 Kay Rechthien | 20940 | kay
 Klemens Nanni |  | kl3, kn
-Lars BuâĂźmann |  | LarsB
+Lars Bußmann |  | LarsB
 Lars Kollstedt | 8365 | 
 Leon Weber | 9033 | leonn
 Lobo |  | 
 Lukas Gerhold | 8365 | Lukas
 Lutz Donnerhacke | 15725 | Donner
-Magnus FrâÂşhling | 64475 | skorpy
+Magnus Frühling | 64475 | skorpy
 Malte Jan Kafffenberger |  | 
 Malte Patrik Rosenberger |  | 
 Malte von dem Hagen | 20771 | 
 Marc Haber |  | Zugschlus
-Marco Dââhler |  | 
+Marco Döhler |  | 
 Marco Prause | 31529 | Bitjab
 Marc Ruberg | 553 | ruby7
 Marcus Brauckmann | 6695 | 
@@ -109,7 +109,7 @@ Martin Poppen | 50629 | l3akage
 Martin Schwarz |  | 
 Martin Sofaru |  | nitram
 Martin Weinelt | 8365 | hexa
-MâÂ°tâÂŠ Eckl | 3320 | ecklm
+Máté Eckl | 3320 | ecklm
 Matthias Hannig |  | dls
 Matthias Ordner | 12337 | mordner
 Maurice Boltze | 20773 | 
@@ -119,7 +119,7 @@ Michael Hayler | 12857 | raider
 Michael Wagner | 29140 | 
 Mic Szillat | 205766 | nomaster
 Moritz Frenzel | 48918 | momorientes
-Oguzhan Gââkal | 48823 | 
+Oguzhan Gökal | 48823 | 
 Oliver Herms | 51324 | takt
 Oliver Sachs | 62177 | 
 Oliver Seufer | 41955 | 
@@ -139,7 +139,7 @@ Richard Hartmann | 5539 | RichiH
 Robert Finze |  | 
 Robert Remenyi | 13045 | robrem
 Rolf Munzlinger | 1273 | 
-Ronny Bââsger |  | 
+Ronny Bösger |  | 
 Ruben Herold | 62086 | 
 Rudolph Bott |  | 
 Sascha Growe | 61157 | 
@@ -155,24 +155,24 @@ Stefan Hedenig | 4.714.742.473 |
 Stefan Jakob | 31529 | 
 Stefan Wahl | 41948 | swaio
 Stephan |  | 
-Susann Bââhme | 16374 | 
+Susann Böhme | 16374 | 
 Sven Ellingen | 8469 | 
 Theo Voss | 4.714.742.473 | tvberlin
 Thomas |  | 
 Thomas Jessen | 286 | Toshima
 Thomas King | 6695 | 
-Thomas RâÂşter | 20647 | 
+Thomas Rüter | 20647 | 
 Thomas Trede | 199163 | 
 Tilman Kastner | 21263 | 
 Tim Kleefass | 51324 | TimKleefass
-Tobias GroâĂźer |  | vrmfndl
+Tobias Großer |  | vrmfndl
 Tobias Hadem |  | 
 Tobias Heister | 203520 | izemaen
 Tobias Just | 9033 | 
 Tobias Neumann | 6695 | 
 Ulf Fischer | 12731 | ulf
 Ulf Kieber | 16374 | 
-Ulrich Kââhler | 33891 | Ulli
+Ulrich Köhler | 33891 | Ulli
 Vincentz Petzholtz |  | 
 Volker Ofer |  | 
 Youri van der Perk | 34307 | 
