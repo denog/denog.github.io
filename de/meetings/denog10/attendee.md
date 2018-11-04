@@ -8,7 +8,7 @@ city: Darmstadt
 
 # DENOG10 Attendee List
 
-Updated: Monday 04.11.2018 15.47h (PBU)
+Updated: Sunday 04.11.2018 15.47h (PBU)
 
 Attendee | AS Nummer | IRC Nickname
 |-------|--------|---------|
