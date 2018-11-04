@@ -10,7 +10,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                            <img src="{{ site.url }}/images/denog_Vorstand.jpg" id="mainpagelogo" />
+                            <a href="{{ site.url }}/{{ page.lang }}/informationen.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog10_logo_small.png" id="mainpagelogo" /></a>
                         </div>
                         <div class="col-sm-6">
                         <h2 class="mainpageboxheadline">DENOG ist jetzt DENOG e.V.</h2>
