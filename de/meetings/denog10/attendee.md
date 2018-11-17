@@ -8,7 +8,7 @@ city: Darmstadt
 
 # DENOG10 Attendee List
 
-Updated: Thursday 14.11.2018 23.45h (PBU)
+Updated: Thursday 17.11.2018 11.00h (kay)
 
 Attendee | AS Nummer | IRC Nickname
 |-------|--------|---------|
@@ -21,12 +21,14 @@ Aki Hockerts |  |  | Frankfurt University of Applied Sciences
 Alexander Dube | 61157 |  | PlusServer GmbH
 Alexander Mischke |  |  | LAYERTEC GmbH
 Andrae Marx | 8540 |  | AMA netwoRX GmbH
-Andreas Boesen | 553 | Happy | BelWâÂş-Koordination, Universität Stuttgart
+Andrea Otte | 199121 |  | Flexoptix GmbH
+Andreas Boesen | 553 | Happy | BelWü-Koordination, Universität Stuttgart
 Andreas Ebert | 8365 |  | man-da.de GmbH
 Andreas John | 20755 | derjohn | net-lab GmbH
 Andreas Kimpfler | 48328 | Tiberian | retarus GmbH
 Andreas Reinert |  |  | ADVA Optical Networking
 Andreas Sturm | 6695 |  | DE-CIX Management GmbH
+André Niemann |  | strohalm | becon GmbH
 Andy Mindnich |  |  | IBM
 Anita Meyer | 13030 |  | Init7 (Schweiz) AG
 Annika Wickert | 51324 |  | EXARING AG
@@ -50,11 +52,13 @@ Claudio Jeker | 196618 |  |
 Daniel Czerwonk | 48821 | dan_nrw | Mauve Mailserver Software GmbH & Co.KG
 Daniel Maresch | 33891 | Daster | Core-Backbone GmbH
 Daniel Melzer | 6695 |  | DE-CIX Management GmbH
-Daniel Spierling | 6.695.209.969 | dspierling | DE-CIX
-David Dââpelheuer | 24961 |  | myLoc managed IT AG
+Daniel Spierling | 6695.209969 | dspierling | DE-CIX
+David Döpelheuer | 24961 |  | myLoc managed IT AG
 David Weber | 9136 | vidister | David Weber IT-Solutions
-Dino Rezes |  |  | UniversitâÂ§t TâÂşbingen
+Dino Rezes |  |  | Universität Tübingen
 Dirk Meyer | 205376 | dinoex | 
+Esime Sutantyo | 199121 |  | Flexoptix GmbH
+Fearghas McKay | 199121 |  | Flexoptix GmbH
 Felix Gebauer |  |  | FlixMobility Tech GmbH
 Filiz Yilmaz | 59964 |  | Asteroid International BV
 Florian Bauhaus | 52088 | TraXo | portrix.net GmbH
@@ -69,7 +73,7 @@ Franziska Lichtblau |  | rhalina |
 Frederic Jaeckel | 36459 | jchome | GitHub Inc.
 Fredy Künzler | 13030 |  | Init7 (Schweiz) AG
 Gerrit Mester | 20647 |  | IPB Internet Provider in Berlin GmbH
-Gert Döring | 5539 | cron2 | EDV-Beratung Gert Dââring
+Gert Döring | 5539 | cron2 | EDV-Beratung Gert Döring
 Gordon Gidofalvy | 0 | vista | 
 Gordon Heinrichsrüscher | 49034 |  | Laudert GmbH + Co. KG
 Gregor Radtke |  | elch | 
@@ -100,28 +104,32 @@ Johannes Moos | 51531 |  | DE-CIX Management GmbH
 Julian Seifert | 50642 | alamar | DNCC GmbH
 Kai Siering | 206813 | wusel | 
 Kay Rechthien | 20940 | kay | Akamai Technologies
+Klaus Kaiser |  |  | dacoso GmbH
 Klemens Nanni |  | kl3, kn | 
+Krischan Jodies | 41955 | kjo | SerNet GmbH
 Lars Bußmann |  | LarsB | arvato systems GmbH
 Lars Kollstedt | 8365 |  | man-da.de GmbH
 Leon Weber | 9033 | leonn | Peering GmbH
 Lobo |  |  | 
 Lukas Gerhold | 8365 | Lukas | man-da.de GmbH
 Lutz Donnerhacke | 15725 | Donner | IKS Service GmbH
-Magnus Frühling | 64475 | skorpy | 
+Magnus Frühling | 64475 | skorpy | Freifunk Frankfurt am Main e.V.
 Malte Jan Kafffenberger |  |  | SysEleven GmbH
 Malte Patrik Rosenberger |  |  | Thomas-Krenn.AG
 Malte von dem Hagen | 20771 |  | Host Europe GmbH
 Marc Haber |  | Zugschlus | incluesion
 Marco Döhler |  |  | 
+Marco Firsching | 44973 |  | Rechenzentrum Haßfurt GmbH
 Marco Prause | 31529 | Bitjab | DENIC eG
 Marco Zietz | 15945 |  | PfalzKom | MAnet
 Marc Peters | 198018 |  | trivago N.V.
-Marc Ruberg | 553 | ruby7 | BelWâÂş NOC - UniversitâÂ§t Stuttgart
+Marc Ruberg | 553 | ruby7 | BelWü NOC - Universität Stuttgart
 Marcus Brauckmann | 6695 |  | DE-CIX Management GmbH
 Marcus Stoegbauer | 9033 |  | Peering GmbH
 Marian Fischer | 204053 |  | ADESTIS GmbH
 Marian Putala |  |  | Juniper Networks GmbH
 Marius Gerling |  |  | Uniberg GmbH
+Markus Arnold | 199121 |  | Flexoptix GmbH
 Markus Berthold | 204053 |  | ADESTIS GmbH
 Markus Binder | 48918 |  | Datacenter One GmbH
 Mark Walliser | 24889 |  | Monzoon Networks AG
@@ -152,19 +160,21 @@ Oliver Sachs | 62177 |  | oscon itk GmbH
 Oliver Seufer | 41955 |  | SerNet Service Network GmbH
 Patrick Bussmann | 20940 | PBU | Akamai Technologies
 Patrick Hurrelmann | 8878 |  | NFON AG
+Paul Ritter |  |  | Uniberg GmbH
 Peter Grotz |  |  | MG Future GmbH
 Peter Hansen | 24961 |  | myLoc managed IT AG
 Peter Lieven | 8648 |  | Kamp Netzwerkdienste GmbH
 Peter Sievers |  | PSI | Juniper Networks GmbH
 Petr Marciniak | 31529 |  | DENIC eG
-Philip Berndroth | 205112 | pberndro | philuweb UG (haftungsbeschrâÂ§nkt)
+Philip Berndroth | 205112 | pberndro | philuweb UG (haftungsbeschränkt)
 Philip Deutscher | 48918 |  | Globalways AG
 Philipp Reis | 3320 |  | Deutsche Telekom AG
 Philip Rintz | 62086 |  | ViA-Online GmbH
+Rainer Hellmeister |  |  | GasLINE CP Customer Projects GmbH
 Ralf Ertzinger | 43996 | Lalufu | Booking.com B.V.
 Raphael Rosenberg |  | clockwork | Wavecon GmbH
 Remco van Mook | 59964 | Remco-25595 | Asteroid International BV
-Rene Fichtmüller | 199121 |  | Flexoptix
+René Fichtmüller | 199121 |  | 
 Richard Hartmann | 5539 | RichiH | SpaceNet AG
 Robert Finze |  |  | DE-CIX Management GmbH
 Robert Remenyi | 13045 | robrem | htp GmbH
@@ -183,7 +193,7 @@ Sebastian Heidrich | 6724 | taz | STRATO AG
 Sebastian Wiesinger | 12337 | GPF | noris network AG
 sebschrader |  | shreyder | TU Dresden
 Simon Frerichs | 50629 | morpheus | LWLcom GmbH
-Stefan Hedenig | 4.714.742.473 |  | ANEXIA Internetdienstleistungs GmbH
+Stefan Hedenig | 47147.42473 |  | ANEXIA Internetdienstleistungs GmbH
 Stefan Jakob | 31529 |  | DENIC eG
 Stefan Schmidt |  | ZaphodB | 
 Stefan Wahl | 41948 | swaio | 
@@ -191,7 +201,7 @@ Stephan Westphal |  |  | Karlsruhe Institute of Technology - SCC
 Susann Böhme | 16374 |  | BCIX Management GmbH
 Sven Ellingen | 8469 |  | CANCOM Pironet AG & Co. KG
 Sven Tron |  |  | Flexoptix GmbH
-Theo Voss | 4.714.742.473 | tvberlin | ANEXIA Internetdienstleistungs GmbH
+Theo Voss | 47147.42473 | tvberlin | ANEXIA Internetdienstleistungs GmbH
 Thomas Jessen | 286 | Toshima | KPN EuroRings Germany B.V.
 Thomas King | 6695 |  | DE-CIX Management GmbH
 Thomas Kraft | 8365 |  | TU Darmstadt / HRZ
@@ -200,6 +210,7 @@ Thomas Trede | 199163 |  | UBL Informationssysteme GmbH
 Thomas Weible |  |  | Flexoptix GmbH
 Tilman Kastner | 21263 |  | TeleData GmbH
 Tim Kleefass | 51324 | TimKleefass | EXARING AG
+Tobias Breitwieser |  |  | Tobias Breitwieser IT-Consulting
 Tobias Großer |  | vrmfndl | Wavecon GmbH
 Tobias Hadem |  |  | FlixMobility Tech GmbH
 Tobias Heister | 203520 | izemaen | Xantaro Deutschland GmbH
@@ -214,4 +225,4 @@ Volker Ofer |  |  | Axians Networks & Solutions GmbH
 Wilhelm Boeddinghaus |  |  | iubari GmbH
 Wolfgang Tremmel | 196610 | Garf | DE-CIX Management GmbH
 Youri van der Perk | 34307 |  | NL-ix
-Zsolt Papdi (IX Reach) | 43531 |  | Zsolt Papdi 
+Zsolt Papdi (IX Reach) | 43531 |  | Zsolt Papdi
