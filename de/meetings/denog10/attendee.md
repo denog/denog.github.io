@@ -10,9 +10,8 @@ city: Darmstadt
 
 Updated: Thursday 17.11.2018 11.00h (kay)
 
-Attendee | AS Nummer | IRC Nickname
-|-------|--------|---------|
 Name des Teilnehmers | AS Nummer | IRC Nickname | Firma
+|-------|--------|---------|
 Aaron A Glenn | 57335 | aag | 
 Abdulrahman Alshawakri |  |  | Uniberg GmbH
 Achim Autenrieth |  |  | ADVA Optical Networking
