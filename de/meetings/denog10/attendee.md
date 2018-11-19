@@ -80,14 +80,14 @@ Gregor von Stangen | 8469 |  | CANCOM Pironet AG & Co. KG
 Gunnar Schläfer | 15725 |  | IKS Service GmbH
 Hans-Christoph Deeken | 8878 | Glenlivet | NFON AG
 Harald Singer | 21259 |  | TeleData GmbH
-Harm Werkman | 34307 |  | NL-ix (Broadband Hosting BV)
+Harm Werkman | 34307 |  | NL-ix
 Hendrik Braasch |  | dr3x | Nachrichtentechnik Hendrik Braasch
 Holger Laukat |  |  | e-shelter
 Holger Zuleger |  |  | Vodafone GmbH
 Ibrahim Eser | 3209 |  | Uniberg GmbH
 Ioannis Karamasiotis |  |  | Frankfurt University of Applied Sciences
 Istvan Ruzman |  |  | siticom GmbH
-Ivaylo | 34307 |  | Broadband Hosting B.V
+Ivaylo Atanasov | 34307 |  | NL-ix
 Jan Czmok | 31025 |  | 
 Jan-Philipp Litza | 49855 | jplitza | PLUTEX GmbH
 Jan Walzer | 42263 | iQ | iNNOVO Cloud GmbH
