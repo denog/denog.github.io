@@ -8,14 +8,17 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 ![](/images/meeting-10.jpg){:class="img-responsive"}
 
-## 2018-08-06 REGISTRATION OPEN
-Der Ticketverkauf für DENOG10 hat begonnen! [Tickets](https://pretix.eu/denog/denog10/){:target="_blank"}
-
-## 2018-07-02 CALL FOR PAPERS
-Wir freuen uns den diesjährigen Call for Papers für die DENOG10 zu eröffnen: [Call for Papers]({{ site.url }}/meetings/denog10/cfp.html)
-
-## 2018-06-29 SAVE THE DATE
-Wir freuen uns, zum zehnten DENOG-Meeting in Darmstadt einladen zu können. Das Meeting findet vom 21. bis 22. November 2018 im [darmstadtium in Darmstadt](http://www.darmstadtium.de/){:target="_blank"} statt.
+<table>
+    <tr>
+        <td>
+                <div class="newsblock">
+                    <b>Final DENOG10 Agenda</b>
+                    <p>Die erste Version der DENOG10 Agenda ist online!</p>
+                    <a href="https://cfp.denog.de/denog10/schedule" target="new">Agenda Overview <i class="ion-arrow-right-c"></i></a>
+                </div>
+        </td>
+    </tr>
+</table>
 
 <hr class="verticaldivider" />
 <div class="mainpagepaddedbox">
