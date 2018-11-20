@@ -12,6 +12,15 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
     <tr>
         <td>
                 <div class="newsblock">
+                    <b>DENOG10 Streams</b>
+                    <p>At DENOG10 all talks and presentations will be streamed and recorded. During the event you can follow the livetreams at the link below. After the event we will add slides and recordings to the agenda.</p>
+                    <a href="https://streaming.media.ccc.de/denog10" target="new">Streams powered by C3VOC<i class="ion-arrow-right-c"></i></a>
+                </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+                <div class="newsblock">
                     <b>Final DENOG10 Agenda</b>
                     <p>Die erste Version der DENOG10 Agenda ist online!</p>
                     <a href="https://cfp.denog.de/denog10/schedule" target="new">Agenda Overview <i class="ion-arrow-right-c"></i></a>
