@@ -13,7 +13,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
         <td>
                 <div class="newsblock">
                     <b>DENOG10 Feedback</b>
-                    Please rate the talks and give us your Feedback. More review links will appear after each talk block.
+                    <p>Please rate the talks and give us your Feedback. More review links will appear after each talk block.</p>
                 </div>
         </td>
     </tr>
