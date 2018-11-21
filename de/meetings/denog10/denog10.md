@@ -12,6 +12,14 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
     <tr>
         <td>
                 <div class="newsblock">
+                    <b>DENOG10 Feedback</b>
+                    Please rate the talks and give us your Feedback. More review links will appear after each talk block.
+                </div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+                <div class="newsblock">
                     <b>DENOG10 Streams</b>
                     <p>At DENOG10 all talks and presentations will be streamed and recorded. During the event you can follow the livetreams at the link below. After the event we will add slides and recordings to the agenda.</p>
                     <a href="https://streaming.media.ccc.de/denog10" target="new">Streams powered by C3VOC<i class="ion-arrow-right-c"></i></a>
