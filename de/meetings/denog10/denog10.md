@@ -14,6 +14,9 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
                 <div class="newsblock">
                     <b>DENOG10 Feedback</b>
                     <p>Please rate the talks and give us your Feedback. More review links will appear after each talk block.</p>
+                    <ul>
+                        <li><a href="https://goo.gl/forms/BQmlQx3nifozz4hP2"> Talks Day 1 13:00 - 15:00 </a></li>
+                    </ul>
                 </div>
         </td>
     </tr>
