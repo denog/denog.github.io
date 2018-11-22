@@ -17,6 +17,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
                     <ul>
                         <li><a href="https://goo.gl/forms/BQmlQx3nifozz4hP2"> Talks Day 1 13:00 - 15:00 </a></li>
                         <li><a href="https://goo.gl/forms/d749TKGm37TF5V6P2"> Talks Day 1 16:00 - 18:10 </a></li>
+                        <li><a href="https://goo.gl/forms/P4zrvyG5yhdAAI6i1"> Talks Day 2 09:00 - 13:00 </a></li>
                         <li><a href="https://goo.gl/forms/Ll9u8IzUxwg7TEKY2"> Conference Feedback </a></li>
                     </ul>
                 </div>
