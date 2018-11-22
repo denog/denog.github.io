@@ -13,9 +13,7 @@
 				{"url": "meetings/denog10/denog10.html", "text": "Übersicht"},
 				{"url": "meetings/denog10/attendee.html", "text": "Teilnehmerliste"},
 				{"url": "meetings/denog10/programm", "text": "Programm"},
-				{"url": "meetings/denog10/cfp.html", "text": "Call for Papers"},
 				{"url": "meetings/denog10/tickets", "text": "Tickets"},
-				{"url": "meetings/denog10/ortundhotels.html", "text": "Veranstaltungsort & Hotels"}
 			]},
 			{"url": "archiv.html", "text": "Archiv"},
 			{"url": "kontakt.html", "text": "Kontakt"}
