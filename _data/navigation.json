@@ -13,7 +13,7 @@
 				{"url": "meetings/denog10/denog10.html", "text": "Übersicht"},
 				{"url": "meetings/denog10/attendee.html", "text": "Teilnehmerliste"},
 				{"url": "meetings/denog10/programm", "text": "Programm"},
-				{"url": "meetings/denog10/video", "text": "Videos"},
+				{"url": "meetings/denog10/videos", "text": "Videos"},
 				{"url": "meetings/denog10/tickets", "text": "Tickets"},
 			]},
 			{"url": "archiv.html", "text": "Archiv"},
