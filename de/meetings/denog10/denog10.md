@@ -12,6 +12,10 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
     <tr>
         <td>
                 <div class="newsblock">
+                    <b>DENOG10 Slides & Recordings </b>
+                    <p>All <a href="https://github.com/denog/media/tree/master/DENOG10"> slides</a> and <a href="https://media.ccc.de/c/denog10">recordings</a> have been released. Enjoy!</p>
+                </div>
+                <div class="newsblock">
                     <b>DENOG10 Feedback</b>
                     <p>Please rate the talks and give us your Feedback. More review links will appear after each talk block.</p>
                     <ul>
