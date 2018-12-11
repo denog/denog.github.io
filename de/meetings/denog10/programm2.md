@@ -8,7 +8,7 @@ city: Darmstadt
 
 # DENOG10 Slides & Recordings
 
- | Programm | Slides | Recording
+ | Programm | | Slides | | Recording
 |-------|--------|---------|---------|
-»DENOG10 Opening« |  | |
+»DENOG10 Opening« | |  | | |
 
