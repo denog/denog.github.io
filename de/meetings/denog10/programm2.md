@@ -10,5 +10,5 @@ city: Darmstadt
 
  | Programm | | Slides | | Recording
 |-------|--------|---------|---------|
-»DENOG10 Opening« | | [ <a href="https://github.com/denog/media/blob/master/DENOG10/day1_1300_Opening_Slide_Deck.pdf"> Slides </a> ] | | |
+»DENOG10 Opening« | | [ <a href="https://github.com/denog/media/blob/master/DENOG10/day1_1300_Opening_Slide_Deck.pdf" target="_new"> Slides </a> ] | | |
 
