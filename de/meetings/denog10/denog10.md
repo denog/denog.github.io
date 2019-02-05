@@ -48,6 +48,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 </table>
 
 <hr class="verticaldivider" />
+<!--
 <div class="mainpagepaddedbox">
     <h3>Sponsoren</h3>
     <div id="sponsorslider" data-images="3"></div>
@@ -73,3 +74,4 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
                 '{{ site.url }}/images/meetings/denog10/sponsor_xantaro.png'
     ];
 </script>
+-->

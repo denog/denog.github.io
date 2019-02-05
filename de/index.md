@@ -49,6 +49,7 @@ redirect_from: "/"
         <div class="container">
             <hr class="verticaldivider" />
         </div>
+        <!-- 
         <div class="container">
             <div class="mainpagepaddedbox">
                 <h3>Sponsoren DENOG10</h3>
@@ -76,5 +77,6 @@ redirect_from: "/"
                ];
 </script>
         </div>
+        -->
     </div>
 </div>
