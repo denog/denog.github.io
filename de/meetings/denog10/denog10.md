@@ -47,8 +47,8 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
     </tr>
 </table>
 
-<hr class="verticaldivider" />
 <!--
+<hr class="verticaldivider" />
 <div class="mainpagepaddedbox">
     <h3>Sponsoren</h3>
     <div id="sponsorslider" data-images="3"></div>
