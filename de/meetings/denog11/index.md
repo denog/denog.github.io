@@ -29,12 +29,12 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
             <br>
             <b><h4>Draft Programplan (to be changed)</h4></b>
 <br>
-<b>Sonntag, 10. November 2019<b><br>
+<b>Sonntag, 10. November 2019</b><br>
 Beginn: 	ca. 11.00 Uhr<br>
 Workshops & Seminare<br>
 Abends:	Selbstzahler Social<br>
 <br>
-Montag, 11. November 2019<br>
+<b>Montag, 11. November 2019</b><br>
 Newcomer Session<br>
 Beginn: 	ca. 10.00h<br>
 <br>
@@ -44,7 +44,7 @@ ab ca. 12-13.00 Uhr<br>
 Abends gemeinsames Social<br>
 <br>
 <br>
-Dienstag, 12. November 2019<br>
+<b>Dienstag, 12. November 2019</b><br>
 2. Tag Hauptkonferenz<br>
 Ende ca. 13.00h<br>
 im Anschluss die Mitgliederversammlung<br>
