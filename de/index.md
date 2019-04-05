@@ -36,8 +36,8 @@ redirect_from: "/"
                     <a href="https://cfp.denog.de/denog10/schedule" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG11 Tickets</h4>
-                    <p>Ticketvorverkauf started demnächst</p>
+                    <h4>DENOG Meetup Berlin</h4>
+                    <p>Save the Date - 28.05.2019</p>
               
                 </div>
                   <div class="newsblock">
@@ -45,11 +45,7 @@ redirect_from: "/"
                     <p>Ticketvorverkauf started demnächst</p>
               
                 </div>
-                <div class="newsblock">
-                    <h4>DENOG e.V. Gründung</h4>
-                    <p>Auf der DENOG9 wurde mit 101 Interessierten die Gründung des DENOG e. V. beschlossen und ein Vorstand gewählt.</p>
-                    <a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v18_SEPA_20181002.pdf" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Mitglied werden <i class="ion-arrow-right-c"></i></a>
-                </div>
+               
             </div>
         </div>
       
