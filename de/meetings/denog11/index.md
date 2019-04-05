@@ -23,7 +23,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
             <br>
             Location:<br> 
             Bucerius Law School Hamburg 
-            (http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/)
+            (<a href='http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/' target='_new'>http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/</a>)
             <br>
             <br>
             <br>
