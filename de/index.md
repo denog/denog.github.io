@@ -11,7 +11,7 @@ redirect_from: "/"
                     <div class="row">
                         <div class="col-sm-6">
                              <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/denog10.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog-logo-konferenz-11_v001_whitebg.png" id="mainpagelogo" /></a>
-                            10. - 12. November 2019 in Hamburg
+                           <br> 10. - 12. November 2019 in Hamburg
                         </div>
                         <div class="col-sm-6">
                         <h2 class="mainpageboxheadline">Unterstütze die DENOG e.V.</h2>
@@ -31,14 +31,19 @@ redirect_from: "/"
             </div>
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>DENOG10 Agenda v1.0</h4>
-                    <p>Die erste Version der DENOG10 Agenda ist online!</p>
-                    <a href="https://cfp.denog.de/denog10/schedule" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zur Agenda <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG11 in Hamburg/h4>
+                    <p>10.11. Workshop & Seminare // 11.-12.11. Hauptkonferenz</p>
+                    <a href="https://cfp.denog.de/denog10/schedule" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG10 Tickets</h4>
-                    <p>DENOG10 findet am 21. & 22.11.2018 in Darmstadt statt!</p>
-                    <a href="https://pretix.eu/denog/denog10/" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">Zum Ticketverkauf <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG11 Tickets</h4>
+                    <p>Ticketvorverkauf started demnächst</p>
+              
+                </div>
+                  <div class="newsblock">
+                    <h4>DENOG11 Tickets</h4>
+                    <p>Ticketvorverkauf started demnächst</p>
+              
                 </div>
                 <div class="newsblock">
                     <h4>DENOG e.V. Gründung</h4>
@@ -47,38 +52,6 @@ redirect_from: "/"
                 </div>
             </div>
         </div>
-        
-        <!-- 
-        <div class="container">
-            <hr class="verticaldivider" />
-        </div>
-        <div class="container">
-            <div class="mainpagepaddedbox">
-                <h3>Sponsoren DENOG10</h3>
-                <div id="sponsorslider" data-images="3"></div>
-            </div>
-            <script type="text/javascript">
-            var sliderImageItems = [
-                '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_eshelter.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_eshelter.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_NL-IX.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_NL-IX.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_dc1.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_gasline.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_megaport.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_syseleven.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_thomaskrenn.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_core_backbone_infinera.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_centurylink.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_xantaro.png'
-               ];
-</script>
-        </div>
-        -->
+      
     </div>
 </div>
