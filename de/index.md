@@ -32,7 +32,7 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>DENOG11 in Hamburg</h4>
                     <p>10.11. Workshop & Seminare // 11.-12.11. Hauptkonferenz</p>
-                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right"><>mehr Informationen <i class="ion-arrow-right-c"></i></a>
+                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>DENOG Meetup Berlin</h4>
