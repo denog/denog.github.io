@@ -55,14 +55,7 @@ Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten
         <td  valign='top' style='width:15%;' >
         </td>
     </tr>
-    <tr>
-        <td>
-        </td>
-    </tr>
-    <tr>
-        <td>
-        </td>
-    </tr>
+    
 </table>
 
 <!--
