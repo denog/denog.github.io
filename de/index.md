@@ -10,8 +10,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/denog10.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog-logo-konferenz-11_v001_whitebg.png" id="mainpagelogo" /></a>
-                           
+                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog-logo-konferenz-11_v001_whitebg.png" id="mainpagelogo" /></a>
                         </div>
                         <div class="col-sm-6">
                         <h2 class="mainpageboxheadline">Unterstütze die DENOG e.V.</h2>
@@ -33,12 +32,11 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>DENOG11 in Hamburg</h4>
                     <p>10.11. Workshop & Seminare // 11.-12.11. Hauptkonferenz</p>
-                    <a href="https://cfp.denog.de/denog10/schedule" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">mehr Informationen <i class="ion-arrow-right-c"></i></a>
+                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right"><>mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>DENOG Meetup Berlin</h4>
                     <p>Save the Date - 28.05.2019</p>
-              
                 </div>
                   <div class="newsblock">
                     <h4>DENOG11 Tickets</h4>
