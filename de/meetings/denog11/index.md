@@ -9,7 +9,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 
 <table>
     <tr>
-        <td style='width:70%;'>
+        <td style='width:15%;'>
                <img src="https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png" style='width:200px;'>
         </td>
         <td style='width:70%;'>
