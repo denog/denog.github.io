@@ -40,7 +40,7 @@ redirect_from: "/"
                 </div>
                   <div class="newsblock">
                     <h4>DENOG11 Tickets</h4>
-                    <p>Ticketvorverkauf started demnächst</p>
+                    <p>Ticketvorverkauf startet demnächst</p>
               
                 </div>
                
