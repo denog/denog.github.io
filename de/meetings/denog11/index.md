@@ -1,4 +1,3 @@
-
 ---
 layout: page
 lang: de
@@ -11,21 +10,14 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 <table>
     <tr>
         <td>
-                
         </td>
     </tr>
     <tr>
         <td>
-                <div class="newsblock">
-                    
-                </div>
         </td>
     </tr>
     <tr>
         <td>
-                <div class="newsblock">
-                 
-                </div>
         </td>
     </tr>
 </table>
