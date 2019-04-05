@@ -11,7 +11,7 @@ redirect_from: "/"
                     <div class="row">
                         <div class="col-sm-6">
                              <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/denog10.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog-logo-konferenz-11_v001_whitebg.png" id="mainpagelogo" /></a>
-                           <br> 10. - 12. November 2019 in Hamburg
+                           
                         </div>
                         <div class="col-sm-6">
                         <h2 class="mainpageboxheadline">Unterstütze die DENOG e.V.</h2>
