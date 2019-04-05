@@ -7,17 +7,11 @@ year: 2019
 city: Hamburg
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
-![](/images/meeting-10.jpg){:class="img-responsive"}
 
 <table>
     <tr>
         <td>
-                <div class="newsblock">
-                    
-                </div>
-                <div class="newsblock">
-                    
-                </div>
+                
         </td>
     </tr>
     <tr>
