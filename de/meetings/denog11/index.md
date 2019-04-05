@@ -21,13 +21,14 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
             <br>
             <b>Kurze Informationsübersicht:</b><br>
             <br>
-            Location:<br> 
+            Location:<br>
+             <img src="https://www.denog.de/images/http://www.bucerius-event.de/fileadmin/_processed_/csm_aussen_auditorium_f39f1fa2e4.jpg" style='width:350px;'><br>
             Bucerius Law School Hamburg 
             (<a href='http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/' target='_new'>http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/</a>)
             <br>
             <br>
             <br>
-            <b><h4>Draft Programplan (to be changed)</h4></b>
+            <h4><b>Draft Programplan (to be changed)</b></h4>
 <br>
 <b>Sonntag, 10. November 2019</b><br>
 Beginn: 	ca. 11.00 Uhr<br>
