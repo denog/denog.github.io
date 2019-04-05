@@ -10,16 +10,49 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 <table>
     <tr>
         <td style='width:15%;'>
-               <img src="https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png" style='width:200px;'>
+               <img src="https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png" style='width:250px;'>
         </td>
         <td style='width:70%; font-family:verdana; font-size:12pt;'>
+            <br>
+            <br>
+            <br>
             <center><h3><b>DENOG 11 findet vom 10. - 12. November 2019 in Hamburg statt.</b></h3></center>
             <br>
             <br>
             <b>Kurze Informationsübersicht:</b><br>
             <br>
-            <ul>
-                <li>Location: Bucerius Law School Hamburg
+            Location:<br> 
+            Bucerius Law School Hamburg 
+            (http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/)
+            <br>
+            <br>
+            <br>
+            <b><h4>Draft Programplan (to be changed)</h4></b>
+<br>
+<b>Sonntag, 10. November 2019<b><br>
+Beginn: 	ca. 11.00 Uhr<br>
+Workshops & Seminare<br>
+Abends:	Selbstzahler Social<br>
+<br>
+Montag, 11. November 2019<br>
+Newcomer Session<br>
+Beginn: 	ca. 10.00h<br>
+<br>
+Beginn der Hauptkonferenz<br>
+ab ca. 12-13.00 Uhr<br>
+<br>
+Abends gemeinsames Social<br>
+<br>
+<br>
+Dienstag, 12. November 2019<br>
+2. Tag Hauptkonferenz<br>
+Ende ca. 13.00h<br>
+im Anschluss die Mitgliederversammlung<br>
+<br>
+<br>
+Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten Wochen.
+
+
             </ul>
         </td>
     </tr>
