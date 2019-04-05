@@ -9,10 +9,10 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 
 <table>
     <tr>
-        <td style='width:15%;'>
+        <td valign='top' style='width:15%;'>
                <img src="https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png" style='width:250px;'>
         </td>
-        <td style='width:70%; font-family:verdana; font-size:12pt;'>
+        <td valign='top' style='width:70%; font-family:verdana; font-size:12pt;'>
             <br>
             <br>
             <br>
@@ -51,9 +51,8 @@ im Anschluss die Mitgliederversammlung<br>
 <br>
 <br>
 Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten Wochen.
-
-
-            </ul>
+        </td>
+        <td  valign='top' style='width:15%;' >
         </td>
     </tr>
     <tr>
