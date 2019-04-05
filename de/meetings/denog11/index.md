@@ -9,8 +9,8 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 
 <table>
     <tr>
-        <td>
-               <img src="https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png">
+        <td style='width:70%;'>
+               <img src="https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png" style='width:200px;'>
         </td>
         <td style='width:70%;'>
             <center>DENOG 11 findet vom 10. - 12. November 2019 in Hamburg statt.</center>
