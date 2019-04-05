@@ -10,10 +10,11 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/denog10.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog10_logo_small.png" id="mainpagelogo" /></a>
+                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog10/denog10.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog-logo-konferenz-11_v001_whitebg.png" id="mainpagelogo" /></a>
+                            10. - 12. November 2019 in Hamburg
                         </div>
                         <div class="col-sm-6">
-                        <h2 class="mainpageboxheadline">DENOG ist jetzt DENOG e.V.</h2>
+                        <h2 class="mainpageboxheadline">Unterstütze die DENOG e.V.</h2>
                         <p><a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v18_SEPA_20181002.pdf" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/DENOG_Antrag_Foerdermitgliedschaft_v18_20181002.pdf" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a><br /> <br />
                         <a href="/files/verein/20171124-DENOG_Beitragsordnung.pdf" class="btn btn-custom-default">Zur Beitragsordnung <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/20171124-DENOG_Satzung.pdf" class="btn btn-custom-default">Zur Satzung <i class="ion-arrow-right-c"></i></a></p>
                         </div>
