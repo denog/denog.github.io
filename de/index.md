@@ -31,7 +31,7 @@ redirect_from: "/"
             </div>
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>DENOG11 in Hamburg/h4>
+                    <h4>DENOG11 in Hamburg</h4>
                     <p>10.11. Workshop & Seminare // 11.-12.11. Hauptkonferenz</p>
                     <a href="https://cfp.denog.de/denog10/schedule" class="btn btn-custom-default mainpageboxlink newsblocklink" target="new">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
