@@ -17,7 +17,14 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
                <br>
                <br>
                <br>
-            <li>Überblick</li>
+                <li>Überblick</li>
+                <li>Zeitplan</li>
+                <li>Call for Papers</li>
+                <li>Registration | Teilnehmer</li>
+                <li>Location</li>
+                <li>Hotels</li>
+                <li>Orga Team</li>
+                <li>Sponsoring</li>
         </td>
         <td valign='top' style='width:70%; font-family:verdana; font-size:12pt;'>
             <br>
