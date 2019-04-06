@@ -77,10 +77,9 @@ Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten
                <br>
                <br>
                <br>
-            <center><b>Sponsoren</b></center>
+            <center><b>Sponsoren</b></center><br>
             <br>
         </td>
     </tr>
-    
-</table>
 
+</table>
