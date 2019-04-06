@@ -67,7 +67,7 @@ im Anschluss die Mitgliederversammlung<br>
 <br>
 Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten Wochen.
         </td>
-        <td  valign='top' style='width:20px;' >
+        <td  valign='top' style='width:5%;' >
         </td>
         <td  valign='top' style='width:15%;' >
                <br>
