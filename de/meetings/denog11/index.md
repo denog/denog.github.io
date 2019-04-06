@@ -42,7 +42,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
             <br>
             <br>
             <br>
-            <h4><b>Draft Programmxplan (to be changed)</b></h4>
+            <h4><b>Draft Programmplan (to be changed)</b></h4>
 <br>
 <b>Sonntag, 10. November 2019</b><br>
 Beginn: 	ca. 11.00 Uhr<br>
