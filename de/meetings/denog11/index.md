@@ -10,7 +10,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 <table>
     <tr>
         <td valign='top' style='width:15%;'>
-               <img src="https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png" style='width:250px;'><br>
+               <img src='https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png' style='width:250px;'><br>
                <br>
                <br>
                <br>
@@ -18,14 +18,13 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
                <br>
             <ul>
                 <li>Überblick
-                <li><a href=''>Zeitplan</a>
+                <li>Zeitplan
                 <li>Call for Papers
                 <li>Registration / Teilnehmer
                 <li>Location
                 <li>Hotels
                 <li>Orga Team
                 <li>Sponsoring
-            </ul>
         </td>
         <td valign='top' style='width:70%; font-family:verdana; font-size:12pt;'>
             <br>
