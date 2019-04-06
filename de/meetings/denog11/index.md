@@ -68,9 +68,10 @@ im Anschluss die Mitgliederversammlung<br>
 Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten Wochen.
         </td>
         <td  valign='top' style='width:15%;' >
+               <br>
+               <br>
+               <br>
             <b>Sponsoren</b><br>
-               <br>
-               <br>
                <br>
                <br>
                <br>
