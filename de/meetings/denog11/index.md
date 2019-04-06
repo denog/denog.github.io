@@ -16,7 +16,6 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
                <br>
                <br>
                <br>
-               
             <ul>
                 <li>Überblick
                 <li><a href="">Zeitplan</a>
