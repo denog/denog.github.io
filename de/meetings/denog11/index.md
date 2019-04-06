@@ -18,7 +18,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
                <br>
             <ul>
                 <li>Überblick
-                <li><a href="">Zeitplan</a>
+                <li><a href=''>Zeitplan</a>
                 <li>Call for Papers
                 <li>Registration / Teilnehmer
                 <li>Location
@@ -37,7 +37,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
             <b>Kurze Informationsübersicht:</b><br>
             <br>
             Location:<br>
-             <img src="http://www.bucerius-event.de/fileadmin/_processed_/csm_aussen_auditorium_f39f1fa2e4.jpg" style='width:350px;'><br>
+             <img src='http://www.bucerius-event.de/fileadmin/_processed_/csm_aussen_auditorium_f39f1fa2e4.jpg' style='width:350px;'><br>
             Bucerius Law School Hamburg <br>
             <a href='http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/' target='_new'>http://www.bucerius-event.de/die-location/raeumlichkeiten/helmut-schmidt-auditorium/</a>
             <br>
@@ -74,31 +74,3 @@ Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten
     
 </table>
 
-<!--
-<hr class="verticaldivider" />
-<div class="mainpagepaddedbox">
-    <h3>Sponsoren</h3>
-    <div id="sponsorslider" data-images="3"></div>
-</div>
-<script type="text/javascript">
-    var sliderImageItems = [
-                '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_de-cix.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_eshelter.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_eshelter.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_NL-IX.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_NL-IX.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_flexoptix.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_dc1.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_gasline.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_megaport.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_syseleven.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_thomaskrenn.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_netbrain.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_hubersuhner.jpg',
-                '{{ site.url }}/images/meetings/denog10/sponsor_centurylink.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_core_backbone_infinera.png',
-                '{{ site.url }}/images/meetings/denog10/sponsor_xantaro.png'
-    ];
-</script>
--->
