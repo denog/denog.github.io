@@ -7,26 +7,7 @@ city: Hamburg
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 
-<table>
-    <tr>
-        <td valign='top' style='width:15%;'>
-               <img src='https://www.denog.de/images/denog-logo-konferenz-11_v001_whitebg.png' style='width:250px;'>
-            <br>
-               <br>
-               <br>
-               <br>
-               <br>
-               <br>
-                <li>Überblick</li>
-                <li>Zeitplan</li>
-                <li>Call for Papers</li>
-                <li>Registration | Teilnehmer</li>
-                <li>Location</li>
-                <li>Hotels</li>
-                <li>Orga Team</li>
-                <li>Sponsoring</li>
-        </td>
-        <td valign='top' style='width:70%; font-family:verdana; font-size:12pt;'>
+
             <br>
             <br>
             <br>
@@ -66,20 +47,4 @@ im Anschluss die Mitgliederversammlung<br>
 <br>
 <br>
 Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten Wochen.
-        </td>
-        <td  valign='top' style='width:5%;' >
-        </td>
-        <td  valign='top' style='width:15%;' >
-               <br>
-               <br>
-               <br>
-               <br>
-               <br>
-               <br>
-               <br>
-            <center><b>Sponsoren</b></center><br>
-            <br>
-        </td>
-    </tr>
-
-</table>
+        
