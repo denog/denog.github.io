@@ -7,7 +7,7 @@ city: Hamburg
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 
-
+test
             <br>
             <br>
             <br>
@@ -47,4 +47,3 @@ im Anschluss die Mitgliederversammlung<br>
 <br>
 <br>
 Mehr Details und Informationen, sowie den Call for Papers folgt in den nächsten Wochen.
-        
