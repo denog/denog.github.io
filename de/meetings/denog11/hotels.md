@@ -7,6 +7,19 @@ city: Hamburg
 ---
 
 
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <b>Kurze Informationsübersicht:</b><br>
+            <br>
+
+            <br>
+            <br>
+            <br>
+            <h4><b>Draft Programmplan (to be changed)</b></h4>
+<br>
 <b>Sonntag, 10. November 2019</b><br>
 Beginn: 	ca. 11.00 Uhr<br>
 Workshops & Seminare<br>
