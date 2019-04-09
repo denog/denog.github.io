@@ -10,7 +10,8 @@ city: Hamburg
             <br>
             <br>
             <br>
-            <br>
+            <br>            <center><h3><b>DENOG 11 findet vom 10. - 12. November 2019 in Hamburg statt.</b></h3></center>
+
             <br>
             <b>Kurze Informationsübersicht:</b><br>
             <br>
@@ -18,7 +19,6 @@ city: Hamburg
             <br>
             <br>
             <br>
-            <h4><b>Draft Programmplan (to be changed)</b></h4>
 <br>
 <b>Sonntag, 10. November 2019</b><br>
 Beginn: 	ca. 11.00 Uhr<br>
