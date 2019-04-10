@@ -9,3 +9,6 @@ city: Hamburg
 
 
 ## Hotel Optionen
+
+{% assign url = 'https://pretix.eu/denog/meetup001/' %}
+{% include_remote {{ url }} %}
