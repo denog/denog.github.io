@@ -12,7 +12,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 
 ## DENOG Meetup Berlin
 
-**1. DENOG Meetup in Berlin**<br>
+####**1. DENOG Meetup in Berlin**<br>
 Dienstag 28.05.2019<br>
 ab 18:30 Uhr<br>
 in den Räumen der SysEleven, Boxhagener Str. 80, 10245 Berlin<br>
