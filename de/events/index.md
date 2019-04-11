@@ -11,9 +11,9 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 
 ## DENOG Meetup Berlin
 
-**1. DENOG Meetup in Berlin**
-Dienstag 28.05.2019
-ab 18:30 Uhr
-in den Räumen der SysEleven, Boxhagener Str. 80, 10245 Berlin
+**1. DENOG Meetup in Berlin**<br>
+Dienstag 28.05.2019<br>
+ab 18:30 Uhr<br>
+in den Räumen der SysEleven, Boxhagener Str. 80, 10245 Berlin<br>
 
-Kostenlose Registrierung: [Registrierung](https://pretix.eu/denog/meetup001/)
+Kostenlose Registrierung: [PreTix](https://pretix.eu/denog/meetup001/)
