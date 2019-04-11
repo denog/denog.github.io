@@ -12,11 +12,7 @@
 			{"url": "#", "text": "DENOG11 Conference", "childs": [
 				{"url": "meetings/denog11/index.html", "text": "Übersicht"}
 			]},
-			{"url": "#", "text": "Events", "childs": [
-				{"url": "meetups.html", "text": "Meetups"},
-				{"url": "archiv.html", "text": "Archiv"}
-			]},
-
+			{"url": "archiv.html", "text": "Archiv"},
 			{"url": "kontakt.html", "text": "Kontakt"}
 		],
 		"bottom": [
