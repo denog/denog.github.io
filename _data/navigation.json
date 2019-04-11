@@ -13,7 +13,7 @@
 				{"url": "meetings/denog11/index.html", "text": "Übersicht"}
 			]},
 			{"url": "#", "text": "Events", "childs": [
-				{"url": "meetups.html", "text": "Meetups"},
+				{"url": "events/index.html", "text": "Meetups"},
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
 
