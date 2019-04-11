@@ -10,7 +10,7 @@
 				{"url": "chatterliste_iframe.html", "text": "Chatterliste"}
 			]},
 			{"url": "#", "text": "DENOG11 Conference", "childs": [
-				{"url": "meetings/denog11/index.html", "text": "Übersicht"}
+				{"url": "meetings/denog11/index.html", "text": "Übersicht"},
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
 			{"url": "#", "text": "Events", "childs": [
