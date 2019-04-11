@@ -35,17 +35,18 @@ redirect_from: "/"
                      <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG Meetup Berlin</h4>
-                    <p>Save the Date - 28.05.2019</p>
+                    <h4>1. DENOG Meetup Berlin</h4>
+                    <p>Dienstag 28.05.2019 - 18.30h</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                   <div class="newsblock">
                     <h4>DENOG11 Tickets</h4>
                     <p>Ticketvorverkauf startet demnächst</p>
-              
+
                 </div>
-               
+
             </div>
         </div>
-      
+
     </div>
 </div>
