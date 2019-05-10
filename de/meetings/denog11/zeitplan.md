@@ -99,7 +99,6 @@ city: Hamburg
   <tr>
     <td>11:00
     <td colspan='3'><center>Workshops
-    <td>
     <td><center>Talk
   
   <tr>
