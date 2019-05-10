@@ -166,7 +166,7 @@ city: Hamburg
     <td>
     <td>
     <td><center>Talk
-    <td><center>2. Ordentliche<br>Mitgliederversammlung<br>der DENOG e.V.
+    <td rowspan='4'><center>2. Ordentliche<br>Mitgliederversammlung<br>der DENOG e.V.
   
   <tr>
     <td>14:30
