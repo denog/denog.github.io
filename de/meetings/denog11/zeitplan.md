@@ -8,7 +8,7 @@ city: Hamburg
 <br>
 <br>
 <br>
-Draft Zeitplan<br>
+<h1>Draft Zeitplan</h1><br>
 (Änderungen jederzeit möglich)<br>
 <table border='1'>
   <tr>
