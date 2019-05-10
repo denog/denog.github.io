@@ -105,7 +105,7 @@ city: Hamburg
   <tr>
     <td>11:30
     <td colspan='3'><center>Workshops
-    <td><center>Welcome Lunch
+    <td rowspan='2'><center>Welcome Lunch
     <td><center>Talk
   
   <tr>
