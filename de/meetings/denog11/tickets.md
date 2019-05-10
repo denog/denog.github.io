@@ -9,7 +9,7 @@ city: Hamburg
 <br>
 <br>
 
-<div class="pretix-widget-compat" event="https://pretix.eu/denog/denog11/c/LsetlcFTd/"></div>
+<div class="pretix-widget-compat" event="https://pretix.eu/denog/denog11/"></div>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
