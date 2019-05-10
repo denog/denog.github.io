@@ -42,9 +42,9 @@ city: Hamburg
   
   <tr>
     <td>
-    <td><center>Topic: TBD
-    <td><center>Topic: TBD
-    <td><center>Topic: TBD
+    <td><center>Topic:<br>TBD
+    <td><center>Topic:<br>TBD
+    <td><center>Topic:<br>TBD
     <td>
     <td>
   
