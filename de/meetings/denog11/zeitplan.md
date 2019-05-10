@@ -201,42 +201,35 @@ city: Hamburg
     <td>19:30
     <td colspan='3'>
     <td>
-    <td>
   
   <tr>
     <td>20:00
     <td colspan='3'>
-    <td>
     <td>
   
   <tr>
     <td>20:30
     <td colspan='3'>
     <td>
-    <td>
   
   <tr>
     <td>21:00
     <td colspan='3'>
-    <td>
     <td>
   
   <tr>
     <td>21:30
     <td colspan='3'>
     <td>
-    <td>
   
   <tr>
     <td>22:00
     <td colspan='3'>
     <td>
-    <td>
   
   <tr>
     <td>22:30
     <td colspan='3'>
-    <td>
     <td>
   
   <tr>
