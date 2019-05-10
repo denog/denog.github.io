@@ -21,327 +21,327 @@ city: Hamburg
     <th><b><center>Tuesday
   </tr>
   <tr>
-    <td></td>
-    <td colspan='3'><center>10.11.2019</td>
-    <td><center>11.11.2019</td>
-    <td><center>12.11.2019</td>
+    <td>
+    <td colspan='3'><center>10.11.2019
+    <td><center>11.11.2019
+    <td><center>12.11.2019
   </tr>
   <tr>
-    <td></td>
-    <td colspan='3'><center>Workshops</td>
-    <td><center>Conference</td>
-    <td><center>Conference</td>
+    <td>
+    <td colspan='3'><center>Workshops
+    <td><center>Conference
+    <td><center>Conference
   </tr>
   <tr>
-    <td></td>
-    <td><center>Track 1</td>
-    <td><center>Track 2</td>
-    <td><center>Track 3 (optional)</td>
-    <td></td>
-    <td></td>
+    <td>
+    <td><center>Track 1
+    <td><center>Track 2
+    <td><center>Track 3 (optional)
+    <td>
+    <td>
   </tr>
   <tr>
-    <td></td>
-    <td><center>Topic: TBD</td>
-    <td><center>Topic: TBD</td>
-    <td><center>Topic: TBD</td>
-    <td></td>
-    <td></td>
+    <td>
+    <td><center>Topic: TBD
+    <td><center>Topic: TBD
+    <td><center>Topic: TBD
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>7:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>7:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>7:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>7:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>8:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>8:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>8:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><center>Registration Desk Open</td>
+    <td>8:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td><center>Registration Desk Open
   </tr>
   <tr>
-    <td>9:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
+    <td>9:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td><center>Talk
   </tr>
   <tr>
-    <td>9:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><center>Registration Desk Open</td>
-    <td><center>Talk</td>
+    <td>9:30
+    <td>
+    <td>
+    <td>
+    <td><center>Registration Desk Open
+    <td><center>Talk
   </tr>
   <tr>
-    <td>10:00</td>
-    <td><center>Registration Desk Open</td>
-    <td></td>
-    <td></td>
-    <td><center>Registration Desk Open</td>
-    <td><center>Talk</td>
+    <td>10:00
+    <td><center>Registration Desk Open
+    <td>
+    <td>
+    <td><center>Registration Desk Open
+    <td><center>Talk
   </tr>
   <tr>
-    <td>10:30</td>
-    <td><center>Registration Desk Open</td>
-    <td></td>
-    <td></td>
-    <td><center>Newcomer Session</td>
-    <td><center>Coffee Break</td>
+    <td>10:30
+    <td><center>Registration Desk Open
+    <td>
+    <td>
+    <td><center>Newcomer Session
+    <td><center>Coffee Break
   </tr>
   <tr>
-    <td>11:00</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
+    <td>11:00
+    <td><center>Workshops
+    <td>
+    <td>
+    <td>
+    <td><center>Talk
   </tr>
   <tr>
-    <td>11:30</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Welcome Lunch</td>
-    <td><center>Talk</td>
+    <td>11:30
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Welcome Lunch
+    <td><center>Talk
   </tr>
   <tr>
-    <td>12:00</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
+    <td>12:00
+    <td><center>Workshops
+    <td>
+    <td>
+    <td>
+    <td><center>Talk
   </tr>
   <tr>
-    <td>12:30</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Opening</td>
-    <td><center>Talk</td>
+    <td>12:30
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Opening
+    <td><center>Talk
   </tr>
   <tr>
-    <td>13:00</td>
-    <td><center>Break</td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
-    <td><center>Farewell Lunch</td>
+    <td>13:00
+    <td><center>Break
+    <td>
+    <td>
+    <td><center>Talk
+    <td><center>Farewell Lunch
   </tr>
   <tr>
-    <td>13:30</td>
-    <td><center>Break</td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
-    <td></td>
+    <td>13:30
+    <td><center>Break
+    <td>
+    <td>
+    <td><center>Talk
+    <td>
   </tr>
   <tr>
-    <td>14:00</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
-    <td><center>2. Ordentliche Mitgliederversammlung der DENOG e.V.</td>
+    <td>14:00
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Talk
+    <td><center>2. Ordentliche Mitgliederversammlung der DENOG e.V.
   </tr>
   <tr>
-    <td>14:30</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
-    <td></td>
+    <td>14:30
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Talk
+    <td>
   </tr>
   <tr>
-    <td>15:00</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Coffee Break</td>
-    <td></td>
+    <td>15:00
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Coffee Break
+    <td>
   </tr>
   <tr>
-    <td>15:30</td>
-    <td><center>Break</td>
-    <td></td>
-    <td></td>
-    <td><center>Coffee Break</td>
-    <td></td>
+    <td>15:30
+    <td><center>Break
+    <td>
+    <td>
+    <td><center>Coffee Break
+    <td>
   </tr>
   <tr>
-    <td>16:00</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
-    <td></td>
+    <td>16:00
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Talk
+    <td>
   </tr>
   <tr>
-    <td>16:30</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
-    <td></td>
+    <td>16:30
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Talk
+    <td>
   </tr>
   <tr>
-    <td>17:00</td>
-    <td><center>Workshops</td>
-    <td></td>
-    <td></td>
-    <td><center>Talk</td>
-    <td></td>
+    <td>17:00
+    <td><center>Workshops
+    <td>
+    <td>
+    <td><center>Talk
+    <td>
   </tr>
   <tr>
-    <td>17:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Talk</td>
-    <td></td>
+    <td>17:30
+    <td>
+    <td>
+    <td>
+    <td>Talk
+    <td>
   </tr>
   <tr>
-    <td>18:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>18:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>18:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>18:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>19:00</td>
-    <td rowspan='13'><center>Selbstzahler Social</td>
-    <td></td>
-    <td></td>
-    <td rowspan='13'><center>Social</td>
-    <td></td>
+    <td>19:00
+    <td rowspan='13'><center>Selbstzahler Social
+    <td>
+    <td>
+    <td rowspan='13'><center>Social
+    <td>
   </tr>
   <tr>
-    <td>19:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>19:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>20:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>20:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>21:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>21:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>21:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>21:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>22:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>22:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>22:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>22:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>23:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>23:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>23:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>23:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>0:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>0:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>0:30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>0:30
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
   <tr>
-    <td>1:00</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>1:00
+    <td>
+    <td>
+    <td>
+    <td>
+    <td>
   </tr>
 
