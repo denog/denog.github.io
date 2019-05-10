@@ -93,7 +93,7 @@ city: Hamburg
   <tr>
     <td>10:30
     <td colspan='3'><center>Registration Desk Open
-    <td rowspan=2><center>Newcomer Session
+    <td rowspan='2'><center>Newcomer Session
     <td><center>Coffee Break
   
   <tr>
