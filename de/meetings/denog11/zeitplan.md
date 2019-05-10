@@ -19,19 +19,19 @@ city: Hamburg
     <th colspan='3'><b><center>Sunday
     <th><b><center>Monday
     <th><b><center>Tuesday
-  </tr>
+  
   <tr>
     <td>
     <td colspan='3'><center>10.11.2019
     <td><center>11.11.2019
     <td><center>12.11.2019
-  </tr>
+  
   <tr>
     <td>
     <td colspan='3'><center>Workshops
     <td><center>Conference
     <td><center>Conference
-  </tr>
+  
   <tr>
     <td>
     <td><center>Track 1
@@ -39,7 +39,7 @@ city: Hamburg
     <td><center>Track 3 (optional)
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>
     <td><center>Topic: TBD
@@ -47,7 +47,7 @@ city: Hamburg
     <td><center>Topic: TBD
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>7:00
     <td>
@@ -55,7 +55,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>7:30
     <td>
@@ -63,7 +63,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>8:00
     <td>
@@ -71,7 +71,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>8:30
     <td>
@@ -79,7 +79,7 @@ city: Hamburg
     <td>
     <td>
     <td><center>Registration Desk Open
-  </tr>
+  
   <tr>
     <td>9:00
     <td>
@@ -87,7 +87,7 @@ city: Hamburg
     <td>
     <td>
     <td><center>Talk
-  </tr>
+  
   <tr>
     <td>9:30
     <td>
@@ -95,7 +95,7 @@ city: Hamburg
     <td>
     <td><center>Registration Desk Open
     <td><center>Talk
-  </tr>
+  
   <tr>
     <td>10:00
     <td><center>Registration Desk Open
@@ -103,7 +103,7 @@ city: Hamburg
     <td>
     <td><center>Registration Desk Open
     <td><center>Talk
-  </tr>
+  
   <tr>
     <td>10:30
     <td><center>Registration Desk Open
@@ -111,7 +111,7 @@ city: Hamburg
     <td>
     <td><center>Newcomer Session
     <td><center>Coffee Break
-  </tr>
+  
   <tr>
     <td>11:00
     <td><center>Workshops
@@ -119,7 +119,7 @@ city: Hamburg
     <td>
     <td>
     <td><center>Talk
-  </tr>
+  
   <tr>
     <td>11:30
     <td><center>Workshops
@@ -127,7 +127,7 @@ city: Hamburg
     <td>
     <td><center>Welcome Lunch
     <td><center>Talk
-  </tr>
+  
   <tr>
     <td>12:00
     <td><center>Workshops
@@ -135,7 +135,7 @@ city: Hamburg
     <td>
     <td>
     <td><center>Talk
-  </tr>
+  
   <tr>
     <td>12:30
     <td><center>Workshops
@@ -143,7 +143,7 @@ city: Hamburg
     <td>
     <td><center>Opening
     <td><center>Talk
-  </tr>
+  
   <tr>
     <td>13:00
     <td><center>Break
@@ -151,7 +151,7 @@ city: Hamburg
     <td>
     <td><center>Talk
     <td><center>Farewell Lunch
-  </tr>
+  
   <tr>
     <td>13:30
     <td><center>Break
@@ -159,7 +159,7 @@ city: Hamburg
     <td>
     <td><center>Talk
     <td>
-  </tr>
+  
   <tr>
     <td>14:00
     <td><center>Workshops
@@ -167,7 +167,7 @@ city: Hamburg
     <td>
     <td><center>Talk
     <td><center>2. Ordentliche Mitgliederversammlung der DENOG e.V.
-  </tr>
+  
   <tr>
     <td>14:30
     <td><center>Workshops
@@ -175,7 +175,7 @@ city: Hamburg
     <td>
     <td><center>Talk
     <td>
-  </tr>
+  
   <tr>
     <td>15:00
     <td><center>Workshops
@@ -183,7 +183,7 @@ city: Hamburg
     <td>
     <td><center>Coffee Break
     <td>
-  </tr>
+  
   <tr>
     <td>15:30
     <td><center>Break
@@ -191,7 +191,7 @@ city: Hamburg
     <td>
     <td><center>Coffee Break
     <td>
-  </tr>
+  
   <tr>
     <td>16:00
     <td><center>Workshops
@@ -199,7 +199,7 @@ city: Hamburg
     <td>
     <td><center>Talk
     <td>
-  </tr>
+  
   <tr>
     <td>16:30
     <td><center>Workshops
@@ -207,7 +207,7 @@ city: Hamburg
     <td>
     <td><center>Talk
     <td>
-  </tr>
+  
   <tr>
     <td>17:00
     <td><center>Workshops
@@ -215,7 +215,7 @@ city: Hamburg
     <td>
     <td><center>Talk
     <td>
-  </tr>
+  
   <tr>
     <td>17:30
     <td>
@@ -223,7 +223,7 @@ city: Hamburg
     <td>
     <td>Talk
     <td>
-  </tr>
+  
   <tr>
     <td>18:00
     <td>
@@ -231,7 +231,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>18:30
     <td>
@@ -239,7 +239,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>19:00
     <td rowspan='13'><center>Selbstzahler Social
@@ -247,7 +247,7 @@ city: Hamburg
     <td>
     <td rowspan='13'><center>Social
     <td>
-  </tr>
+  
   <tr>
     <td>19:30
     <td>
@@ -255,7 +255,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>20:00
     <td>
@@ -263,7 +263,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>20:30
     <td>
@@ -271,7 +271,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>21:00
     <td>
@@ -279,7 +279,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>21:30
     <td>
@@ -287,7 +287,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>22:00
     <td>
@@ -295,7 +295,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>22:30
     <td>
@@ -303,7 +303,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>23:00
     <td>
@@ -311,7 +311,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>23:30
     <td>
@@ -319,7 +319,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>0:00
     <td>
@@ -327,7 +327,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>0:30
     <td>
@@ -335,7 +335,7 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
   <tr>
     <td>1:00
     <td>
@@ -343,5 +343,5 @@ city: Hamburg
     <td>
     <td>
     <td>
-  </tr>
+  
 
