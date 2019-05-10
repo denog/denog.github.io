@@ -1,3 +1,12 @@
+---
+layout: conference
+lang: de
+title: DENOG11
+year: 2019
+city: Hamburg
+---
+
+
 <div class="pretix-widget-compat" event="https://pretix.eu/denog/denog11/"></div>
 <noscript>
    <div class="pretix-widget">
