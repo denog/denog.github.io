@@ -110,7 +110,6 @@ city: Hamburg
   <tr>
     <td>12:00
     <td colspan='3'><center>Workshops
-    <td>
     <td><center>Talk
   
   <tr>
@@ -141,19 +140,17 @@ city: Hamburg
     <td>14:30
     <td colspan='3'><center>Workshops
     <td><center>Talk
-    <td>
+
   
   <tr>
     <td>15:00
     <td colspan='3'><center>Workshops
     <td><center>Coffee Break
-    <td>
   
   <tr>
     <td>15:30
     <td colspan='3'><center>Break
     <td><center>Coffee Break
-    <td>
   
   <tr>
     <td>16:00
@@ -246,30 +243,27 @@ city: Hamburg
     <td>23:00
     <td colspan='3'>
     <td>
-    <td>
   
   <tr>
     <td>23:30
     <td colspan='3'>
-    <td>
     <td>
   
   <tr>
     <td>0:00
     <td colspan='3'>
     <td>
-    <td>
   
   <tr>
     <td>0:30
     <td colspan='3'>
     <td>
-    <td>
+ 
   
   <tr>
     <td>1:00
     <td colspan='3'>
     <td>
-    <td>
+  
   
 
