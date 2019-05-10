@@ -13,7 +13,7 @@ city: Hamburg
 <br>
 <br>
 <br>
-<table border='1' padding='5'>
+<table border='1' padding='50'>
   <tr>
     <th></th>
     <th colspan='3'><b><center>Sunday
