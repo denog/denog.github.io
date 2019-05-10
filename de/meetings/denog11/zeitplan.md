@@ -36,7 +36,7 @@ city: Hamburg
     <td>
     <td><center>Track 1
     <td><center>Track 2
-    <td><center>Track 3 (optional)
+    <td><center>Track 3<br>(optional)
     <td>
     <td>
   
