@@ -9,9 +9,9 @@ city: Hamburg
 <table border='1'>
   <tr>
     <th></th>
-    <th colspan='3'><b>Sunday</th>
-    <th><b>Monday</th>
-    <th><b>Tuesday</th>
+    <th colspan='3'><b>Sunday
+    <th><b>Monday
+    <th><b>Tuesday
   </tr>
   <tr>
     <td></td>
