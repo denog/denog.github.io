@@ -9,7 +9,7 @@ city: Hamburg
 <br>
 <br>
 <h1>Draft Zeitplan</h1><br>
-(Änderungen jederzeit möglich)<br>
+(Stand: 10.05.2019 - Änderungen jederzeit möglich)<br>
 <br>
 <br>
 <br>
