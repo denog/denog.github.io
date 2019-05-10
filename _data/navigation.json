@@ -8,7 +8,7 @@
 				{"url": "informationen.html#irc-channel", "text": "IRC"},
 				{"url": "mailingliste.html", "text": "Mailingliste"},
 				{"url": "chatterliste_iframe.html", "text": "Chatterliste"},
-				{"url": "wiki_iframe.html", "text": "Wiki"}
+				{"url": "wiki.html", "text": "Wiki"}
 			]},
 			{"url": "meetings/denog11/index.html", "text": "DENOG11 Conference", "childs": [
 				{"url": "meetings/denog11/index.html", "text": "Übersicht"},
