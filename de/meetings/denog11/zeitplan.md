@@ -112,8 +112,6 @@ city: Hamburg
     <td>12:00
     <td colspan='3'><center>Workshops
     <td>
-    <td>
-    <td>
     <td><center>Talk
   
   <tr>
@@ -130,25 +128,25 @@ city: Hamburg
   
   <tr>
     <td>13:30
-    <td><center>Break
+    <td colspan='3'><center>Break
     <td><center>Talk
     <td>
   
   <tr>
     <td>14:00
-    <td><center>Workshops
+    <td colspan='3'><center>Workshops
     <td><center>Talk
     <td rowspan='4'><center>2. Ordentliche<br>Mitgliederversammlung<br>der DENOG e.V.
   
   <tr>
     <td>14:30
-    <td><center>Workshops
+    <td colspan='3'><center>Workshops
     <td><center>Talk
     <td>
   
   <tr>
     <td>15:00
-    <td><center>Workshops
+    <td colspan='3'><center>Workshops
     <td><center>Coffee Break
     <td>
   
