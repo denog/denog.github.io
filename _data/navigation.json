@@ -9,11 +9,13 @@
 				{"url": "mailingliste.html", "text": "Mailingliste"},
 				{"url": "chatterliste_iframe.html", "text": "Chatterliste"}
 			]},
-			{"url": "#", "text": "DENOG11 Conference", "childs": [
+			{"url": "meetings/denog11/index.html", "text": "DENOG11 Conference", "childs": [
 				{"url": "meetings/denog11/index.html", "text": "Übersicht"},
+				{"url": "meetings/denog11/tickets.html", "text": "Registration"},
+				{"url": "meetings/denog11/zeitplan.html", "text": "Zeitplan"},
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
-			{"url": "#", "text": "Events", "childs": [
+			{"url": "events/index.html", "text": "Events", "childs": [
 				{"url": "events/index.html", "text": "Meetups"},
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
