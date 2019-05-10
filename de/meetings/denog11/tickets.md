@@ -8,7 +8,7 @@ city: Hamburg
 <br>
 <br>
 <br>
-
+<h1>Registration</h1>
 <div class="pretix-widget-compat" event="https://pretix.eu/denog/denog11/c/LsetlcFTd/"></div>
 <noscript>
    <div class="pretix-widget">
