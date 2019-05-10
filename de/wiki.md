@@ -1,6 +1,8 @@
 ---
-layout: redirected
-sitemap: false
-permalink: /de/wiki
-redirect_to: http://wiki.denog.de/index.php/Hauptseite
+layout: page
 ---
+
+Das Wiki ist noch nicht umgezogen und kann hier gefunden werden:
+
+
+http://wiki.denog.de/index.php/Hauptseite
