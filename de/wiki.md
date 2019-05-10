@@ -5,4 +5,4 @@ layout: page
 Das Wiki ist noch nicht umgezogen und kann hier gefunden werden:
 
 
-http://wiki.denog.de/index.php/Hauptseite
+<a href='http://wiki.denog.de/index.php/Hauptseite' target='_new'>http://wiki.denog.de/index.php/Hauptseite</a>
