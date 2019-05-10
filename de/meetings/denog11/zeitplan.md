@@ -6,7 +6,7 @@ year: 2019
 city: Hamburg
 ---
 
-<table border=1>
+<table border="1">
   <tr>
     <th></th>
     <th colspan="3"><b>Sunday</th>
