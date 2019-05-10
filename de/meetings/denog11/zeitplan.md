@@ -6,22 +6,22 @@ year: 2019
 city: Hamburg
 ---
 
-<table border="1">
+<table border='1'>
   <tr>
     <th></th>
-    <th colspan="3"><b>Sunday</th>
+    <th colspan='3'><b>Sunday</th>
     <th><b>Monday</th>
     <th><b>Tuesday</th>
   </tr>
   <tr>
     <td></td>
-    <td colspan="3">10.11.2019</td>
+    <td colspan='3'>10.11.2019</td>
     <td>11.11.2019</td>
     <td>12.11.2019</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan="3">Workshops</td>
+    <td colspan='3'>Workshops</td>
     <td>Conference</td>
     <td>Conference</td>
   </tr>
