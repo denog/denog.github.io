@@ -49,37 +49,37 @@ city: Hamburg
     <td>
   
   <tr>
-    <td>7:00
+    <td>07:00
     <td colspan='3'>
     <td>
     <td>
   
   <tr>
-    <td>7:30
+    <td>07:30
     <td colspan='3'>
     <td>
     <td>
   
   <tr>
-    <td>8:00
+    <td>08:00
     <td colspan='3'>
     <td>
     <td>
   
   <tr>
-    <td>8:30
+    <td>08:30
     <td colspan='3'>
     <td>
     <td><center>Registration Desk Open
   
   <tr>
-    <td>9:00
+    <td>09:00
     <td colspan='3'>
     <td>
     <td><center>Talk
   
   <tr>
-    <td>9:30
+    <td>09:30
     <td colspan='3'>
     <td><center>Registration Desk Open
     <td><center>Talk
@@ -242,18 +242,18 @@ city: Hamburg
     <td>
   
   <tr>
-    <td>0:00
+    <td>00:00
     <td colspan='3'>
     <td>
   
   <tr>
-    <td>0:30
+    <td>00:30
     <td colspan='3'>
     <td>
  
   
   <tr>
-    <td>1:00
+    <td>01:00
     <td colspan='3'>
     <td>
   
