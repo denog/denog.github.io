@@ -58,7 +58,7 @@ city: Hamburg
   
   <tr>
     <td>7:30
-    <td>
+    <td colspan='3'>
     <td>
     <td>
     <td>
@@ -66,7 +66,7 @@ city: Hamburg
   
   <tr>
     <td>8:00
-    <td>
+    <td colspan='3'>
     <td>
     <td>
     <td>
@@ -74,7 +74,7 @@ city: Hamburg
   
   <tr>
     <td>8:30
-    <td>
+    <td colspan='3'>
     <td>
     <td>
     <td>
@@ -82,7 +82,7 @@ city: Hamburg
   
   <tr>
     <td>9:00
-    <td>
+    <td colspan='3'>
     <td>
     <td>
     <td>
@@ -90,7 +90,7 @@ city: Hamburg
   
   <tr>
     <td>9:30
-    <td>
+    <td colspan='3'>
     <td>
     <td>
     <td><center>Registration Desk Open
@@ -98,7 +98,7 @@ city: Hamburg
   
   <tr>
     <td>10:00
-    <td><center>Registration Desk Open
+    <td colspan='3'><center>Registration Desk Open
     <td>
     <td>
     <td><center>Registration Desk Open
@@ -106,7 +106,7 @@ city: Hamburg
   
   <tr>
     <td>10:30
-    <td><center>Registration Desk Open
+    <td colspan='3'><center>Registration Desk Open
     <td>
     <td>
     <td><center>Newcomer Session
@@ -114,7 +114,7 @@ city: Hamburg
   
   <tr>
     <td>11:00
-    <td><center>Workshops
+    <td colspan='3'><center>Workshops
     <td>
     <td>
     <td>
@@ -122,7 +122,7 @@ city: Hamburg
   
   <tr>
     <td>11:30
-    <td><center>Workshops
+    <td colspan='3'><center>Workshops
     <td>
     <td>
     <td><center>Welcome Lunch
@@ -130,7 +130,7 @@ city: Hamburg
   
   <tr>
     <td>12:00
-    <td><center>Workshops
+    <td colspan='3'><center>Workshops
     <td>
     <td>
     <td>
@@ -138,7 +138,7 @@ city: Hamburg
   
   <tr>
     <td>12:30
-    <td><center>Workshops
+    <td colspan='3'><center>Workshops
     <td>
     <td>
     <td><center>Opening
@@ -146,7 +146,7 @@ city: Hamburg
   
   <tr>
     <td>13:00
-    <td><center>Break
+    <td colspan='3'><center>Break
     <td>
     <td>
     <td><center>Talk
