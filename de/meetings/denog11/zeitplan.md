@@ -50,9 +50,7 @@ city: Hamburg
   
   <tr>
     <td>7:00
-    <td>
-    <td>
-    <td>
+    <td colspan='3'>
     <td>
     <td>
   
@@ -61,14 +59,10 @@ city: Hamburg
     <td colspan='3'>
     <td>
     <td>
-    <td>
-    <td>
   
   <tr>
     <td>8:00
     <td colspan='3'>
-    <td>
-    <td>
     <td>
     <td>
   
@@ -76,23 +70,17 @@ city: Hamburg
     <td>8:30
     <td colspan='3'>
     <td>
-    <td>
-    <td>
     <td><center>Registration Desk Open
   
   <tr>
     <td>9:00
     <td colspan='3'>
     <td>
-    <td>
-    <td>
     <td><center>Talk
   
   <tr>
     <td>9:30
     <td colspan='3'>
-    <td>
-    <td>
     <td><center>Registration Desk Open
     <td><center>Talk
   
