@@ -10,38 +10,41 @@ city: Hamburg
 <br>
 <h1>Draft Zeitplan</h1><br>
 (Änderungen jederzeit möglich)<br>
+<br>
+<br>
+<br>
 <table border='1'>
   <tr>
     <th></th>
-    <th colspan='3'><b>Sunday
-    <th><b>Monday
-    <th><b>Tuesday
+    <th colspan='3'><b><center>Sunday
+    <th><b><center>Monday
+    <th><b><center>Tuesday
   </tr>
   <tr>
     <td></td>
-    <td colspan='3'>10.11.2019</td>
-    <td>11.11.2019</td>
-    <td>12.11.2019</td>
+    <td colspan='3'><center>10.11.2019</td>
+    <td><center>11.11.2019</td>
+    <td><center>12.11.2019</td>
   </tr>
   <tr>
     <td></td>
-    <td colspan='3'>Workshops</td>
-    <td>Conference</td>
-    <td>Conference</td>
+    <td colspan='3'><center>Workshops</td>
+    <td><center>Conference</td>
+    <td><center>Conference</td>
   </tr>
   <tr>
     <td></td>
-    <td>Track 1</td>
-    <td>Track 2</td>
-    <td>Track 3 (optional)</td>
+    <td><center>Track 1</td>
+    <td><center>Track 2</td>
+    <td><center>Track 3 (optional)</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td></td>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
+    <td><center>Topic: TBD</td>
+    <td><center>Topic: TBD</td>
+    <td><center>Topic: TBD</td>
     <td></td>
     <td></td>
   </tr>
@@ -75,7 +78,7 @@ city: Hamburg
     <td></td>
     <td></td>
     <td></td>
-    <td>Registration Desk Open</td>
+    <td><center>Registration Desk Open</td>
   </tr>
   <tr>
     <td>9:00</td>
@@ -83,134 +86,134 @@ city: Hamburg
     <td></td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
   </tr>
   <tr>
     <td>9:30</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>Registration Desk Open</td>
-    <td>Talk</td>
+    <td><center>Registration Desk Open</td>
+    <td><center>Talk</td>
   </tr>
   <tr>
     <td>10:00</td>
-    <td>Registration Desk Open</td>
+    <td><center>Registration Desk Open</td>
     <td></td>
     <td></td>
-    <td>Registration Desk Open</td>
-    <td>Talk</td>
+    <td><center>Registration Desk Open</td>
+    <td><center>Talk</td>
   </tr>
   <tr>
     <td>10:30</td>
-    <td>Registration Desk Open</td>
+    <td><center>Registration Desk Open</td>
     <td></td>
     <td></td>
-    <td>Newcomer Session</td>
-    <td>Coffee Break</td>
+    <td><center>Newcomer Session</td>
+    <td><center>Coffee Break</td>
   </tr>
   <tr>
     <td>11:00</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
   </tr>
   <tr>
     <td>11:30</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Welcome Lunch</td>
-    <td>Talk</td>
+    <td><center>Welcome Lunch</td>
+    <td><center>Talk</td>
   </tr>
   <tr>
     <td>12:00</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
   </tr>
   <tr>
     <td>12:30</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Opening</td>
-    <td>Talk</td>
+    <td><center>Opening</td>
+    <td><center>Talk</td>
   </tr>
   <tr>
     <td>13:00</td>
-    <td>Break</td>
+    <td><center>Break</td>
     <td></td>
     <td></td>
-    <td>Talk</td>
-    <td>Farewell Lunch</td>
+    <td><center>Talk</td>
+    <td><center>Farewell Lunch</td>
   </tr>
   <tr>
     <td>13:30</td>
-    <td>Break</td>
+    <td><center>Break</td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
     <td></td>
   </tr>
   <tr>
     <td>14:00</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Talk</td>
-    <td>2. Ordentliche Mitgliederversammlung der DENOG e.V.</td>
+    <td><center>Talk</td>
+    <td><center>2. Ordentliche Mitgliederversammlung der DENOG e.V.</td>
   </tr>
   <tr>
     <td>14:30</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
     <td></td>
   </tr>
   <tr>
     <td>15:00</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Coffee Break</td>
+    <td><center>Coffee Break</td>
     <td></td>
   </tr>
   <tr>
     <td>15:30</td>
-    <td>Break</td>
+    <td><center>Break</td>
     <td></td>
     <td></td>
-    <td>Coffee Break</td>
+    <td><center>Coffee Break</td>
     <td></td>
   </tr>
   <tr>
     <td>16:00</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
     <td></td>
   </tr>
   <tr>
     <td>16:30</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
     <td></td>
   </tr>
   <tr>
     <td>17:00</td>
-    <td>Workshops</td>
+    <td><center>Workshops</td>
     <td></td>
     <td></td>
-    <td>Talk</td>
+    <td><center>Talk</td>
     <td></td>
   </tr>
   <tr>
@@ -239,10 +242,10 @@ city: Hamburg
   </tr>
   <tr>
     <td>19:00</td>
-    <td>Selbstzahler Social</td>
+    <td rowspan='13'><center>Selbstzahler Social</td>
     <td></td>
     <td></td>
-    <td>Social</td>
+    <td rowspan='13'><center>Social</td>
     <td></td>
   </tr>
   <tr>
