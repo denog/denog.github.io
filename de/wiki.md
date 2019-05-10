@@ -1,6 +1,7 @@
 ---
 lang: de
-ref: wiki
+ref: wiki_neu
+title: wiki_neu
 ---
 
 Das Wiki ist noch nicht umgezogen und kann hier gefunden werden:
