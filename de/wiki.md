@@ -1,5 +1,6 @@
 ---
-layout: page
+lang: de
+ref: wiki
 ---
 
 Das Wiki ist noch nicht umgezogen und kann hier gefunden werden:
