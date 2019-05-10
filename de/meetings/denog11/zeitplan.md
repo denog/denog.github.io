@@ -1,9 +1,9 @@
-<table>
+<table border=1>
   <tr>
     <th></th>
-    <th colspan="3">Sunday</th>
-    <th>Monday</th>
-    <th>Tuesday</th>
+    <th colspan="3"><b>Sunday</th>
+    <th><b>Monday</th>
+    <th><b>Tuesday</th>
   </tr>
   <tr>
     <td></td>
