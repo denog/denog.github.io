@@ -173,8 +173,7 @@ city: Hamburg
   <tr>
     <td>17:30
     <td colspan='3'>
-    
-    <td>Talk
+    <td><center>Talk
     <td>
   
   <tr>
