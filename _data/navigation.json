@@ -14,6 +14,7 @@
 				{"url": "meetings/denog11/index.html", "text": "Übersicht"},
 				{"url": "meetings/denog11/tickets.html", "text": "Registration"},
 				{"url": "meetings/denog11/zeitplan.html", "text": "Zeitplan"},
+				{"url": "meetings/denog11/hotels.html", "text": "Hotels"},
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
 			{"url": "events/index.html", "text": "Events", "childs": [
