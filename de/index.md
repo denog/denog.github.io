@@ -42,7 +42,7 @@ redirect_from: "/"
                   <div class="newsblock">
                     <h4>DENOG11 Tickets</h4>
                     <p>Ticketvorverkauf startet demnächst</p>
-
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
                 </div>
 
             </div>
