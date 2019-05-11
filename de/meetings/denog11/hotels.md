@@ -9,7 +9,6 @@ city: Hamburg
 ## Hotel Optionen
 <br>
 <br>
-<br>
 <table border='1'>
 <tr>
   <td style='font-family:verdana; font-size:10pt; padding:5px;'>
