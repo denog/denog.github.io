@@ -4,7 +4,7 @@ lang: de
 ref: Governance
 ---
 
-## DENOG e.V. Governance
+## Governance
 <br>
 <br>
 #### Mitglieder Versammlungen & Informationen
@@ -22,6 +22,6 @@ ref: Governance
 <br><br>
 #### Finanzberichte
 - 2018
-- 2017
+- 2017 [Finanzbericht]() [Kassenprüfer]()
 
 <br><br>
