@@ -13,10 +13,15 @@ ref: Governance
 
 <br><br>
 #### Vereinsordnungen & Öffentliche Dokumente
-- TBD
+- Satzung (Stand: )
+- Beitragsordnung (Stand: )
+- Aufnahmeordnung (Stand: )
+- Geschäftsordnung des Vorstands(Stand: )
+
 
 <br><br>
 #### Finanzberichte
-- TBD
+- 2018
+- 2017
 
-<br>
+<br><br>
