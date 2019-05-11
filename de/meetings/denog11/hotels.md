@@ -16,28 +16,28 @@ city: Hamburg
   <td>
 
   </td>
-  <td>
+  <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Adresse</b>
   </td>
-  <td>
+  <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Konditionen</b>
   </td>
-  <td>
+  <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Link</b>
   </td>
 </tr>
   <tr>
-    <td>
+  <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     IntercityHotel Hamburg<br>Dammtor-Messe
     </td>
-    <td>
+    <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     St. Petersburger Straße 1<br>
     20355 Hamburg
     </td>
-    <td>
+    <td style='font-family:verdana; font-size:10pt; padding:5px;'>
 
     </td>
-    <td>
+    <td style='font-family:verdana; font-size:10pt; padding:5px;'>
       <a href="https://www.intercityhotel.com/en/hotels/all-hotels/germany/hamburg/intercityhotel-hamburg-dammtor-messe" target="\_new">IntercityHotel</a>
     </td>
   </tr>
