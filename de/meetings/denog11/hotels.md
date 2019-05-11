@@ -8,7 +8,7 @@ city: Hamburg
 
 ## Hotel Optionen
 
-<table padding=5>
+<table padding="5">
 <tr>
   <td>
     <b>Hotel</b>
@@ -35,7 +35,7 @@ city: Hamburg
 
     </td>
     <td>
-      [IntercityHotel](https://www.intercityhotel.com/en/hotels/all-hotels/germany/hamburg/intercityhotel-hamburg-dammtor-messe)
+      <a href="https://www.intercityhotel.com/en/hotels/all-hotels/germany/hamburg/intercityhotel-hamburg-dammtor-messe" target="\_new">IntercityHotel</a>
     </td>
   </tr>
 
