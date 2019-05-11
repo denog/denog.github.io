@@ -8,7 +8,7 @@ city: Hamburg
 
 ## Hotel Optionen
 
-<table>
+<table padding=5>
 <tr>
   <td>
     <b>Hotel</b>
