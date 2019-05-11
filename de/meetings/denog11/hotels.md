@@ -10,7 +10,7 @@ city: Hamburg
 <br>
 <br>
 <br>
-<table>
+<table border='1'>
 <tr>
   <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Hotel</b>
@@ -20,6 +20,9 @@ city: Hamburg
   </td>
   <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Konditionen</b>
+  </td>
+  <td style='font-family:verdana; font-size:10pt; padding:5px;'>
+    <b>Entfernung</b>
   </td>
   <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Link</b>
@@ -34,22 +37,14 @@ city: Hamburg
     20355 Hamburg
     </td>
     <td style='font-family:verdana; font-size:10pt; padding:5px;'>
-
+    Standard Rate (ca. €100 - 150 / Nacht)
+    </td>
+    <td style='font-family:verdana; font-size:10pt; padding:5px;'>
+    - 1min Walking Distance
     </td>
     <td style='font-family:verdana; font-size:10pt; padding:5px;'>
       <a href="https://www.intercityhotel.com/en/hotels/all-hotels/germany/hamburg/intercityhotel-hamburg-dammtor-messe" target="\_new">IntercityHotel</a>
     </td>
   </tr>
 
-  <tr>
-    <td>
-
-    </td>
-    <td>
-
-    </td>
-    <td>
-
-    </td>
-  </tr>
 </table>
