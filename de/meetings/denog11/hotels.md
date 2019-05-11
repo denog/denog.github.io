@@ -13,9 +13,6 @@ city: Hamburg
   <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Hotel</b>
   </td>
-  <td>
-
-  </td>
   <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Adresse</b>
   </td>
