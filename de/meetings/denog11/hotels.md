@@ -7,3 +7,7 @@ city: Hamburg
 ---
 
 ## Hotel Optionen
+
+IntercityHotel Hamburg Dammtor-Messe | St. Petersburger Straße 1<br>20355 Hamburg | https://www.intercityhotel.com/en/hotels/all-hotels/germany/hamburg/intercityhotel-hamburg-dammtor-messe
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
