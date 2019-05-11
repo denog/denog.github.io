@@ -7,8 +7,10 @@ city: Hamburg
 ---
 
 ## Hotel Optionen
-
-<table >
+<br>
+<br>
+<br>
+<table>
 <tr>
   <td style='font-family:verdana; font-size:10pt; padding:5px;'>
     <b>Hotel</b>
