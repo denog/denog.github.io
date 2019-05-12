@@ -16,7 +16,7 @@ ref: Governance
 - Satzung (Stand: )
 - Beitragsordnung (Stand: )
 - Aufnahmeordnung (Stand: )
-- Geschäftsordnung des Vorstands(Stand: )
+- Geschäftsordnung des Vorstands (Stand: )
 
 
 <br><br>

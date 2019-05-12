@@ -10,7 +10,7 @@
 				{"url": "chatterliste_iframe.html", "text": "Chatterliste"},
 				{"url": "wiki.html", "text": "Wiki"}
 			]},
-			{"url": "meetings/denog11/index.html", "text": "DENOG11 Conference", "childs": [
+			{"url": "meetings/denog11/index.html", "text": "DENOG11 Konferenz", "childs": [
 				{"url": "meetings/denog11/index.html", "text": "Übersicht"},
 				{"url": "meetings/denog11/tickets.html", "text": "Registration"},
 				{"url": "meetings/denog11/zeitplan.html", "text": "Zeitplan"},
@@ -19,6 +19,7 @@
 			]},
 			{"url": "events/index.html", "text": "Events", "childs": [
 				{"url": "events/index.html", "text": "Meetups"},
+				{"url": "meetings/denog11/index.html", "text": "DENOG11"},
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
 
