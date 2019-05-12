@@ -8,7 +8,7 @@ ref: Governance
 <br>
 <br>
 #### Mitglieder Versammlungen & Informationen
-- 2018-11-22  [Agenda](/files/gov/20181122_Agenda_Mitgliederversammlung2018_Final.pdf) [Slidedeck](/files/gov/) [Protokoll (Draft)](/files/gov/)
+- 2018-11-22  [ [Agenda] ](/files/gov/20181122_Agenda_Mitgliederversammlung2018_Final.pdf) [Slidedeck](/files/gov/) [Protokoll (Draft)](/files/gov/)
 - 2017-11-24  [Protokoll (Draft)](/files/gov/20171124_Gruendungsprotokoll.pdf)
 
 <br><br>
