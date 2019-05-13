@@ -16,6 +16,6 @@ city: Hamburg
  <br><br>
 ## Aktuelle Informationen
 <br>
-##### 2019-05-13   Ticketverkauf gestartet [Draft Zeitplan](/de/meetings/denog11/tickets.html)
+##### 2019-05-13   Ticketverkauf gestartet [ [Tickets] ](/de/meetings/denog11/tickets.html)
 
-##### 2019-05-11   Draft Zeitplan online [Draft Zeitplan](/de/meetings/denog11/zeitplan.html)
+##### 2019-05-11   Draft Zeitplan online [ [Draft Zeitplan] ](/de/meetings/denog11/zeitplan.html)
