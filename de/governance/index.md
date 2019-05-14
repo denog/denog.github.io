@@ -21,14 +21,5 @@ ref: Governance
 
 <br><br>
 #### Finanzberichte
-- 2018: TBD
-- 2017: TBD
-
-<br><br>
-
-
-#### Finanzberichte
-- 2018: TBD
-- 2017: TBD
 
 <br><br>
