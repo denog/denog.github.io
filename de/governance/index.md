@@ -15,8 +15,6 @@ ref: Governance
 #### Vereinsordnungen & Öffentliche Dokumente
 - [Satzung (Stand: 24.11.2017) ](/files/verein/20171124-DENOG_Satzung.pdf)
 - [Beitragsordnung (Stand: 24.11.2017) ](/files/verein/20171124-DENOG_Beitragsordnung.pdf)
-- [Aufnahmeordnung (Stand: 18.10.2018)](/files/verein/)
-- [Geschäftsordnung des Vorstands (Stand: 22.02.2019)](/files/verein/)
 
 
 <br><br>
