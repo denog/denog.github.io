@@ -13,4 +13,6 @@ city: Hamburg
 <br>
 <br>
 
-Der Call for Papers startet in Kürze.
+The Call for Papers for DENOG11 2019 is live and can be found here:<br>
+<br>
+<a href="https://pretalx.denog.de/denog11/cfp" target="new">DENOG11 Call for Papers</a>
