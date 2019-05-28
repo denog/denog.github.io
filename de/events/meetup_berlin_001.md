@@ -16,7 +16,7 @@ in den Räumen der SysEleven, Boxhagener Str. 80, 10245 Berlin<br>
 
 Talk | Presenter | Slidedeck
 ------------ | -------------
-»DENOG Welcome« | Patrick Bussmann |     | [ Download ]()
-»mimir - der beste Freund deiner beschissenen CLI« | Christian Dieckhoff & <br>Thomas Karmann |     | [ Download ]()
-»ping_exporter & Prometheus: Netzwerk-Latenzen messen und via Grafana darstellen« | Stefan Funke |      | [ Download ]()
-»VLAN -> VXLAN -> NOLAN ... VPN mal anders« | Vincentz Petzholtz |      | [ Download ]()
+»DENOG Welcome« | Patrick Bussmann |     | [ [Download] ]()
+»mimir - der beste Freund deiner beschissenen CLI« | Christian Dieckhoff & <br>Thomas Karmann |     | [ [Download] ]()
+»ping_exporter & Prometheus: Netzwerk-Latenzen messen und via Grafana darstellen« | Stefan Funke |      | [ [Download] ]()
+»VLAN -> VXLAN -> NOLAN ... VPN mal anders« | Vincentz Petzholtz |      | [ [Download] ]()
