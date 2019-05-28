@@ -18,5 +18,5 @@ Talk | Presenter | Slidedeck
 ------------ | -------------
 »DENOG Welcome« | Patrick Bussmann |     | [<a href='http://www.denog.de/files/meetups/20190528_DENOG_Meetup_Berlin.pdf' target='_new'>Download</a>]
 »mimir - der beste Freund deiner beschissenen CLI« | Christian Dieckhoff & <br>Thomas Karmann |     | [Download]
-»ping_exporter & Prometheus: Netzwerk-Latenzen messen und via Grafana darstellen« | Stefan Funke |      | [Download]
+»ping_exporter & Prometheus: Netzwerk-Latenzen messen und via Grafana darstellen« | Stefan Funke |      | [<a href='http://www.denog.de/files/meetups/20190528_DENOG_Meetup_Berlin_001_ping_exporter.pdf' target='_new'>Download</a>]
 »VLAN -> VXLAN -> NOLAN ... VPN mal anders« | Vincentz Petzholtz |      | [Download]
