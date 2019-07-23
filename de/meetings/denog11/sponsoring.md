@@ -14,16 +14,16 @@ city: Hamburg
 
 ## Platin
 <p align="center">
-<img src="/images/meetings/denog11/sponsor_de-cix.png" height="200"  title="DE-CIX"> &nbsp; 
-<img src="/images/meetings/denog11/sponsor_bcix.png" height="200"  title="BCIX">
+<img src="/images/meetings/denog11/sponsor_de-cix.png" height="175"  title="DE-CIX"> &nbsp; 
+<img src="/images/meetings/denog11/sponsor_bcix.png" height="175"  title="BCIX">
 </p>
 
 ## Gold
 <p align="center">
-<img src="/images/meetings/denog11/sponsor_thomaskrenn.jpg" height="150"  title="Thomas-Krenn.AG"> &nbsp; 
+<img src="/images/meetings/denog11/sponsor_thomaskrenn.jpg" height="100"  title="Thomas-Krenn.AG"> &nbsp; 
 </p>
 
 ## Silver
 <p align="center">
-<img src="/images/meetings/denog11/sponsor_syseleven.png" height="100"  title="SysEleven"> &nbsp; 
+<img src="/images/meetings/denog11/sponsor_syseleven.png" height="50"  title="SysEleven"> &nbsp; 
 </p>
