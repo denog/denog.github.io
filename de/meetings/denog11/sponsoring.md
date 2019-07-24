@@ -9,21 +9,32 @@ city: Hamburg
 
 ## Diamond
 <p align="center">
-<img src="/images/meetings/denog11/sponsor_iphh.png" height="250"  title="Internet Port Hamburg">
+    <a href="https://www.iphh.net" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_iphh.png" height="250"  title="Internet Port Hamburg">
+    </a>
 </p>
 
 ## Platin
 <p align="center">
-<img src="/images/meetings/denog11/sponsor_de-cix.png" height="175"  title="DE-CIX"> &nbsp; 
-<img src="/images/meetings/denog11/sponsor_bcix.png" height="175"  title="BCIX">
+    <a href="https://www.bcix.de" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_bcix.png" height="175"  title="BCIX">
+    </a>
+    &nbsp;
+    <a href="https://www.de-cix.net" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_de-cix.png" height="175"  title="DE-CIX"> 
+    </a>
 </p>
 
 ## Gold
 <p align="center">
-<img src="/images/meetings/denog11/sponsor_thomaskrenn.jpg" height="100"  title="Thomas-Krenn.AG"> &nbsp; 
+    <a href="https://www.thomas-krenn.com" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_thomaskrenn.jpg" height="100"  title="Thomas-Krenn.AG"> &nbsp; 
+    </a>
 </p>
 
 ## Silver
 <p align="center">
-<img src="/images/meetings/denog11/sponsor_syseleven.png" height="50"  title="SysEleven"> &nbsp; 
+    <a href="https://www.syseleven.de" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_syseleven.png" height="50"  title="SysEleven">
+    </a>
 </p>
