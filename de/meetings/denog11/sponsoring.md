@@ -60,4 +60,8 @@ city: Hamburg
     <a href="https://www.dc1.com" target="_blank">
         <img src="/images/meetings/denog11/sponsor_dc1.jpg" height="50"  title="Datacenter One">
     </a>
+    &nbsp;
+    <a href="https://www.kentik.com" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_kentik.png" height="50"  title="Kentik">
+    </a>
 </p>
