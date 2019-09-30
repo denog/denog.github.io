@@ -31,13 +31,18 @@ city: Hamburg
 
 ## Gold
 <p align="center">
+    <a href="https://www.aliternetworks.com" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_aliter.png" height="125"  title="Aliter Networks"> 
+    </a>
+    &nbsp;
+    <a href="https://www.core-backbone.com.com" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_corebackbone.png" height="100"  title="Core Backbone">
+    </a>
+    &nbsp;
     <a href="https://www.thomas-krenn.com" target="_blank">
         <img src="/images/meetings/denog11/sponsor_thomaskrenn.jpg" height="100"  title="Thomas-Krenn.AG">
     </a>
-    &nbsp;
-    <a href="https://www.aliternetworks.com" target="_blank">
-        <img src="/images/meetings/denog11/sponsor_aliter.png" height="175"  title="Aliter Networks"> 
-    </a>
+
 </p>
 
 ## Silver
