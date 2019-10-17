@@ -16,5 +16,17 @@ Workshops will take place on **Sunday, November 10th**. Preregistration is requi
 <br/>
 <hl/>
 <h2> Track 1 <h2>
-^ Time ^ Workshop ^
-| 11:00 - 12:00 | **PeeringDB - Learning the Ropes** <br/> Arnold Nipper <br/> |
+<table>
+  <tr>
+    <th>Time</th>
+    <th>Track 1</th>
+    <th>Track 2</th>
+    <th>Track 3</th>
+    <th>Track 4</th>
+    <th>Track 5</th>
+  </tr>
+  <tr>
+    <td>11:00 - 12:00 </td>
+    <td><b>PeeringDB - Learning the Ropes</b><br/>Arnold Nipper</td>
+  </tr>
+</table>
