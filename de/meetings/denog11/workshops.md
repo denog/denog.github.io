@@ -23,7 +23,7 @@ PeeringDB is around since more than 15 years now. And PeeringDB 2.0 with
 the new GUI and API also already sicne 3.5 years. As documentation is
 very sparse we developed a tutorial to explain in detail how to work
 with the GUI from registration to management of object.<br>
-<b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.
+<b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.<br>
 <b>Target Audience:</b> Newcomers
 <h3>13:00 - 17:00: Introduction to BGP</h3>
 <b>Wolfgang Tremmel</b>
@@ -35,4 +35,4 @@ The Workshop covers the following topics:
 <li>BGP - Border Gateway Protocoll</li>
 </ul>
 <b>Prerequirements:</b> Feel comfortable configuiring a router via CLI and bring a laptop<br>
-<b>Target Audience:</b> Newcpmers
+<b>Target Audience:</b> Newcomers
