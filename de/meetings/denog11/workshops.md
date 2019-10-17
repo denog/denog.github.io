@@ -52,7 +52,7 @@ with the API<br>
 <b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.<br>
 <b>Target Audience:</b> People Experienced with PeeringDB (or attendees of the previous Workshop
 <h3>15:00 - 17:00: RPKI in Germany</h3>
-<b>Nathalie K&uuml;nneke-Trenaman</b>
+<b>Nathalie K&uuml;nneke-Trenaman</b><br>
 TBD<br>
 <b>Prerequirements:</b> TBD <br>
 <b>Target Audience:</b> TBD <br>
@@ -66,7 +66,7 @@ DIY Workshop to Build a concrete 8x100G DWDM dark fiber link over 70km with:
 <li> optical measurement and cleaning equipment </li>
 </ul>
 <h3> 14:00 - 17:00: BGP Community Framework, Communities & Ansible automation</h3>
-<b> Peter Sievers, Sebastian Graf </b>
+<b> Peter Sievers, Sebastian Graf </b><br>
 In this hands-on workshop the following topics will be covered.
 Determine BGP behavior with import- and export policies,
 adjust BGP attributes to influence the behavior of the local router
