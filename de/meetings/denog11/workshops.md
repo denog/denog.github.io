@@ -11,22 +11,15 @@ city: Hamburg
 <h1> Workshops </h1>
 <br/>
 <br/>
-Workshops will take place on **Sunday, November 10th**. Preregistration is required as each Track has limited space.
+Workshops will take place on </b>Sunday, November 10th</b>. Preregistration is required as each Track has limited space.
 <br/>
 <br/>
-<hl/>
+<br/>
+<br/>
 <h2> Track 1 <h2>
-<table>
-  <tr>
-    <th>Time</th>
-    <th>Track 1</th>
-    <th>Track 2</th>
-    <th>Track 3</th>
-    <th>Track 4</th>
-    <th>Track 5</th>
-  </tr>
-  <tr>
-    <td>11:00 - 12:00 </td>
-    <td><b>PeeringDB - Learning the Ropes</b><br/>Arnold Nipper</td>
-  </tr>
-</table>
+<h3>PeeringDB - Learning the ropes</h3><br>
+Arnold Nipper<br>
+PeeringDB is around since more than 15 years now. And PeeringDB 2.0 with
+the new GUI and API also already sicne 3.5 years. As documentation is
+very sparse we developed a tutorial to explain in detail how to work
+with the GUI from registration to management of object.
