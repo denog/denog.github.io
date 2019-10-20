@@ -11,11 +11,12 @@ city: Hamburg
 <h1> Workshops </h1>
 <br/>
 <br/>
-Workshops will take place on </b>Sunday, November 10th</b>. Preregistration is required as each Track has limited space.<br>
+Workshops will take place on <b>Sunday, November 10th</b>. Preregistration is required as each Track has limited space.<br>
 Warm lunch will be served from 13:00 - 14:00. An additional Coffe break will be held from 16:00- 16:30<br>
 <br/>
 <br/>
 <br/>
+<hr>
 <h2> Track 1 <h2>
 <h3>11:00 - 12:00: PeeringDB - Learning the ropes</h3>
 <b>Arnold Nipper</b><br>
@@ -39,6 +40,8 @@ The Workshop covers the following topics:
 <b>Prerequirements:</b> Feel comfortable configuiring a router via CLI and bring a laptop<br>
 <b>Target Audience:</b> Newcomers
 <br/>
+
+<hr>
 <h2> Track 2 </h2>
 <h3>11:00 - 13:00: Linux Routing Basics</h3>
 <b>Maximilian Wilhelm</b><br>
@@ -77,7 +80,9 @@ TBD<br>
 <br>
 <b>Prerequirements:</b> TBD <br>
 <b>Target Audience:</b> TBD <br>
-<h2> Track 3 </h3>
+
+<hr>
+<h2> Track 3 </h2>
 <h3> 12:00 - 13:00: Build 8x100G dark 70km fiber connection </h3>
 DIY Workshop to Build a concrete 8x100G DWDM dark fiber link over 70km with:
 <ul>
@@ -109,6 +114,8 @@ and made available as Hands-on Cli.<br>
 <br>
 <b>Prerequirements:</b> Laptop with SSH Client, familiarity with Linux Shell, first experiences with BGP and inter domain routing<br/>
 <b>Target Audience:</b> Advanced
+
+<hr>
 <h2> Track 4 </h2>
 <h3> 14:00 - 16:00: Future of DENOG </h3>
 <b> Patrick Bussmann </b>
@@ -117,6 +124,7 @@ TBD
 <b>Prerequirements:</b> TBD <br>
 <b>Target Audience:</b> TBD <br>
 
+<hr>
 <h2> Expert Sessions </h2>
 <h3> 11:00 - 17:00: Routing Expert Sessions (1h each) </h3>
 <b> Theo Voss </b><br>
