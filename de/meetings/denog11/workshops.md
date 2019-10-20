@@ -40,9 +40,25 @@ The Workshop covers the following topics:
 <h2> Track 2 </h2>
 <h3>11:00 - 13:00: Linux Routing Basics</h3>
 <b>Maximilian Wilhelm</b><br>
-TBD<br>
-<b>Prerequirements:</b> TBD <br>
-<b>Target Audience:</b> TBD <br>
+Linux has grown into a strong player in the networking world and is used by many even large players around the world for various infrastructure and network purposes.
+This workshops will provide an overview on what can be done by &quot;just using Linux boxes and some software&quot;.<br>
+The workshop will cover topics like:
+<ul>
+ <li> Layer 1 &amp; 2 groundwork: Bonding/Channels/LACP, VLANs, Bridges </li>
+ <li> Routing tables </li>
+ <li> Policy based routing </li>
+ <li> VRFs-lite </li>
+ <li> Network Namespaces </li>
+ <li> OSPF </li>
+ <li> BGP </li>
+ <li> GRE </li>
+ <li> VXLAN </li>
+ <li> OpenVPN </li>
+ <li> Maybe more, or less, depending on your areas of interest :-) </li>
+</ul>
+<br>
+<b>Prerequirements:</b> Knowledge on Routing, Routing protocols (OSPF, BGP), IPv6, feel comfortable configuring a Linux box via CLI and bring a laptop (with Linux at best) <br>
+<b>Target Audience:</b> Network Engineers with a grasp on routing with vendor boxes who want to see what can be done with Linux and how <br>
 <h3>14:00 - 15:00: PeeringDB - API Session</h3>
 <b>Arnold Nipper</b><br>
 PeeringDB is around since more than 15 years now. And PeeringDB 2.0 with
