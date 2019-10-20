@@ -119,7 +119,7 @@ TBD
 
 <h2> Expert Sessions </h2>
 <h3> 11:00 - 17:00: Routing Expert Sessions (1h each) </h3>
-<b> Theo Voss </b>
+<b> Theo Voss </b><br>
 Are you lost in a BGP problem? Did your network grow to fast and does now require some engineering? Are you unsure how to tackle routing security? Or do you have any other network related problem?
 
 The DENOG expert sessions will put you in touch with an expert who will offer your problem 1h of their time and give their best advice on how they would proceed with it.<br/>
