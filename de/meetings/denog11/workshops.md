@@ -26,7 +26,7 @@ very sparse we developed a tutorial to explain in detail how to work
 with the GUI from registration to management of object.<br>
 <b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.<br>
 <b>Target Audience:</b> Newcomers
-<h3>13:00 - 17:00: Introduction to BGP</h3>
+<h3>12:00 - 17:00: Introduction to BGP</h3>
 <i>Lunch break: 13:00-14:00 and coffe break 16:00-16:30</i><br>
 <b>Wolfgang Tremmel</b><br/>
 The Workshop covers the following topics:
@@ -43,7 +43,8 @@ The Workshop covers the following topics:
 
 <hr>
 <h2> Track 2 </h2>
-<h3>11:00 - 13:00: Linux Routing Basics</h3>
+<h3>11:00 - 13:30: Linux Routing Basics</h3>
+<i>Shorter lunchbreak from 13:30 - 14:00</i><br>
 <b>Maximilian Wilhelm</b><br>
 Linux has grown into a strong player in the networking world and is used by many even large players around the world for various infrastructure and network purposes.
 This workshops will provide an overview on what can be done by &quot;just using Linux boxes and some software&quot;.<br>
@@ -133,6 +134,6 @@ Are you lost in a BGP problem? Did your network grow to fast and does now requir
 The DENOG expert sessions will put you in touch with an expert who will offer your problem 1h of their time and give their best advice on how they would proceed with it.<br/>
 And the best part: It's free!<br/>
 <i><b>Please note that you will be assigned a 1h timeslot while they are available</b></i>
-
+<br>
 <b>Prerequirements:</b> Try to prepare your questions as detailed as possible and bring supporting material (e.g. network graph) if necessary.<br>
 <b>Target Audience:</b> Anyone <br>
