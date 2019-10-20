@@ -35,6 +35,7 @@ The Workshop covers the following topics:
 <li>Interior Routing Protocols Overview (OSPF and IS-IS)</li>
 <li>BGP - Border Gateway Protocoll</li>
 </ul>
+<br>
 <b>Prerequirements:</b> Feel comfortable configuiring a router via CLI and bring a laptop<br>
 <b>Target Audience:</b> Newcomers
 <br/>
@@ -66,12 +67,14 @@ PeeringDB is around since more than 15 years now. And PeeringDB 2.0 with
 the new GUI and API also already sicne 3.5 years. As documentation is
 very sparse we developed a tutorial to explain in detail how to work
 with the API<br>
+<br>
 <b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.<br>
 <b>Target Audience:</b> People Experienced with PeeringDB (or attendees of the previous Workshop
 <h3>15:00 - 17:00: RPKI in Germany</h3>
 <i>Coffe Break 16:00-16:30</i><br>
 <b>Nathalie K&uuml;nneke-Trenaman</b><br>
 TBD<br>
+<br>
 <b>Prerequirements:</b> TBD <br>
 <b>Target Audience:</b> TBD <br>
 <h2> Track 3 </h3>
@@ -83,6 +86,9 @@ DIY Workshop to Build a concrete 8x100G DWDM dark fiber link over 70km with:
 <li> 70km of real fiber </li>
 <li> optical measurement and cleaning equipment </li>
 </ul>
+<br>
+<b>Prerequirements:</b> None <br>
+<b>Target Audience:</b> Anyone <br>
 <h3> 14:00 - 17:00: BGP Community Framework, Communities & Ansible automation</h3>
 <i>Coffe Break 16:00-16:30</i><br>
 <b> Peter Sievers, Sebastian Graf </b><br>
@@ -100,23 +106,25 @@ The theory of BGP, Ansible and Automation is presented in a
 vendor-neutral way.
 The practical configuration examples are shown using Junos
 and made available as Hands-on Cli.<br>
+<br>
 <b>Prerequirements:</b> Laptop with SSH Client, familiarity with Linux Shell, first experiences with BGP and inter domain routing<br/>
 <b>Target Audience:</b> Advanced
 <h2> Track 4 </h2>
 <h3> 14:00 - 16:00: Future of DENOG </h3>
 <b> Patrick Bussmann </b>
 TBD
+<br>
 <b>Prerequirements:</b> TBD <br>
 <b>Target Audience:</b> TBD <br>
 
 <h2> Expert Sessions </h2>
-<h3> 11:00 - 17:00: Routing Expert Sessions (1h mins each) </h3>
+<h3> 11:00 - 17:00: Routing Expert Sessions (1h each) </h3>
 <b> Theo Voss </b>
 Are you lost in a BGP problem? Did your network grow to fast and does now require some engineering? Are you unsure how to tackle routing security? Or do you have any other network related problem?
 
 The DENOG expert sessions will put you in touch with an expert who will offer your problem 1h of their time and give their best advice on how they would proceed with it.<br/>
 And the best part: It's free!<br/>
-<i>Please note that you will be assigned a 1h timeslot while they are available</i>
+<i><b>Please note that you will be assigned a 1h timeslot while they are available</b></i>
 
 <b>Prerequirements:</b> Try to prepare your questions as detailed as possible and bring supporting material (e.g. network graph) if necessary.<br>
 <b>Target Audience:</b> Anyone <br>
