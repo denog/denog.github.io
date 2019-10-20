@@ -13,6 +13,7 @@
 			{"url": "meetings/denog11/index.html", "text": "DENOG11 Konferenz", "childs": [
 				{"url": "meetings/denog11/index.html", "text": "Übersicht"},
 				{"url": "meetings/denog11/tickets.html", "text": "Registration"},
+				{"url": "meetings/denog11/workshops.html", "text": "Workshops"},
 				{"url": "meetings/denog11/cfp.html", "text": "Call for Papers"},
 				{"url": "meetings/denog11/zeitplan.html", "text": "Zeitplan"},
 				{"url": "meetings/denog11/hotels.html", "text": "Hotels"},
