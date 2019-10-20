@@ -119,7 +119,7 @@ and made available as Hands-on Cli.<br>
 <hr>
 <h2> Track 4 </h2>
 <h3> 14:00 - 16:00: Research and university @ DENOG </h3>
-<b> Patrick Bussmann </b>
+<b> Patrick Bussmann </b><br>
 Its been already 2 years since DENOG e.V. has been founded.  As the conference is more and more established and its financial future stabilised and Meetups being kicked of and developed, we would like to open a discussion on how to continue developing our community goals by linking DENOG closer to the Research & University community.
 <br><br>
 The workshop is a open discussion forum. If you have ideas on projects that we should develop, ideas how to create outreach to the University Community or whom to talk to or if you're generally interested in the developing DENOG further please join the discussion.
