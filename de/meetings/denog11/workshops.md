@@ -11,8 +11,8 @@ city: Hamburg
 <h1> Workshops </h1>
 <br/>
 <br/>
-Workshops will take place on </b>Sunday, November 10th</b>. Preregistration is required as each Track has limited space.
-<br/>
+Workshops will take place on </b>Sunday, November 10th</b>. Preregistration is required as each Track has limited space.<br>
+Warm lunch will be served from 13:00 - 14:00. An additional Coffe break will be held from 16:00- 16:30<br>
 <br/>
 <br/>
 <br/>
@@ -26,7 +26,8 @@ with the GUI from registration to management of object.<br>
 <b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.<br>
 <b>Target Audience:</b> Newcomers
 <h3>13:00 - 17:00: Introduction to BGP</h3>
-<b>Wolfgang Tremmel</b>
+<i>Lunch break: 13:00-14:00 and coffe break 16:00-16:30</i><br>
+<b>Wolfgang Tremmel</b><br/>
 The Workshop covers the following topics:
 <ul>
 <li>Networks and Prefixes (IPv6 and IPv4)</li>
@@ -68,6 +69,7 @@ with the API<br>
 <b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.<br>
 <b>Target Audience:</b> People Experienced with PeeringDB (or attendees of the previous Workshop
 <h3>15:00 - 17:00: RPKI in Germany</h3>
+<i>Coffe Break 16:00-16:30</i><br>
 <b>Nathalie K&uuml;nneke-Trenaman</b><br>
 TBD<br>
 <b>Prerequirements:</b> TBD <br>
@@ -82,6 +84,7 @@ DIY Workshop to Build a concrete 8x100G DWDM dark fiber link over 70km with:
 <li> optical measurement and cleaning equipment </li>
 </ul>
 <h3> 14:00 - 17:00: BGP Community Framework, Communities & Ansible automation</h3>
+<i>Coffe Break 16:00-16:30</i><br>
 <b> Peter Sievers, Sebastian Graf </b><br>
 In this hands-on workshop the following topics will be covered.
 Determine BGP behavior with import- and export policies,
@@ -103,4 +106,17 @@ and made available as Hands-on Cli.<br>
 <h3> 14:00 - 16:00: Future of DENOG </h3>
 <b> Patrick Bussmann </b>
 TBD
+<b>Prerequirements:</b> TBD <br>
+<b>Target Audience:</b> TBD <br>
 
+<h2> Expert Sessions </h2>
+<h3> 11:00 - 17:00: Routing Expert Sessions (1h mins each) </h3>
+<b> Theo Voss </b>
+Are you lost in a BGP problem? Did your network grow to fast and does now require some engineering? Are you unsure how to tackle routing security? Or do you have any other network related problem?
+
+The DENOG expert sessions will put you in touch with an expert who will offer your problem 1h of their time and give their best advice on how they would proceed with it.<br/>
+And the best part: It's free!<br/>
+<i>Please note that you will be assigned a 1h timeslot while they are available</i>
+
+<b>Prerequirements:</b> Try to prepare your questions as detailed as possible and bring supporting material (e.g. network graph) if necessary.<br>
+<b>Target Audience:</b> Anyone <br>
