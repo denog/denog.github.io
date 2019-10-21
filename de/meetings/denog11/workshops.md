@@ -33,8 +33,8 @@ The Workshop covers the following topics:
 <ul>
 <li>Networks and Prefixes (IPv6 and IPv4)</li>
 <li>What is an Autonmous System and why do I need one?</li>
-<li>Interior Routing Protocols Overview (OSPF and IS-IS)</li>
 <li>BGP - Border Gateway Protocoll</li>
+<li>BGP best path selection algorithm</li>
 </ul>
 <br>
 <b>Prerequirements:</b> Feel comfortable configuiring a router via CLI and bring a laptop<br>
