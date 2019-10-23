@@ -74,14 +74,14 @@ with the API<br>
 <br>
 <b>Prerequirements:</b> bring a unix shell(VM is fine)and basic knowledge on how to use it.<br>
 <b>Target Audience:</b> People Experienced with PeeringDB (or attendees of the previous Workshop
-<h3>15:00 - 17:00: RPKI in Germany</h3>
+<h3>15:00 - 17:00: RPKI in Practice</h3>
 <i>Coffe Break 16:00-16:30</i><br>
 <b>Nathalie K&uuml;nneke-Trenaman</b><br>
-TBD<br>
+ In this 2 hour practical tutorial, you will learn RPKI fundamentals, how to set up a ROA, best practices, how to set up a Validator and what it means to drop RPKI invalid BGP announcements. <br>
+You will need your laptop and (if you have) a RIPE NCC Access account to create ROAs and to access the lab. 
 <br>
-<b>Prerequirements:</b> TBD <br>
-<b>Target Audience:</b> TBD <br>
-
+<b>Prerequirements:</b> laptop, hands on BPG experience and/or a RIPE NCC Access Account<br>
+<b>Target Audience:</b> Network Engineers/Architects <br>
 <hr>
 <h2> Track 3 </h2>
 <h3> 12:00 - 13:00: Build 8x100G dark 70km fiber connection </h3>
