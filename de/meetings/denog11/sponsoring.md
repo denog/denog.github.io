@@ -21,21 +21,21 @@ city: Hamburg
     </a>
     &nbsp;
     <a href="https://www.de-cix.net" target="_blank">
-        <img src="/images/meetings/denog11/sponsor_de-cix.png" height="175"  title="DE-CIX"> 
+        <img src="/images/meetings/denog11/sponsor_de-cix.png" height="175"  title="DE-CIX">
     </a>
     &nbsp;
     <a href="https://www.xantaro.net" target="_blank">
-        <img src="/images/meetings/denog11/sponsor_xantaro.png" height="175"  title="Xantaro"> 
+        <img src="/images/meetings/denog11/sponsor_xantaro.png" height="175"  title="Xantaro">
     </a>    
 </p>
 
 ## Gold
 <p align="center">
     <a href="https://www.aliternetworks.com" target="_blank">
-        <img src="/images/meetings/denog11/sponsor_aliter.png" height="125"  title="Aliter Networks"> 
+        <img src="/images/meetings/denog11/sponsor_aliter.png" height="125"  title="Aliter Networks">
     </a>
     &nbsp;
-    <a href="https://www.core-backbone.com.com" target="_blank">
+    <a href="https://www.core-backbone.com" target="_blank">
         <img src="/images/meetings/denog11/sponsor_corebackbone.png" height="100"  title="Core Backbone">
     </a>
     &nbsp;
