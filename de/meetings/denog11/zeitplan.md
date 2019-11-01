@@ -9,7 +9,15 @@ city: Hamburg
 <br>
 <br>
 <h1> Agenda </h1>
-<b> Eine Übersicht aller Talks finden sie <a href="https://pretalx.denog.de/denog11/schedule/">hier</a></b>
+<pretalx-schedule-widget event="https://pretalx.denog.de/denog11/" height="500px"></pretalx-schedule-widget>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.denog.de/denog11/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
 <br>
 <h1>Draft Zeitplan</h1><br>
 (Stand: 10.05.2019 - Änderungen jederzeit möglich)<br>
