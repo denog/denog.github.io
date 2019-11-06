@@ -19,6 +19,7 @@ Sunday 10.11.2019 19.00h<br>
 <br>
 Please remember: in the tradition of DENOG PreSocials this is a self payed social.<br>
 Make sure you pay your invoice before leaving.<br>
+<a href='https://www.hofbraeu-wirtshaus.de/esplanade/' target='_new'>www.hofbraeu-wirtshaus.de/esplanade</a><br>
 <br>
 <br>
 <br>
