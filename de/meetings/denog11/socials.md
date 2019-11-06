@@ -26,6 +26,9 @@ Make sure you pay your invoice before leaving.<br>
 Monday 11.11.2019 19.00h - 01.00h<br>
 <b>Miniatur Wunderland Hamburg,  Kehrwieder 2-4, BlockD, 20457 Hamburg</b><br>
 <br>
+<a href='https://www.miniatur-wunderland.de' target='_new'>www.miniatur-wunderland.de</a><br>
+<a href='https://www.youtube.com/watch?v=yN0AjDfDKBw' target='_new'>Official Location Video</a><br>
+<br>
 We are very happy to have exclusively reserved the famous Miniatur Wunderland<br>
 in Hamburg for the DENOG11 Social. Spend an evening networking and chatting<br>
 with your peers & friends in one of Hamburgs most iconic sceneries. For the first<br>
