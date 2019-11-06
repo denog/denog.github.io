@@ -69,6 +69,7 @@ Dirk Meyer|Dinoex|205376|dinoex
 Dominik Rimpf|KIT|34878|
 Enrico Richter|BCIX Management GmbH|16374|
 Erik Anders|Securepoint|209148|
+Falk Stern|PROFI Engineering Systems AG||falk
 Felix Bayer|||f38a
 Florian Hibler|Arista Networks|55064|florian
 Florian Lenzen|Filoo GmbH|47215|flotu
@@ -76,9 +77,10 @@ Florian Schürfeld|trivago|198018|
 Florian Tschiedel|IPB Internet Provider in Berlin GmbH|20647|
 Frank Feihe||28876|
 Frank Holmes|LWLcom|50629|
-Frank Menzel|ja|15594|rbott
+Frank Menzel|sipgate GmbH|15594|rbott
 Frederic Jaeckel|GitHub|36459|jchome
 Fredy Künzler|Init7|13030|
+Georg Revay|Deutsche Telekom AG|3320|
 Gerald Reutemann|VENTUS Consult||
 Gerrit Mester|IPB Internet Provider in Berlin GmbH|20647|
 Gregor von Stangen|CANCOM Managed Services GmbH|8469|
@@ -89,12 +91,15 @@ Hendrik Braasch|Nachrichtentechnik HB||DR3X
 Hendrik Frese|x-ion GmbH|60664|
 Henry Kluge|DFN-Verein|680|
 Holger Bürger|||
+Holger Roszak|CenturyLink Communications Germany GmbH|3356|
 Holger Zessel|Freifunk Düsseldorf||Dago
 Holger Zuleger|||
 Inga Mewes|||poldii
 Ivaylo Atanasov|||
 Jan Dirnberger|noris network AG|12337|solis
 Jan Gilla|level66.network|209844|MrXermon
+Janina Fassbender|Deutsche Telekom AG|3320|
+Jan Marienfeldt|Wobcom GmbH|9136|
 Jan Marquardt|Artfiles GmbH|8893|janno
 Jan Walzer|Cloudical Deutschland GmbH||iQ
 Jean-Pierre Schwickerath|HILOTEC Engineering + Consulting AG||
@@ -106,7 +111,8 @@ Joachim Knauer|UNIBERG||
 Joey Julian Koenig|DE-CIX|6695|NetFreak
 Johannes Hofmann|e-shelter services GmbH|20332|
 Johannes Jakob|Datacenter One GmbH|48918|
-Johannes Six|nein||
+Johannes Six|||
+John Donelan|Kentik|207063|
 Julian Lannert|e-shelter services GmbH|203329|
 Julian Schuh|Freifunk Karlsruhe|202329|
 Julian Seifert|DNCC GmbH|50642|alamar
@@ -116,7 +122,7 @@ Kay Rechthien|Akamai Technologies|20940|kay
 Kirsten Schmitz|Xantaro Deutschland GmbH||
 Klara Mall|Karlsruher Institut für Technologie (KIT)|34878|krmll
 Krischan Jodies|SerNet|41955|kjo
-Kristijan Stanic|Kristijan Stanic||
+Kristijan Stanic|Equinix||
 Kurt Kayser|Kurt Kayser||
 Lea Fall|Aliter Networks||
 Leonard Wagner|NTT Germany / IN-Berlin e.V.|29670|Gordon
@@ -126,21 +132,25 @@ Leon Meßner|Community-IX|57555|elon
 Leon Weber|Datacenter One GmbH|48918|leonn
 Leopold Schabel|Nexantic GmbH|201203|leoluk
 Lukas Gerhold|man-da.de GmbH|8365|lukas
+Lukas Liebig|THYOTEC | IKS Service|15725|
 Lutz Donnerhacke|IKS Service GmbH|15725|Donner
 Magnus Frühling|Freifunk Frankfurt am Main e.V.|64475|skorpy
 Malte Bors|infinera GmbH||
 Malte Patrik Rosenberger|Thomas-Krenn.AG||
 Malte von dem Hagen|GoDaddy|20773|
+Manuel Stausberg|system.de|50030|
 Marc Haber|incluesion||Zugschlus
 Marc Helmus|servtec Hamburg Wasser||marcnetismus
 Marco Firsching||44973|
 Marco Mueller|Flexoptix GmbH||
 Marco Prause|DENIC eG||
+Marco Zietz|Ja|21473|
 Marc Peters|trivago|198018|
 Marc Ruberg|BelWü NOC - Uni Stuttgart|553|ruby7
 Marcus Brauckmann|DE-CIX|6695|
 Marcus Brauckmann|DE-CIX|6695|
 Marian Putala|||
+Marien Keizer|NL-ix|34307|
 Marius Höhn||44486|
 Marko Höferlin|oscon itk GmbH|62177|
 Martin Barry|Fastly|54113|supine
@@ -154,6 +164,7 @@ Matthias Maurer|Deutsche Telekom|3320|MAZ
 Matthias Ordner|noris network AG|12337|mordner
 Matthias Walther|Freifunk Münsterland|209894|
 Maximilian Giers|||
+Maximilian Wilhelm|SDN.clinic|41981|Barbarossa
 Merlin Wolf|PROFI Engineering Systems||lupo
 Michael Essig|Thomas-Krenn.AG||
 Michael Hayler|Fujitsu TDS GmbH|12857|raider
@@ -162,13 +173,14 @@ Michael Rhode|STRATO AG|6724|
 michael thederan|Exclusive Networks Deutschland GmbH||
 Michael Troitzsch|DICOS GmbH||
 Michael Wagner|Hostserver GmbH|29140|
-Michal Malyszko|Michal Malyszko||
+Michal Malyszko|Equinix||
 Mic Szillat|Uberspace|205766|nomaster
 Moritz Frenzel|Datacenter One GmbH|48918|momorientes
 Moritz Weinzierl|Aliter Networks||
 Nathalie Trenaman|RIPE NCC||Natha
 Nicolaj Kamensek|First-Colo GmbH|44066|Nico82
 Nicolas Herpel|Mahr EDV GmbH||
+Nicola von Thadden|Pfalzkom|21473|nicoduck
 Nico Schümann|Freifunk Hamburg|49009|
 Niklas Wilcke|UNIBERG||
 Nils Dohse|ADDIX|25415|nido009
@@ -176,7 +188,7 @@ Nils Steinger||206161|
 Oliver Graf|KEVAG Telekom GmbH|12360|
 Oliver Herms|EXARING AG|51324|takt
 Oliver Herms|EXARING AG|51324|takt
-Oliver Horscht||44486|
+Oliver Horscht|SYNLINQ|44486|
 Oliver Sachs|oscon itk GmbH|62177|
 Oliver Seufer|SerNet GmbH|41955|
 Patrick Bussmann|Akamai Technologies|20940|PBU
@@ -194,6 +206,8 @@ Ralf Christian|akquinet business service GmbH|35258|ralfensensensen
 Ralf Ertzinger|Booking.com|43996.202196|Lalufu
 Ralf Remmert|n@work|9211|
 Raphael Rosenberg|Wavecon GmbH|60955|clockwork
+Richard Hartmann|SpaceNet|5539|RichiH
+Rico Schumann||3356|
 Robert Bruhm||44486|
 Robert Finze|DE-CIX|60767|mar-vin
 Robert Remenyi|htp GmbH|13045|robrem
@@ -202,11 +216,12 @@ Robyn Bachofer|imos GmbH|20677|pyco
 Rolf Munzlinger|VODAFONE|1273|
 Ronald Capella|Alturna Networks||
 Ruben Herold|ViA-Online GmbH|62086|Panther_1
-Rudolph Bott|ja|15594|rbott
+Rudolph Bott|sipgate GmbH|15594|rbott
 Sascha Lenz|s-lz.net - System- und Netzwerkberatung Sascha Lenz|29317|masterF00
 Sascha Pollok|IPHH|12731|dockmaster
 Saul Alonso|Solid Optics||
 Sebastian Becker|Deutsche Telekom AG|3320|_sb_
+Sebastian Danek||209894|Parad0x
 Sebastian Graf|Xantaro Deutschland GmbH|203520|
 Sebastian Klamt|GWDG||
 Sebastian Neuner|BelWü|553|neuner
@@ -226,6 +241,7 @@ Stefan Wahl|Megaport / ECIX|9033|swaio
 Steffen Lorz|Mahr EDV GmbH||
 Steffen Weinreich|mdex GmbH|200567|lairsdragon
 Stephan Kabisius|aquilius research GmbH|51492|
+Stephan Schroeder|Benocs|209039|
 Steven Karch|DB Station&Service AG||
 Susann Böhme|BCIX Management GmbH|16374|
 Sven Ellingen|CANCOM Pironet AG & Co. KG|8469|
@@ -233,6 +249,7 @@ Sven Schade|TNG Stadtnetz GmbH|13101|
 Theo Voss|ANEXIA|47147|tvberlin
 Thomas Jessen|KPN Internatioal|286|Toshima
 Thomas King|DE-CIX Management GmbH|6695|
+Thomas Naumann|Deutsche Telekom AG|3320|
 Thomas Rüter|IPB Internet Provider in Berlin GmbH|20643|
 Thomas Schmid|DFN-Verein|680|
 Thomas Weible|Flexoptix||
