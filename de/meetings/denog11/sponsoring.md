@@ -47,12 +47,20 @@ city: Hamburg
 
 ## Silver
 <p align="center">
+    <a href="https://www.artfiles.de" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_artfiles.png" height="50"  title="Artfiles New Media">
+    </a>
+    &nbsp;
+    <a href="https://www.equinix.com" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_equinix.png" height="50"  title="Equinix">
+    </a>
+    &nbsp;
     <a href="https://www.syseleven.de" target="_blank">
         <img src="/images/meetings/denog11/sponsor_syseleven.png" height="50"  title="SysEleven">
     </a>
     &nbsp;
-    <a href="https://www.artfiles.de" target="_blank">
-        <img src="/images/meetings/denog11/sponsor_artfiles.png" height="50"  title="Artfiles New Media">
+    <a href="https://www.wobcom.de" target="_blank">
+        <img src="/images/meetings/denog11/sponsor_wobcom.png" height="50"  title="WOBCOM">
     </a>
 </p>
 
