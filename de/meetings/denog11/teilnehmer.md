@@ -8,7 +8,7 @@ city: Hamburg
 
 # DENOG11 Teilnehmerliste
 
-Updated: Monday 04.11.2019 1400Z (k)
+Updated: Monday 06.11.2019 0930Z (k)
 
 Name des Teilnehmers | Firma | AS Nummer | IRC Nickname
 |-------|--------|---------|---------|
@@ -50,11 +50,13 @@ Christoph Badura|||baduck
 Christoph Berkemeier|DB Station&Service AG||
 Christoph Dietzel|DE-CIX|6695|
 Christopher Weir|BE NETWORKS||
+Christoph Neukirch|New Work SE|50343|chn
 Christoph Schreiber|Netzwerge GmbH|199938|
 Costas Drogos|Kentik|207063|costasd
 Daniel Czerwonk|Mauve Software|48821|dan_nrw
 Daniel Maresch|Core-Backbone GmbH|333891|Daster
 Daniel Sluzewski|Gigahertz GmbH|205543|
+David Bröhan|UNIBERG||
 David Döpelheuer|myLoc managed IT AG|24961|
 David Weber Weber||208942|vidister
 Denis Klimek|wilhelm.tel GmbH|15943|
@@ -72,6 +74,7 @@ Florian Hibler|Arista Networks|55064|florian
 Florian Lenzen|Filoo GmbH|47215|flotu
 Florian Schürfeld|trivago|198018|
 Florian Tschiedel|IPB Internet Provider in Berlin GmbH|20647|
+Frank Feihe||28876|
 Frank Holmes|LWLcom|50629|
 Frank Menzel|ja|15594|rbott
 Frederic Jaeckel|GitHub|36459|jchome
@@ -99,16 +102,17 @@ Jens Link|||snej
 Jens Möller|e-shelter services GmbH||
 Jens Rehpöhler|Filoo GmbH|47215|
 Jerry Grondel|NL-ix|34307|
+Joachim Knauer|UNIBERG||
 Joey Julian Koenig|DE-CIX|6695|NetFreak
 Johannes Hofmann|e-shelter services GmbH|20332|
 Johannes Jakob|Datacenter One GmbH|48918|
-Johannes Six|||
+Johannes Six|nein||
 Julian Lannert|e-shelter services GmbH|203329|
 Julian Schuh|Freifunk Karlsruhe|202329|
+Julian Seifert|DNCC GmbH|50642|alamar
 Julian von Paris|ennit|13101|
 Kai Siering|Freifunk Kreis GT|206813|wusel
 Kay Rechthien|Akamai Technologies|20940|kay
-Kevin Schmitz|||
 Kirsten Schmitz|Xantaro Deutschland GmbH||
 Klara Mall|Karlsruher Institut für Technologie (KIT)|34878|krmll
 Krischan Jodies|SerNet|41955|kjo
@@ -124,6 +128,7 @@ Leopold Schabel|Nexantic GmbH|201203|leoluk
 Lukas Gerhold|man-da.de GmbH|8365|lukas
 Lutz Donnerhacke|IKS Service GmbH|15725|Donner
 Magnus Frühling|Freifunk Frankfurt am Main e.V.|64475|skorpy
+Malte Bors|infinera GmbH||
 Malte Patrik Rosenberger|Thomas-Krenn.AG||
 Malte von dem Hagen|GoDaddy|20773|
 Marc Haber|incluesion||Zugschlus
@@ -152,7 +157,9 @@ Maximilian Giers|||
 Merlin Wolf|PROFI Engineering Systems||lupo
 Michael Essig|Thomas-Krenn.AG||
 Michael Hayler|Fujitsu TDS GmbH|12857|raider
+Michael Pergament|Arista Networks||
 Michael Rhode|STRATO AG|6724|
+michael thederan|Exclusive Networks Deutschland GmbH||
 Michael Troitzsch|DICOS GmbH||
 Michael Wagner|Hostserver GmbH|29140|
 Michal Malyszko|Michal Malyszko||
@@ -163,6 +170,7 @@ Nathalie Trenaman|RIPE NCC||Natha
 Nicolaj Kamensek|First-Colo GmbH|44066|Nico82
 Nicolas Herpel|Mahr EDV GmbH||
 Nico Schümann|Freifunk Hamburg|49009|
+Niklas Wilcke|UNIBERG||
 Nils Dohse|ADDIX|25415|nido009
 Nils Steinger||206161|
 Oliver Graf|KEVAG Telekom GmbH|12360|
@@ -177,6 +185,7 @@ Paul Gadiot|Centurylink Communications Germany GmbH|3356|PG
 Peter Hansen|myLoc managed IT AG|24961|empi89
 Peter Kolodziej|DE-CIX Management GmbH|6695|
 Peter Lieven|KAMP Netzwerkdienste GmbH|8648|
+Peter Schulte|system.de|50030|
 Peter Sievers|Juniper Networks||PSI
 Philip Berndroth|philuweb|205112|pberndro
 Philip Deutscher|Datacenter One GmbH|48918|
@@ -213,6 +222,7 @@ Stefan Hedenig|ANEXIA|47147|shedenig
 Stefanie Bopp|top itservices AG||
 Stefan Jakob|||
 Stefan Klören|Kühne & Nagel (AG & Co.) KG||
+Stefan Wahl|Megaport / ECIX|9033|swaio
 Steffen Lorz|Mahr EDV GmbH||
 Steffen Weinreich|mdex GmbH|200567|lairsdragon
 Stephan Kabisius|aquilius research GmbH|51492|
@@ -228,6 +238,7 @@ Thomas Schmid|DFN-Verein|680|
 Thomas Weible|Flexoptix||
 Thorben Pahl|CGI Deutschland B.V. & Co. KG||
 Tilman Kastner|TeleData GmbH|21263|
+Tim Eckhardt|UNIBERG||
 Tim Kleefass|EXARING AG|51324|
 Tim Korves|Korves.Net||Der-Tim
 Tim Wieben|akquinet business service GmbH|35258|
