@@ -22,7 +22,7 @@ city: Hamburg
  <hr>
 
 <h2> Stream </h2>
-<iframe src="http://streaming.media.ccc.de/denog11/embed/helmut-schmidt-auditorium/dash/native/no-autoplay" width="800" height="450" frameborder="none" allowfullscreen="allowfullscreen" seamless="seamless" scrolling="no"></iframe>
+<iframe src="https://streaming.media.ccc.de/denog11/embed/helmut-schmidt-auditorium/dash/native/no-autoplay" width="800" height="450" frameborder="none" allowfullscreen="allowfullscreen" seamless="seamless" scrolling="no"></iframe>
 <br>
 <br>
 <hr>
