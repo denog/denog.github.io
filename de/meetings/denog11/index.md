@@ -14,8 +14,25 @@ city: Hamburg
 
 </center>
  <br><br>
-## Aktuelle Informationen
-<br>
-##### 2019-05-13   Ticketverkauf gestartet [ [Tickets] ](/de/meetings/denog11/tickets.html)
+ 
+ <h2> News </h2>
+ <br>
+ Have a great DENOG11
+ <br>
+ <hr>
 
-##### 2019-05-11   Draft Zeitplan online [ [Draft Zeitplan] ](/de/meetings/denog11/zeitplan.html)
+<h2> Stream </h2>
+<iframe src="http://streaming.media.ccc.de/denog11/embed/helmut-schmidt-auditorium/dash/native/no-autoplay" width="800" height="450" frameborder="none" allowfullscreen="allowfullscreen" seamless="seamless" scrolling="no"></iframe>
+<br>
+<br>
+<hr>
+<h2> Agenda </h2>
+<pretalx-schedule-widget event="https://pretalx.denog.de/denog11/" height="500px"></pretalx-schedule-widget>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.denog.de/denog11/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
