@@ -8,7 +8,7 @@ city: Hamburg
 
 # DENOG11 Teilnehmerliste
 
-Updated: Monday 06.11.2019 0930Z (k)
+Updated: 08.11.2019 1130Z (k)
 
 Name des Teilnehmers | Firma | AS Nummer | IRC Nickname
 |-------|--------|---------|---------|
@@ -29,10 +29,11 @@ Andreas Sturm|DE-CIX|6695|
 Andreas Worbs|Artfiles GmbH|8893|laxxie
 andre niemann|||strohalm
 Anita Meyer|Init7|13030|
-Annika Wickert Wickert|EXARING AG|51324|
+Annika Wickert|EXARING AG|51324|
 Anton Schubert|Riedel Communications||
 Arne Heitmann|Mellanox||
 Arnold Nipper|DE-CIX|6695|
+Axel Kröger|IPHH|12731|
 Azad Sheikh Muhammad|Hostserver GmbH|29140|
 Benedikt Neuffer|KIT|34878|ogelpre
 Bernhard Hahn|DE-CIX Management GmbH|6695|
@@ -49,6 +50,7 @@ Christian Wüsteney|ADDIX||
 Christoph Badura|||baduck
 Christoph Berkemeier|DB Station&Service AG||
 Christoph Dietzel|DE-CIX|6695|
+Christopher Kleen|TNG Stadtnetz GmbH|13101|
 Christopher Weir|BE NETWORKS||
 Christoph Neukirch|New Work SE|50343|chn
 Christoph Schreiber|Netzwerge GmbH|199938|
@@ -56,6 +58,7 @@ Costas Drogos|Kentik|207063|costasd
 Daniel Czerwonk|Mauve Software|48821|dan_nrw
 Daniel Maresch|Core-Backbone GmbH|333891|Daster
 Daniel Sluzewski|Gigahertz GmbH|205543|
+Daniel Wagner|DE-CIX Management GmbH|6695|Rados
 David Bröhan|UNIBERG||
 David Döpelheuer|myLoc managed IT AG|24961|
 David Weber Weber||208942|vidister
@@ -69,6 +72,7 @@ Dirk Meyer|Dinoex|205376|dinoex
 Dominik Rimpf|KIT|34878|
 Enrico Richter|BCIX Management GmbH|16374|
 Erik Anders|Securepoint|209148|
+Erik Verhoef|NetIX Communications|57463|
 Falk Stern|PROFI Engineering Systems AG||falk
 Felix Bayer|||f38a
 Florian Hibler|Arista Networks|55064|florian
@@ -83,6 +87,7 @@ Fredy Künzler|Init7|13030|
 Georg Revay|Deutsche Telekom AG|3320|
 Gerald Reutemann|VENTUS Consult||
 Gerrit Mester|IPB Internet Provider in Berlin GmbH|20647|
+Gregor Möller|IPHH|12731|bommel
 Gregor von Stangen|CANCOM Managed Services GmbH|8469|
 Growe Sascha|PlusServer GmbH|61157|
 Hans-Christoph Deeken|NFON AG|8878|Glenlivet
@@ -112,6 +117,7 @@ Joey Julian Koenig|DE-CIX|6695|NetFreak
 Johannes Hofmann|e-shelter services GmbH|20332|
 Johannes Jakob|Datacenter One GmbH|48918|
 Johannes Six|||
+John Braun|IPHH|12731|
 John Donelan|Kentik|207063|
 Julian Lannert|e-shelter services GmbH|203329|
 Julian Schuh|Freifunk Karlsruhe|202329|
@@ -126,6 +132,7 @@ Kristijan Stanic|Equinix||
 Kurt Kayser|Kurt Kayser||
 Lea Fall|Aliter Networks||
 Leonard Wagner|NTT Germany / IN-Berlin e.V.|29670|Gordon
+Leonid Sergushkin|||
 Leonir Hoxha|Cisco||
 Leon Kramer|First-Colo GmbH|44066|
 Leon Meßner|Community-IX|57555|elon
@@ -184,6 +191,7 @@ Nicola von Thadden|Pfalzkom|21473|nicoduck
 Nico Schümann|Freifunk Hamburg|49009|
 Niklas Wilcke|UNIBERG||
 Nils Dohse|ADDIX|25415|nido009
+Nils Effenberger|n@work GmbH|9211|
 Nils Steinger||206161|
 Oliver Graf|KEVAG Telekom GmbH|12360|
 Oliver Herms|EXARING AG|51324|takt
@@ -195,6 +203,7 @@ Patrick Bussmann|Akamai Technologies|20940|PBU
 Patrick Hurrelmann|NFON AG|8878|
 Paul Gadiot|Centurylink Communications Germany GmbH|3356|PG
 Peter Hansen|myLoc managed IT AG|24961|empi89
+Peter Koch|DENIC eG|31529|
 Peter Kolodziej|DE-CIX Management GmbH|6695|
 Peter Lieven|KAMP Netzwerkdienste GmbH|8648|
 Peter Schulte|system.de|50030|
@@ -206,6 +215,7 @@ Ralf Christian|akquinet business service GmbH|35258|ralfensensensen
 Ralf Ertzinger|Booking.com|43996.202196|Lalufu
 Ralf Remmert|n@work|9211|
 Raphael Rosenberg|Wavecon GmbH|60955|clockwork
+René Sasse|IPHH|12731|
 Richard Hartmann|SpaceNet|5539|RichiH
 Rico Schumann||3356|
 Robert Bruhm||44486|
@@ -224,6 +234,7 @@ Sebastian Becker|Deutsche Telekom AG|3320|_sb_
 Sebastian Danek||209894|Parad0x
 Sebastian Graf|Xantaro Deutschland GmbH|203520|
 Sebastian Klamt|GWDG||
+Sebastian Mikess|akquinet|35258|
 Sebastian Neuner|BelWü|553|neuner
 Sebastian Posner|Privatier||snaeqe
 Sebastian Schrader|TU Dresden||shreyder
@@ -248,7 +259,6 @@ Sven Ellingen|CANCOM Pironet AG & Co. KG|8469|
 Sven Schade|TNG Stadtnetz GmbH|13101|
 Theo Voss|ANEXIA|47147|tvberlin
 Thomas Jessen|KPN Internatioal|286|Toshima
-Thomas King|DE-CIX Management GmbH|6695|
 Thomas Naumann|Deutsche Telekom AG|3320|
 Thomas Rüter|IPB Internet Provider in Berlin GmbH|20643|
 Thomas Schmid|DFN-Verein|680|
@@ -276,3 +286,7 @@ Werner Fischer|Thomas-Krenn.AG||
 Wolfgang Tremmel|DE-CIX|196610|Garf
 Wouter van Diepen|Solid Optics||
 Yassien Romiah|Alturna Networks||
+
+
+Use of the personal information above is governed by German data protection legislation. Prior consent from the owner is required before that information can be used.
+Note: These details are intended to enhance networking opportunities between attendees and should not be used for commercial purposes.
