@@ -66,3 +66,23 @@ footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
     #mainpage .mainpageboxlarge .mainpageboxheadline{font-size:18px;}
     #mainpage .mainpageboxsmall .mainpageboxheadline{font-size:12px;}
 }
+
+#page table {
+    border-collapse: collapse;
+    border-top: 2px solid #626878;
+    border-bottom: 2px solid #626878;
+}
+
+#page th, td {
+    padding: 10px 5px;
+    vertical-align: baseline;
+}
+
+#page th {
+    border-bottom: 2px solid #626878;
+}
+
+#page tr {
+    border-bottom: 1px solid #626878;
+}
+
