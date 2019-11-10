@@ -8,7 +8,7 @@ city: Hamburg
 
 # DENOG11 Teilnehmerliste
 
-Updated: 10.11.2019 0930Z (k)
+Updated: 10.11.2019 1810Z (k)
 
 Name des Teilnehmers | Firma | AS Nummer | IRC Nickname
 |-------|--------|---------|---------|
@@ -34,6 +34,7 @@ Anton Schubert|Riedel Communications||
 Arne Heitmann|Mellanox||
 Arnold Nipper|DE-CIX|6695|
 Axel Kröger|IPHH|12731|
+Aydin Yildiz|||
 Azad Sheikh Muhammad|Hostserver GmbH|29140|
 Benedikt Neuffer|KIT|34878|ogelpre
 Bernhard Hahn|DE-CIX Management GmbH|6695|
@@ -73,6 +74,7 @@ Dominik Rimpf|KIT|34878|
 Enrico Richter|BCIX Management GmbH|16374|
 Erik Anders|Securepoint|209148|
 Erik Verhoef|NetIX Communications|57463|
+Esime Sutantyo|Flexoptix GmbH||
 Falk Stern|PROFI Engineering Systems AG||falk
 Felix Bayer|||f38a
 Florian Hibler|Arista Networks|55064|florian
@@ -82,6 +84,7 @@ Florian Tschiedel|IPB Internet Provider in Berlin GmbH|20647|
 Frank Feihe||28876|
 Frank Holmes|LWLcom|50629|
 Frank Menzel|sipgate GmbH|15594|rbott
+Franziska Kunsmann|C3VOC||Kunsi
 Frederic Jaeckel|GitHub|36459|jchome
 Fredy Künzler|Init7|13030|
 Georg Revay|Deutsche Telekom AG|3320|
@@ -217,6 +220,7 @@ Ralf Remmert|n@work|9211|
 Raphael Rosenberg|Wavecon GmbH|60955|clockwork
 René Sasse|IPHH|12731|
 Richard Hartmann|SpaceNet|5539|RichiH
+Richard Schöbel|Flexoptix GmbH||
 Rico Schumann||3356|
 Robert Bruhm||44486|
 Robert Finze|DE-CIX|60767|mar-vin
@@ -242,6 +246,7 @@ Sebastian Wiesinger|noris network AG|12337|GPF
 Silvan Gebhardt|Openfactory|49192|wauwuff
 Simon Frerichs|LWLcom|50629|morpheus
 Simo Radenovic|Akamai Technologies GmbH|20940|
+Sophie Schiller|c3voc||sophie
 Stefan Funke|||
 Stefan Giera|BelWü|553|
 Stefan Hedenig|ANEXIA|47147|shedenig
