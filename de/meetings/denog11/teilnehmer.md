@@ -139,7 +139,7 @@ Leon Meßner|Community-IX|57555|elon
 Leon Weber|Datacenter One GmbH|48918|leonn
 Leopold Schabel|Nexantic GmbH|201203|leoluk
 Lukas Gerhold|man-da.de GmbH|8365|lukas
-Lukas Liebig|THYOTEC | IKS Service|15725|
+Lukas Liebig|IKS Service|15725|
 Lutz Donnerhacke|IKS Service GmbH|15725|Donner
 Magnus Frühling|Freifunk Frankfurt am Main e.V.|64475|skorpy
 Malte Bors|infinera GmbH||
@@ -286,7 +286,6 @@ Werner Fischer|Thomas-Krenn.AG||
 Wolfgang Tremmel|DE-CIX|196610|Garf
 Wouter van Diepen|Solid Optics||
 Yassien Romiah|Alturna Networks||
-
 
 Use of the personal information above is governed by German data protection legislation. Prior consent from the owner is required before that information can be used.
 Note: These details are intended to enhance networking opportunities between attendees and should not be used for commercial purposes.
