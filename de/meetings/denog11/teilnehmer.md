@@ -8,7 +8,7 @@ city: Hamburg
 
 # DENOG11 Teilnehmerliste
 
-Updated: 08.11.2019 1130Z (k)
+Updated: 10.11.2019 0930Z (k)
 
 Name des Teilnehmers | Firma | AS Nummer | IRC Nickname
 |-------|--------|---------|---------|
