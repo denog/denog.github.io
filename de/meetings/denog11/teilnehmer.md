@@ -8,13 +8,14 @@ city: Hamburg
 
 # DENOG11 Teilnehmerliste
 
-Updated: 10.11.2019 1810Z (k)
+Updated: 11.11.2019 1000Z (k)
 
 Name des Teilnehmers | Firma | AS Nummer | IRC Nickname
 |-------|--------|---------|---------|
 Adolfo Sicre Artalejo|Telia Carrier|1299|
 Afonso Afonso|Xantaro Deutschland GmbH||
 Alexander Dube|PlusServer GmbH|61157|
+Alexander Leefmann|nycro|209427|arl
 Alexander Lobodzinski|||
 Alex Senderkin|BCIX Management GmbH|16374|
 Andrae Marx|AMA netwoRX GmbH|8540|
@@ -38,6 +39,7 @@ Aydin Yildiz|||
 Azad Sheikh Muhammad|Hostserver GmbH|29140|
 Benedikt Neuffer|KIT|34878|ogelpre
 Bernhard Hahn|DE-CIX Management GmbH|6695|
+Chris Cousins|Kentik||
 Christian Adler|PlusServer GmbH|61157|
 Christian Beyer|Securepoint|209148|
 Christian Dieckhoff|WOBCOM GmbH|9136|ChrisD
@@ -75,6 +77,7 @@ Enrico Richter|BCIX Management GmbH|16374|
 Erik Anders|Securepoint|209148|
 Erik Verhoef|NetIX Communications|57463|
 Esime Sutantyo|Flexoptix GmbH||
+Fabio Mathes|IPHH||
 Falk Stern|PROFI Engineering Systems AG||falk
 Felix Bayer|||f38a
 Florian Hibler|Arista Networks|55064|florian
@@ -100,7 +103,7 @@ Hendrik Frese|x-ion GmbH|60664|
 Henry Kluge|DFN-Verein|680|
 Holger Bürger|||
 Holger Roszak|CenturyLink Communications Germany GmbH|3356|
-Holger Zessel|Freifunk Düsseldorf||Dago
+Holger Z.|Freifunk Düsseldorf||Dago
 Holger Zuleger|||
 Inga Mewes|||poldii
 Ivaylo Atanasov|||
@@ -259,6 +262,7 @@ Steffen Weinreich|mdex GmbH|200567|lairsdragon
 Stephan Kabisius|aquilius research GmbH|51492|
 Stephan Schroeder|Benocs|209039|
 Steven Karch|DB Station&Service AG||
+Steve Ruddock|Kentik||
 Susann Böhme|BCIX Management GmbH|16374|
 Sven Ellingen|CANCOM Pironet AG & Co. KG|8469|
 Sven Schade|TNG Stadtnetz GmbH|13101|
