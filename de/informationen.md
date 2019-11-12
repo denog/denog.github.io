@@ -26,8 +26,8 @@ Das Haupt-Organ der DENOG-Online-Präsenz ist die Mailingliste. Hier werden inte
 
 ## IRC-Channel
 
-IRC steht für Internet Relay Chat und ist ein Protokoll, das Echtzeitkommnukation in verschiedenen (Themen)Kanälen ermöglicht. 
-Um sich mit anderen DENOG-Aktiven im IRC unterhalten zu können, benötigt man zunächst einen IRC Client. Für Windows-User empfiehlt sich die Nutzung des weit verbreiteten IRC Clients mIRC, Linux/Unix-User verwenden desöfteren die Clients irssi, EPIC oder BitchX , für Benutzer von Mac OS X empfiehlt sich LimeChat oder Colloquy.
+IRC steht für Internet Relay Chat und ist ein Protokoll, das Echtzeitkommunikation in verschiedenen (Themen)Kanälen ermöglicht. 
+Um sich mit anderen DENOG-Aktiven im IRC unterhalten zu können, benötigt man zunächst einen IRC Client. Für Windows-User empfiehlt sich die Nutzung des weit verbreiteten IRC Clients mIRC, Linux/Unix-User verwenden desöfteren die Clients irssi, EPIC oder BitchX, für Benutzer von Mac OS X empfiehlt sich LimeChat oder Colloquy.
 
 DENOG-Teilnehmer treffen sich in einem eigenen Channel mit dem Namen #DENOG im IRCNet, wo zu fast jeder Tageszeit jemand anzutreffen ist. Eine Übersicht der Stammchatter findet sich [hier](chatterliste_iframe.html).
 
