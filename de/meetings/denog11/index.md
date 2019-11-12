@@ -17,7 +17,7 @@ city: Hamburg
  
  <h2> News </h2>
  <br>
- Have a great DENOG11
+ <h3>Please give us your feedback for the conference _<a href="https://forms.gle/yMk5A3R8BsZa2wBt6">here</a>_</h3>
  <br>
  <hr>
 
