@@ -45,7 +45,7 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>DENOG e.V. Vorstand gewählt</h4>
                     <p></p>
-                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
+                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>
 
