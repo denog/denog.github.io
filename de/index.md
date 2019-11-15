@@ -34,18 +34,18 @@ redirect_from: "/"
             <div class="newsblockwrapper">
                 <div class="newsblock">
                     <h4>DENOG11 in Hamburg</h4>
-                    <p>10.11. Workshop & Seminare // 11.-12.11. Hauptkonferenz</p>
+                    <p>Rückblick & Informationen</p>
                      <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>1. DENOG Meetup Berlin</h4>
-                    <p>Dienstag 28.05.2019 - 18.30h</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
+                    <h4>Rückblick Mitgliederversammlung 2019</h4>
+                    <p>Slidedeck der MV 2019 online</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG11 Tickets</h4>
-                    <p>Ticketvorverkauf startet demnächst</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG e.V. Vorstand gewählt</h4>
+                    <p></p>
+                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>
 
