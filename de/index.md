@@ -10,7 +10,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
-                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/20190912 - DENOG 11 Closing Slide.png" id="mainpagelogo" /></a>
+                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/index.html" class="btn btn-custom-default pull-right"><img src="{{ site.url }}/images/denog12-virtual.png" id="mainpagelogo" /></a>
                         </div>
                         <div class="col-sm-6">
                         <h2 class="mainpageboxheadline">Unterstütze die DENOG e.V.</h2>
@@ -33,18 +33,18 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>DENOG11 in Hamburg</h4>
-                    <p>Rückblick & Informationen</p>
-                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog11/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG12 call for papers & workshops</h4>
+                    <a href="https://pretalx.denog.de/denog12/cfp" class="btn btn-custom-default pull-right"> Call for Papers <i class="ion-arrow-right-c"></i></a><br>
+                    <a href="https://pretalx.denog.de/denog12-workshops/cfp" class="btn btn-custom-default pull-right"> Call for Workshops <i class="ion-arrow-right-c"></i></a>
+                </div>
+                <div class="newsblock">
+                    <h4>DENOG12 findet virtuell statt</h4>
+                    <p>Auf Grund der aktuellen Situation kann DENOG12 nicht wie geplant in Hamburg stattfinden.</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>Rückblick Mitgliederversammlung 2019</h4>
                     <p>Slidedeck der MV 2019 online</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
-                </div>
-                <div class="newsblock">
-                    <h4>DENOG e.V. Vorstand gewählt</h4>
-                    <p></p>
                     <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>

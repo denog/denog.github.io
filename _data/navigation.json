@@ -10,18 +10,17 @@
 				{"url": "chatterliste_iframe.html", "text": "Chatterliste"},
 				{"url": "wiki.html", "text": "Wiki"}
 			]},
-			{"url": "meetings/denog11/index.html", "text": "DENOG11 Konferenz", "childs": [
-				{"url": "meetings/denog11/index.html", "text": "Übersicht"},
-				{"url": "meetings/denog11/tickets.html", "text": "Registration"},
-				{"url": "meetings/denog11/workshops.html", "text": "Workshops"},
-				{"url": "meetings/denog11/cfp.html", "text": "Call for Papers"},
-				{"url": "meetings/denog11/zeitplan.html", "text": "Zeitplan"},
-				{"url": "meetings/denog11/hotels.html", "text": "Hotels"},
+			{"url": "meetings/denog12/index.html", "text": "DENOG12 virtual", "childs": [
+				{"url": "meetings/denog12/index.html", "text": "Übersicht"},
+				{"url": "meetings/denog12/cfp.html", "text": "Call for Papers"},
+				{"url": "meetings/denog12/sponsoring.html", "text": "Sponsoring"},
+				{"url": "meetings/denog12/teilnehmer.html", "text": "Teilnehmer"},
+
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
 			{"url": "events/index.html", "text": "Events", "childs": [
 				{"url": "events/index.html", "text": "Meetups"},
-				{"url": "meetings/denog11/index.html", "text": "DENOG11"},
+				{"url": "meetings/denog12/index.html", "text": "DENOG12"},
 				{"url": "archiv.html", "text": "Archiv"}
 			]},
 
