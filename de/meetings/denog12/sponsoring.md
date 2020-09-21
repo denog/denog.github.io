@@ -7,4 +7,4 @@ city: virtual
 ---
 # Sponsoring
 
-Are you interested in sponsoring DENOG12? Reach out to orga@lists.denog.de!!
+Are you interested in sponsoring DENOG12? Reach out to sponsoring@denog.de or to +41 764077826!!
