@@ -27,6 +27,7 @@ redirect_from: "/"
             <div class="mainpagepaddedbox">
               <h3>Über Denog</h3>
               <p>DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. Im Rahmen dieses technischen Forums treffen sich Menschen, die mit, für oder am Internet arbeiten und netzwerkspezifische Themen mit Gleichgesinnten diskutieren, um sie dadurch einfacher lösen zu können.</p>
+              <p>Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voran zu treiben und zu fördern wurde der Verein DENOG e.V im Jahr 2017 gegründet.</p>
               <a href="{{ site.url }}/{{ page.lang }}/informationen.html" class="btn btn-custom-default pull-right">Mehr erfahren <i class="ion-arrow-right-    c"></i></a>
               <div class="clearfix"></div>
             </div>
