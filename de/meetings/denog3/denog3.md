@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: conference
 lang: de
 title: DENOG3
 year: 2011

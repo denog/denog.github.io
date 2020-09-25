@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: conference
 lang: de
 title: DENOG7
 year: 2015

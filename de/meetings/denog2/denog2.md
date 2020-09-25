@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: conference
 lang: de
 title: DENOG2
 year: 2010

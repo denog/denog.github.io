@@ -3,6 +3,8 @@ lang: de
 ref: cfp2
 title: DENOG 2 - CALL FOR PARTICIPATION AND PAPERS
 breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog2">DENOG2</a>]
+meeting: DENOG2
+layout: conference
 ---
 The second meeting of the German Network Operators Group (DENOG) will be held in Frankfurt, Germany on the 4th of November 2010. We are pleased to hereby invite applications for presentations or lightning talks to be held at this event.
 

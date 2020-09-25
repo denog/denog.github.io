@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: conference
 title: DENOG1
 year: 2009
 city: Frankfurt

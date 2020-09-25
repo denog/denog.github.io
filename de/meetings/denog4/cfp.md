@@ -3,6 +3,8 @@ lang: de
 ref: cfp4
 title: DENOG 4 - CALL FOR PARTICIPATION AND PAPERS
 breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog4">DENOG4</a>]
+meeting: DENOG4
+layout: conference
 ---
 The fourth meeting of the German Network Operators Group (DENOG) will be held in Darmstadt, Germany on the 15th of November 2012. We are pleased to hereby invite applications for presentations or lightning talks to be held at this event.
 

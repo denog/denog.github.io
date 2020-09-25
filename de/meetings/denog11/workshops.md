@@ -1,9 +1,10 @@
 ---
 layout: conference
 lang: de
-title: DENOG11
+title: DENOG11 - Workshops
 year: 2019
 city: Hamburg
+meeting: DENOG11
 ---
 <br/>
 <br/>

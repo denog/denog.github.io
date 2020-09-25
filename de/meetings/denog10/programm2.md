@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: conference
 lang: de
-title: DENOG10 Slides & Recordings
+title: DENOG10 - Slides & Recordings
 year: 2018
 city: Darmstadt
+meeting: DENOG10
 ---
 
 # DENOG10 Slides & Recordings

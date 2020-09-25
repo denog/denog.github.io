@@ -1,7 +1,9 @@
 ---
 lang: de 
 ref: agenda8
-title: DENOG8 - VORLÄUFIGE AGENDA
+title: DENOG8 - AGENDA
+meeting: DENOG8
+layout: conference
 ---
 Die Folien aller Vorträge werden in englischer Sprache vorliegen. Alle Vorträge werden ebenfalls in englisch gehalten.
 

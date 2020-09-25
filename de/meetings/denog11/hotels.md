@@ -4,6 +4,7 @@ lang: de
 title: DENOG11 - Hotels
 year: 2019
 city: Hamburg
+meeting: DENOG11
 ---
 
 <br>

@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: conference
 lang: de
-title: DENOG10 Call for Papers
+title: DENOG10 - Call for Papers
 year: 2018
 city: Darmstadt
+meeting: DENOG10
 ---
 
 # DENOG10 Call for Papers

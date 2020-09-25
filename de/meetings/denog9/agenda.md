@@ -2,6 +2,8 @@
 lang: de 
 ref: agenda9
 title: DENOG9 - VORLÄUFIGE AGENDA
+meeting: DENOG9
+layout: conference
 ---
 <h2>Tag 1 - 23.11.2017</h2>
 <table class="table table-striped table-bordered table-hover">

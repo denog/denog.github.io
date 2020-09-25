@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: conference
 lang: de
 title: DENOG10
 year: 2018

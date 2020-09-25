@@ -3,6 +3,8 @@ lang: de
 ref: agenda2
 title: DENOG 2 - AGENDA
 breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog2">DENOG2</a>]
+meeting: DENOG2
+layout: conference
 ---
 The slides for all presentations will be produced in English. The spoken language of the presentation itself can be either German or English at the discretion of the presenter. However we expect the majority of the presentations to be held in German.
 

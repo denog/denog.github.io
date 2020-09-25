@@ -4,6 +4,7 @@ lang: de
 title: DENOG12 - Sponsoring
 year: 2020
 city: virtual
+meeting: DENOG12
 ---
 # Sponsoring
 

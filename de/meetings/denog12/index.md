@@ -5,7 +5,7 @@ title: DENOG12 - Übersicht
 year: 2020
 city: virtual
 home: true
-meeting: DENOG3
+meeting: DENOG12
 ---
 
 <br><br>

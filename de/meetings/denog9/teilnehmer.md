@@ -1,7 +1,9 @@
 ---
 lang: de
 ref: teilnehmer
-title: DENOG9 ATTENDEE LIST
+title: DENOG9 - ATTENDEE LIST
+meeting: DENOG9
+layout: conference
 ---
 <h1>Teilnehmer DENOG9</h1>
 <table class="table table-hover table-striped">

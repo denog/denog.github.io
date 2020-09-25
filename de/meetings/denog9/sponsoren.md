@@ -2,6 +2,8 @@
 lang: de
 ref: sponsoren
 title: Sponsoren
+meeting: DENOG9
+layout: conference
 ---
 ## Host
 

@@ -2,6 +2,8 @@
 lang: de
 ref: ortundhotels
 title: DENOG9 - VERANSTALTUNGSORT & HOTELS
+meeting: DENOG9
+layout: conference
 ---
 23.-24. November 2017 Darmstadt
 

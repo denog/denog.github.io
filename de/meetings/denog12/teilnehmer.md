@@ -4,6 +4,7 @@ lang: de
 title: DENOG12 - Teilnehmer
 year: 2020
 city: virtual
+meeting: DENOG12
 ---
 
 # DENOG12 Teilnehmerliste

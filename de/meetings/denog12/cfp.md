@@ -4,6 +4,7 @@ lang: de
 title: DENOG12 - Call for Papers & Workshops
 year: 2020
 city: virtual
+meeting: DENOG12
 ---
 
 <br>

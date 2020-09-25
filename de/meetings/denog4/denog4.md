@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: conference
 lang: de
 title: DENOG4
 year: 2012

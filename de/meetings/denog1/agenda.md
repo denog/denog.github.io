@@ -3,6 +3,8 @@ lang: de
 ref: agenda1
 title: DENOG1 - AGENDA
 breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog1">DENOG1</a>]
+meeting: DENOG1
+layout: conference
 ---
 <table class="table">
 <tbody><tr><th>Start</th><th>Ende</th><th>Titel</th><th>Autor</th><th>Folien</th></tr>

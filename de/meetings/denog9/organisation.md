@@ -2,6 +2,8 @@
 lang: de
 ref: organisation
 title: MEETING ORGANISATION
+meeting: DENOG9
+layout: conference
 ---
 Die Organisatoren des Meetings können per E-Mail unter [denog9@meeting.denog.de](mailto:denog9@meeting.denog.de) kontaktiert werden und besteht aus:
 

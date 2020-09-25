@@ -4,6 +4,7 @@ lang: de
 title: DENOG11 - Teilnehmer
 year: 2019
 city: Hamburg
+meeting: DENOG11
 ---
 
 # DENOG11 Teilnehmerliste
