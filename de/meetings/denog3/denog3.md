@@ -5,6 +5,8 @@ title: DENOG3
 year: 2011
 city: Frankfurt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+home: true
+meeting: DENOG3
 ---
 ![DENOG3]({{ site.url }}/images/meeting-3.jpg){:class="img-responsive"}
 

@@ -5,6 +5,8 @@ title: DENOG5
 year: 2013
 city: Darmstadt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+home: true
+meeting: DENOG5
 ---
 ![DENOG5]({{ site.url }}/images/meeting-5.jpg){:class="img-responsive"}
 

@@ -5,6 +5,8 @@ title: DENOG9
 year: 2017
 city: Darmstadt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+home: true
+meeting: DENOG9
 ---
 ![](/images/meeting-9.jpg){:class="img-responsive"}
 

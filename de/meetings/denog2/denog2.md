@@ -5,6 +5,8 @@ title: DENOG2
 year: 2010
 city: Frankfurt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+home: true
+meeting: DENOG2
 ---
 ## 2010-11-12 Winners of the Timlic Tombola
 

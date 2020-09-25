@@ -4,6 +4,8 @@ lang: de
 title: DENOG11 - Übersicht
 year: 2019
 city: Hamburg
+home: true
+meeting: DENOG11
 ---
 
 <br><br>

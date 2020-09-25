@@ -4,6 +4,8 @@ lang: de
 title: DENOG12 - Übersicht
 year: 2020
 city: virtual
+home: true
+meeting: DENOG3
 ---
 
 <br><br>

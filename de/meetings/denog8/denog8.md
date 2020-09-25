@@ -5,6 +5,8 @@ title: DENOG8
 year: 2016
 city: Darmstadt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+home: true
+meeting: DENOG8
 ---
 ![](/images/meeting-8.jpg){:class="img-responsive"}
 
