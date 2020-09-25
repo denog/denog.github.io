@@ -13,7 +13,7 @@ ref: archiv
 			{% assign checkYear = entry.year|plus: 0 %}
 			{% if checkYear < currentYear and checkYear > 0 %}
 **{{ entry.year }} {{ entry.meeting }} Meeting**\\
-[{{ entry.title }}, {{ entry.city }}]({{ entry.url }})
+[{{ entry.meeting }}, {{ entry.city }}]({{ entry.url }})
 			{% endif %}
 		{% endif %}
 	{% endif %}
