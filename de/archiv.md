@@ -3,6 +3,12 @@ title: Archiv
 lang: de
 ref: archiv
 ---
+# Slides
+
+Slides vergangener Veranstaltungen finden sich im [Media Repository](https://github.com/denog/media)
+
+# Vorherige Events
+
 {% assign meetingArray = site.pages|where: "lang", page.lang | sort: 'year' %}
 {% assign searchString = page.lang|append: '/meetings/denog'|prepend: '/' %}
 {% assign currentYear = site.time|date: '%Y'|plus: 0 %}
