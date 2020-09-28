@@ -1,7 +1,7 @@
 ---
 layout: conference
 lang: de
-title: DENOG12 - ABout
+title: DENOG12 - About
 year: 2020
 city: virtual
 home: true

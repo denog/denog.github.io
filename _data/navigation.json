@@ -1,37 +1,106 @@
 {
 	"de": {
 		"top": [
-			{"url": "index.html", "text": "Home"},
-			{"url": "#", "text": "Informationen", "childs": [
-				{"url": "informationen.html", "text": "Übersicht"},
-				{"url": "charta.html", "text": "Charta"},
-				{"url": "informationen.html#irc-channel", "text": "IRC"},
-				{"url": "mailingliste.html", "text": "Mailingliste"},
-				{"url": "chatterliste_iframe.html", "text": "Chatterliste"},
-				{"url": "wiki.html", "text": "Wiki"}
-			]},
-			{"url": "meetings/denog12/index.html", "text": "DENOG12 virtual", "childs": [
-				{"url": "meetings/denog12/index.html", "text": "Übersicht"},
-				{"url": "meetings/denog12/cfp.html", "text": "Call for Papers"},
-				{"url": "meetings/denog12/sponsoring.html", "text": "Sponsoring"},
-				{"url": "meetings/denog12/teilnehmer.html", "text": "Teilnehmer"},
-
-				{"url": "archiv.html", "text": "Archiv"}
-			]},
-			{"url": "events/index.html", "text": "Events", "childs": [
-				{"url": "events/index.html", "text": "Meetups"},
-				{"url": "meetings/denog12/index.html", "text": "DENOG12"},
-				{"url": "archiv.html", "text": "Archiv"}
-			]},
-
-			{"url": "governance/index.html", "text": "Governance"},
-
-			{"url": "kontakt.html", "text": "Kontakt"}
+			{
+				"url": "index.html",
+				"text": "Home"
+			},
+			{
+				"url": "#",
+				"text": "Informationen",
+				"childs": [
+					{
+						"url": "informationen.html",
+						"text": "Übersicht"
+					},
+					{
+						"url": "charta.html",
+						"text": "Charta"
+					},
+					{
+						"url": "informationen.html#irc-channel",
+						"text": "IRC"
+					},
+					{
+						"url": "mailingliste.html",
+						"text": "Mailingliste"
+					},
+					{
+						"url": "chatterliste_iframe.html",
+						"text": "Chatterliste"
+					},
+					{
+						"url": "wiki.html",
+						"text": "Wiki"
+					}
+				]
+			},
+			{
+				"url": "meetings/denog12/index.html",
+				"text": "DENOG12 virtual",
+				"childs": [
+					{
+						"url": "meetings/denog12/index.html",
+						"text": "About"
+					},
+					{
+						"url": "meetings/denog12/cfp.html",
+						"text": "Call for Papers"
+					},
+					{
+						"url": "meetings/denog12/sponsoring.html",
+						"text": "Sponsoring"
+					},
+					{
+						"url": "meetings/denog12/teilnehmer.html",
+						"text": "Attendees"
+					},
+					{
+						"url": "archiv.html",
+						"text": "Archiv"
+					}
+				]
+			},
+			{
+				"url": "events/index.html",
+				"text": "Events",
+				"childs": [
+					{
+						"url": "events/index.html",
+						"text": "Meetups"
+					},
+					{
+						"url": "meetings/denog12/index.html",
+						"text": "DENOG12"
+					},
+					{
+						"url": "archiv.html",
+						"text": "Archiv"
+					}
+				]
+			},
+			{
+				"url": "governance/index.html",
+				"text": "Governance"
+			},
+			{
+				"url": "kontakt.html",
+				"text": "Kontakt"
+			}
 		],
 		"bottom": [
-			{"url": "index.html", "text": "Home"},
-			{"url": "kontakt.html", "text": "Kontakt"},
-			{"url": "impressum.html", "text": "Impressum"}
+			{
+				"url": "index.html",
+				"text": "Home"
+			},
+			{
+				"url": "kontakt.html",
+				"text": "Kontakt"
+			},
+			{
+				"url": "impressum.html",
+				"text": "Impressum"
+			}
 		]
 	}
 }
