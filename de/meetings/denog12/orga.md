@@ -9,7 +9,7 @@ meeting: DENOG12
 
 
 ## Orga Team
-Get in touch: ak-veranstaltung @ denog.de
+Get in touch: event @ denog.de
 
 - Anita Meyer
 - Florian Hibler
