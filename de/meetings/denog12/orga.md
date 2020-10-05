@@ -16,7 +16,8 @@ Get in touch: event @ denog.de
 - Kay Rechthien
 - Malte von dem Hagen
 - Moritz Frenzel
-- Patrick Bussmann 
+- Patrick Bussmann
+- Sebastian Becker
 
 ## Program Committee
 
