@@ -44,8 +44,8 @@ redirect_from: "/"
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>Rückblick Mitgliederversammlung 2019</h4>
-                    <p>Slidedeck der MV 2019 online</p>
+                    <h4>Mitgliederversammlung 2020</h4>
+                    <p>Einladung und Dokumente online</p>
                     <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>
