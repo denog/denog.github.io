@@ -15,7 +15,7 @@ ref: Governance
 <br><br>
 
 #### Mitglieder Versammlungen & Informationen
-- 2019-11-12:  [ [Agenda] ] [ [Slidedeck] ](/files/gov/20191112_Slidedeck_Mitgliederversammlung2019_Final.pdf) [ [Protokoll (Draft)] ]
+- 2019-11-12:  [ [Agenda] ] [ [Slidedeck] ](/files/gov/20191112_Slidedeck_Mitgliederversammlung2019_Final.pdf) [ [Protokoll (Draft)] ](/files/gov/Protokoll DENOG MV 2019-DRAFT.pdf)
 - 2018-11-22:  [ [Agenda] ](/files/gov/20181122_Agenda_Mitgliederversammlung2018_Final.pdf) [ [Slidedeck] ](/files/gov/20181122_Slidedeck_Mitgliederversammlung2018_Final.pdf) [ [Protokoll (Draft)] ](/files/gov/20190512_Protokoll_DENOG_MV_2018_Final.pdf)
 - 2017-11-24:  [ [Protokoll] ](/files/gov/20171124_Gruendungsprotokoll.pdf)
 
