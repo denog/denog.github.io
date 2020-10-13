@@ -42,3 +42,5 @@ A full schedule will follow once the [Call for Papers and Workshops](cfp.html) i
 | 11:30 | Lightning Talks                |
 | 12:00 | Talks                          |
 | 13:00 | Closing Talk & Recap           |
+| 17:00 | Mitglieder Versammlung 2020    |
+
