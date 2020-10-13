@@ -42,6 +42,7 @@ redirect_from: "/"
                     <h4>DENOG12 findet virtuell statt</h4>
                     <p>Auf Grund der aktuellen Situation kann DENOG12 nicht wie geplant in Hamburg stattfinden.</p>
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
+                     <a href="https://www.denog.de/de/meetings/denog12/tickets.html" class="btn btn-custom-default pull-right"> Online Tickets <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>Mitgliederversammlung 2020</h4>
