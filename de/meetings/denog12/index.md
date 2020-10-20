@@ -22,13 +22,12 @@ DENOG13 will take place in Hamburg in 2021 if the situation allows it. Further d
 
 ## News
 
-### Call for Papers
+### Talks scheduled
 
-The Call for Papers for DENOG12 2020 is live and can be found here:
-
-<a href="https://pretalx.denog.de/denog12/cfp" target="new">DENOG12 Call for Papers</a>
+The talks for DENOG12 have been scheduled, take a look at our <a href="talks.html">lineup</a>!
+<br>
 
 ### Call for Workshops
 
-The call for workshops is also open an can be found here:
+The call for workshops is open an can be found here:
 <a href="https://pretalx.denog.de/denog12-workshops/cfp" target="new">DENOG12 Call for Workshops</a>
