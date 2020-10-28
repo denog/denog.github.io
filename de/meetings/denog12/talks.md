@@ -7,7 +7,7 @@ city: virtual
 meeting: DENOG12
 ---
 
-<pretalx-schedule-widget event="https://pretalx.denog.de/denog12/" height="500px"></pretalx-schedule-widget>
+<pretalx-schedule-widget event="https://pretalx.denog.de/denog12/" height="1500px"></pretalx-schedule-widget>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
