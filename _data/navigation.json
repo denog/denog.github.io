@@ -44,8 +44,12 @@
 						"text": "About"
 					},
 					{
-						"url": "meetings/denog12/cfp.html",
-						"text": "Call for Papers"
+						"url": "meetings/denog12/talks.html",
+						"text": "Talks"
+					},
+					{
+						"url": "meetings/denog12/workshops.html",
+						"text": "Workshops"
 					},
 					{
 						"url": "meetings/denog12/sponsoring.html",
