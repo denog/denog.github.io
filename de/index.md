@@ -34,9 +34,9 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>DENOG12 call for papers & workshops</h4>
-                    <a href="https://pretalx.denog.de/denog12/cfp" class="btn btn-custom-default pull-right"> Call for Papers <i class="ion-arrow-right-c"></i></a><br>
-                    <a href="https://pretalx.denog.de/denog12-workshops/cfp" class="btn btn-custom-default pull-right"> Call for Workshops <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG12 Talk & Workshop Agenda</h4>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/talks.html" class="btn btn-custom-default pull-right"> Tallk Agenda<i class="ion-arrow-right-c"></i></a><br>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/workshops.html" class="btn btn-custom-default pull-right"> Workshop Agenda<i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>DENOG12 findet virtuell statt</h4>
