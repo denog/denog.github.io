@@ -5,6 +5,7 @@ title: DENOG12 - Recordings
 year: 2020
 city: virtual
 meeting: DENOG12
+hide:true
 ---
 
 
