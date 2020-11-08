@@ -5,6 +5,7 @@ title: DENOG12 - Agenda
 year: 2020
 city: virtual
 meeting: DENOG12
+hide: true
 ---
 
 A full schedule will follow once the [Call for Papers and Workshops](cfp.html) is over.
