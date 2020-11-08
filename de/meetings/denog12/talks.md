@@ -1,7 +1,7 @@
 ---
 layout: conference
 lang: de
-title: DENOG12 - Talks
+title: DENOG12 - Agenda / Talks
 year: 2020
 city: virtual
 meeting: DENOG12
