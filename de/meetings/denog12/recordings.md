@@ -14,7 +14,7 @@ hide:true
 | Time  |                               | Presentation                  |  Recording                    |
 |-------|-------------------------------|-------------------------------|-------------------------------|
 | 10:30 | Welcome                       |                               |
-| 11:00 | Workshops                     |                               |
+| 11:00 | Workshops                     |                               | 
 | 12:00 | Lunch Break                   |                               |
 | 13:00 | Workshops                     |                               |
 | 17:00 | End                           |                               |
@@ -23,7 +23,8 @@ hide:true
 
 | Time  |                                |                               |
 |-------|--------------------------------|                               |
-| 10:30 | Newcomer Session               |                               |
+| 10:30 | Newcomer Session               |                               | [RECORDING](https://www.youtube.com/watch?v=ZxCrfa4IfnY)
+| 11:00 | Introduction to Venueless      |                               | [RECORDING](https://www.youtube.com/watch?v=u95cNlC25Ic)
 | 11:30 | Lunch Break                    |                               |
 | 12:30 | Opening Talk                   |                               |
 | 13:00 | Talks                          |                               |
