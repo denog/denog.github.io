@@ -32,7 +32,7 @@ meeting: DENOG12
 | 15:20 | LoRaWAN introduction (Nicola von Thadden) |                               |<a href="https://www.youtube.com/watch?v=flznbNjbiAA" target="_new"><img src="/images/recording.png" style="height:30px;">  |
 | 15:30 | (Re-)Building an IXP from scratch (Moritz Frenzel) |                               |  <a href="https://www.youtube.com/watch?v=6zTYj8WGYyo&t=1s" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 15:30 | How our Cloudy Mindsets Approached Physical Routers (Steffen Gebert) |                               | <a href="https://www.youtube.com/watch?v=R8GdDQDCVvY" target="_new"><img src="/images/recording.png" style="height:30px;"> |
-| 16:30 | Building the 400G Internet Trends, Technologies, and the Road to 800G+ (Andreas Bechtolsheim) |                               | |
+| 16:30 | Building the 400G Internet Trends, Technologies, and the Road to 800G+ (Andreas Bechtolsheim) |                               |  <a href="https://www.youtube.com/watch?v=ySKz_ob5_fI" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 
 ## Tuesday, November 10th
 
