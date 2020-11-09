@@ -23,7 +23,7 @@ hide:true
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| 10:30 | Newcomer Session               |                               | [![](/images/recording.png)](https://www.youtube.com/watch?v=ZxCrfa4IfnY) |
+| 10:30 | Newcomer Session               |                               | [<img src="/images/recording.png" style="height:30px;">](https://www.youtube.com/watch?v=ZxCrfa4IfnY) |
 | 11:00 | Introduction to Venueless      |                               | [RECORDING](https://www.youtube.com/watch?v=u95cNlC25Ic) |
 | 11:30 | Lunch Break                    |                               | |
 | 12:30 | Opening Talk                   |                               | |
