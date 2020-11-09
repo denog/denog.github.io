@@ -21,8 +21,8 @@ hide:true
 
 ## Monday, November 9th
 
-| Time  |                                |                               |
-|-------|--------------------------------|                               |
+| Time  |                                | Presentation                  |  Recording                    |
+|-------|--------------------------------|-------------------------------|-------------------------------|
 | 10:30 | Newcomer Session               |                               | [RECORDING](https://www.youtube.com/watch?v=ZxCrfa4IfnY) |
 | 11:00 | Introduction to Venueless      |                               | [RECORDING](https://www.youtube.com/watch?v=u95cNlC25Ic) |
 | 11:30 | Lunch Break                    |                               | |
