@@ -28,10 +28,10 @@ meeting: DENOG12
 | 13:00 | Have you ever shipped a switch to Sao Paulo? (Theo Voss) |                               |<a href="https://www.youtube.com/watch?v=ng3Qw6D75pE" target="_new"><img src="/images/recording.png" style="height:30px;">  |
 | 13:30 | Flexible Algorithms (Shraddha Hegde)                  |                               | |
 | 14:00 | From a City Provider to a Global Cloud Provider as a career starter (Florian Tschiedel) |                               | <a href="https://www.youtube.com/watch?v=hJqHXCTMkdM" target="_new"><img src="/images/recording.png" style="height:30px;">  |
-| 14:15 | Peering with the Incumbent (Fredy Künzler) |                               | |
+| 14:15 | Peering with the Incumbent (Fredy Künzler) |                               |  <a href="https://www.youtube.com/watch?v=XtW1rG8CcTg" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 15:20 | LoRaWAN introduction (Nicola von Thadden) |                               |<a href="https://www.youtube.com/watch?v=flznbNjbiAA" target="_new"><img src="/images/recording.png" style="height:30px;">  |
-| 15:30 | (Re-)Building an IXP from scratch (Moritz Frenzel) |                               | |
-| 15:30 | How our Cloudy Mindsets Approached Physical Routers (Steffen Gebert) |                               | |
+| 15:30 | (Re-)Building an IXP from scratch (Moritz Frenzel) |                               |  <a href="https://www.youtube.com/watch?v=6zTYj8WGYyo&t=1s" target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 15:30 | How our Cloudy Mindsets Approached Physical Routers (Steffen Gebert) |                               | <a href="https://www.youtube.com/watch?v=R8GdDQDCVvY" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 16:30 | Building the 400G Internet Trends, Technologies, and the Road to 800G+ (Andreas Bechtolsheim) |                               | |
 
 ## Tuesday, November 10th
