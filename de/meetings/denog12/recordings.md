@@ -25,13 +25,15 @@ hide:true
 |-------|--------------------------------|-------------------------------|-------------------------------|
 | 10:30 | Newcomer Session               |                               | [<img src="/images/recording.png" style="height:30px;">](https://www.youtube.com/watch?v=ZxCrfa4IfnY) |
 | 11:00 | Introduction to Venueless      |                               | [<img src="/images/recording.png" style="height:30px;">](https://www.youtube.com/watch?v=u95cNlC25Ic) |
-| 11:30 | Lunch Break                    |                               | |
-| 12:30 | Opening Talk                   |                               | |
-| 13:00 | Talks                          |                               | |
-| 15:00 | Coffee Break                   |                               | |
-| 15:30 | Lightning Talks                |                               | |
-| 16:00 | Talks                          |                               | |
-| 17:30 | End                            |                               | |
+| 12:30 | Opening Talk                   |                               | [<img src="/images/recording.png" style="height:30px;">](https://www.youtube.com/watch?v=b45Kr4g1Msw) |
+| 13:00 | Have you ever shipped a switch to Sao Paulo? (Theo Voss) |                               | |
+| 13:30 | Flexible Algorithms (Shraddha Hegde)                  |                               | |
+| 14:00 | From a City Provider to a Global Cloud Provider as a career starter (Florian Tschiedel) |                               | |
+| 14:15 | Peering with the Incumbent (Fredy Künzler) |                               | |
+| 15:20 | LoRaWAN introduction (Nicola von Thadden) |                               | |
+| 15:30 | (Re-)Building an IXP from scratch (Moritz Frenzel) |                               | |
+| 15:30 | How our Cloudy Mindsets Approached Physical Routers (Steffen Gebert) |                               | |
+| 16:30 | Building the 400G Internet Trends, Technologies, and the Road to 800G+ (Andreas Bechtolsheim) |                               | |
 
 ## Tuesday, November 10th
 
