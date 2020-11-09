@@ -23,7 +23,7 @@ hide:true
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| 10:30 | Newcomer Session               |                               | [<img src="/images/recording.png" style="height:30px;">](https://www.youtube.com/watch?v=ZxCrfa4IfnY) |
+| 10:30 | Newcomer Session               |                               | <a href="https://www.youtube.com/watch?v=ZxCrfa4IfnY" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 11:00 | Introduction to Venueless      |                               | [<img src="/images/recording.png" style="height:30px;">](https://www.youtube.com/watch?v=u95cNlC25Ic) |
 | 12:30 | Opening Talk                   |                               | [<img src="/images/recording.png" style="height:30px;">](https://www.youtube.com/watch?v=b45Kr4g1Msw) |
 | 13:00 | Have you ever shipped a switch to Sao Paulo? (Theo Voss) |                               | |
