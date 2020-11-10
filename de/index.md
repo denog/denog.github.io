@@ -39,9 +39,9 @@ redirect_from: "/"
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/workshops.html" class="btn btn-custom-default pull-right"> Workshop Agenda<i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG12 findet virtuell statt</h4>
-                    <p>Auf Grund der aktuellen Situation kann DENOG12 nicht wie geplant in Hamburg stattfinden.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG12 Recordings</h4>
+                    <p>Find all Recordings of Day 1 of #DENOG12 already on our Event Page.</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
                      <a href="https://www.denog.de/de/meetings/denog12/tickets.html" class="btn btn-custom-default pull-right"> Online Tickets <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
