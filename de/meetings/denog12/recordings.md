@@ -30,8 +30,8 @@ meeting: DENOG12
 |-------|--------------------------------|-------------------------------|-------------------------------|
 | 08:50 | Welcome Day 2                  | | |
 | 09:00 | Electrical energy, explained (Richard Hartmann) | | |
-| 09:30 | A journey to SDN (Ulf Fischer) | | |
-| 10:30 | How to build a multi-tenant ISP backbone with BGP/EVPN (Nicola von Thadden) | | |
+| 09:30 | A journey to SDN (Ulf Fischer) | | <a href="https://www.youtube.com/watch?v=aqGkh20_mNM " target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 10:30 | How to build a multi-tenant ISP backbone with BGP/EVPN (Nicola von Thadden) | | <a href="https://www.youtube.com/watch?v=rxyu3k7_oZ0" target="_new"><img src="/images/recording.png" style="height:30px;">|
 | 11:00 | Coffee Break                   |
 | 11:30 | Contemporary network configuration for Linux (Maximilian Wilhelm & Aaron A. Glenn) | | |
 | 1:00 | Building a transparent Layer 1 Switch using P4 (Sebastian Graf) | | |
