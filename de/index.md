@@ -42,7 +42,7 @@ redirect_from: "/"
                     <h4>DENOG12 Recordings</h4>
                     <p>Find all Recordings of Day 1 of #DENOG12 already on our Event Page.</p>
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
-                     <a href="https://www.denog.de/de/meetings/denog12/tickets.html" class="btn btn-custom-default pull-right"> Online Tickets <i class="ion-arrow-right-c"></i></a>
+                     
                 </div>
                 <div class="newsblock">
                     <h4>Mitgliederversammlung 2020</h4>
