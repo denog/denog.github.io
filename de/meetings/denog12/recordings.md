@@ -35,14 +35,14 @@ meeting: DENOG12
 | 10:30 | It is time...to replace MD5...with TCP-AO (Melchior Aelmans) | | <a href="https://www.youtube.com/watch?v=lekk4PzEkMk" target="_new"><img src="/images/recording.png" style="height:30px;">|
 | 11:00 | Coffee Break                   |
 | 11:30 | Contemporary network configuration for Linux (Maximilian Wilhelm & Aaron A. Glenn) | | |
-| 1:00 | Building a transparent Layer 1 Switch using P4 (Sebastian Graf) | | |
-| 1:00 | Horizontally scalable firewall deployments (Ralf Ertzinger) | | |
-| 1:00 | Building your own CGN boxes with Linux (Maximilian Wilhelm) | | |
-| 1:00 | How to build, maintain & market IPv6-only datacenter (Nico Schottelius) | | |
-| 1:00 | Automating Juniper Devices: The Later Years (Rudolph Bott) | | |
-| 1:00 | A Fully loaded panel for 400G in your metro network | | |
+| 11:40 | Building a transparent Layer 1 Switch using P4 (Sebastian Graf) | | |
+| 11:50 | Horizontally scalable firewall deployments (Ralf Ertzinger) | | |
+| 12:00 | Building your own CGN boxes with Linux (Maximilian Wilhelm) | | |
+| 12:30 | How to build, maintain & market IPv6-only datacenter (Nico Schottelius) | | |
+| 13:00 | Automating Juniper Devices: The Later Years (Rudolph Bott) | | |
+| 13:30 | A Fully loaded panel for 400G in your metro network | | |
 | 14:30 | DENOG12 Closing (Patrick Bussmann) | | |
-| 17:00 | Mitglieder Versammlung 2020    | | |
+| 17:00 | DENOG e.V. General Meeting 2020    | | |
 
 
 
