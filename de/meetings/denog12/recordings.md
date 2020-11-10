@@ -8,16 +8,6 @@ meeting: DENOG12
 ---
 
 
-## Sunday, November 8th
-
-| Time  |                               | Presentation                  |  Recording                    |
-|-------|-------------------------------|-------------------------------|-------------------------------|
-| 10:30 | Welcome                       |                               |
-| 11:00 | Workshops                     |                               | 
-| 12:00 | Lunch Break                   |                               |
-| 13:00 | Workshops                     |                               |
-| 17:00 | End                           |                               |
-
 ## Monday, November 9th
 
 | Time  |                                | Presentation                  |  Recording                    |
@@ -36,12 +26,33 @@ meeting: DENOG12
 
 ## Tuesday, November 10th
 
-| Time  |                                |
-|-------|--------------------------------|
-| 08:50 | Welcome Day 2                  |
-| 09:00 | Talks                          |
+| Time  |                                | Presentation                  |  Recording                    |
+|-------|--------------------------------|-------------------------------|-------------------------------|
+| 08:50 | Welcome Day 2                  | | |
+| 09:00 | Electrical energy, explained (Richard Hartmann) | | |
+| 09:30 | A journey to SDN (Ulf Fischer) | | |
+| 10:30 | How to build a multi-tenant ISP backbone with BGP/EVPN (Nicola von Thadden) | | |
 | 11:00 | Coffee Break                   |
-| 11:30 | Lightning Talks                |
-| 12:00 | Talks                          |
-| 13:00 | Closing Talk & Recap           |
-| 17:00 | Mitglieder Versammlung 2020    |
+| 11:30 | Contemporary network configuration for Linux (Maximilian Wilhelm & Aaron A. Glenn) | | |
+| 1:00 | Building a transparent Layer 1 Switch using P4 (Sebastian Graf) | | |
+| 1:00 | Horizontally scalable firewall deployments (Ralf Ertzinger) | | |
+| 1:00 | Building your own CGN boxes with Linux (Maximilian Wilhelm) | | |
+| 1:00 | How to build, maintain & market IPv6-only datacenter (Nico Schottelius) | | |
+| 1:00 | Automating Juniper Devices: The Later Years (Rudolph Bott) | | |
+| 1:00 | A Fully loaded panel for 400G in your metro network | | |
+| 14:30 | DENOG12 Closing (Patrick Bussmann) | | |
+| 17:00 | Mitglieder Versammlung 2020    | | |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
