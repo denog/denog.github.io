@@ -38,10 +38,10 @@ meeting: DENOG12
 | 11:40 | Building a transparent Layer 1 Switch using P4 (Sebastian Graf) | | <a href="https://www.youtube.com/watch?v=iZ2VJnM7hhU" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 11:50 | Horizontally scalable firewall deployments (Ralf Ertzinger) | | <a href="https://www.youtube.com/watch?v=eWGDb8it-Ms" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 12:00 | Building your own CGN boxes with Linux (Maximilian Wilhelm) | | <a href="https://www.youtube.com/watch?v=qHsHkjhGibA" target="_new"><img src="/images/recording.png" style="height:30px;"> |
-| 12:30 | How to build, maintain & market IPv6-only datacenter (Nico Schottelius) | | |
-| 13:00 | Automating Juniper Devices: The Later Years (Rudolph Bott) | | |
-| 13:30 | A Fully loaded panel for 400G in your metro network | | |
-| 14:30 | DENOG12 Closing (Patrick Bussmann) | | |
+| 12:30 | How to build, maintain & market IPv6-only datacenter (Nico Schottelius) | | <a href="https://www.youtube.com/watch?v=fzW7WQLxDK0" target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 13:00 | Automating Juniper Devices: The Later Years (Rudolph Bott) | | <a href="https://www.youtube.com/watch?v=lyaGSQ0ZPjQ" target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 13:30 | A Fully loaded panel for 400G in your metro network | | <a href="https://www.youtube.com/watch?v=RC2dy-LJTBc" target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 14:30 | DENOG12 Closing (Patrick Bussmann) | | <a href="https://www.youtube.com/watch?v=6lv71fvCD60&t=7s" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 17:00 | DENOG e.V. General Meeting 2020    | | |
 
 
