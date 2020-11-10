@@ -34,10 +34,10 @@ meeting: DENOG12
 | 10:00 | How to build a multi-tenant ISP backbone with BGP/EVPN (Nicola von Thadden) | | <a href="https://www.youtube.com/watch?v=rxyu3k7_oZ0" target="_new"><img src="/images/recording.png" style="height:30px;">|
 | 10:30 | It is time...to replace MD5...with TCP-AO (Melchior Aelmans) | | <a href="https://www.youtube.com/watch?v=lekk4PzEkMk" target="_new"><img src="/images/recording.png" style="height:30px;">|
 | 11:00 | Coffee Break                   |
-| 11:30 | Contemporary network configuration for Linux (Maximilian Wilhelm & Aaron A. Glenn) | | |
-| 11:40 | Building a transparent Layer 1 Switch using P4 (Sebastian Graf) | | |
-| 11:50 | Horizontally scalable firewall deployments (Ralf Ertzinger) | | |
-| 12:00 | Building your own CGN boxes with Linux (Maximilian Wilhelm) | | |
+| 11:30 | Contemporary network configuration for Linux (Maximilian Wilhelm & Aaron A. Glenn) | | <a href="https://www.youtube.com/watch?v=k4jLhKn1qyM" target="_new"><img src="/images/recording.png" style="height:30px;">|
+| 11:40 | Building a transparent Layer 1 Switch using P4 (Sebastian Graf) | | <a href="https://www.youtube.com/watch?v=iZ2VJnM7hhU" target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 11:50 | Horizontally scalable firewall deployments (Ralf Ertzinger) | | <a href="https://www.youtube.com/watch?v=eWGDb8it-Ms" target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 12:00 | Building your own CGN boxes with Linux (Maximilian Wilhelm) | | <a href="https://www.youtube.com/watch?v=qHsHkjhGibA" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 12:30 | How to build, maintain & market IPv6-only datacenter (Nico Schottelius) | | |
 | 13:00 | Automating Juniper Devices: The Later Years (Rudolph Bott) | | |
 | 13:30 | A Fully loaded panel for 400G in your metro network | | |
