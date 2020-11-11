@@ -12,9 +12,9 @@ meeting: DENOG12
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| 10:30 | Newcomer Session               |                               | <a href="https://www.youtube.com/watch?v=ZxCrfa4IfnY" target="_new"><img src="/images/recording.png" style="height:30px;"></a> |
-| 11:00 | Introduction to Venueless      |                               | <a href="https://www.youtube.com/watch?v=u95cNlC25Ic" target="_new"><img src="/images/recording.png" style="height:30px;"></a> |
-| 12:30 | Opening Talk                   |                               | <a href="https://www.youtube.com/watch?v=b45Kr4g1Msw" target="_new"><img src="/images/recording.png" style="height:30px;"> |
+| 10:30 | Newcomer Session               | <a href="./media/DENOG12/Day1_1000_DENOG12 Newcomer Session.pdf" target="_new"><img src="/images/presentation.png" style="height:30px;"></a> | <a href="https://www.youtube.com/watch?v=ZxCrfa4IfnY" target="_new"><img src="/images/recording.png" style="height:30px;"></a> |
+| 11:00 | Introduction to Venueless      | <a href="" target="_new"><img src="/images/presentation.png" style="height:30px;"></a>  | <a href="https://www.youtube.com/watch?v=u95cNlC25Ic" target="_new"><img src="/images/recording.png" style="height:30px;"></a> |
+| 12:30 | Opening Talk                   | <a href="" target="_new"><img src="/images/presentation.png" style="height:30px;"></a>  | <a href="https://www.youtube.com/watch?v=b45Kr4g1Msw" target="_new"><img src="/images/recording.png" style="height:30px;"> |
 | 13:00 | Have you ever shipped a switch to Sao Paulo? (Theo Voss) |                               |<a href="https://www.youtube.com/watch?v=ng3Qw6D75pE" target="_new"><img src="/images/recording.png" style="height:30px;">  |
 | 13:30 | Flexible Algorithms (Shraddha Hegde)                  |                               | |
 | 14:00 | From a City Provider to a Global Cloud Provider as a career starter (Florian Tschiedel) |                               | <a href="https://www.youtube.com/watch?v=hJqHXCTMkdM" target="_new"><img src="/images/recording.png" style="height:30px;">  |
