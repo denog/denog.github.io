@@ -11,7 +11,7 @@ ref: Governance
 #### Mitglieder Versammlung 2020
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf)
 - [ Verabschiedete Beitragsordnung ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
-- [ Verabschiedete Guidance DENOG Jahreskonferenzvergabe ](/files/gov/) 
+- [ Verabschiedete Guidance DENOG Jahreskonferenzvergabe ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
 <br><br>
 
 #### Mitglieder Versammlungen & Informationen
@@ -23,11 +23,11 @@ ref: Governance
 <br><br>
 #### Vereinsordnungen & Öffentliche Dokumente
 - [Satzung (Stand: 24.11.2017) ](/files/verein/20171124-DENOG_Satzung.pdf)
-- [Beitragsordnung (Stand: 24.11.2017) ](/files/verein/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
+- [Beitragsordnung (Stand: 10.11.2020) ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
 - [Aufnahmeordnung (Stand: 16.10.2018) ](/files/gov/20181015_Version1-0-Aufnahmeordnung-DENOG-e-V.pdf)<br>
 
 - [Geschäftsordnung des Vorstandes (Stand: 22.02.2019) ](/files/gov/20190222 - Version 1.0 Geschäftsordnung für den Vorstand DENOG.pdf)
-
+- [Guidance DENOG Jahreskonferenzvergabe Version 1.0 (Stand: 10.11.2020) ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
 
 
 <br><br>
