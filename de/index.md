@@ -34,19 +34,19 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>DENOG12 Talk & Workshop Agenda</h4>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/talks.html" class="btn btn-custom-default pull-right"> Tallk Agenda<i class="ion-arrow-right-c"></i></a><br>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/workshops.html" class="btn btn-custom-default pull-right"> Workshop Agenda<i class="ion-arrow-right-c"></i></a>
+                    <h4>Moritz Frenzel erneut zum Beisitzer gewählt!</h4>
+                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
+                   
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG12 Recordings</h4>
-                    <p>Find all Recordings of Day 1 of #DENOG12 already on our Event Page.</p>
+                    <h4>DENOG12 Presentations & Recordings</h4>
+                    <p>Find all Recordings of #DENOG12 already on our Event Page.</p>
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
                      
                 </div>
                 <div class="newsblock">
                     <h4>Mitgliederversammlung 2020</h4>
-                    <p>Einladung und Dokumente online</p>
+                    <p>Slidedeck und Dokumente online</p>
                     <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
             </div>
