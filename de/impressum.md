@@ -80,8 +80,8 @@ Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorg
 
 <p>DENOG e.V.<br />
 p. Adr. Patrick Bussmann<br />
-Bernhardstr. 39<br />
-80995 München<br />
+Schlesierstrasse 14<br />
+85368 Moosburg a.d. Isar<br />
 Deutschland<br />
 Tel.: -<br />
 E-Mail: <a href="mailto:vorstand@denog.de">vorstand@denog.de</a><br />
