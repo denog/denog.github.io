@@ -17,7 +17,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ab 18:30 Uhr<br>
 virtuell<br>
 
-Kostenlose Registrierung: [PreTix](https://pretix.eu/denog/denogmeetup21-01/)
+### Kostenlose Registrierung: 
 
 <pretix-widget event="https://pretix.eu/denog/denogmeetup21-01/"></pretix-widget>
 <noscript>
@@ -28,7 +28,10 @@ Kostenlose Registrierung: [PreTix](https://pretix.eu/denog/denogmeetup21-01/)
     </div>
 </noscript>
 
+oder: https://pretix.eu/denog/denogmeetup21-01/
 
+
+### Agenda: 
 
 <pretalx-schedule event-url="https://pretalx.denog.de/meetup-2021-01/" locale="de" format="list" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
 <noscript>
@@ -41,12 +44,9 @@ Kostenlose Registrierung: [PreTix](https://pretix.eu/denog/denogmeetup21-01/)
 </noscript>
 
 **Call for Papers**<br>
-Der Call for Papers ist gestartet und das PC freut sich über zahlreiche Einreichungen von interessierten Referenten (regional und überregional). Potentielle Talks können vom Einsteiger bis hin zum Expertenniveau reichen und alle mit der DENOG Community verwandten Themenfelder abdecken.
+Der Call for Papers ist geschlossen.
 
-Call for Papers: [PreTalx](https://pretalx.denog.de/meetup-2021-01/)
-
-Deadline CfP: 17.01.2021 23.59h
-
+### Teilnehmerliste:
 
 <iframe src="https://www.denog.de/pretix-attendeelist/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG12 Attendees">
   <!-- Textalternativen werden nicht unterstützt -->
