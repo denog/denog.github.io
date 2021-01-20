@@ -19,6 +19,17 @@ virtuell<br>
 
 Kostenlose Registrierung: [PreTix](https://pretix.eu/denog/denogmeetup21-01/)
 
+<pretix-widget event="https://pretix.eu/denog/denogmeetup21-01/"></pretix-widget>
+<noscript>
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/denog/denogmeetup21-01/">hier</a>.
+        </div>
+    </div>
+</noscript>
+
+
+
 <pretalx-schedule event-url="https://pretalx.denog.de/meetup-2021-01/" locale="de" format="list" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
