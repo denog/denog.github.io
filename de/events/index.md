@@ -13,9 +13,11 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ## DENOG Meetup virtual
 <br>
 #### DENOG Meetup 2021-01 Virtual<br>
-02.02.2021<br>
-ab 18:30 Uhr<br>
-virtuell<br>
+Wann: 02.02.2021<br>
+18:30 - 23.00 Uhr<br>
+Wo: virtuell<br>
+<br>
+<br>
 
 ### Kostenlose Registrierung: 
 
@@ -28,8 +30,10 @@ virtuell<br>
     </div>
 </noscript>
 
-oder: https://pretix.eu/denog/denogmeetup21-01/
-
+oder: <a href='https://pretix.eu/denog/denogmeetup21-01/' target='_new'>https://pretix.eu/denog/denogmeetup21-01/</a>
+<br>
+<br>
+<br>
 
 ### Agenda: 
 
@@ -42,10 +46,14 @@ oder: https://pretix.eu/denog/denogmeetup21-01/
         </div>
     </div>
 </noscript>
-
+<br>
+<br>
+<br>
 **Call for Papers**<br>
 Der Call for Papers ist geschlossen.
-
+<br>
+<br>
+<br>
 ### Teilnehmerliste:
 
 <iframe src="https://www.denog.de/pretix-attendeelist/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG12 Attendees">
