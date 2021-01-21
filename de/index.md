@@ -34,8 +34,9 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>Moritz Frenzel erneut zum Beisitzer gewählt!</h4>
-                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
+                    <h4>Kostenfreie Meetup Registrierung gestartet</h4>
+                    <p>Jetzt für das virtuelle Meetup am 02. Feb 2021 anmelden.</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
                    
                 </div>
                 <div class="newsblock">
