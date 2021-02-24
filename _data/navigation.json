@@ -7,11 +7,15 @@
 			},
 			{
 				"url": "#",
-				"text": "Informationen",
+				"text": "Community",
 				"childs": [
 					{
 						"url": "informationen.html",
 						"text": "Übersicht"
+					},
+					{
+						"url": "community_blog/index.html",
+						"text": "Community Blog"
 					},
 					{
 						"url": "charta.html",
