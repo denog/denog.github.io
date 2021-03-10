@@ -70,9 +70,13 @@
 				"text": "Events",
 				"childs": [
 					{
-						"url": "events/index.html",
+						"url": "events/meetups.html",
 						"text": "Meetups"
 					},
+					{
+						"url": "events/leadership.html",
+						"text": "Leadership Meetups"
+					},					
 					{
 						"url": "meetings/denog12/index.html",
 						"text": "DENOG12"

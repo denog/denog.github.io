@@ -34,9 +34,15 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>Kostenfreie Meetup Registrierung gestartet</h4>
-                    <p>Jetzt für das virtuelle Meetup am 02. Feb 2021 anmelden.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
+                    <h4>1. Leadership Meetup</h4>
+                    <p>Die Agenda des ersten DENOG leadership Meetup am 24.03.2021 wurde veröffentlicht!</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/leadership.html" class="btn btn-custom-default pull-right">mehr
+                        Informationen <i class="ion-arrow-right-c"></i></a>
+                </div>
+                <div class="newsblock">
+                    <h4>Meetup 2021-02 - Save the Date</h4>
+                    <p>Das 2. Meetup in 2021 findet am 14.04.2021 um 18:30 Uhr statt!</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
                    
                 </div>
                 <div class="newsblock">
@@ -45,11 +51,7 @@ redirect_from: "/"
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
                      
                 </div>
-                <div class="newsblock">
-                    <h4>Mitgliederversammlung 2020</h4>
-                    <p>Slidedeck und Dokumente online</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/governance/index.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
-                </div>
+
             </div>
 
 
