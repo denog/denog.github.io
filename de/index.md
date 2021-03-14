@@ -34,6 +34,12 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
+                    <h4>Meetup 2021-02 Call for Papers</h4>
+                    <p>Der Call for Papers zum Ersten Meetup in 2021 ist gestartet!</p>
+                    <a href="https://pretalx.com/denog-meetup-2021-02/cfp" class="btn btn-custom-default pull-right">zum Call for
+                        Papers<i class="ion-arrow-right-c"></i></a>
+                </div>
+                <div class="newsblock">
                     <h4>1. Leadership Meetup</h4>
                     <p>Die Agenda des ersten DENOG leadership Meetup am 24.03.2021 wurde veröffentlicht!</p>
                     <a href="{{ site.url }}/{{ page.lang }}/events/leadership.html" class="btn btn-custom-default pull-right">mehr
@@ -45,12 +51,7 @@ redirect_from: "/"
                     <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
                    
                 </div>
-                <div class="newsblock">
-                    <h4>DENOG12 Presentations & Recordings</h4>
-                    <p>Find all Recordings of #DENOG12 already on our Event Page.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog12/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
-                     
-                </div>
+
 
             </div>
 

@@ -25,4 +25,8 @@ DENOG Meetups richten sich an die lokalen Communities diverser Städte und werde
 
 Das DENOG Meetup 2021-02 findet am **14.04.2021 ab 18:30 Uhr als remote Meeting online** statt.
 
+## Call for Papers
+
+Der Call for Papers ist bis zum 01.04.2021 23:59:59Uhr geöffnet, mehr infos [hier](https://pretalx.com/denog-meetup-2021-02/cfp)
+
 ### mehr Infos in Kürze
