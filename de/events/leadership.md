@@ -20,7 +20,7 @@ Leadership, Teambuilding und Mitarbeiterführung sind nicht nur in Zeiten von CO
 | 18:40 - 18:50 | Matthias Maurer, Head of Product Management, Deutsche Telekom Global Carrier |
 | 18:50 - 19:00 | Marc Korthaus, Chief Executive Officer, SysEleven                            |
 | 19:00 - 19:10 | Sascha Pollok, Chief Technical Officer, IPHH                                |
-| 19:10 - 19:20 | TBA                                                                          |
+| 19:10 - 19:20 | Stephan Werner, COO, Flexoptix                                                                          |
 | 19:20 - 19:30 | Pause                                                                        |
 | 19:30 - 20:20 | Gemeinsame Q&A mit allen Speakern                                            |
 | 20:20 - 20:30 | Closing                                                                      |
