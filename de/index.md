@@ -40,9 +40,9 @@ redirect_from: "/"
                         Papers<i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>1. Leadership Meetup</h4>
-                    <p>Die Agenda des ersten DENOG leadership Meetup am 24.03.2021 wurde veröffentlicht!</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/leadership.html" class="btn btn-custom-default pull-right">mehr
+                    <h4>Recording: 1. Leadership Meetup</h4>
+                    <p>Das erste Leadership Meetup verpasst? Hier gehts zum Recording.</p>
+                    <a href="https://youtu.be/Li19S8hZO5k" class="btn btn-custom-default pull-right">mehr
                         Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
