@@ -12,10 +12,10 @@ ref: Governance
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf)
 - [ Protokoll Mitgliederversammlung 2020 Final ](/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf) 
 - <b>Anhänge</b>
-- Polyas Wahlunterlagen (im Protokoll enthalten)
-- [ Bericht der Kassenprüfer ](/files/gov/20201110_Kassenprüfung_DENOG_2019_signed.pdf)
-- [ Verabschiedete Beitragsordnung ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
-- [ Verabschiedete Guidance DENOG Jahreskonferenzvergabe ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
+  -  Polyas Wahlunterlagen (im Protokoll enthalten)
+  - [ Bericht der Kassenprüfer ](/files/gov/20201110_Kassenprüfung_DENOG_2019_signed.pdf)
+  - [ Verabschiedete Beitragsordnung ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
+  - [ Verabschiedete Guidance DENOG Jahreskonferenzvergabe ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
 <br><br>
 
 #### Mitglieder Versammlungen & Informationen
