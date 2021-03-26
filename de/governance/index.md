@@ -11,12 +11,15 @@ ref: Governance
 #### Mitglieder Versammlung 2020
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf)
 - [ Protokoll Mitgliederversammlung 2020 Final ](/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf) 
+##### Anhänge
+- Polyas Wahlunterlagen (im Protokoll enthalten)
+- [ Bericht der Kassenprüfer ](/files/gov/20201110_Kassenprüfung_DENOG_2019_signed.pdf)
 - [ Verabschiedete Beitragsordnung ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
 - [ Verabschiedete Guidance DENOG Jahreskonferenzvergabe ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
 <br><br>
 
 #### Mitglieder Versammlungen & Informationen
-- 2020-11-10:  [ [Agenda] ](/files/gov/20201012 - Final DENOG e.V. Mitgliederversammlung 2020 Einladung.pdf) [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf) [Protokoll (/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf)] 
+- 2020-11-10:  [ [Agenda] ](/files/gov/20201012 - Final DENOG e.V. Mitgliederversammlung 2020 Einladung.pdf) [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf) [ [Protokoll ](/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf)] 
 - 2019-11-12:   [Agenda]  [ [Slidedeck] ](/files/gov/20191112_Slidedeck_Mitgliederversammlung2019_Final.pdf) [ [Protokoll (Final)] ](/files/gov/20201110 - Protokoll - DENOG e.V. Mitgliederversammlung 2019 - Final - alle Unterschriften.pdf)
 - 2018-11-22:  [ [Agenda] ](/files/gov/20181122_Agenda_Mitgliederversammlung2018_Final.pdf) [ [Slidedeck] ](/files/gov/20181122_Slidedeck_Mitgliederversammlung2018_Final.pdf) [ [Protokoll (Draft)] ](/files/gov/20190512_Protokoll_DENOG_MV_2018_Final.pdf)
 - 2017-11-24:  [ [Protokoll] ](/files/gov/20171124_Gruendungsprotokoll.pdf)
