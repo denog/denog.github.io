@@ -10,7 +10,7 @@ ref: Governance
 
 #### Mitglieder Versammlung 2020
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf)
-- [ Protokoll (/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf)] 
+- [ Protokoll Mitgliederversammlung 2020 Final] (/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf) 
 - [ Verabschiedete Beitragsordnung ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
 - [ Verabschiedete Guidance DENOG Jahreskonferenzvergabe ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
 <br><br>
