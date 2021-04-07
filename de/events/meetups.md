@@ -29,4 +29,11 @@ Das DENOG Meetup 2021-02 findet am **14.04.2021 ab 18:30 Uhr als remote Meeting 
 
 Der Call for Papers ist bis zum 01.04.2021 23:59:59Uhr geöffnet, mehr infos [hier](https://pretalx.com/denog-meetup-2021-02/cfp)
 
-### mehr Infos in Kürze
+
+## Teilnehmerliste:
+(Aktualisiert ca. alle 60 Minuten)<br>
+<iframe src="https://www.denog.de/pretix-attendeelist/meetup_2021_02/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG Meetup 2021-02 Attendees">
+  <!-- Textalternativen werden nicht unterstützt -->
+</iframe>
+<br>
+*Use of the personal information above is governed by German data protection legislation. Prior consent from the owner is required before that information can be used. Note: These details are intended to enhance networking opportunities between attendees and should not be used for commercial purposes.*
