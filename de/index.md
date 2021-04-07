@@ -32,12 +32,12 @@ redirect_from: "/"
               <div class="clearfix"></div>
             </div>
 
-            <div class="newsblock">
-                <h4>Meetup 2021-02 - Agenda</h4>
-                <p>Das 2. Meetup in 2021 findet am 14.04.2021 um 18:30 Uhr stat, die Agenda steht nun fest!</p>
-                <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
-            </div>
             <div class="newsblockwrapper">
+                <div class="newsblock">
+                    <h4>Meetup 2021-02 - Agenda</h4>
+                    <p>Das 2. Meetup in 2021 findet am 14.04.2021 um 18:30 Uhr stat, die Agenda steht nun fest!</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
+                </div>
                 <div class="newsblock">
                     <h4>Meetup 2021-02 Call for Papers</h4>
                     <p>Der Call for Papers zum Ersten Meetup in 2021 ist gestartet!</p>
