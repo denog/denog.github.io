@@ -39,10 +39,9 @@ redirect_from: "/"
                     <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
                 </div>
                 <div class="newsblock">
-                    <h4>Meetup 2021-02 Call for Papers</h4>
-                    <p>Der Call for Papers zum Ersten Meetup in 2021 ist gestartet!</p>
-                    <a href="https://pretalx.com/denog-meetup-2021-02/cfp" class="btn btn-custom-default pull-right">zum Call for
-                        Papers<i class="ion-arrow-right-c"></i></a>
+                    <h4>Meetup 2021-02 - Registrierung offen</h4>
+                    <p>Kostenloses Registrierung für das Meetup #02-2021 ist geöffnet.</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>Recording: 1. Leadership Meetup</h4>
