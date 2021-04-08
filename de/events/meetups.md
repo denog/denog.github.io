@@ -37,6 +37,17 @@ Das DENOG Meetup 2021-02 findet am **14.04.2021 ab 18:30 Uhr als remote Meeting 
     </div>
 </noscript>
 
+## Kostenlose Anmeldung
+
+<pretix-widget event="https://pretix.eu/denog/denogmeetup21-01-2/"></pretix-widget>
+<noscript>
+
+   <div class="pretix-widget">
+        <div class="pretix-widget-info-message">
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/denog/denogleader2021-01/">hier</a>.
+        </div>
+    </div>
+</noscript>
 
 ## Teilnehmerliste:
 (Aktualisiert ca. alle 60 Minuten)<br>
