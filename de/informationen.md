@@ -37,7 +37,7 @@ Um sich mit anderen DENOG-Aktiven im IRC unterhalten zu können, benötigt man z
 
 DENOG-Teilnehmer treffen sich in einem eigenen Channel mit dem Namen **#denog** im **IRCNet**, wo zu fast jeder Tageszeit jemand anzutreffen ist. Eine Übersicht der Stammchatter findet sich [hier](chatterliste_iframe.html).
 
-Nachdem man sich für einen IRC Client seiner Wahl entschieden hat, kann man sich zu folgenden IRCNet Servern verbinden und mittels des Befehls '/join #DENOG' den Channel der DENOG betreten.
+Nachdem man sich für einen IRC Client seiner Wahl entschieden hat, kann man sich zu folgenden IRCNet Servern verbinden und mittels des Befehls `/join #DENOG` den Channel der DENOG betreten.
 
 ## Wiki
 
