@@ -34,6 +34,11 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
+                    <h4>Meetup 2021-03 - Registrierung offen</h4>
+                    <p>Kostenloses Registrierung für das Meetup #02-2021 ist geöffnet.</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
+                </div>
+                <div class="newsblock">
                     <h4>Meetup 2021-02 - Agenda</h4>
                     <p>Das 2. Meetup in 2021 findet am 14.04.2021 um 18:30 Uhr stat, die Agenda steht nun fest!</p>
                     <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
@@ -42,12 +47,6 @@ redirect_from: "/"
                     <h4>Meetup 2021-02 - Registrierung offen</h4>
                     <p>Kostenloses Registrierung für das Meetup #02-2021 ist geöffnet.</p>
                     <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a>
-                </div>
-                <div class="newsblock">
-                    <h4>Recording: 1. Leadership Meetup</h4>
-                    <p>Das erste Leadership Meetup verpasst? Hier gehts zum Recording.</p>
-                    <a href="https://youtu.be/Li19S8hZO5k" target='new' class="btn btn-custom-default pull-right">mehr
-                        Informationen <i class="ion-arrow-right-c"></i></a>
                 </div>
 
 
