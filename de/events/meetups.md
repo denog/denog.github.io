@@ -25,9 +25,17 @@ DENOG Meetups richten sich an die lokalen Communities diverser Städte und werde
 
 Das DENOG Meetup 2021-03 findet am **15.06.2021 ab 18:30 Uhr als remote Meeting online** statt.
 
-## Call for Papers
+## Agenda
 
-Der Call for Papers ist geöffnet, Vorträge können [in Pretalx](https://pretalx.com/denog-meetup-2021-03/cfp) eingereicht werden.
+<pretalx-schedule event-url="https://pretalx.com/denog-meetup-2021-03/" locale="de" format="grid" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.com/denog-meetup-2021-03/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
 
 ## Kostenlose Anmeldung
 
