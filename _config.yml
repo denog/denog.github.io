@@ -15,3 +15,8 @@ defaults:
       path: ""
     values:
       layout: "page"
+  - 
+    scope:
+      path: "media"
+    values:
+      media: true
