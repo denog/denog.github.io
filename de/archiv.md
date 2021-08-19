@@ -5,9 +5,9 @@ ref: archiv
 ---
 {% include text-expand.html %}
 
-# Slides
+# Archiv
 
-Slides vergangener Veranstaltungen finden sich im [Media Repository](https://github.com/denog/media)
+Alle Slides vergangener Veranstaltungen finden sich auch im [Media Repository](https://github.com/denog/media)
 
 {% assign meetingArray = site.pages|where: "lang", page.lang | sort: 'year' %}
 {% assign searchString = page.lang|append: '/meetings/denog'|prepend: '/' %}
