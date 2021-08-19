@@ -3,6 +3,8 @@ title: Archiv
 lang: de
 ref: archiv
 ---
+{% include text-expand.html %}
+
 # Slides
 
 Slides vergangener Veranstaltungen finden sich im [Media Repository](https://github.com/denog/media)
@@ -18,14 +20,18 @@ Slides vergangener Veranstaltungen finden sich im [Media Repository](https://git
             {% assign checkYear = entry.year|plus: 0 %}
             {% if checkYear < currentYear and checkYear > 0 %}
 **{{ entry.year }} {{ entry.meeting }} Meeting**\\
-[{{ entry.meeting }}, {{ entry.city }}]({{ entry.url }})\\
-**Slides:**
-                {% for presentation in presentations %}
-                    {% if presentation.path contains entry.meeting %}
-- [{{ presentation.basename | replace: "_", " " }}]({{ presentation.path }})
-                    {% endif %}
-                {% endfor %}
-            {% endif %}
+[{{ entry.meeting }}, {{ entry.city }}]({{ entry.url }})
+<details>
+    <summary><b>Slides</b></summary>
+<ul>
+{% for presentation in presentations %}
+    {% if presentation.path contains entry.meeting %}
+<li><a href="{{ presentation.path }}">{{ presentation.basename | replace: "_", " " }}</a></li>
+    {% endif %}
+{% endfor %}
+</ul>
+</details>
+           {% endif %}
         {% endif %}
     {% endif %}
 {% endfor %}
