@@ -14,4 +14,4 @@ We are always happy to assist you with any other questions regarding the confere
 We look forward to the virtual DENOG13 together with you!
 
 A list of all available sponsoring packages is available here:
-- [DENOG12_sponsoring.pdf]({{ site.url }}/files/denog12/DENOG12_sponsoring.pdf)
+- [DENOG13_sponsoring.pdf]({{ site.url }}/files/denog13/DENOG13_Sponsoring_de_en.pdf)
