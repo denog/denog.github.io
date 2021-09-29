@@ -24,6 +24,3 @@ Further details will follow.
 
 
 ### Call for Workshops
-
-The call for workshops is open an can be found here:
-<a href="https://pretalx.denog.de/denog12-workshops/cfp" target="new">DENOG12 Call for Workshops</a>
