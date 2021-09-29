@@ -44,9 +44,9 @@ redirect_from: "/"
                     <a href="{{ site.url }}/{{ page.lang }}/denog13/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>Meetup 2021-02 - Agenda</h4>
-                    <p>Das 2. Meetup in 2021 findet am 14.04.2021 um 18:30 Uhr stat, die Agenda steht nun fest!</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">mehr Informationen <i class="ion-arrow-right-c"></i></a><br>
+                    <h4>Mitglieder Versammlung 2021</h4>
+                    <p>Save the Date - 10.11.2021 17.00 Uhr (virtual).</p>
+                    <br>
                 </div>
             </div>
 
