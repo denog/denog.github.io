@@ -41,7 +41,7 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>DENOG13 - Registration Open</h4>
                     <p>Die kostenlose Registrierung für DENOG13 virtual ist geöffnet.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/denog13/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
                     <h4>Mitglieder Versammlung 2021</h4>
