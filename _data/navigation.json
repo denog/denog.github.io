@@ -36,27 +36,23 @@
 				]
 			},
 			{
-				"url": "meetings/denog12/index.html",
-				"text": "DENOG12 virtual",
+				"url": "meetings/denog13/index.html",
+				"text": "DENOG13 virtual",
 				"childs": [
 					{
-						"url": "meetings/denog12/index.html",
+						"url": "meetings/denog13/index.html",
 						"text": "About"
 					},
 					{
-						"url": "meetings/denog12/talks.html",
-						"text": "Talks"
+						"url": "meetings/denog13/tickets.html",
+						"text": "Tickets"
 					},
 					{
-						"url": "meetings/denog12/recordings.html",
-						"text": "Recordings"
+						"url": "meetings/denog13/sponsoring.html",
+						"text": "Sponsoring"
 					},
 					{
-						"url": "meetings/denog12/workshops.html",
-						"text": "Workshops"
-					},
-					{
-						"url": "meetings/denog12/attendees.html",
+						"url": "meetings/denog13/attendees.html",
 						"text": "Attendees"
 					},
 					{
@@ -76,7 +72,7 @@
 					{
 						"url": "events/leadership.html",
 						"text": "Leadership Meetups"
-					},					
+					},
 					{
 						"url": "meetings/denog12/index.html",
 						"text": "DENOG12"
