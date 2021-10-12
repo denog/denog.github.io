@@ -8,6 +8,12 @@ ref: Governance
 <br>
 <br>
 
+#### Mitglieder Versammlung 2021
+- 2020-10-12:  [ [Einladung & Tagesordnung] ](/files/gov/)
+- Anhang TOP8a Satzungsänderung Beschlüsse [ [Vorschlag Vorstand zur Diskussion] ](https://docs.google.com/document/d/1C8jYrVtGomAvtExQz_BhBSUPUuzi5kHPB3Oscxy8JZ8/edit?usp=sharing)
+- Anhang TOP8b Satzungsänderung Vorstand [ [Vorschlag Vorstand zur Diskussion] ](https://docs.google.com/document/d/1_RSq8Ebe6ouqkY7IWiOkSMgN4THPnaVqIzU5FsMAYRY/edit?usp=sharing)
+<br><br>
+
 #### Mitglieder Versammlung 2020
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf)
 - [ Protokoll Mitgliederversammlung 2020 Final ](/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf) 
