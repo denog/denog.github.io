@@ -47,7 +47,7 @@ redirect_from: "/"
                     <h4>Mitglieder Versammlung 2021</h4>
                     <p>10.11.2021 17.00 Uhr (virtual).</p>
                     <a href="https://www.denog.de/de/governance/index.html" class="btn btn-custom-default pull-right">Einladung und Diskussion<i class="ion-arrow-right-c"></i></a>
-                </div><br>
+                <br>
                 </div>
             </div>
 
