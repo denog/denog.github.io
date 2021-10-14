@@ -10,7 +10,7 @@ meeting: DENOG13
 
 <br><br>
 <center>
-    <h1>DENOG13 will happen virtually from November 7. to November 09.</h1>
+    <h1>DENOG13 will happen virtually from November 7. to November 09. 2021</h1>
 </center>
 <br>
 Due to the ongoing COVID-19 situation DENOG13 will happen virtually. We will start the conference with a workshop day Sunday, November 7th.
