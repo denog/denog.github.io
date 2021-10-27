@@ -14,7 +14,7 @@ header{min-height:70px;}
 .btn-custom-default{color:#000000;background:#ffffff;border:1px solid #f9cd00;border-radius:0px;}
 .btn-custom-default:hover, .btn-custom-default:focus{color:#000000;background:#ffffff;border:1px solid #f9cd00;}
 
-#page{min-height:600px;}
+#page{min-height:600px;max-width:653px; overflow-x: auto}
 .page-section{padding-top:20px;}
 #mainpage .page-section{padding-top:0px;}
 
