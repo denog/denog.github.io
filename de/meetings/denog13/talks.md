@@ -7,7 +7,7 @@ city: virtual
 meeting: DENOG13
 ---
 
-<pretalx-schedule event-url="https://pretalx.com/denog13/" locale="en" format="grid" style="--pretalx-clr-primary: #F9CD00"></pretalx-schedule>
+<pretalx-schedule event-url="https://pretalx.com/denog13/" locale="en" format="list" style="--pretalx-clr-primary: #F9CD00"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
         <div class="pretalx-widget-info-message">
