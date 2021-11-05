@@ -34,12 +34,12 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <div class="newsblock">
-                    <h4>DENOG13 - Call for Papers & Workshops</h4>
-                    <p>Der Call for Papers & Workshops ist geöffnet</p>
-                    <a href="https://pretalx.com/denog13/cfp" class="btn btn-custom-default pull-right">Zum CFP<i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG13 - Workshop Registrierung (Sonntag)</h4>
+                    <p>Zur Registrierung für einen Workshop</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/workshops.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
                 </div>
                 <div class="newsblock">
-                    <h4>DENOG13 - Registration Open</h4>
+                    <h4>DENOG13 - Konferenz Registrierung (Montag & Dienstag)</h4>
                     <p>Die kostenlose Registrierung für DENOG13 virtual ist geöffnet.</p>
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
                 </div>
