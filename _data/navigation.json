@@ -44,8 +44,16 @@
 						"text": "About"
 					},
 					{
+						"url": "meetings/denog13/workshops.html",
+						"text": "Workshop Registration"
+					},
+					{
 						"url": "meetings/denog13/tickets.html",
 						"text": "Tickets"
+					},
+					{
+						"url": "meetings/denog13/talks.html",
+						"text": "Agenda"
 					},
 					{
 						"url": "meetings/denog13/sponsoring.html",
