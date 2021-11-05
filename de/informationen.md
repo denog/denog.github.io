@@ -39,10 +39,6 @@ DENOG-Teilnehmer treffen sich in einem eigenen Channel mit dem Namen **#denog** 
 
 Nachdem man sich für einen IRC Client seiner Wahl entschieden hat, kann man sich zu folgenden IRCNet Servern verbinden und mittels des Befehls `/join #DENOG` den Channel der DENOG betreten.
 
-## Wiki
-
-Das gesammelte Wissen der engagierten DENOG-Gemeinde wird in einem [Wiki](http://wiki.denog.de/){:target="_blank"} zusammengetragen und gepflegt.
-
 ## Unterstützung durch die Community
 
 Die Community ist stolz auf das Wachstum der vergangenen Jahre.  
