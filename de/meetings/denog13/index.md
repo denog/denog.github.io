@@ -68,11 +68,11 @@ After your registration for DENOG13 you received a confirmation eMail (Subject L
 <br />
 <br />
 
-If you can’t join or can’t find your link please visit <a href"https://pretix.eu/denog/denog13/">https://pretix.eu/denog/denog13/</a> and use the "resend order links". Otherwise reach out to <a href="mailto:event@denog.de">event@denog.de</a>.
+If you can’t join or can’t find your link please visit <a href="https://pretix.eu/denog/denog13/">https://pretix.eu/denog/denog13/</a> and use the "resend order links". Otherwise reach out to <a href="mailto:event@denog.de">event@denog.de</a>.
 <br />
 <br />
 
-PS: We recommend the „Newcomer Session“ on Monday morning at 09.00h CET if you’re new to DENOG or Venueless.
+PS: We recommend the "Newcomer Session" on Monday morning at 09.00h CET if you’re new to DENOG or Venueless.
 <br />
 <br />
 
@@ -147,12 +147,6 @@ Please join us for the official Social on Monday Evening in Venueless.
 
 ## Need Help? Have questions?
 Go to the #Helpdesk Chat in Venueless or eMail event@denog.de
-<br />
-<br />
-------------------------- 
-<br />
-<br />
-All information on the DENOG13 conference and the social, as well as on the General Meeting can be found on: https://denog13.denog.de
 <br />
 <br />
 
