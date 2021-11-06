@@ -20,34 +20,40 @@ Please find more information and details below, to support you in planning and o
 <br /> 
 <br /> 
 
-#### Not Registered Yet?
+## Not Registered Yet?
 Last Minute Tickets are still available at <a href="https://www.denog.de/de/meetings/denog13/tickets.html">Tickets</a>.
+<br />
+<br />
 
 
-#### Sunday 07th Nov 2021 - Workshop Agenda
+## Sunday 07th Nov 2021 - Workshop Agenda
+<br /> 
+<b>All times in CET!</b>
 <table>
 <tr>
-<th>09.00h CET</th><th>Venueless opens: Get set-up and ready for 3 days of DENOG13!</th>
+<th>09.00h</th><th>Venueless opens: Get set-up and ready for 3 days of DENOG13!</th>
 </tr><tr>
-<th>10.30h CET</th><th>Welcome & KickOff</th>
+<th>10.30h</th><th>Welcome & KickOff</th>
 </tr><tr>
-<th>11.00h CET</th><th>Workshop: Working with a vendor TAC - Do's and Don't</th>
+<th>11.00h</th><th>Workshop: Working with a vendor TAC - Do's and Don't</th>
 </tr><tr>
-<th>11.00h CET</th><th>Workshop: Introduction to BGP</th>
+<th>11.00h</th><th>Workshop: Introduction to BGP</th>
 </tr><tr>
-<th>11.00h CET</th><th>Workshop: Grafana Workshop</th>
+<th>11.00h</th><th>Workshop: Grafana Workshop</th>
 </tr><tr>
-<th>13.00h CET</th><th>Workshop: Spaß mit PBR, VRFs und NetNS unter Linux</th>
+<th>13.00h</th><th>Workshop: Spaß mit PBR, VRFs und NetNS unter Linux</th>
 </tr><tr>
-<th>13.00h CET</th><th>Workshop: Datacenter Automation with Ansible</th>
+<th>13.00h</th><th>Workshop: Datacenter Automation with Ansible</th>
 </tr><tr>
-<th>17.00h CET</th><th>Workshop: Segment Routing Workshop</th>
+<th>17.00h</th><th>Workshop: Segment Routing Workshop</th>
 </tr><tr>
-<th>18.00h CET</th><th>InOfficial: Pre-Social</th>
+<th>18.00h</th><th>InOfficial: Pre-Social</th>
 </tr>
 </table>
+<br />
+<br />
 
-#### How to get there
+## How to get there
 This year's conference location is virtual and called Venueless.
 <br />
 <br />
@@ -62,15 +68,16 @@ After your registration for DENOG13 you received a confirmation eMail (Subject L
 <br />
 <br />
 
-If you can’t join or can’t find your link please visit https://pretix.eu/denog/denog13/ and use the “resend order links”. Otherwise reach out to event@denog.de
+If you can’t join or can’t find your link please visit <a href"https://pretix.eu/denog/denog13/">https://pretix.eu/denog/denog13/</a> and use the "resend order links". Otherwise reach out to <a href="mailto:event@denog.de">event@denog.de</a>.
 <br />
 <br />
 
 PS: We recommend the „Newcomer Session“ on Monday morning at 09.00h CET if you’re new to DENOG or Venueless.
 <br />
+<br />
 
 
-#### Agenda & Workshops
+## Agenda & Workshops
 DENOG13 will start with a full day of Workshops on Sunday 07th November 2021 10.30h CET.
 <br />
 If you haven’t yet registered please find available slots here:
@@ -90,7 +97,7 @@ All details to the program can be found here:
 <br />
 <br />
 
-#### Livestream & Presentations
+## Livestream & Presentations
 The Livestream will be in Venueless this year. Please register for the free conference ticket (or buy a corporate ticket if you like to support DENOG e.V.) and join us in Venueless.
 <br />
 <br />
@@ -101,7 +108,7 @@ Workshop Sunday will not be recorded.
 <br />
 <br />
 
-#### Socials Events
+## Socials Events
 <b>Meet a random attendee</b>
 <br />
 If you want to meet someone new do not hesitate to click the “Meet a random attendee”-Button in venueless, and you can meet someone new. 
@@ -138,7 +145,7 @@ Please join us for the official Social on Monday Evening in Venueless.
 <br />
 <br />
 
-#### Need Help? Have questions?
+## Need Help? Have questions?
 Go to the #Helpdesk Chat in Venueless or eMail event@denog.de
 <br />
 <br />
