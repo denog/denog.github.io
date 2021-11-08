@@ -20,15 +20,15 @@ meeting: DENOG13
 |-------|--------------------------------|-------------------------------|-------------------------------|
 | 09.00h | Newcomer Session | | <a href='https://youtu.be/1uogffavtGY'> <img src="/images/recording.png" style="height:30px;"> </a> |
 | 09.30h | Networks Basics | |  <a href='https://youtu.be/2wad_ZJDx9I'> <img src="/images/recording.png" style="height:30px;"> </a> |
-| 12.30h | DENOG13 Opening | |
-| 13.00h | BNG Blaster - Open Source Network Tester | |
-| 13.30h | Demystify Quantum Key Distribution  | |
-| 14.45h | Automate RIPE DB handling with NetBox | |
-| 14.55h | Reverse DNS Survey of DE  | |
-| 15.05h | Two tools for monitoring and debugging large L3 CLOS networks | |
-| 15.30h | High-Available Anycast DNS Resolver for ISPs | |
-| 16.00h | PONderings of a Network Engineer | |
-| 16.30h | Closing Day 1 | |
+| 12.30h | DENOG13 Opening | |  <a href='https://youtu.be/O_Jyq6b_9zA'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 13.00h | BNG Blaster - Open Source Network Tester | |  <a href='https://youtu.be/LVg6rlVEfNU'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 13.30h | Demystify Quantum Key Distribution  | |  <a href='https://youtu.be/x674-EIGyE0'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 14.45h | Automate RIPE DB handling with NetBox | |  <a href='https://youtu.be/LLlqwCrxA_0'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 14.55h | Reverse DNS Survey of DE  | |  <a href='https://youtu.be/SLvZfPz2ZNA'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 15.05h | Two tools for monitoring and debugging large L3 CLOS networks | |  <a href='https://youtu.be/PN-4JKjCAT0'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 15.30h | High-Available Anycast DNS Resolver for ISPs | |  
+| 16.00h | PONderings of a Network Engineer | |  <a href='https://youtu.be/VTRCtB0qbPw'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 16.30h | Closing Day 1 | |  <a href='https://youtu.be/VLgFqDVL7UI'> <img src="/images/recording.png" style="height:30px;"> </a> |
 | 17.00h | Social | |
 
 ## Tuesday, November 9th
