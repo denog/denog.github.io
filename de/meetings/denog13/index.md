@@ -26,28 +26,34 @@ Last Minute Tickets are still available at <a href="https://www.denog.de/de/meet
 <br />
 
 
-## Sunday 07th Nov 2021 - Workshop Agenda
+## Monday 08th Nov 2021 - Conference Agenda
 <br /> 
 <b>All times in CET!</b>
 <table>
 <tr>
-<th>09.00h</th><th>Venueless opens: Get set-up and ready for 3 days of DENOG13!</th>
+<th>09.00h</th><th>Newcomer Session</th>
 </tr><tr>
-<th>10.30h</th><th>Welcome & KickOff</th>
+<th>09.30h</th><th>Network Basics</th>
 </tr><tr>
-<th>11.00h</th><th>Workshop: Working with a vendor TAC - Do's and Don't</th>
+<th>12.30h</th><th>DENOG13 opening</th>
 </tr><tr>
-<th>11.00h</th><th>Workshop: Introduction to BGP</th>
+<th>13.00h</th><th>BNG Blaster - Open Source Network Tester</th>
 </tr><tr>
-<th>11.00h</th><th>Workshop: Grafana Workshop</th>
+<th>13.30h</th><th>Demystify Quantum Key Distribution</th>
 </tr><tr>
-<th>13.00h</th><th>Workshop: Spaß mit PBR, VRFs und NetNS unter Linux</th>
+<th>14.45h</th><th>Automate RIPE DB handling with NetBox</th>
 </tr><tr>
-<th>13.00h</th><th>Workshop: Datacenter Automation with Ansible</th>
+<th>13.55h</th><th>Reverse DNS Survey of DE</th>
 </tr><tr>
-<th>17.00h</th><th>Workshop: Segment Routing Workshop</th>
+<th>15.05h</th><th>Two tools for monitoring and debugging large L3 CLOS networks</th>
 </tr><tr>
-<th>18.00h</th><th>InOfficial: Pre-Social</th>
+<th>15.30h</th><th>High-Available Anycast DNS Resolver for ISPs</th>
+</tr><tr>
+<th>16.00h</th><th>PONderings of a Network Engineer</th>
+</tr><tr>
+<th>16.30h</th><th>Closing Day1</th>
+</tr><tr>
+<th>17.00h</th><th>Dinner Break & Social</th>
 </tr>
 </table>
 <br />
