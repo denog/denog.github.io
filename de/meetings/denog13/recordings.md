@@ -19,7 +19,7 @@ meeting: DENOG13
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
 | 09.00h | Newcomer Session | | <a href='https://youtu.be/1uogffavtGY'> <img src="/images/presentation.png" style="height:30px;"> </a> |
-| 09.30h | Networks Basics | |
+| 09.30h | Networks Basics | |  <a href='https://youtu.be/2wad_ZJDx9I'> <img src="/images/presentation.png" style="height:30px;"> </a> |
 | 12.30h | DENOG13 Opening | |
 | 13.00h | BNG Blaster - Open Source Network Tester | |
 | 13.30h | Demystify Quantum Key Distribution  | |
