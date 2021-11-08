@@ -18,7 +18,7 @@ meeting: DENOG13
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| 09.00h | Newcomer Session | |
+| 09.00h | Newcomer Session | | <a href='https://youtu.be/1uogffavtGY'> Recording </a> |
 | 09.30h | Networks Basics | |
 | 12.30h | DENOG13 Opening | |
 | 13.00h | BNG Blaster - Open Source Network Tester | |
