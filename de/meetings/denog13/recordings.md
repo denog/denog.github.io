@@ -8,12 +8,14 @@ meeting: DENOG13
 ---
 
 ## Sunday, November 7th
+
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
 | 10.30h |Workshop opening & introduction | | |  
 
 
 ## Monday, November 8th
+
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
 | 09.00h | Newcomer Session | |
