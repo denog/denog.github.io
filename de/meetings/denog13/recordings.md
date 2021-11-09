@@ -11,7 +11,7 @@ meeting: DENOG13
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| 10.30h |Workshop opening & introduction | |  <a href='https://youtu.be/Q7c0SaxCUtM&embedd=true'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 10.30h |Workshop opening & introduction | |  <a href='https://youtu.be/Q7c0SaxCUtM&embedded=true'> <img src="/images/recording.png" style="height:30px;"> </a> |
 
 
 ## Monday, November 8th
