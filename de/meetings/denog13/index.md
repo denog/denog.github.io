@@ -31,25 +31,25 @@ Last Minute Tickets are still available at <a href="https://www.denog.de/de/meet
 <b>All times in CET!</b>
 <table>
 <tr>
-    <th>10.00h</th><th>What's new in Grafana?</tr>
+    <th>10.00h</th><th>What's new in Grafana?</th>
 </tr><tr>
-<th>10.10h</th><th>local-pref considered evil</tr>
+<th>10.10h</th><th>local-pref considered evil</th>
 </tr><tr>
-<th>10.20h</th><th>Automated Congestion Avoidance with an SDN Controller</tr>
+<th>10.20h</th><th>Automated Congestion Avoidance with an SDN Controller</th>
 </tr><tr>
-<th>10.45h</th><th>Aviation rules & Operation Teams</tr>
+<th>10.45h</th><th>Aviation rules & Operation Teams</th>
 </tr><tr>
-<th>11.15h</th><th>Enhancing PING and TRACEROUTE</tr>
+<th>11.15h</th><th>Enhancing PING and TRACEROUTE</th>
 </tr><tr>
-<th>13.00h</th><th>An appeal to individuals operating "research" networks</tr>
+<th>13.00h</th><th>An appeal to individuals operating "research" networks</th>
 </tr><tr>
-<th>13.10h</th><th>IXP Update</tr>
+<th>13.10h</th><th>IXP Update</th>
 </tr><tr>
-<th>13.20h</th><th>Peering Manager: A practical introduction</tr>
+<th>13.20h</th><th>Peering Manager: A practical introduction</th>
 </tr><tr>
-<th>13.50h</th><th>Peering Automation using OpenConfig and Public APIs</tr>
+<th>13.50h</th><th>Peering Automation using OpenConfig and Public APIs</th>
 </tr><tr>
-<th>14.20h</th><th>DENOG13 closing</tr>
+<th>14.20h</th><th>DENOG13 closing</th>
 </tr>
 </table>
 <br />
