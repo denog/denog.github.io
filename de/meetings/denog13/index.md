@@ -26,34 +26,30 @@ Last Minute Tickets are still available at <a href="https://www.denog.de/de/meet
 <br />
 
 
-## Monday 08th Nov 2021 - Conference Agenda
+## Tuesday 09th Nov 2021 - Conference Agenda
 <br /> 
 <b>All times in CET!</b>
 <table>
 <tr>
-<th>09.00h</th><th>Newcomer Session</th>
+<th>10.00h</th><th>What's new in Grafana?
 </tr><tr>
-<th>09.30h</th><th>Network Basics</th>
+<th>10.10h</th><th>local-pref considered evil
 </tr><tr>
-<th>12.30h</th><th>DENOG13 opening</th>
+<th>10.20h</th><th>Automated Congestion Avoidance with an SDN Controller
 </tr><tr>
-<th>13.00h</th><th>BNG Blaster - Open Source Network Tester</th>
+<th>10.45h</th><th>Aviation rules & Operation Teams
 </tr><tr>
-<th>13.30h</th><th>Demystify Quantum Key Distribution</th>
+<th>11.15h</th><th>Enhancing PING and TRACEROUTE
 </tr><tr>
-<th>14.45h</th><th>Automate RIPE DB handling with NetBox</th>
+<th>13.00h</th><th>An appeal to individuals operating "research" networks
 </tr><tr>
-<th>13.55h</th><th>Reverse DNS Survey of DE</th>
+<th>13.10h</th><th>IXP Update
 </tr><tr>
-<th>15.05h</th><th>Two tools for monitoring and debugging large L3 CLOS networks</th>
+<th>13.20h</th><th>Peering Manager: A practical introduction
 </tr><tr>
-<th>15.30h</th><th>High-Available Anycast DNS Resolver for ISPs</th>
+<th>13.50h</th><th>Peering Automation using OpenConfig and Public APIs
 </tr><tr>
-<th>16.00h</th><th>PONderings of a Network Engineer</th>
-</tr><tr>
-<th>16.30h</th><th>Closing Day1</th>
-</tr><tr>
-<th>17.00h</th><th>Dinner Break & Social</th>
+<th>14.20h</th><th>DENOG13 closing
 </tr>
 </table>
 <br />
