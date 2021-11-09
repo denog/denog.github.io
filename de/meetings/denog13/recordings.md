@@ -35,16 +35,16 @@ meeting: DENOG13
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| 10.00h CET | What's new in Grafana? | 
-| 10.10h CET | local-pref considered evil | 
-| 10.20h CET | Automated Congestion Avoidance with an SDN Controller | 
-| 10.45h CET | Aviation rules & Operation Teams | 
-| 11.15h CET | Enhancing PING and TRACEROUTE | 
-| 13.00h CET | An appeal to individuals operating "research" networks | 
-| 13.10h CET | IXP Update | 
-| 13.20h CET | Peering Manager: A practical introduction | 
-| 13.50h CET | Peering Automation using OpenConfig and Public APIs | 
-| 14.20h CET | DENOG13 closing | 
+| 10.00h | What's new in Grafana? | 
+| 10.10h | local-pref considered evil | 
+| 10.20h | Automated Congestion Avoidance with an SDN Controller | 
+| 10.45h | Aviation rules & Operation Teams | 
+| 11.15h | Enhancing PING and TRACEROUTE | 
+| 13.00h | An appeal to individuals operating "research" networks | 
+| 13.10h | IXP Update | 
+| 13.20h | Peering Manager: A practical introduction | 
+| 13.50h | Peering Automation using OpenConfig and Public APIs | 
+| 14.20h | DENOG13 closing | 
 
 
 
