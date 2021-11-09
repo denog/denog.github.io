@@ -26,7 +26,7 @@ meeting: DENOG13
 | 14.45h | Automate RIPE DB handling with NetBox | |  <a href='https://youtu.be/LLlqwCrxA_0'> <img src="/images/recording.png" style="height:30px;"> </a> |
 | 14.55h | Reverse DNS Survey of DE  | |  <a href='https://youtu.be/SLvZfPz2ZNA'> <img src="/images/recording.png" style="height:30px;"> </a> |
 | 15.05h | Two tools for monitoring and debugging large L3 CLOS networks | |  <a href='https://youtu.be/PN-4JKjCAT0'> <img src="/images/recording.png" style="height:30px;"> </a> |
-| 15.30h | High-Available Anycast DNS Resolver for ISPs | |  
+| 15.30h | High-Available Anycast DNS Resolver for ISPs | |  <a href='https://youtu.be/CmMMPbfJZaQ'> <img src="/images/recording.png" style="height:30px;"> </a> |
 | 16.00h | PONderings of a Network Engineer | |  <a href='https://youtu.be/VTRCtB0qbPw'> <img src="/images/recording.png" style="height:30px;"> </a> |
 | 16.30h | Closing Day 1 | |  <a href='https://youtu.be/VLgFqDVL7UI'> <img src="/images/recording.png" style="height:30px;"> </a> |
 | 17.00h | Social | |
