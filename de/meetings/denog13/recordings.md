@@ -35,8 +35,6 @@ meeting: DENOG13
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| | | | |
-
 | 10.00h CET | What's new in Grafana? | 
 | 10.10h CET | local-pref considered evil | 
 | 10.20h CET | Automated Congestion Avoidance with an SDN Controller | 
