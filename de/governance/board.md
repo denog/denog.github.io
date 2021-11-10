@@ -7,6 +7,28 @@ ref: Board
 Der Vorstand besteht, wie in der Satzung definiert, aus "dem 1. Vorsitzenden, dem 2. Vorsitzenden und dem Kassenwart sowie bis zu vier Beisitzern".
 Die Vorstandsmitglieder werden von der Mitgliederversammlung für einen Zeitraum von zwei Jahren gewählt. Weitere Informationen findet Ihr in der aktuell gültigen Satzung <a href="documents.html">Dokumente & Verordnungen</a>. 
 
+## Mitgliederversammlung 2021
+
+Seit der Mitgliedersammlung am 10.11.2021 setzt sich der Vorstand wie folgt zusammen: 
+
+1. Vorstand: Patrick Bußmann (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren) 
+2. Vorstand: Florian Hibler (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
+
+Kassenwart: Arnold Nipper (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
+
+Beisitzer:
+- Annika Wickert (gewählt am 10.11.2021 für zwei Jahre / Wahl in geraden Jahren)
+- Fiona Weber (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
+- Moritz Frenzel (gewählt am 10.11.2020 für zwei Jahre / Wahl in geraden Jahren)
+
+
+Des Weiteren sind die folgenden Kassenprüfer gewählt:
+
+- Theo Voss (gewählt am 12.11.2019)
+- Kay Rechthien (gewählt am 24.11.2017) 
+- Magnus Frühling (gewählt am 24.11.2017) 
+
+
 ## Mitgliederversammlung 2020
 
 Seit der Mitgliedersammlung am 10.11.2020 setzt sich der Vorstand wie folgt zusammen: 

@@ -16,17 +16,17 @@ Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voran zu treiben u
 
 ## Der Vorstand 
 
-Seit der Mitgliedersammlung am 10.11.2020 setzt sich der Vorstand wie folgt zusammen: 
+Seit der Mitgliedersammlung am 10.11.2021 setzt sich der Vorstand wie folgt zusammen: 
 
-1. Vorstand: Patrick Bußmann (gewählt am 12.11.2019) 
-2. Vorstand: Florian Hibler (gewählt am 12.11.2019)
+1. Vorstand: Patrick Bußmann (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren) 
+2. Vorstand: Florian Hibler (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
 
-Kassenwart: Arnold Nipper (gewählt am 12.11.2019)
+Kassenwart: Arnold Nipper (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
 
 Beisitzer:
-- Anita Meyer (gewählt am 12.11.2019)
-- Malte von dem Hagen (gewählt am 12.11.2019)
-- Moritz Frenzel (gewählt am 10.11.2020)
+- Annika Wickert (gewählt am 10.11.2021 für zwei Jahre / Wahl in geraden Jahren)
+- Fiona Weber (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
+- Moritz Frenzel (gewählt am 10.11.2020 für zwei Jahre / Wahl in geraden Jahren)
 
 
 Die ehemaligen Vorstände können auf der Unterseite "<a href="board.html">Vorstand</a>" nachgelesen werden. 
