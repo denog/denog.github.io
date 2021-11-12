@@ -35,16 +35,16 @@ meeting: DENOG13
 
 | Time  |                                | Presentation                  |  Recording                    |
 |-------|--------------------------------|-------------------------------|-------------------------------|
-| 10.00h | What's new in Grafana? | 
-| 10.10h | local-pref considered evil | 
-| 10.20h | Automated Congestion Avoidance with an SDN Controller | 
-| 10.45h | Aviation rules & Operation Teams | 
-| 11.15h | Enhancing PING and TRACEROUTE | 
-| 13.00h | An appeal to individuals operating "research" networks | 
-| 13.10h | IXP Update | 
-| 13.20h | Peering Manager: A practical introduction | 
-| 13.50h | Peering Automation using OpenConfig and Public APIs | 
-| 14.20h | DENOG13 closing | 
+| 10.00h | What's new in Grafana? | | <a href='https://youtu.be/HwJDbpbGj1E'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 10.10h | local-pref considered evil | | <a href='https://youtu.be/gn-cdzHxkpk'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 10.20h | Automated Congestion Avoidance with an SDN Controller | | <a href='https://youtu.be/ct1UEjDNF7A'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 10.45h | Aviation rules & Operation Teams | | <a href='https://youtu.be/HdO02tDZv3I'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 11.15h | Enhancing PING and TRACEROUTE | | <a href='https://youtu.be/hkY5Af7uiEk'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 13.00h | An appeal to individuals operating "research" networks | | <a href='https://youtu.be/m8D0K4RmrFE'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 13.10h | IXP Update | | <a href='https://youtu.be/5bQ0EB3KBX8'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 13.20h | Peering Manager: A practical introduction | | <a href='https://youtu.be/4WEDdSBNEkY'> <img src="/images/recording.png" style="height:30px;"> </a> |
+| 13.50h | Peering Automation using OpenConfig and Public APIs | |  |
+| 14.20h | DENOG13 closing | | <a href='https://youtu.be/G9M5Nlh7xhw'> <img src="/images/recording.png" style="height:30px;"> </a> |
 
 
 
