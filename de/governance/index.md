@@ -21,10 +21,10 @@ Seit der Mitgliedersammlung am 10.11.2021 setzt sich der Vorstand wie folgt zusa
 1. Vorstand: Patrick Bußmann (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren) 
 2. Vorstand: Florian Hibler (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
 
-Kassenwart: Arnold Nipper (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
+Kassenwart: Arnold Nipper (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren)
 
 Beisitzer:
-- Annika Wickert (gewählt am 10.11.2021 für zwei Jahre / Wahl in geraden Jahren)
+- Annika Wickert (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren)
 - Fiona Weber (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
 - Moritz Frenzel (gewählt am 10.11.2020 für zwei Jahre / Wahl in geraden Jahren)
 
