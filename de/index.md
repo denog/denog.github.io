@@ -33,22 +33,22 @@ redirect_from: "/"
             </div>
 
             <div class="newsblockwrapper">
-                <div class="newsblock">
+                <article>
                     <h4>DENOG13 - Workshop Registrierung (Sonntag)</h4>
                     <p>Zur Registrierung für einen Workshop</p>
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/workshops.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
-                </div>
-                <div class="newsblock">
+                </article>
+                <article>
                     <h4>DENOG13 - Konferenz Registrierung (Montag & Dienstag)</h4>
                     <p>Die kostenlose Registrierung für DENOG13 virtual ist geöffnet.</p>
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
-                </div>
-                <div class="newsblock">
+                </article>
+                <article>
                     <h4>Mitglieder Versammlung 2021</h4>
                     <p>10.11.2021 17.00 Uhr (virtual).</p>
                     <a href="https://www.denog.de/de/governance/index.html" class="btn btn-custom-default pull-right">Einladung und Diskussion<i class="ion-arrow-right-c"></i></a>
                 <br>
-                </div>
+                </article>
             </div>
 
 
