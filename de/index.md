@@ -14,7 +14,7 @@ redirect_from: "/"
                         </div>
                         <div class="col-md-6 col-sm-12">
                         <h2 class="mainpageboxheadline">Unterstütze die DENOG e.V.</h2>
-                        <p><a href="/files/verein/DENOG_Antrag_Mitgliedschaft_v18_SEPA_20181002.pdf" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/DENOG_Antrag_Foerdermitgliedschaft_v18_20181002.pdf" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a><br /> <br />
+                        <p><a href="/de/governance/become_member.html" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a> <a href="/de/governance/become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a><br /> <br />
                         <a href="/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf" class="btn btn-custom-default">Zur Beitragsordnung <i class="ion-arrow-right-c"></i></a> <a href="/files/verein/20171124-DENOG_Satzung.pdf" class="btn btn-custom-default">Zur Satzung <i class="ion-arrow-right-c"></i></a></p>
                         </div>
                     </div>
@@ -34,14 +34,9 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
-                    <h4>DENOG13 - Workshop Registrierung (Sonntag)</h4>
-                    <p>Zur Registrierung für einen Workshop</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/workshops.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
-                </article>
-                <article>
-                    <h4>DENOG13 - Konferenz Registrierung (Montag & Dienstag)</h4>
-                    <p>Die kostenlose Registrierung für DENOG13 virtual ist geöffnet.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/tickets.html" class="btn btn-custom-default pull-right">zu den Tickets <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG13 - Konferenz Recordings</h4>
+                    <p>The recordings of the conference are online.</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/recordings.html" class="btn btn-custom-default pull-right">Recodings <i class="ion-arrow-right-c"></i></a>
                 </article>
                 <article>
                     <h4>Mitglieder Versammlung 2021</h4>
