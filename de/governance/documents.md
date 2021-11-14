@@ -7,9 +7,10 @@ ref: Documents
 
 
 ## Mitgliederversammlung 2021
-- [ [Einladung & Tagesordnung] ](/files/gov/2021012 - DENOG eV Einladung ordentliche Mitgliederversammlung 2021.pdf)
-- Anhang TOP8a Satzungsänderung Beschlüsse [ [Vorschlag Vorstand zur Diskussion] ](https://docs.google.com/document/d/1C8jYrVtGomAvtExQz_BhBSUPUuzi5kHPB3Oscxy8JZ8/edit?usp=sharing)
-- Anhang TOP8b Satzungsänderung Vorstand [ [Vorschlag Vorstand zur Diskussion] ](https://docs.google.com/document/d/1_RSq8Ebe6ouqkY7IWiOkSMgN4THPnaVqIzU5FsMAYRY/edit?usp=sharing)
+- Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20211110_Mitgliederversammlung 2021_Slidedeck_Final.pdf)
+- <b>Anhänge</b>
+  - [ Verabschiedete Satzungsänderung Anhang TOP8a Satzungsänderung Beschlüsse ](https://docs.google.com/document/d/1C8jYrVtGomAvtExQz_BhBSUPUuzi5kHPB3Oscxy8JZ8/edit?usp=sharing)
+  - [ Verabschiedete Satzungsänderung Anhang TOP8b Satzungsänderung Vorstand ](https://docs.google.com/document/d/1_RSq8Ebe6ouqkY7IWiOkSMgN4THPnaVqIzU5FsMAYRY/edit?usp=sharing)
 <br><br>
 
 
@@ -25,6 +26,7 @@ ref: Documents
 
 
 ## Frühere Mitgliederversammlungen
+- 2021-11-10:  [ [Agenda] ](/files/gov/2021012 - DENOG eV Einladung ordentliche Mitgliederversammlung 2021.pdf) [ [Slidedeck] ](/files/gov/20211110_Mitgliederversammlung 2021_Slidedeck_Final.pdf) 
 - 2020-11-10:  [ [Agenda] ](/files/gov/20201012 - Final DENOG e.V. Mitgliederversammlung 2020 Einladung.pdf) [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf) [ [Protokoll (FINAL) ](/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf)] 
 - 2019-11-12:   [Agenda]  [ [Slidedeck] ](/files/gov/20191112_Slidedeck_Mitgliederversammlung2019_Final.pdf) [ [Protokoll (Final)] ](/files/gov/20201110 - Protokoll - DENOG e.V. Mitgliederversammlung 2019 - Final - alle Unterschriften.pdf)
 - 2018-11-22:  [ [Agenda] ](/files/gov/20181122_Agenda_Mitgliederversammlung2018_Final.pdf) [ [Slidedeck] ](/files/gov/20181122_Slidedeck_Mitgliederversammlung2018_Final.pdf) [ [Protokoll (Draft)] ](/files/gov/20190512_Protokoll_DENOG_MV_2018_Final.pdf)
