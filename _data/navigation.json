@@ -89,7 +89,29 @@
 			},
 			{
 				"url": "governance/index.html",
-				"text": "Governance"
+				"text": "Verein & Governance",
+				"childs": [
+					{
+						"url": "governance/index.html",
+						"text": "Über den Verein"
+					},
+					{
+						"url": "governance/become_member.html",
+						"text": "Mitglied werden"
+					},
+					{
+						"url": "governance/become_sustaining_member.html",
+						"text": "Fördermitglied werden"
+					},
+					{
+						"url": "governance/board.html",
+						"text": "Der Vorstand"
+					},
+					{
+						"url": "governance/documents.html",
+						"text": "Dokumente & Verordnungen"
+					}
+				]
 			},
 			{
 				"url": "kontakt.html",
