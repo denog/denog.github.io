@@ -1,33 +1,14 @@
 ---
 layout: default
 ---
-
-
-
-<table>
-    <tr>
-        <td valign='top' style='width:15%;'>
-
-          {% include conference_navi_left.html %}
-
-        </td>
-        <td valign='top' style='width:70%; font-size:12pt;'>
-          <div class='page-section' id='page'>
-            <br>
-            <br>
-            <br>
-
-              {{ content }}
-
-          </div>
-        </td>
-        <td  valign='top' style='width:5%;' >
-        </td>
-        <td  valign='top' style='width:15%;' >
-
-            {% include conference_sponsoren_right.html %}
-
-</td>
-</tr>
-
-</table>
+<div class="row">
+    <div class="col-md-3 col-sx-12">
+        {% include conference_navi_left.html %}
+    </div>
+    <div class="col-md-7 col-sx-12" id="page">
+        {{ content }}
+    </div>
+    <div class="col-md-2 col-sx-12">
+        {% include conference_sponsoren_right.html %}
+    </div>
+</div>

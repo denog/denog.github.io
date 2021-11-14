@@ -58,6 +58,15 @@ footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
 
 .float-md-right{float:right;}
 
+#conference_nav img{width:100%;max-width:300px;}
+#conference_nav ul{list-style: none;padding:0px;margin-top:40px;}
+#conference_nav ul li{display: block;margin-top:5px;}
+#conference_sponsors{text-align:center;margin:auto;}
+#conference_sponsors section{margin-top: 30px;max-width:300px;}
+#conference_sponsors img{max-width: 100%;max-height:80px;display:block;margin:auto;margin-top:15px;}
+.conference_sponsors_small img{max-height:40px !important;}
+.conference_sponsors_large img{max-height:400px !important;}
+
 @media (min-width: 992px) and (max-width: 1200px) {
     #footertopbadge #footertopbadgetext{font-size:16px;}
     #mainpage .mainpageboxlarge .mainpageboxheadline{font-size:20px;}
@@ -71,6 +80,7 @@ footer{color:#949597;background#3a3a3a;border-top:1px solid #1a2644;}
     .newsblockwrapper article{width:100%;}
     .newsblockwrapper article .newsblocklink{right: auto;}
     .float-md-right{float:none;}
+    #conference_nav ul li{display: inline-block;}
 }
 
 #page table {
