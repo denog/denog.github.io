@@ -40,8 +40,8 @@ redirect_from: "/"
                 </div>
                 <div class="newsblock">
                     <h4>Mitglieder Versammlung 2021</h4>
-                    <p>10.11.2021 17.00 Uhr (virtual).</p>
-                    <a href="https://www.denog.de/de/governance/index.html" class="btn btn-custom-default pull-right">Einladung und Diskussion<i class="ion-arrow-right-c"></i></a>
+                    <p>Slidedeck & Abstimmungsergebnisse</p>
+                    <a href="https://www.denog.de/de/governance/documents.html" class="btn btn-custom-default pull-right">Slidedeck & Abstimmungsergebnissen<i class="ion-arrow-right-c"></i></a>
                 <br>
                 </div>
             </div>
