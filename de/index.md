@@ -50,7 +50,7 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>Mitglieder Versammlung 2021</h4>
                     <p>Slidedeck & Abstimmungsergebnisse</p>
-                    <a href="https://www.denog.de/de/governance/documents.html" class="btn btn-custom-default pull-right">Slidedeck & Abstimmungsergebnissen<i class="ion-arrow-right-c"></i></a>
+                    <a href="https://www.denog.de/de/governance/documents.html" class="btn btn-custom-default pull-right">Slidedeck inklusive Jahresbericht und 2022 Planung & Abstimmungsergebnissen<i class="ion-arrow-right-c"></i></a>
                 <br>
                 </div>
             </div>
