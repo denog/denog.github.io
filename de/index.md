@@ -39,9 +39,15 @@ redirect_from: "/"
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/recordings.html" class="btn btn-custom-default pull-right">Recodings <i class="ion-arrow-right-c"></i></a>
                 </article>
                 <article>
+                    <h4>Neue Vorstandsmitglieder</h4>
+                    <p>Fiona Weber & Annika Wickert neue Beisitzer:innen. Patrick Bussmann, Florian Hibler und Arnold Nipper wiedergewählt.</p>
+                    <a href="https://www.denog.de/de/governance/board.html" class="btn btn-custom-default pull-right">Übersicht<i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+                <article>
                     <h4>Mitglieder Versammlung 2021</h4>
-                    <p>10.11.2021 17.00 Uhr (virtual).</p>
-                    <a href="https://www.denog.de/de/governance/index.html" class="btn btn-custom-default pull-right">Einladung und Diskussion<i class="ion-arrow-right-c"></i></a>
+                    <p>Slidedeck inklusive Jahresbericht und 2022 Planung & Abstimmungsergebnissen</p>
+                    <a href="https://www.denog.de/de/governance/documents.html" class="btn btn-custom-default pull-right"><i class="ion-arrow-right-c">Slidedeck & Abstimmungsergebnisse</i></a>
                 <br>
                 </article>
             </div>
