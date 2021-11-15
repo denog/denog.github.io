@@ -42,7 +42,7 @@ redirect_from: "/"
                 
                 <div class="newsblock">
                     <h4>Neue Vorstandsmitglieder</h4>
-                    <p>Fiona Weber & Annika Wickert neue Beisitzer. Patrick Bussmann, Florian Hibler und Arnold Nipper wiedergewählt.</p>
+                    <p>Fiona Weber & Annika Wickert neue Beisitzer:innen. Patrick Bussmann, Florian Hibler und Arnold Nipper wiedergewählt.</p>
                     <a href="https://www.denog.de/de/governance/board.html" class="btn btn-custom-default pull-right">Übersicht<i class="ion-arrow-right-c"></i></a>
                 <br>
                 </div>
