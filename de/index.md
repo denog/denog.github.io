@@ -36,21 +36,21 @@ redirect_from: "/"
                 <div class="newsblock">
                     <h4>DENOG13 - Konferenz Recordings</h4>
                     <p>The recordings of the conference are online.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/recordings.html" class="btn btn-custom-default pull-right">Recodings <i class="ion-arrow-right-c"></i></a>
+                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
                 </div>
                 
                 
                 <div class="newsblock">
                     <h4>Neue Vorstandsmitglieder</h4>
                     <p>Fiona Weber & Annika Wickert neue Beisitzer:innen. Patrick Bussmann, Florian Hibler und Arnold Nipper wiedergewählt.</p>
-                    <a href="https://www.denog.de/de/governance/board.html" class="btn btn-custom-default pull-right">Übersicht<i class="ion-arrow-right-c"></i></a>
+                    <a href="https://www.denog.de/de/governance/board.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </div>
                 
                 <div class="newsblock">
                     <h4>Mitglieder Versammlung 2021</h4>
                     <p>Slidedeck inklusive Jahresbericht und 2022 Planung & Abstimmungsergebnissen</p>
-                    <a href="https://www.denog.de/de/governance/documents.html" class="btn btn-custom-default pull-right"><i class="ion-arrow-right-c">Slidedeck & Abstimmungsergebnisse</i></a>
+                    <a href="https://www.denog.de/de/governance/documents.html" class="btn btn-custom-default pull-right">Slidedeck & Abstimmungsergebnisse <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </div>
             </div>
