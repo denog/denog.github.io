@@ -1,17 +1,11 @@
-
-     <br>
-     <br>
-     <br>
-     <img src='{{ site.url }}/images/logos/{{ page.meeting | downcase}}.png' style='width:250px;'>
-  <br>
-     <br>
-     <br>
-     <br>
-
-{% assign meetingArray = site.pages|where: "meeting", page.meeting | sort: "home"  | reverse %}
-<br>
-{% for meeting in meetingArray %}
-   {% if meeting.hide == null %}
-<a href="{{ meeting.url }}" class="btn btn-custom-default pull-left">{{ meeting.title | split: '-' | last | strip}}</a><br/><br/>
-   {% endif %}
-{% endfor %}
+<nav id="conference_nav">
+    <img src="{{ site.url }}/images/logos/{{ page.meeting | downcase}}.png" alt="{{ page.meeting }}" />
+    <ul>
+    {% assign meetingArray = site.pages|where: "meeting", page.meeting | sort: "home"  | reverse %}
+    {% for meeting in meetingArray %}
+       {% if meeting.hide == null %}
+        <li><a href="{{ meeting.url }}" class="btn btn-custom-default">{{ meeting.title | split: '-' | last | strip}}</a></li>
+       {% endif %}
+    {% endfor %}
+    </li>
+</nav>
