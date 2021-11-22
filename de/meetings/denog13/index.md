@@ -23,11 +23,6 @@ Please find more information and details below, to support you in planning and o
 <br /> 
 <br /> 
 
-## Not Registered Yet?
-Last Minute Tickets are still available at <a href="https://www.denog.de/de/meetings/denog13/tickets.html">Tickets</a>.
-<br />
-<br />
-
 
 ## Tuesday 09th Nov 2021 - Conference Agenda
 <br /> 
