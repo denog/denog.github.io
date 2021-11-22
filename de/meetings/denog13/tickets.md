@@ -5,6 +5,7 @@ title: DENOG13 - Tickets
 year: 2021
 city: virtual
 meeting: DENOG13
+hide: true
 ---
 <br/>
 <br/>
