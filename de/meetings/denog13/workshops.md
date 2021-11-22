@@ -5,6 +5,7 @@ title: DENOG13 - Workshop Registration
 year: 2021
 city: virtual
 meeting: DENOG13
+hide: true
 ---
 <br/>
 <br/>
