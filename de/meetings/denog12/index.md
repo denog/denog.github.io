@@ -10,8 +10,11 @@ meeting: DENOG12
 
 <br><br>
 <center>
-    <h1>DENOG12 will happen virtually from November 8. to November 10.</h1>
+    <h1>DENOG12 happened virtually from November 8. to November 10. 2020</h1>
 </center>
+<i><b>Note: the event took place in the past, the below content was preserved for historical purposes</b></i>
+
+
 <br>
 Due to the ongoing COVID-19 situation DENOG12 will happen virtually. We will start the conference with a workshop day Sunday, November 8th.
 On Monday & Tuesday (November 9/10) the usual conference will take place with (lightning-)talks, chats, group discussions and a chance to meet our sponsors.
