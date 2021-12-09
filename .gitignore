@@ -1,6 +1,7 @@
 _site
 _theme
 .*
+!.well-known
 **/.log
 Gemfile.*
 **/.DS_Store
