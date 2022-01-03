@@ -10,8 +10,11 @@ meeting: DENOG13
 
 <br><br>
 <center>
-    <h1>DENOG13 will happen virtually from November 7. to November 09. 2021</h1>
+    <h1>DENOG13 happened virtually from November 7. to November 09. 2021</h1>
 </center>
+
+<i><b>Note: the event took place in the past, the below content was preserved for historical purposes</b></i>
+
 <br>
 Due to the ongoing COVID-19 situation DENOG13 will happen <u>virtually</u>. We will start the conference with a <b>workshop day Sunday</b>, November 7th.
 On <b>Monday & Tuesday</b> (November 8/9) the usual conference will take place with (lightning-)talks, chats, group discussions and a chance to meet our sponsors.
@@ -19,11 +22,6 @@ On <b>Monday & Tuesday</b> (November 8/9) the usual conference will take place w
 Please find more information and details below, to support you in planning and organising your virtual conference visit.
 <br /> 
 <br /> 
-
-## Not Registered Yet?
-Last Minute Tickets are still available at <a href="https://www.denog.de/de/meetings/denog13/tickets.html">Tickets</a>.
-<br />
-<br />
 
 
 ## Tuesday 09th Nov 2021 - Conference Agenda
