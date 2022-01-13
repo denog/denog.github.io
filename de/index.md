@@ -34,20 +34,21 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
+                    <h4>DENOG Meetup #01 2022</h4>
+                    <p>Tuesday 08th Feb 18.00h</p>
+                    <a href="https://pretalx.com/denog-meetup-2022-01/cfp" class="btn btn-custom-default pull-right">CFP is open <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+                <article>
                     <h4>DENOG13 - Konferenz Recordings</h4>
                     <p>The recordings of the conference are online.</p>
                     <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
+                <br>
                 </article>
                 <article>
                     <h4>Neue Vorstandsmitglieder</h4>
                     <p>Fiona Weber & Annika Wickert neue Beisitzer:innen. Patrick Bussmann, Florian Hibler und Arnold Nipper wiedergewählt.</p>
                     <a href="https://www.denog.de/de/governance/board.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
-                <article>
-                    <h4>Mitglieder Versammlung 2021</h4>
-                    <p>Slidedeck inklusive Jahresbericht und 2022 Planung & Abstimmungsergebnissen</p>
-                    <a href="https://www.denog.de/de/governance/documents.html" class="btn btn-custom-default pull-right">Slidedeck & Abstimmungsergebnisse <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
             </div>
