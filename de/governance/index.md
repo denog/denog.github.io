@@ -50,10 +50,10 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - LWLcom (seit 11/2019)
 - FlexOptix (seit 11/2019)
 - Core-Backbone (seit 10/2020)
-- marbis GmbH (04/2021)
-- IPHH (07/2021)
-- Arista (10/2021)
-- Opengear (10/2021)
+- marbis GmbH (seit 04/2021)
+- IPHH (seit 07/2021)
+- Arista (seit 10/2021)
+- Opengear (seit 10/2021)
 - inter.link (seit 12/2021)
 
 => <a href="become_sustaining_member.html">Fördermitglied werden?</a>
