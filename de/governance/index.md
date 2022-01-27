@@ -46,7 +46,6 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - DE-CIX (seit 07/2018)
 - I/P/B (seit 07/2018)
 - DENIC (seit 10/2018)
-- SysEleven (seit 01/2019)
 - Thomas-Krenn AG (seit 06/2019)
 - LWLcom (seit 11/2019)
 - FlexOptix (seit 11/2019)
@@ -55,6 +54,7 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - IPHH (07/2021)
 - Arista (10/2021)
 - Opengear (10/2021)
+- inter.link (seit 12/2021)
 
 => <a href="become_sustaining_member.html">Fördermitglied werden?</a>
 
