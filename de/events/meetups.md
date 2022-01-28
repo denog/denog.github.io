@@ -19,9 +19,9 @@ Wo: virtuell<br>
 <br>
 <br>
 
-DENOG Meetups sind Abendveranstaltungen der Deutschsprachigen Network Operators Group, einer Community von Netzwerkspezialisten welche aktiv an der Gestaltung des Internets mitwirken, kleine und große Netze betreiben und am regen Austausch mit gleichgesinnten interessiert sind.
+DENOG Meetups sind Abendveranstaltungen der Deutschsprachigen Network Operators Group, einer Community von Netzwerkspezialist:innen welche aktiv an der Gestaltung des Internets mitwirken, kleine und große Netze betreiben und am regen Austausch mit Gleichgesinnten interessiert sind.
 
-DENOG Meetups richten sich an die lokalen Communities diverser Städte und werden von diesen organisiert. Ein Meetup besteht aus ca. 3 Vorträgen (ca. 30min) und einem anschließenden Zusammenkommen bei Getränken und Snacks. DENOG Meetups finden so lange remote statt, bis die gesetzliche Lage in Deutschland persönliche Meetups wieder uneingeschränkt zulässt.
+DENOG Meetups richten sich an die lokalen Communities diverser Städte und werden von diesen organisiert. Ein Meetup besteht aus ca. 3 Vorträgen (ca. 30min) und einem anschließenden Zusammenkommen bei Getränken und Snacks. DENOG Meetups finden so lange remote statt, bis die Lage in Deutschland persönliche Meetups wieder uneingeschränkt zulässt.
 
 Das DENOG Meetup 2021-03 findet am **15.06.2021 ab 18:30 Uhr als remote Meeting online** statt.
 
@@ -49,7 +49,7 @@ Das DENOG Meetup 2021-03 findet am **15.06.2021 ab 18:30 Uhr als remote Meeting 
 </noscript>
 
 <!--
-## Teilnehmerliste:
+## Teilnehmer:innenliste:
 (Aktualisiert ca. alle 60 Minuten)<br>
 <iframe src="https://www.denog.de/pretix-attendeelist/meetup_2021_02/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG Meetup 2021-02 Attendees">
 </iframe>

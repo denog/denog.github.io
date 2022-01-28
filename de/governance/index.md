@@ -5,40 +5,39 @@ ref: Association
 ---
 
 ## Über DENOG e.V.
-DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. Im Rahmen dieses technischen Forums treffen sich Menschen, die mit, für oder am Internet arbeiten und netzwerkspezifische Themen mit Gleichgesinnten diskutieren, um sie dadurch einfacher lösen zu können.
-<br />
-<br />
+DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. Im Rahmen dieses technischen Forums treffen sich Personen, die mit, für oder am Internet arbeiten und netzwerkspezifische Themen mit Gleichgesinnten diskutieren, um sie dadurch einfacher lösen zu können.
 
-Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voran zu treiben und zu fördern wurde der Verein DENOG e.V im Jahr 2017 gegründet.
-<br />
-<br />
+Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voranzutreiben und zu fördern wurde der Verein DENOG e.V im Jahr 2017 gegründet.
 
 
 ## Der Vorstand
 
+Vorstandsposten werden für zwei Jahre gewählt.
+
 Seit der Mitgliedersammlung am 10.11.2021 setzt sich der Vorstand wie folgt zusammen:
 
-1. Vorstand: Patrick Bußmann (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren)
-2. Vorstand: Florian Hibler (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
+| Vorstandsposten | Aktuelle Besetzung   | Gewählt                       | Wahlperiode                 |
+|-----------------|----------------------|-------------------------------|-----------------------------|
+| 1. Vorstand     | Patrick Bußmann      | 10.11.2021                    | Wahl in ungeraden Jahren    |
+| 2. Vorstand     | Florian Hibler       | 10.11.2021 (für ein Jahr)     | Wahl in geraden Jahren      |
+| Kassenwart:in   | Arnold Nipper        | 10.11.2021                    | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Annika Wickert       | 10.11.2021                    | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Fiona Weber          | 10.11.2021 (für ein Jahr)     | Wahl in geraden Jahren      |
+| Beisitzer:in    | Moritz Frenzel       | 10.11.2020                    | Wahl in geraden Jahren      |
 
-Kassenwart: Arnold Nipper (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren)
-
-Beisitz:
-- Annika Wickert (gewählt am 10.11.2021 für zwei Jahre / Wahl in ungeraden Jahren)
-- Fiona Weber (gewählt am 10.11.2021 für ein Jahr / Wahl in geraden Jahren)
-- Moritz Frenzel (gewählt am 10.11.2020 für zwei Jahre / Wahl in geraden Jahren)
-
-
-Die ehemaligen Vorstände können auf der Unterseite "<a href="board.html">Vorstand</a>" nachgelesen werden.
+<br />
+<a href="board.html" class="btn btn-custom-default">Ehemalige Vorstände <i class="ion-arrow-right-c"></i></a>
 
 
 ## Kassenprüfer
 
 Folgenden Personen sind aktuell Kassenprüfer im Verein:
 
-- Theo Voss (gewählt am 12.11.2019)
-- Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+| Name                 | Gewählt          |
+|----------------------|------------------|
+| Theo Voss            | 12.11.2019       |
+| Kay Rechthien        | 24.11.2017       |
+| Magnus Frühling      | 24.11.2017       |
 
 
 ## Fördermitglieder
@@ -56,15 +55,13 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - Opengear (seit 10/2021)
 - inter.link (seit 12/2021)
 
-=> <a href="become_sustaining_member.html">Fördermitglied werden?</a>
-
+<a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
 
 ## Mitglied werden?
 
-Du möchtest Mitglied werden? => <a href="become_member.html">Mitglied werden?</a>
-
+<a href="become_member.html" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a>
 
 ## Satzung & Gebührenordnung
 
-Die Dokumente findet Ihr unter <a href="documents.html">Dokumente & Verordnungen</a>
+<a href="documents.html" class="btn btn-custom-default">Dokumente & Verordnungen <i class="ion-arrow-right-c"></i></a>
 

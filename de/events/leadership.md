@@ -8,7 +8,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 
 # DENOG Leadership Meetup #1
 
-Leadership, Teambuilding und Mitarbeiterführung sind nicht nur in Zeiten von COVID-19 eine besondere Herausforderung für Netzwerker:innen in Leadership oder Manager-Rollen. Im Rahmen des Leadership-Meetup stellen unterschiedliche Unternehmen aus verschiedenen Bereichen unserer Branche ihre Erfahrungen in kurzen Vorträgen vor.
+Leadership, Teambuilding und Mitarbeiter:innenführung sind nicht nur in Zeiten von COVID-19 eine besondere Herausforderung für Netzwerker:innen in Leadership oder Management-Rollen. Im Rahmen des Leadership-Meetup stellen unterschiedliche Unternehmen aus verschiedenen Bereichen unserer Branche ihre Erfahrungen in kurzen Vorträgen vor.
 
 ## Agenda
 
@@ -19,8 +19,8 @@ Leadership, Teambuilding und Mitarbeiterführung sind nicht nur in Zeiten von CO
 | 18:30         | Willkommen, Agenda, Meetup Regeln                                            |
 | 18:40 - 18:50 | Matthias Maurer, Head of Product Management, Deutsche Telekom Global Carrier |
 | 18:50 - 19:00 | Marc Korthaus, Chief Executive Officer, SysEleven                            |
-| 19:00 - 19:10 | Sascha Pollok, Chief Technical Officer, IPHH                                |
-| 19:10 - 19:20 | Stephan Werner, COO, Flexoptix                                                                          |
+| 19:00 - 19:10 | Sascha Pollok, Chief Technical Officer, IPHH                                 |
+| 19:10 - 19:20 | Stephan Werner, COO, Flexoptix                                               |
 | 19:20 - 19:30 | Pause                                                                        |
 | 19:30 - 20:20 | Gemeinsame Q&A mit allen Speakern                                            |
 | 20:20 - 20:30 | Closing                                                                      |
@@ -37,7 +37,7 @@ Leadership, Teambuilding und Mitarbeiterführung sind nicht nur in Zeiten von CO
     </div>
 </noscript>
 
-## Teilnehmerliste:
+## Teilnehmer:innenliste:
 (Aktualisiert ca. alle 60 Minuten)<br>
 <iframe src="https://www.denog.de/pretix-attendeelist/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG12 Attendees">
   <!-- Textalternativen werden nicht unterstützt -->

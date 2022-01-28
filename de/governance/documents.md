@@ -4,7 +4,7 @@ lang: de
 ref: Documents
 ---
 
-
+# Dokumente
 
 ## Mitgliederversammlung 2021
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20211110_Mitgliederversammlung 2021_Slidedeck_Final.pdf)
@@ -42,7 +42,3 @@ ref: Documents
 - [Geschäftsordnung des Vorstandes (Stand: 22.02.2019) ](/files/gov/20190222 - Version 1.0 Geschäftsordnung für den Vorstand DENOG.pdf)
 - [Guidance DENOG Jahreskonferenzvergabe Version 1.0 (Stand: 10.11.2020) ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
 - [Reisekosten Regelung DENOG e.V. (Stand: 22.04.2021) ](/files/gov/20210422 DENOG eV Reisekostenregelung Final.pdf)
-
-
-<br><br>
-<br><br>
