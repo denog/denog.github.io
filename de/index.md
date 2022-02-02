@@ -35,8 +35,8 @@ redirect_from: "/"
             <div class="newsblockwrapper">
                 <article>
                     <h4>DENOG Meetup #01 2022</h4>
-                    <p>Tuesday 08th Feb 18.00h</p>
-                    <a href="https://pretalx.com/denog-meetup-2022-01/cfp" class="btn btn-custom-default pull-right">CFP is open <i class="ion-arrow-right-c"></i></a>
+                    <p>Tuesday 08th Feb 18.00h <br />Programm steht und die Registrierung ist offen!</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">Zum Meetup <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
