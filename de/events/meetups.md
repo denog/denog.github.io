@@ -46,11 +46,11 @@ Das DENOG Meetup 01-2022 findet am **08.02.2022 ab 18:00 Uhr als remote Meeting 
     </div>
 </noscript>
 
-<!--
+
 ## Teilnehmer:innenliste:
 (Aktualisiert ca. alle 60 Minuten)<br>
-<iframe src="https://www.denog.de/pretix-attendeelist/meetup_2022_01/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG Meetup 2021-02 Attendees">
+<iframe src="https://www.denog.de/pretix-attendeelist/meetup2022_01/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG Meetup 2022-01 Attendees">
 </iframe>
 <br>
 *Use of the personal information above is governed by German data protection legislation. Prior consent from the owner is required before that information can be used. Note: These details are intended to enhance networking opportunities between attendees and should not be used for commercial purposes.*
--->
+
