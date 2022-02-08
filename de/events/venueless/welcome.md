@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: venueless
 lang: de
-title: DENOG Meetups
+title: Venueless Main Page
 year: 2022
 hide: true
 ---
