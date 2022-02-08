@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head lang="de">
+	<meta charset="UTF-8">
+  <title>{{ site.title }}{% if page.title %} / {{ page.title }}{% endif %}</title>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!--link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
+  <link rel="icon" type="image/png" href="{{ site.url }}/favicon.png" sizes="32x32">
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/favicon.png"-->
+  <meta name="author" content="denog">
+  <meta name="keywords" content="{{ page.keywords }}">
+  <meta name="description" content="{{ page.description }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+	<link rel="stylesheet" type="text/css" href="{{ site.url }}/css/main.css"/>
+  <link rel="stylesheet" href="{{ site.url }}/libs/bootstrap/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="{{ site.url }}/libs/ionicons/css/ionicons.min.css" />
+  <link rel="stylesheet" href="{{ site.url }}/libs/owl-carousel/owl.carousel.css" />
+  <link rel="stylesheet" href="{{ site.url }}/libs/magnific-popup/magnific-popup.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/themestyle.css" />
+  <link rel="stylesheet" href="{{ site.url }}/css/style.css" />
+</head>
+<body>
+
+  
+    <div class="container">
+      {{ content }}
+    </div>
+  
+
+  <script src="{{ site.url }}/libs/jquery/2.2.2/js/jquery.min.js"></script>
+  <script src="{{ site.url }}/libs/bootstrap/js/bootstrap.min.js"></script>
+  <script src="{{ site.url }}/libs/owl-carousel/owl.carousel.min.js"></script>
+  <script src="{{ site.url }}/libs/circle-progress/circle-progress.js"></script>
+  <script src="{{ site.url }}/libs/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <script src="{{ site.url }}/js/main.js"></script>
+  <script src="{{ site.url }}/js/core.js"></script>
+
+{% if site.env == 'production' %}
+<script type="text/javascript">
+/* GOOGLE */
+</script>
+{% endif %}
+</body>
+</html>
