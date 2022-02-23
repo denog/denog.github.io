@@ -34,15 +34,15 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
-                    <h4>DENOG Meetup #01 2022</h4>
-                    <p>Tuesday 08th Feb 18.00h <br />Programm steht und die Registrierung ist offen!</p>
+                    <h4>DENOG Leadership Meetup #01 2022</h4>
+                    <p>Tuesday 08th March 18.00h <br />Programm steht und die Registrierung ist offen!</p>
                     <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">Zum Meetup <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
-                    <h4>DENOG13 - Konferenz Recordings</h4>
-                    <p>The recordings of the conference are online.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG Meetup #01 2022</h4>
+                    <p>Recording ist online now.</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">Zum Meetup <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
