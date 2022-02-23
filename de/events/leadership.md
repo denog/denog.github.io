@@ -2,32 +2,32 @@
 layout: page
 lang: de
 title: DENOG Meetups
-year: 2021
+year: 2022
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 
-# DENOG Leadership Meetup #1
+# DENOG Leadership Meetup 2022-01
 
-Leadership, Teambuilding und Mitarbeiter:innenführung sind nicht nur in Zeiten von COVID-19 eine besondere Herausforderung für Netzwerker:innen in Leadership oder Management-Rollen. Im Rahmen des Leadership-Meetup stellen unterschiedliche Unternehmen aus verschiedenen Bereichen unserer Branche ihre Erfahrungen in kurzen Vorträgen vor.
+Post-Pandemic Leadership Learnings - Focus on positive consequences, learnings, and developments. 
+We're talking about take-aways, (policy) changes implemented, and what leaders can learn. Including an 
+outlook for the next 12-18 months.
 
 ## Agenda
 
-**24.03.2021**
+**08.03.2022**
 
 | Uhrzeit       | Speaker                                                                      |
 | ------------- | ---------------------------------------------------------------------------- |
-| 18:30         | Willkommen, Agenda, Meetup Regeln                                            |
-| 18:40 - 18:50 | Matthias Maurer, Head of Product Management, Deutsche Telekom Global Carrier |
-| 18:50 - 19:00 | Marc Korthaus, Chief Executive Officer, SysEleven                            |
-| 19:00 - 19:10 | Sascha Pollok, Chief Technical Officer, IPHH                                 |
-| 19:10 - 19:20 | Stephan Werner, COO, Flexoptix                                               |
-| 19:20 - 19:30 | Pause                                                                        |
-| 19:30 - 20:20 | Gemeinsame Q&A mit allen Speakern                                            |
-| 20:20 - 20:30 | Closing                                                                      |
+| 18:00         | Willkommen, Agenda, Meetup Regeln                                            |
+| 18:10 - 18:20 | Markus Hendrich, CEO, ecotel communication AG |
+| 18:20 - 18:30 | Stephan Schroeder, CEO, Benocs GmbH                           |
+| 18:30 - 18:40 | Miguel Barreiros, Director Systems Enginering EMEA-R, Arista Networks                                  |
+| 19:40 - 19:40 | Gemeinsame Q&A mit allen Speakern                                            |
+| 19:40 - 20:ß0 | Closing                                                                      |
 
 ## Kostenlose Anmeldung
 
-<pretix-widget event="https://pretix.eu/denog/denogleader2021-01/"></pretix-widget>
+<pretix-widget event="https://pretix.eu/denog/denogleadership2022-01/"></pretix-widget>
 <noscript>
 
    <div class="pretix-widget">
@@ -39,9 +39,10 @@ Leadership, Teambuilding und Mitarbeiter:innenführung sind nicht nur in Zeiten 
 
 ## Teilnehmer:innenliste:
 (Aktualisiert ca. alle 60 Minuten)<br>
-<iframe src="https://www.denog.de/pretix-attendeelist/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG12 Attendees">
-  <!-- Textalternativen werden nicht unterstützt -->
+<!-- <iframe src="https://www.denog.de/pretix-attendeelist/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG12 Attendees">
+ 
 </iframe>
+-->
 <br>
 *Use of the personal information above is governed by German data protection legislation. Prior consent from the owner is required before that information can be used. Note: These details are intended to enhance networking opportunities between attendees and should not be used for commercial purposes.*
 
