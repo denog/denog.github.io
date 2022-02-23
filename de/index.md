@@ -36,7 +36,7 @@ redirect_from: "/"
                 <article>
                     <h4>DENOG Leadership Meetup #01 2022</h4>
                     <p>Tuesday 08th March 18.00h <br />Programm steht und die Registrierung ist offen!</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">Zum Meetup <i class="ion-arrow-right-c"></i></a>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/leadership.html" class="btn btn-custom-default pull-right">Zum Meetup <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
