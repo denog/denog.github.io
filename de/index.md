@@ -42,7 +42,7 @@ redirect_from: "/"
                 <article>
                     <h4>DENOG Meetup #01 2022</h4>
                     <p>Recording ist online now.</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/meetups.html" class="btn btn-custom-default pull-right">Zum Meetup <i class="ion-arrow-right-c"></i></a>
+                    <a href="https://www.youtube.com/watch?v=H0RjYGDuXrs" class="btn btn-custom-default pull-right">Zum Recording <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
