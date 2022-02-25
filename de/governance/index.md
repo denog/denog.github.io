@@ -54,6 +54,7 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - Arista (seit 10/2021)
 - Opengear (seit 10/2021)
 - inter.link (seit 12/2021)
+- ecotel (seit 02/2022)
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
 
