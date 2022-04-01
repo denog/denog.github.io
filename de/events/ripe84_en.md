@@ -25,5 +25,5 @@ Since space is limited please **register below**.
 
 ## Registration
 
-**pretix goes here**
+<pretix-widget event="https://pretix.eu/denog/ripe84/"></pretix-widget>
 

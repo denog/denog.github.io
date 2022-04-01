@@ -25,5 +25,6 @@ In Vorfreude auf das [RIPE 84 Meeting](https://ripe84.ripe.net) vom 16.-20. Mai 
 
 ## Anmeldung
 
-**pretix goes here**
+<pretix-widget event="https://pretix.eu/denog/ripe84/"></pretix-widget>
+
 
