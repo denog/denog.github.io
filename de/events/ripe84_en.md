@@ -14,7 +14,7 @@ BCIX e.V. and DENOG e.V. hereby invite you to a cozy get-together over Berlins r
 In preparation for this years [RIPE 84 Meeting](https://ripe84.ripe.net) from May 16th-20th 2022 DENOG e.V. and BCIX e.V. booked the wonderful Alice rooftop on **Sunday, May 15th 2022** and organised drinks and snacks for the international network community.   
 Since space is limited please **register below**.
 
-**banner bildchen goes here**
+![RIPE84 Banner](/images/meetings/ripe84/ripe84_banner.png)
 
 ## Important Facts
 

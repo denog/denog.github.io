@@ -14,7 +14,7 @@ Die Vereine BCIX e.V. und DENOG e.V. laden euch hiermit zum get-together über d
 In Vorfreude auf das [RIPE 84 Meeting](https://ripe84.ripe.net) vom 16.-20. Mai 2022 möchten wir euch gemeinsam am **Sonntag, den 15. Mai 2022** auf die Dachterrasse des [Alice Rooftops](https://www.alice-rooftop.de/) zu Getränken, Buffet und netten Gesprächen einladen.  
 **Eine Anmeldung ist zwingend erforderlich**. 
 
-**banner bildchen goes here**
+![RIPE84 Banner](/images/meetings/ripe84/ripe84_banner.png)
 
 ## Wichtige Fakten
 
