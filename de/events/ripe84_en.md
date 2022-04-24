@@ -20,7 +20,7 @@ Since space is limited please **register below**.
 
 **Hosts**: DENOG e.V. & DENOG e.V. 
 **Time**: Sunday, May 15th 2022 from 19:00 to 24:00(CEST, UTC+2)  
-**Location**: [Alice Rooftop, Kantstraße 17, 10623 Berlin](Link: https://www.alice-rooftop.de/)  
+**Location**: [Alice Rooftop, Kantstraße 17, 10623 Berlin](https://www.alice-rooftop.de/)  
 **Access**: 3G (vaccinated, recovered or tested), must be verified with a European QR Code on access.
 
 ## Registration
