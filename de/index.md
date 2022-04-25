@@ -34,9 +34,9 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
-                    <h4>DENOG Leadership Meetup #01 2022</h4>
-                    <p>Tuesday 08th March 18.00h <br />Programm steht und die Registrierung ist offen!</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/leadership.html" class="btn btn-custom-default pull-right">Zum Meetup <i class="ion-arrow-right-c"></i></a>
+                    <h4>RIPE 84 Pre-Social</h4>
+		    <p>BCIX e.V. and DENOG.eV. are hosting a RIPE84 Pre-Social on Sunday, May 15th 2022!</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/ripe84.html" class="btn btn-custom-default pull-right">Register Now! <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
