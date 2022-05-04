@@ -41,7 +41,7 @@ DENOG-Teilnehmer:innen treffen sich in einem eigenen Channel mit dem Namen `#den
 Um sich mit anderen DENOG-Aktiven im IRC unterhalten zu können, benötigt man zunächst einen IRC Client. Für Windows-User empfiehlt sich die Nutzung des weit verbreiteten IRC Clients mIRC, Linux/Unix-User verwenden desöfteren die Clients irssi, EPIC oder BitchX, für Benutzer von Mac OS X empfiehlt sich LimeChat oder Colloquy. Quassel (cross-platform) und der (kostenpflichtigen) Web-Service IRCCloud sind ebenfalls beliebt und bieten etwas niedriger Einstiegshürden.
 Nachdem man sich für einen IRC Client entschieden hat, kann man sich zu einem [IRCNet Server](https://www.ircnet.info/servers) verbinden und mittels des Befehls `/join #DENOG` den Channel der DENOG betreten.
 
-Ebenfalls ist der Einstieg via Matrix über eine Bridge möglich. Die Bridge der Universität Utwente kannst du nutzen, indem du den Raum `#_ircnet_#denog:irc.snt.utwente.nl` betrittst.
+Ebenfalls ist der Einstieg via Matrix über eine Bridge möglich. Die Bridge der Universität Utwente kannst du nutzen, indem du den Raum [#_ircnet_#denog:irc.snt.utwente.nl](https://matrix.to/#/#_ircnet_#denog:irc.snt.utwente.nl){:target="_blank"} betrittst.
 
 
 ## Unterstützung durch die Community
@@ -49,6 +49,6 @@ Ebenfalls ist der Einstieg via Matrix über eine Bridge möglich. Die Bridge der
 Die Community ist stolz auf das Wachstum der vergangenen Jahre.
 Wir wollen ein möglichst breites Spektrum an Informationen zur Verfügung stellen, um dies zu ermöglichen benötigen wir die Unterstützung unserer Community. Es gibt zahlreiche Möglichkeiten sich im Verein einzubringen und damit dessen Entwicklung so weiter voran zu treiben.  
   
-Solltest du Interesse daran haben uns aktiv zu unterstützen, so tritt doch bitte mit uns in Kontakt unter vorstand@denog.de oder ak-veranstaltung@denog.de
+Solltest du Interesse daran haben uns aktiv zu unterstützen, so tritt doch bitte mit uns in Kontakt unter [vorstand@denog.de](mailto:vorstand@denog.de) oder [ak-veranstaltung@denog.de](mailto:ak-veranstaltung@denog.de)
 
 Der Verein lebt durch seine Mitglieder. Diese kommen einmal jährlich zu einer Mitgliederversammlung zusammen, bei der alle Themen rund um den DENOG e.V. besprochen werden, solltest du auch Interesse an einer Mitgliedschaft haben, so findest du gerne hier den [Mitgliedsantrag](https://www.denog.de/de/governance/become_member.html).
