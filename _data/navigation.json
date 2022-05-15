@@ -32,32 +32,16 @@
 				]
 			},
 			{
-				"url": "meetings/denog13/index.html",
-				"text": "DENOG13 virtual",
+				"url": "meetings/denog14/index.html",
+				"text": "DENOG14",
 				"childs": [
 					{
-						"url": "meetings/denog13/index.html",
+						"url": "meetings/denog14/index.html",
 						"text": "About"
 					},
 					{
-						"url": "meetings/denog13/workshops.html",
-						"text": "Workshop Registration"
-					},
-					{
-						"url": "meetings/denog13/tickets.html",
-						"text": "Tickets"
-					},
-					{
-						"url": "meetings/denog13/talks.html",
-						"text": "Agenda"
-					},
-					{
-						"url": "meetings/denog13/sponsoring.html",
+						"url": "meetings/denog14/sponsoring.html",
 						"text": "Sponsoring"
-					},
-					{
-						"url": "meetings/denog13/attendees.html",
-						"text": "Attendees"
 					},
 					{
 						"url": "archiv.html",
