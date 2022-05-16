@@ -10,7 +10,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-12">
-                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog13/index.html" class="btn btn-custom-default mainpagelogobtn float-md-right"><img src="{{ site.url }}/images/logos/denog13.png" id="mainpagelogo" /></a>
+                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog14/index.html" class="btn btn-custom-default mainpagelogobtn float-md-right"><img src="{{ site.url }}/images/meetings/denog14/denog14_banner.png" id="mainpagelogo" /></a>
                         </div>
                         <div class="col-md-6 col-sm-12">
                         <h2 class="mainpageboxheadline">Unterstütze den DENOG e.V.</h2>
@@ -34,15 +34,15 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
-                    <h4>RIPE 84 Pre-Social</h4>
-		    <p>BCIX e.V. and DENOG.eV. are hosting a RIPE84 Pre-Social on Sunday, May 15th 2022!</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/ripe84.html" class="btn btn-custom-default pull-right">Register Now! <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG14 Save the date</h4>
+                    <p>DENOG14 will take place in Hamburg from November 13th to 15h.</p>
+                    <a href="/de/meetings/denog14/index.html" class="btn btn-custom-default pull-right">Find out more! <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
-                    <h4>DENOG Meetup #01 2022</h4>
-                    <p>Recording ist online now.</p>
-                    <a href="https://www.youtube.com/watch?v=H0RjYGDuXrs" class="btn btn-custom-default pull-right">Zum Recording <i class="ion-arrow-right-c"></i></a>
+                    <h4>RIPE 84 Pre-Social</h4>
+		    <p>BCIX e.V. and DENOG.eV. are hosting a RIPE84 Pre-Social on Sunday, May 15th 2022!</p>
+                    <a href="{{ site.url }}/{{ page.lang }}/events/ripe84.html" class="btn btn-custom-default pull-right">Register Now! <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
                 <article>
