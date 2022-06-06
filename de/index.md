@@ -34,17 +34,19 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
+                    <h4>DENOG14 Call for Papers</h4>
+                    <p>The Call for Papers for DENOG14 is now open!</p>
+                    <a href="https://pretalx.com/denog14/cfp" class="btn btn-custom-default pull-right">Submit now! <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>DENOG14 Save the date</h4>
                     <p>DENOG14 will take place in Hamburg from November 13th to 15h.</p>
                     <a href="/de/meetings/denog14/index.html" class="btn btn-custom-default pull-right">Find out more! <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
-                <article>
-                    <h4>RIPE 84 Pre-Social</h4>
-		    <p>BCIX e.V. and DENOG.eV. are hosting a RIPE84 Pre-Social on Sunday, May 15th 2022!</p>
-                    <a href="{{ site.url }}/{{ page.lang }}/events/ripe84.html" class="btn btn-custom-default pull-right">Register Now! <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
+
                 <article>
                     <h4>Neue Vorstandsmitglieder</h4>
                     <p>Fiona Weber & Annika Wickert neue Beisitzer:innen. Patrick Bussmann, Florian Hibler und Arnold Nipper wiedergewählt.</p>

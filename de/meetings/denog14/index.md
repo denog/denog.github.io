@@ -25,7 +25,7 @@ Tuesday, November 15th: 08:00 - 15:00 Conference
 
 # Call for Papers & Workshops
 
-The Call for Papers & Workshops will start soon!
+The Call for Papers & Workshops is open, [submit your proposal here](https://pretalx.com/denog14/cfp)
 
 
 # Location
