@@ -58,20 +58,12 @@
 				"text": "Events",
 				"childs": [
 					{
-						"url": "events/ripe84.html",
-						"text": "RIPE 84 Pre-Social"
-					},
-					{
 						"url": "events/meetups.html",
 						"text": "Meetups"
 					},
 					{
 						"url": "events/leadership.html",
 						"text": "Leadership Meetups"
-					},
-					{
-						"url": "meetings/denog13/index.html",
-						"text": "DENOG13"
 					},
 					{
 						"url": "archiv.html",
