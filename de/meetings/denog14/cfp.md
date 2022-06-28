@@ -1,7 +1,7 @@
 ---
 layout: redirected
 sitemap: false
-permalink: /de/events/denog14/cfp.html
+permalink: /de/meetings/denog14/cfp.html
 redirect_to: https://pretalx.com/denog14/cfp
 lang: de
 title: DENOG14 - Call for Papers
