@@ -33,7 +33,7 @@ Get in touch: pc @ lists.denog.de
 | Moritz Frenzel (Chair) | DENOG e.V. / noscito network GmbH |
 | Richard Hartmann       | Grafana             |
 | Sebastian Becker       | Deutsche Telekom    |
-| Stefan Wahl            | ECIX / Megaport     |
+| Stefan Wahl            |                     |
 | Theo Voss              | inter.link          |
 | Tim Kleefass           | OneFiber            |
 | Wolfgang Tremmel       | DE-CIX              |
