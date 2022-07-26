@@ -57,6 +57,7 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - ecotel (seit 02/2022)
 - Wobcom (seit 02/2022)
 - Anexia (seit 03/2022)
+- NLix (seit 06/2022)
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
 
