@@ -53,6 +53,7 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - IPHH (seit 07/2021)
 - Arista (seit 10/2021)
 - Opengear (seit 10/2021)
+- BCIX (seit 11/2021)
 - inter.link (seit 12/2021)
 - ecotel (seit 02/2022)
 - Wobcom (seit 02/2022)
