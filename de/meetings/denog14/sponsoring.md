@@ -11,7 +11,7 @@ meeting: DENOG14
 Are you interested in sponsoring DENOG14? Please feel free to contact our sponsoring team by mail [sponsoring@denog.de](mailto:sponsoring@denog.de).
 We are always happy to assist you with any other questions regarding the conference.
 
-We look forward to the virtual DENOG14 together with you!
+We look forward to DENOG14 onsite and remote together with you!
 
 A list of all available sponsoring packages is available [here](/files/denog14/DENOG14_sponsoring_v1.pdf).
 
