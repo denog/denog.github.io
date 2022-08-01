@@ -34,16 +34,16 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
-                    <h4>DENOG14 Call for Papers</h4>
-                    <p>The Call for Papers for DENOG14 is now open!</p>
-                    <a href="https://pretalx.com/denog14/cfp" class="btn btn-custom-default pull-right">Submit now! <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG14 Registration</h4>
+                    <p>DENOG14 will take place in Hamburg from November 13th to 15h.</p>
+                    <a href="/de/meetings/denog14/tickets.html" class="btn btn-custom-default pull-right">Registration <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
                 <article>
-                    <h4>DENOG14 Save the date</h4>
-                    <p>DENOG14 will take place in Hamburg from November 13th to 15h.</p>
-                    <a href="/de/meetings/denog14/index.html" class="btn btn-custom-default pull-right">Find out more! <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG14 Call for Papers</h4>
+                    <p>The Call for Papers for DENOG14 is now open!</p>
+                    <a href="https://pretalx.com/denog14/cfp" class="btn btn-custom-default pull-right">Submit now! <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
