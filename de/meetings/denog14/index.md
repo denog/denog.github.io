@@ -38,10 +38,10 @@ This year the conference takes place, both virtual and on-site in Hamburg.
 
 DENOG14 is our first in-person conference since the start of the ongoing coronavirus pandemic. Especially in our field, where many people work on critical infrastructure, we must take responsibility to ensure a safe event.
 
-We will provide rapid testing infrastructure. Daily testing is mandatory to enter the event location.
+We will provide rapid testing infrastructure and require attandees to test before entering the event location.
 We encourage participants to wear masks.
 
-Safety measures will be adjusted to the current situation and government regulation.
+More details will be published closer to the event. Safety measures will be adjusted to the government regulation and situation in November.
 
 # Location
 
