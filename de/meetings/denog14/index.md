@@ -34,6 +34,15 @@ This year the conference takes place, both virtual and on-site in Hamburg.
 <a href="https://pretalx.com/denog14/cfp" class="btn btn-custom-default">Submit your proposal <i class="ion-arrow-right-c"></i></a>
 
 
+# Hygiene Concept
+
+DENOG14 is our first in-person conference since the start of the ongoing coronavirus pandemic. Especially in our field, where many people work on critical infrastructure, we must take responsibility to ensure a safe event.
+
+We will provide rapid testing infrastructure. Daily testing is mandatory to enter the event location.
+We encourage participants to wear masks.
+
+Safety measures will be adjusted to the current situation and government regulation.
+
 # Location
 
 <img src="https://www.law-school.de/fileadmin/_processed_/b/f/csm_IMG_0507_042020MartinM_1e93ab1357.jpeg" style='width:350px;'>
