@@ -59,6 +59,7 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - Wobcom (seit 02/2022)
 - Anexia (seit 03/2022)
 - NLix (seit 06/2022)
+- noscito network GmbH (seit 08/2022)
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
 
