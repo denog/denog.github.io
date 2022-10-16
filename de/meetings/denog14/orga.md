@@ -10,10 +10,8 @@ meeting: DENOG14
 ## Orga Team
 Get in touch: event @ denog.de
 
-- Anita Meyer
 - Florian Hibler
 - Kay Rechthien
-- Malte von dem Hagen
 - Moritz Frenzel
 - Patrick Bussmann
 - Sebastian Becker
