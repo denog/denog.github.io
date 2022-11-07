@@ -29,11 +29,6 @@ This year the conference takes place, both virtual and on-site in Hamburg.
 <a href="/de/meetings/denog14/tickets.html" class="btn btn-custom-default">Tickets <i class="ion-arrow-right-c"></i></a>
 
 
-# Call for Papers & Workshops
-
-<a href="https://pretalx.com/denog14/cfp" class="btn btn-custom-default">Submit your proposal <i class="ion-arrow-right-c"></i></a>
-
-
 # Hygiene Concept
 
 DENOG14 is our first in-person conference since the start of the ongoing coronavirus pandemic. Especially in our field, where many people work on critical infrastructure, we must take responsibility to ensure a safe event.
