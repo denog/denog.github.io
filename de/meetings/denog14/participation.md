@@ -33,7 +33,7 @@ For on-site participation (workshops, conference and socials) daily COVID testin
 
 We encourage participants to wear masks.
 
-For the opening hours of our testing center - please refer to our '[About](https://www.denog.de/de/meetings/denog14/)' page and the 'Hygiene Concept' section.
+For the opening hours of our testing center - please refer to our '[About](https://www.denog.de/de/meetings/denog14/#hygiene-concept)' page and the 'Hygiene Concept' section.
 
 Please note, that we cannot accept any self tests.
 
