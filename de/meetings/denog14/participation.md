@@ -52,4 +52,6 @@ For further information on Venueless and how-to use it, please refer to our venu
 
 ## Contacts during the event
 
-If, during any time at the event - either virtual or in person, you feel unwell, unsafe, threatened, etc. please do not hesitate to approach anyone of board members or contact us via [vorstand@denog.de](mailto:vorstand@denog.de). 
+If, during any time at the event - either virtual or in person, you feel unwell, unsafe, threatened, etc. please do not hesitate to approach anyone of board members or contact us via [vorstand@denog.de](mailto:vorstand@denog.de).
+
+For general enquiries around the event or if you need regular support please contact the DENOG Event Team via [event@denog.de](mailto:event@denog.de)
