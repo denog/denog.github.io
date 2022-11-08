@@ -25,7 +25,7 @@ Monday and Tuesday - November 14-15, 2022 will be held in the Helmut Schmidt Aud
 
 Lunch will be provided on all three days.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3642.298739658595!2d9.980389462759364!3d53.55888664164134!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b18f3d8197df6b%3A0x94bc9c21f676ecba!2sBucerius%20Law%20School!5e0!3m2!1sen!2sde!4v1667905498636!5m2!1sen!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+Google Maps Link: [https://goo.gl/maps/qwttdpvVYMy8AMV38](https://goo.gl/maps/qwttdpvVYMy8AMV38)
 
 ### Health considerations
 
