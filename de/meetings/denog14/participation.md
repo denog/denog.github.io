@@ -33,12 +33,7 @@ For on-site participation (workshops, conference and socials) daily COVID testin
 
 We encourage participants to wear masks.
 
-The test center onsite is open during the following hours with an estimated time to result of about 10min.
-* Sunday, Nov. 13th: 09:30 - 15:30 CET 
-* Monday, Nov. 14th: 08:30 - 15:00 CET 
-* Tuesday, Nov. 15th: 08:00 - 14:00 CET
-
-The test center uses LumiraDx Antigen Tests which provide a 97.6% positive agreement versus RT-PCR in patients tested within 12 days of the onset of symptoms.
+For the opening hours of our testing center - please refer to our '[About](https://www.denog.de/de/meetings/denog14/)' page and the 'Hygiene Concept' section.
 
 Please note, that we cannot accept any self tests.
 
