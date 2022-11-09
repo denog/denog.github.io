@@ -15,13 +15,16 @@ meeting: DENOG14
 
 ![DENOG14 Banner](/images/meetings/denog14/denog14_banner.png)
 
-# Agenda
+# Important Dates
 
-Sunday, November 13th: 11:00 - 17:00 Workshops
+Sunday, November 13th: 11.00h - 17.00h CET Workshops; 19.00h CET PreSocial blind peering
 
-Monday, November 14th: 10:00 - 18:00 Conference; 19:00 Social
+Monday, November 14th: 10.00h - 18.00h CET Conference; 19.00h CET Social
 
-Tuesday, November 15th: 08:00 - 15:00 Conference
+Tuesday, November 15th: 09.00h - 15.30h CET Conference
+
+Please schedule time for the mandatory COVID test on-site! 
+
 
 # Registration
 
