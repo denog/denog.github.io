@@ -35,7 +35,7 @@ This year the conference takes place, both virtual and on-site in Hamburg.
 
 # Hygiene Concept
 
-DENOG14 is our first in-person conference since the start of the ongoing coronavirus pandemic. Especially in our field, where many people work on critical infrastructure, we must take responsibility to ensure a safe event.
+DENOG14 is our first in-person conference since the start of the ongoing COVID19 pandemic. Especially in our field, where many people work on critical infrastructure, we must take responsibility to ensure a safe event.
 
 We will provide a free-of-charge dedicated COVID testing facility on site and require attendees to test daily before entering the event location.
 We encourage participants to wear masks.
