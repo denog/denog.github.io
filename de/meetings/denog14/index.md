@@ -41,9 +41,9 @@ We will provide a free-of-charge dedicated COVID testing facility on site and re
 We encourage participants to wear masks.
 
 The testing facility ons-ite is open during the following hours, estimated time to result is approx. 10 min:
-* Sunday, Nov. 13th: 09:30 - 15:30 CET
-* Monday, Nov. 14th: 08:30 - 15:00 CET
-* Tuesday, Nov. 15th: 08:00 - 14:00 CET
+* Sunday, Nov. 13th: 09.30h - 15.30h CET
+* Monday, Nov. 14th: 08.30h - 15.00h CET
+* Tuesday, Nov. 15th: 08.00h - 13.30h CET
 
 The test center uses [LumiraDx Antigen Tests](https://www.lumiradx.com/uk-en/test-menu/antigen-test) which provide a 97.6% positive agreement versus RT-PCR in patients tested within 12 days of the onset of symptoms.
 # Location
