@@ -5,7 +5,13 @@ title: DENOG14 - Sponsoring
 year: 2022
 city: Hamburg
 meeting: DENOG14
+order: 16
 ---
+
+<br />
+<br />
+<b>All Sponsoring options are booked - thank you all! Please see on the right our sponsors!<b/>
+
 # Sponsoring
 
 Are you interested in sponsoring DENOG14? Please feel free to contact our sponsoring team by mail [sponsoring@denog.de](mailto:sponsoring@denog.de).

@@ -1,10 +1,11 @@
 ---
 layout: conference
 lang: de
-title: DENOG14 - Orga Team
+title: DENOG14 - Orga Team & PC
 year: 2022
 city: Hamburg
 meeting: DENOG14
+order: 15
 ---
 
 ## Orga Team

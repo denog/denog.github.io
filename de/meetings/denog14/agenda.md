@@ -5,6 +5,7 @@ title: DENOG14 - Agenda
 year: 2022
 city: Hamburg
 meeting: DENOG14
+order: 13
 ---
 
 <pretalx-schedule event-url="https://pretalx.com/denog14/" locale="en" format="list" style="--pretalx-clr-primary: #F9CD00"></pretalx-schedule>

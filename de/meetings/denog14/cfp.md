@@ -8,4 +8,5 @@ title: DENOG14 - Call for Papers
 year: 2022
 city: Hamburg
 meeting: DENOG14
+order: 12
 ---
