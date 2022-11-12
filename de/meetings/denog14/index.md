@@ -34,10 +34,10 @@ order: 0
   <a href="speaker.html">Speaker Information</a><br />
  </td>
  <td>
+  <a href="participation.html">How to participate</a><br />
+  <a href="denoginfo.html">Info DENOG & Charta</a><br />
   <a href="tickets.html">Register (Tickets)</a><br />
   <a href="workshop_registration.html">Workshop Registration</a><br />
-  <a href="denoginfo.html">Info DENOG & Charta</a><br />
-  <a href="participation.html">How to participate</a><br />
   <!-- <a href="">First DENOG Meeting</a><br /> -->
   <a href="attendees.html">Attendee list</a><br />
   <!-- <a href="">Social Media</a><br /> -->
@@ -59,7 +59,7 @@ order: 0
   <a href="social.html">Social Events</a><br />
   <!-- <a href="">Useful Information</a><br /> -->
   <a href="covid_test.html">COVID-19 Information</a><br />
-  <!-- <a href="">Event Support on-site</a><br /> -->
+  <a href="eventsupport.html">Event Support on-site</a><br />
  </td>
  <td>
   <a href="venueremote.html">Meeting Venue remote</a><br />
