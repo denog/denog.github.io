@@ -17,11 +17,11 @@ meeting: DENOG14
 
 # Important Dates
 
-Sunday, November 13th: 11.00h - 17.00h CET Workshops; 19.00h CET PreSocial blind peering
+Sunday, November 13th: 11.00 - 17.00 CET Workshops; 19.00 CET PreSocial blind peering
 
-Monday, November 14th: 10.00h - 18.00h CET Conference; 19.00h CET Social
+Monday, November 14th: 10.00 - 18.00 CET Conference; 19.00 CET Social
 
-Tuesday, November 15th: 09.00h - 15.30h CET Conference
+Tuesday, November 15th: 09.00 - 15.30 CET Conference
 
 Please schedule time for the mandatory COVID test on-site! 
 
@@ -41,9 +41,9 @@ We will provide a free-of-charge dedicated COVID testing facility on site and re
 We encourage participants to wear masks.
 
 The testing facility ons-ite is open during the following hours, estimated time to result is approx. 10 min:
-* Sunday, Nov. 13th: 09.30h - 15.30h CET
-* Monday, Nov. 14th: 08.30h - 15.30h CET
-* Tuesday, Nov. 15th: 08.00h - 13.30h CET
+* Sunday, Nov. 13th: 09.30 - 15.30 CET
+* Monday, Nov. 14th: 08.30 - 15.30 CET
+* Tuesday, Nov. 15th: 08.00 - 13.30 CET
 
 The test center uses [LumiraDx Antigen Tests](https://www.lumiradx.com/uk-en/test-menu/antigen-test) which provide a 97.6% positive agreement versus RT-PCR in patients tested within 12 days of the onset of symptoms.
 # Location
