@@ -44,20 +44,16 @@
 						"text": "Tickets"
 					},
 					{
-						"url": "meetings/denog14/sponsoring.html",
-						"text": "Sponsoring"
-					},
-					{
-						"url": "meetings/denog14/cfp.html",
-						"text": "Call for Papers"
+						"url": "meetings/denog14/participation.html",
+						"text": "How to participate"
 					},
 					{
 						"url": "meetings/denog14/attendees.html",
 						"text": "Attendees"
 					},
 					{
-						"url": "archiv.html",
-						"text": "Archiv"
+						"url": "meetings/denog14/agenda.html",
+						"text": "Agenda"
 					}
 				]
 			},
