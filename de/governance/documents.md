@@ -6,6 +6,11 @@ ref: Documents
 
 # Dokumente
 
+## Mitgliederversammlung 2022
+- Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20221116_DENOGev_Mitgliederversammlung_2022.pdf)
+<br><br>
+
+
 ## Mitgliederversammlung 2021
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20211110_Mitgliederversammlung 2021_Slidedeck_Final.pdf)
 - <b>Anhänge</b>
