@@ -14,16 +14,16 @@ Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voranzutreiben und
 
 Vorstandsposten werden für zwei Jahre gewählt.
 
-Seit der Mitgliedersammlung am 10.11.2021 setzt sich der Vorstand wie folgt zusammen:
+Seit der Mitgliedersammlung am 16.11.2022 setzt sich der Vorstand wie folgt zusammen:
 
-| Vorstandsposten | Aktuelle Besetzung   | Gewählt                       | Wahlperiode                 |
-|-----------------|----------------------|-------------------------------|-----------------------------|
-| 1. Vorstand     | Patrick Bußmann      | 10.11.2021                    | Wahl in ungeraden Jahren    |
-| 2. Vorstand     | Florian Hibler       | 10.11.2021 (für ein Jahr)     | Wahl in geraden Jahren      |
-| Kassenwart:in   | Arnold Nipper        | 10.11.2021                    | Wahl in ungeraden Jahren    |
-| Beisitzer:in    | Annika Wickert       | 10.11.2021                    | Wahl in ungeraden Jahren    |
-| Beisitzer:in    | Fiona Weber          | 10.11.2021 (für ein Jahr)     | Wahl in geraden Jahren      |
-| Beisitzer:in    | Moritz Frenzel       | 10.11.2020                    | Wahl in geraden Jahren      |
+| Vorstandsposten | Aktuelle Besetzung   | Gewählt     | Wahlperiode                 |
+|-----------------|----------------------|-------------|-----------------------------|
+| 1. Vorstand     | Patrick Bußmann      | 10.11.2021  | Wahl in ungeraden Jahren    |
+| 2. Vorstand     | Moritz Frenzel       | 16.11.2022  | Wahl in geraden Jahren      |
+| Kassenwart:in   | Arnold Nipper        | 10.11.2021  | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Annika Wickert       | 10.11.2021  | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Florian Hibler       | 16.11.2022  | Wahl in geraden Jahren      |
+| Beisitzer:in    | Fiona Weber          | 16.11.2022  | Wahl in geraden Jahren      |
 
 <br />
 <a href="board.html" class="btn btn-custom-default">Ehemalige Vorstände <i class="ion-arrow-right-c"></i></a>
