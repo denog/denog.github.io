@@ -1,6 +1,8 @@
 _site
 _theme
 .*
+!.well-known
 **/.log
 Gemfile.*
 **/.DS_Store
+files/gov/20201110_Kassenprüfung_DENOG_2019_signed.pdf

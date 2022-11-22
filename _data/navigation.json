@@ -31,41 +31,33 @@
 					},
 					{
 						"url": "chatterliste_iframe.html",
-						"text": "Chatterliste"
-					},
-					{
-						"url": "wiki.html",
-						"text": "Wiki"
+						"text": "Chatter:innenliste"
 					}
 				]
 			},
 			{
-				"url": "meetings/denog12/index.html",
-				"text": "DENOG12 virtual",
+				"url": "meetings/denog14/index.html",
+				"text": "DENOG14",
 				"childs": [
 					{
-						"url": "meetings/denog12/index.html",
+						"url": "meetings/denog14/index.html",
 						"text": "About"
 					},
 					{
-						"url": "meetings/denog12/talks.html",
-						"text": "Talks"
+						"url": "meetings/denog14/tickets.html",
+						"text": "Tickets"
 					},
 					{
-						"url": "meetings/denog12/recordings.html",
-						"text": "Recordings"
+						"url": "meetings/denog14/participation.html",
+						"text": "How to participate"
 					},
 					{
-						"url": "meetings/denog12/workshops.html",
-						"text": "Workshops"
-					},
-					{
-						"url": "meetings/denog12/attendees.html",
+						"url": "meetings/denog14/attendees.html",
 						"text": "Attendees"
 					},
 					{
-						"url": "archiv.html",
-						"text": "Archiv"
+						"url": "meetings/denog14/agenda.html",
+						"text": "Agenda"
 					}
 				]
 			},
@@ -74,12 +66,12 @@
 				"text": "Events",
 				"childs": [
 					{
-						"url": "events/index.html",
+						"url": "events/meetups.html",
 						"text": "Meetups"
 					},
 					{
-						"url": "meetings/denog12/index.html",
-						"text": "DENOG12"
+						"url": "events/leadership.html",
+						"text": "Leadership Meetups"
 					},
 					{
 						"url": "archiv.html",
@@ -89,7 +81,29 @@
 			},
 			{
 				"url": "governance/index.html",
-				"text": "Governance"
+				"text": "Verein & Governance",
+				"childs": [
+					{
+						"url": "governance/index.html",
+						"text": "Über den Verein"
+					},
+					{
+						"url": "governance/become_member.html",
+						"text": "Mitglied werden"
+					},
+					{
+						"url": "governance/become_sustaining_member.html",
+						"text": "Fördermitglied werden"
+					},
+					{
+						"url": "governance/board.html",
+						"text": "Der Vorstand"
+					},
+					{
+						"url": "governance/documents.html",
+						"text": "Dokumente & Verordnungen"
+					}
+				]
 			},
 			{
 				"url": "kontakt.html",

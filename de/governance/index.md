@@ -1,34 +1,73 @@
 ---
-title: Governance
+title: Der Verein
 lang: de
-ref: Governance
+ref: Association
 ---
 
-## Governance
-<br>
-<br>
+## Über DENOG e.V.
+DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. Im Rahmen dieses technischen Forums treffen sich Personen, die mit, für oder am Internet arbeiten und netzwerkspezifische Themen mit Gleichgesinnten diskutieren, um sie dadurch einfacher lösen zu können.
 
-#### Mitglieder Versammlung 2020
-- Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf)
-- [ Verabschiedete Beitragsordnung ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
-- [ Verabschiedete Guidance DENOG Jahreskonferenzvergabe ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
-<br><br>
-
-#### Mitglieder Versammlungen & Informationen
-- 2020-11-10:  [ [Agenda] ](/files/gov/20201012 - Final DENOG e.V. Mitgliederversammlung 2020 Einladung.pdf) [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf) [Protokoll (TBD)] 
-- 2019-11-12:   [Agenda]  [ [Slidedeck] ](/files/gov/20191112_Slidedeck_Mitgliederversammlung2019_Final.pdf) [ [Protokoll (Final)] ](/files/gov/20201110 - Protokoll - DENOG e.V. Mitgliederversammlung 2019 - Final - alle Unterschriften.pdf)
-- 2018-11-22:  [ [Agenda] ](/files/gov/20181122_Agenda_Mitgliederversammlung2018_Final.pdf) [ [Slidedeck] ](/files/gov/20181122_Slidedeck_Mitgliederversammlung2018_Final.pdf) [ [Protokoll (Draft)] ](/files/gov/20190512_Protokoll_DENOG_MV_2018_Final.pdf)
-- 2017-11-24:  [ [Protokoll] ](/files/gov/20171124_Gruendungsprotokoll.pdf)
-
-<br><br>
-#### Vereinsordnungen & Öffentliche Dokumente
-- [Satzung (Stand: 24.11.2017) ](/files/verein/20171124-DENOG_Satzung.pdf)
-- [Beitragsordnung (Stand: 10.11.2020) ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
-- [Aufnahmeordnung (Stand: 16.10.2018) ](/files/gov/20181015_Version1-0-Aufnahmeordnung-DENOG-e-V.pdf)<br>
-
-- [Geschäftsordnung des Vorstandes (Stand: 22.02.2019) ](/files/gov/20190222 - Version 1.0 Geschäftsordnung für den Vorstand DENOG.pdf)
-- [Guidance DENOG Jahreskonferenzvergabe Version 1.0 (Stand: 10.11.2020) ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
+Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voranzutreiben und zu fördern wurde der Verein DENOG e.V im Jahr 2017 gegründet.
 
 
-<br><br>
-<br><br>
+## Der Vorstand
+
+Vorstandsposten werden für zwei Jahre gewählt.
+
+Seit der Mitgliedersammlung am 16.11.2022 setzt sich der Vorstand wie folgt zusammen:
+
+| Vorstandsposten | Aktuelle Besetzung   | Gewählt     | Wahlperiode                 |
+|-----------------|----------------------|-------------|-----------------------------|
+| 1. Vorstand     | Patrick Bußmann      | 10.11.2021  | Wahl in ungeraden Jahren    |
+| 2. Vorstand     | Moritz Frenzel       | 16.11.2022  | Wahl in geraden Jahren      |
+| Kassenwart:in   | Arnold Nipper        | 10.11.2021  | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Annika Wickert       | 10.11.2021  | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Florian Hibler       | 16.11.2022  | Wahl in geraden Jahren      |
+| Beisitzer:in    | Fiona Weber          | 16.11.2022  | Wahl in geraden Jahren      |
+
+<br />
+<a href="board.html" class="btn btn-custom-default">Ehemalige Vorstände <i class="ion-arrow-right-c"></i></a>
+
+
+## Kassenprüfer
+
+Folgenden Personen sind aktuell Kassenprüfer im Verein:
+
+| Name                 | Gewählt          |
+|----------------------|------------------|
+| Theo Voss            | 12.11.2019       |
+| Kay Rechthien        | 24.11.2017       |
+| Magnus Frühling      | 24.11.2017       |
+
+
+## Fördermitglieder
+
+- DE-CIX (seit 07/2018)
+- I/P/B (seit 07/2018)
+- DENIC (seit 10/2018)
+- Thomas-Krenn AG (seit 06/2019)
+- LWLcom (seit 11/2019)
+- FlexOptix (seit 11/2019)
+- Core-Backbone (seit 10/2020)
+- marbis GmbH (seit 04/2021)
+- IPHH (seit 07/2021)
+- Arista (seit 10/2021)
+- Opengear (seit 10/2021)
+- BCIX (seit 11/2021)
+- inter.link (seit 12/2021)
+- ecotel (seit 02/2022)
+- Wobcom (seit 02/2022)
+- Anexia (seit 03/2022)
+- NLix (seit 06/2022)
+- noscito network GmbH (seit 08/2022)
+
+<a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
+
+## Mitglied werden?
+
+<a href="become_member.html" class="btn btn-custom-default">Mitglied werden <i class="ion-arrow-right-c"></i></a>
+
+## Satzung & Gebührenordnung
+
+<a href="documents.html" class="btn btn-custom-default">Dokumente & Verordnungen <i class="ion-arrow-right-c"></i></a>
+

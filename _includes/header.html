@@ -1,5 +1,12 @@
 <header>
     <link rel="stylesheet" type="text/css" href="https://pretix.eu/denog/denog12/widget/v1.css">
+    <link rel="stylesheet" type="text/css" href="https://pretix.eu/denog/denog14workshops/widget/v1.css">
+
+    <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
+    <script type="text/javascript" src="https://pretalx.com/denog-meetup-2021-02/schedule/widget/v2.en.js"></script>
+    <script type="text/javascript" src="https://pretalx.com/denog13/schedule/widget/v2.en.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://pretix.eu/denog/denog13-workshops/widget/v1.css">
+    <script type="text/javascript" src="https://pretalx.com/denog14/schedule/widget/v2.en.js"></script>
     <script type="text/javascript" src="https://pretix.eu/widget/v1.en.js" async></script>
     <!---
     <script type="text/javascript" src="https://pretalx.denog.de/denog12/schedule/widget/v2.en.js"></script>
@@ -27,7 +34,8 @@
                     <li class="dropdown">
                         {% assign mainClass = '' %}
                         {% for subentry in entry.childs %}
-                        {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
+                        {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url }}{%
+                        endif %}{% endcapture %}
                         {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
                         {% if targetUrlTmp == currentUrl %}{% assign mainClass = ' active' %}{% endif %}
                         {% endfor %}
@@ -35,20 +43,20 @@
                             aria-expanded="false">{{ entry.text }} <span class="ion-ios-arrow-down"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             {% for subentry in entry.childs %}
-                            {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url }}{% endif %}{% endcapture %}
+                            {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ subentry.url
+                            }}{% endif %}{% endcapture %}
                             {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
-                            <li><a href="{{ site.url }}{{ targetUrl }}"
-                                    {% if targetUrlTmp == currentUrl %}class="active"
+                            <li><a href="{{ site.url }}{{ targetUrl }}" {% if targetUrlTmp==currentUrl %}class="active"
                                     {% endif %}>{{ subentry.text }}</a></li>
                             {% endfor %}
                         </ul>
                     </li>
                     {% else %}
-                    {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ entry.url }}{% endif %}{% endcapture %}
+                    {% capture targetUrl %}/{{ page.lang }}/{% if entry.url != 'index.html' %}{{ entry.url }}{% endif
+                    %}{% endcapture %}
                     {% assign targetUrlTmp = targetUrl|remove: 'index.html' %}
-                    <li><a href="{{ site.url }}{{ targetUrl }}"
-                            {% if targetUrl == currentUrl or targetUrlTmp == currentUrl %}class="active"
-                            {% endif %}>{{ entry.text }}</a></li>
+                    <li><a href="{{ site.url }}{{ targetUrl }}" {% if targetUrl==currentUrl or targetUrlTmp==currentUrl
+                            %}class="active" {% endif %}>{{ entry.text }}</a></li>
                     {% endif %}
                     {% endfor %}
                     {% for language in site.data.navigation %}

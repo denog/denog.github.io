@@ -3,5 +3,7 @@ lang: de
 ref: kontakt
 title: Kontakt
 ---
-DENOG e.V. Vorstand
-<a href="mailto:vorstand@denog.de">Email</a>
+
+# Kontakt
+
+DENOG e.V. Vorstand: [vorstand@denog.de](mailto:vorstand@denog.de)
