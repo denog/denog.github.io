@@ -55,8 +55,42 @@ redirect_from: "/"
                 </article>
             </div>
 
+            <hr/>
+
+            <div class="mainpagepaddedbox">
+                <h3>Community Blog</h3>
+                {% assign community_posts=site.pages|where:"lang", page.lang |oder:"date"%}
+                {% assign searchString = page.lang|append: '/community_blog/posts'|prepend: '/' %}
+
+                {% for post in community_posts reversed %}
+                {% if post.url contains searchString %}
+
+                Im <a href="community_blog/index.html">DENOG Community Blog</a> teilen Mitglieder Ihre Sicht auf spannende Themen rund um das Internet, den Verein und die weltweite Community. <br />
+                Im aktuellsten Beitrag schreibt <b>{{ post.author }}</b> über <b>{{ post.title}}</b>:<br/><br/>
+                    <i> {{ post.content | strip_html | truncatewords: 50 }} </i><br/>
+
+                    <a href="{{ post.url}}" class="btn btn-custom-default pull-right">Weiter lesen <i class="ion-arrow-right-c"></i></a>
+                {% break %}
+                {% endif %}
+                {% endfor %}
+            </div>
+
+            <hr/>
+
+            <div class="mainpagepaddedbox">
+                <h3>Über Denog</h3>
+                <p>DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter
+                    entwickeln. Im Rahmen dieses technischen Forums treffen sich Menschen, die mit, für oder am Internet arbeiten
+                    und netzwerkspezifische Themen mit Gleichgesinnten diskutieren, um sie dadurch einfacher lösen zu können.</p>
+                <p>Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voran zu treiben und zu fördern wurde der Verein
+                    DENOG e.V im Jahr 2017 gegründet.</p>
+                <a href="{{ site.url }}/{{ page.lang }}/informationen.html" class="btn btn-custom-default pull-right">Mehr erfahren
+                    <i class="ion-arrow-right-    c"></i></a>
+                <div class="clearfix"></div>
+            </div>
 
         </div>
 
     </div>
+
 </div>
