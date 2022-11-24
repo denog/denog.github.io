@@ -10,7 +10,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-12">
-                             <a href="{{ site.url }}/{{ page.lang }}/meetings/denog14/index.html" class="btn btn-custom-default mainpagelogobtn float-md-right"><img src="{{ site.url }}/images/meetings/denog14/denog14_banner.png" id="mainpagelogo" /></a>
+                             <img src="{{ site.url }}/images/denog15_banner.png" id="mainpagelogo" />
                         </div>
                         <div class="col-md-6 col-sm-12">
                         <h2 class="mainpageboxheadline">Unterstütze den DENOG e.V.</h2>
@@ -34,22 +34,22 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
-                    <h4>DENOG14 Registration</h4>
-                    <p>DENOG14 will take place in Hamburg from November 13th to 15h.</p>
-                    <a href="/de/meetings/denog14/tickets.html" class="btn btn-custom-default pull-right">Registration <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG14 Recordings</h4>
+                    <p>All DENOG14 Recordings can be found here</p>
+                    <a href="/de/meetings/denog14/recordings.html" class="btn btn-custom-default pull-right">Registration <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
                 <article>
-                    <h4>DENOG14 Call for Papers</h4>
-                    <p>The Call for Papers for DENOG14 is now open!</p>
-                    <a href="https://pretalx.com/denog14/cfp" class="btn btn-custom-default pull-right">Submit now! <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG15 in Berlin</h4>
+                    <p>DENOG15 will be held in Berlin Germany in 2023. More details will follow in the next weeks and month.</p>
+                    
                 <br>
                 </article>
 
                 <article>
-                    <h4>Neue Vorstandsmitglieder</h4>
-                    <p>Fiona Weber & Annika Wickert neue Beisitzer:innen. Patrick Bussmann, Florian Hibler und Arnold Nipper wiedergewählt.</p>
+                    <h4>2022 Vorstandswahlen</h4>
+                    <p>Moritz Frenzel zum 2. Vorsitzenden und Fiona Weber und Florian Hibler zu  Beisitzer:innen gewählt.</p>
                     <a href="https://www.denog.de/de/governance/board.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
