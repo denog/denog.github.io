@@ -26,9 +26,4 @@ ruby RUBY_VERSION
 
 require 'json'
 require 'open-uri'
-versions =
-  begin
-    JSON.parse(open('https://pages.github.com/versions.json').read)
-  rescue SocketError
-    { 'github-pages' => 67 }
-  end
+gem "github-pages", group: :jekyll_plugins
