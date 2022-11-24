@@ -65,7 +65,7 @@ redirect_from: "/"
                 {% for post in community_posts reversed %}
                 {% if post.url contains searchString %}
 
-                Im <a href="community_blog/index.html">DENOG Community Blog</a> teilen Mitglieder Ihre Sicht auf spannende Themen rund um das Internet. <br />
+                Im <a href="community_blog/index.html">DENOG Community Blog</a> teilen Mitglieder Ihre Sicht auf spannende Themen rund um das Internet, den Verein und die weltweite Community. <br />
                 Im aktuellsten Beitrag schreibt <b>{{ post.author }}</b> über <b>{{ post.title}}</b>:<br/><br/>
                     <i> {{ post.content | strip_html | truncatewords: 50 }} </i><br/>
 
