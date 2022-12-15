@@ -60,6 +60,10 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 - Anexia (seit 03/2022)
 - NLix (seit 06/2022)
 - noscito network GmbH (seit 08/2022)
+- Uniberg Gmbh (seit 11/2022)
+- Nokia (seit 11/2022)
+- Exaring AG (seit 11/2022)
+- lukas.expert GmbH (seit 11/2022)
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
 
