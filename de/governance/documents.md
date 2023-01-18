@@ -9,6 +9,10 @@ ref: Documents
 ## Mitgliederversammlung 2022
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20221116_DENOGev_Mitgliederversammlung_2022.pdf)
 <br><br>
+- [ Protokoll Mitgliederversammlung 2022 Final ](/files/gov/20230110_Protokoll_Mitgliederversammlung_DENOG_e_V_2022_final.pdf) 
+- <b>Anhänge</b>
+- [ Bericht der Kassenprüfer ](/files/gov/20221113_Anlage_2 Kassenprüfung_DENOG_2021.pdf)
+<br><br>
 
 
 ## Mitgliederversammlung 2021
