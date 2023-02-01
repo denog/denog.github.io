@@ -4,7 +4,6 @@ lang: de
 title: DENOG14 - Social Media
 year: 2022
 city: Hamburg
-home: true
 meeting: DENOG14
 order: 27
 ---
