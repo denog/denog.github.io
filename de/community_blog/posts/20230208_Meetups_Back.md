@@ -16,12 +16,15 @@ Folgende Ziele haben wir für die DENOG Meetup Serie geplant:
 * Networking/Austausch im Anschluss
 * lokale Communities stärken und Newcomer*innen und erstmalige Speaker*innen einen leichteren Einstieg bieten
 
-Mit großer Freude können wir verkünden, dass 2023 Meetups wieder in-person und nicht remote stattfinden. Gemeinsam mit unseren Location-Partnern möchten wir euch die folgenden Daten bekannt geben:
+Mit großer Freude können wir verkünden, dass 2023 Meetups wieder in-person und nicht remote stattfinden. 
 
-| ----------- | ----------- |
+
+Gemeinsam mit unseren Location-Partnern möchten wir euch die folgenden Daten bekannt geben:
+
 | 28.02.2023 | 18.30 Uhr |	München (Garching) | Akamai Technologies |
 | 15.03.2023 | 18.30 Uhr |	Berlin | IPB Internet Provider Berlin |
 | 19.04.2023 | 18.30 Uhr | Stuttgart| Globalways |
+
 
 
 Anmeldungen und Call-for-Papers werden in den nächsten Tagen über die üblichen Kanäle verteilt und wir hoffen auf rege Beteiligung.
