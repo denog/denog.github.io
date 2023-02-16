@@ -41,9 +41,9 @@ redirect_from: "/"
                 </article>
 
                 <article>
-                    <h4>2022 Vorstandswahlen</h4>
-                    <p>Moritz Frenzel zum 2. Vorsitzenden und Fiona Weber und Florian Hibler zu  Beisitzer:innen gewählt.</p>
-                    <a href="https://www.denog.de/de/governance/board.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
+                    <h4>Meetup 2023-01 München</h4>
+                    <p>1. in-person Meetup in München am 28.02.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
+                    <a href="https://www.denog.de/de/events/meetup2023.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
             </div>
