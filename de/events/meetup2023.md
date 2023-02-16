@@ -7,10 +7,18 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 
 # DENOG Meetups 2023
+<br>
+<br>
+Aktuell geplante Meetups:
+
+| ----------- | ----------- |
+| 28.02.2023 | 18:30 - 21:30 | München (Garching) | Akamai Technologies |
+| 15.03.2023 | 18:30 - 21:30 | Berlin | IPB Internet Provider Berlin |
+| 19.04.2023 | 18:30 - 21:30 | Stuttgart | Globalways |
 
 <br>
 <br>
-## DENOG Meetup 01-2023<br>
+## DENOG Meetup 01-2023 - München<br>
 Wann: 28.02.2023<br>
 18:30 - 21:30 Uhr<br>
 Wo: Akamai Technologies, München / Garching<br>
