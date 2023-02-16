@@ -66,8 +66,12 @@
 				"text": "Events",
 				"childs": [
 					{
+						"url": "events/meetup2023.html",
+						"text": "Meetups 2023"
+					},
+					{
 						"url": "events/meetups.html",
-						"text": "Meetups"
+						"text": "Meetups 2022"
 					},
 					{
 						"url": "events/leadership.html",
