@@ -36,13 +36,13 @@ redirect_from: "/"
                 <article>
                     <h4>DENOG15 in Berlin</h4>
                     <p>DENOG15 will be held in Berlin Germany in 2023. More details will follow in the next weeks and month.</p>
-                    
+
                 <br>
                 </article>
 
                 <article>
-                    <h4>Meetup 2023-01 München</h4>
-                    <p>1. in-person Meetup in München am 28.02.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
+                    <h4>Meetup 2023-02 Berlin</h4>
+                    <p>In-person Meetup in Berlin am 15.03.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
                     <a href="https://www.denog.de/de/events/meetup2023.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
