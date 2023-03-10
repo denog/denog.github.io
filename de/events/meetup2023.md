@@ -41,7 +41,17 @@ DENOG Meetups richten sich an die lokalen Communities diverser Städte und werde
 
 ## Agenda
 
-Bald Verfügbar - [Call for Presentations](https://pretalx.com/denog-meetup-2023-02/cfp)
+[Call for Presentations](https://pretalx.com/denog-meetup-2023-02/cfp)
+
+<pretalx-schedule event-url="https://pretalx.com/denog-meetup-2023-02/" locale="de" format="grid" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.com/denog-meetup-2023-02/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
 
 ## Teilnehmer:innenliste:
 (Aktualisiert ca. alle 60 Minuten)<br>
