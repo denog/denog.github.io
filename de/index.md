@@ -41,8 +41,8 @@ redirect_from: "/"
                 </article>
 
                 <article>
-                    <h4>Meetup 2023-03 Stuttgart</h4>
-                    <p>In-person Meetup in Stuttgart am 19.04.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
+                    <h4>Meetup 2023-04 Darmstadt</h4>
+                    <p>In-person Meetup in Darmstadt am 28.06.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
                     <a href="https://www.denog.de/de/events/meetup2023.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
