@@ -25,7 +25,7 @@ Wo: LAB³, Hilpertstr. 31, 64295 Darmstadt<br>
 
 DENOG Meetups sind Abendveranstaltungen der Deutschsprachigen Network Operators Group, einer Community von Netzwerkspezialist:innen welche aktiv an der Gestaltung des Internets mitwirken, kleine und große Netze betreiben und am regen Austausch mit Gleichgesinnten interessiert sind.
 
-DENOG Meetups richten sich an die lokalen Communities diverser Städte und werden von diesen organisiert. Ein Meetup besteht aus ca. 3 Vorträgen (ca. 30min) und einem anschließenden Zusammenkommen bei Getränken und Snacks. DENOG Meetups finden so lange remote statt, bis die Lage in Deutschland persönliche Meetups wieder uneingeschränkt zulässt.
+DENOG Meetups richten sich an die lokalen Communities diverser Städte und werden von diesen organisiert. Ein Meetup besteht aus ca. 3 Vorträgen (ca. 30min) und einem anschließenden Zusammenkommen bei Getränken und Snacks. 
 
 ## Kostenlose Anmeldung
 
