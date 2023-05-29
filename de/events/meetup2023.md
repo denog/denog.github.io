@@ -12,7 +12,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 Aktuell geplante Meetups:
 
 | ----------- | ----------- |
-| 28.06.2023 | 18:30 - 21:30 | Darmstadt | LAB³ zusammen mit Freie Netze Südhessen e.V. |
+| 28.06.2023 | 18:30 - 21:30 | Darmstadt | LAB³ zusammen mit Freie Netze Südhessen e.V. [Call for Presentations](https://pretalx.com/denog-meetup-2023-04/cfp) |
 
 <br>
 <br>
