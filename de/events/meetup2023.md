@@ -7,12 +7,19 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 
 # DENOG Meetups 2023
-<br>
-<br>
-Aktuell geplante Meetups:
+<br><br>
+<b>Vergangene Meetups:</b>
 
-| ----------- | ----------- |
-| 28.06.2023 | 18:30 - 21:30 | Darmstadt | LAB³ zusammen mit Freie Netze Südhessen e.V. [Call for Presentations](https://pretalx.com/denog-meetup-2023-04/cfp) |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 28.02.2023 | 18.30 Uhr | München (Garching) | Akamai Technologies |
+| 15.03.2023 | 18.30 Uhr | Berlin | IPB Internet Provider Berlin |
+| 19.04.2023 | 18.30 Uhr | Stuttgart| Globalways |
+
+<br><br>
+<b>Aktuell geplante Meetups:</b>
+
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 28.06.2023 | 18:30 - 21:30 | Darmstadt | LAB³ zusammen mit Freie Netze Südhessen e.V. | [Call for Presentations](https://pretalx.com/denog-meetup-2023-04/cfp) |
 
 <br>
 <br>
