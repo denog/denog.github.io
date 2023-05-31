@@ -36,28 +36,20 @@
 				]
 			},
 			{
-				"url": "meetings/denog14/index.html",
-				"text": "DENOG14",
+				"url": "meetings/denog15/index.html",
+				"text": "DENOG15",
 				"childs": [
 					{
-						"url": "meetings/denog14/index.html",
+						"url": "meetings/denog15/index.html",
 						"text": "About"
 					},
 					{
-						"url": "meetings/denog14/tickets.html",
+						"url": "meetings/denog15/tickets.html",
 						"text": "Tickets"
 					},
 					{
-						"url": "meetings/denog14/participation.html",
+						"url": "meetings/denog15/participation.html",
 						"text": "How to participate"
-					},
-					{
-						"url": "meetings/denog14/attendees.html",
-						"text": "Attendees"
-					},
-					{
-						"url": "meetings/denog14/agenda.html",
-						"text": "Agenda"
 					}
 				]
 			},

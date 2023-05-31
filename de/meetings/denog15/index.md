@@ -16,7 +16,7 @@ order: 0
     <h1>DENOG15 will take place from November 19th to November 21st 2023 in Berlin!</h1>
 </center> 
 
-![DENOG15 Banner](/images/meetings/denog15/denog15_banner.png)
+<!-- ![DENOG15 Banner](/images/meetings/denog15/denog15_banner.png) -->
 
 
 <table border="0" width="100%">
@@ -38,7 +38,7 @@ order: 0
   <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
   <a href="tickets.html">Register (Tickets)</a><br />
   <a href="workshop_registration.html">Workshop Registration</a><br />
-  <a href="attendees.html">Attendee list</a><br />
+  <!-- <a href="attendees.html">Attendee list</a><br /> -->
   <a href="socialmedia.html">Social Media</a><br />
  </td>
 </tr>
