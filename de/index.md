@@ -34,8 +34,8 @@ redirect_from: "/"
                 </article>
 
                 <article>
-                    <h4>DENOG15 in Berlin</h4>
-                    <p>DENOG15 will be held in Berlin Germany in 2023. More details will follow in the next weeks and month.</p>
+                    <h4>DENOG15 in Berlin (19.-21.11.)</h4>
+                    <p>DENOG15 will be held in Berlin, Germany. <b>Safe the date: Nov, 19th to 21st 2023</b>. More details will follow in the next weeks and month.</p>
 
                 <br>
                 </article>
