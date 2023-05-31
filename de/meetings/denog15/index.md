@@ -11,10 +11,19 @@ order: 0
 
 <br />
 <br />
+<br />
 
 <center>
     <h1>DENOG15 will take place from November 19th to November 21st 2023 in Berlin!</h1>
 </center> 
+<br />
+<br />
+
+=> Until now, only the date and the city is announced. 
+
+We will follow with the venue, CFP, sponsoring packages, agenda, (pre-) social, ...
+<br />
+<br />
 
 <!-- ![DENOG15 Banner](/images/meetings/denog15/denog15_banner.png) -->
 
