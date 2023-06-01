@@ -11,14 +11,14 @@ order: 11
 # Important Dates
 
 | --------- | --------- | --------- | 
-| | KW** | Start of CFP |
-| | KW** | Ticket shop opens |
-| | KW** | Sponsoring packages announced |
-| | KW** | Sponsoring presale starts, patron members have exclusive access |
-| | KW** | Sponsoring packages are genereally available
-| | July 31st | End of early bird ticket sale |
-| | KW** | End of CFP |
-| | KW** | End of ticket sale with guaranteed t-shirt |
+| |  | Start of CFP |
+| |  | Ticket shop opens |
+| |  | Sponsoring packages announced |
+| |  | Sponsoring presale starts, patron members have exclusive access |
+| |  | Sponsoring packages are genereally available
+| |  | End of CFP |
+| |  | End of ticket sale with guaranteed t-shirt |
+| Monday    | July 31st | End of early bird ticket sale |
 | Sunday    | November 19th | <b>Workshops; Pre-Social</b> |
 | Monday    | November 20th | <b>Conference; Social</b> |
 | Tuesday   | November 21st | <b>Conference</b> |
