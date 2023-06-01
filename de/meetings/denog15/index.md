@@ -11,7 +11,6 @@ order: 0
 
 <br />
 
-<!-- ![DENOG15 Banner](/images/meetings/denog15/denog15_banner.png) -->
 ![DENOG15 Banner](/images/meetings/denog15/denog15_brandenburgertor.png)
 <br />
 
