@@ -11,7 +11,6 @@ order: 15
 ## Orga Team
 Get in touch: event @ denog.de
 
-- Florian Hibler
 - Kay Rechthien
 - Moritz Frenzel
 - Patrick Bussmann
