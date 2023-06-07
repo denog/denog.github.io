@@ -10,7 +10,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-12">
-                             <img src="{{ site.url }}/images/denog15_banner.png" id="mainpagelogo" />
+                             <img src="{{ site.url }}/images/meetings/denog15/denog15_banner.png" id="mainpagelogo" />
                         </div>
                         <div class="col-md-6 col-sm-12">
                         <h2 class="mainpageboxheadline">Unterstütze den DENOG e.V.</h2>
