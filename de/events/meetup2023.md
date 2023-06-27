@@ -30,6 +30,17 @@ Wo: LAB³, Hilpertstr. 31, 64295 Darmstadt<br>
 <br>
 <br>
 
+Anfahrt: <br />
+Bitte beachtet die geänderte Verkehrsführung aufgrund der Baustelle Rheinstraße – Google weiß aber Bescheid.
+Parkplätze gibt es abends ausreichend an der Straße, ansonsten ist das Parken 18-24 Uhr auch kostenfrei auf dem Gelände (einfach Ticket ziehen, das muss dann innerhalb dieser Zeit nicht gezahlt werden).
+
+<img src="/images/meetups/Anfahrt_LAB3eV.png" style="height:300px;">
+<img src="/images/meetups/LAB_Eingang.png" style="height:300px;">
+
+Siehe außerdem: <a href="https://www.lab3.org/contact/">https://www.lab3.org/contact/</a>
+
+<br /> 
+<br /> 
 DENOG Meetups sind Abendveranstaltungen der Deutschsprachigen Network Operators Group, einer Community von Netzwerkspezialist:innen welche aktiv an der Gestaltung des Internets mitwirken, kleine und große Netze betreiben und am regen Austausch mit Gleichgesinnten interessiert sind.
 
 DENOG Meetups richten sich an die lokalen Communities diverser Städte und werden von diesen organisiert. Ein Meetup besteht aus ca. 3 Vorträgen (ca. 30min) und einem anschließenden Zusammenkommen bei Getränken und Snacks. 
