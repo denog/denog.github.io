@@ -18,8 +18,9 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 <br><br>
 <b>Aktuell geplante Meetups:</b>
 
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| 28.06.2023 | 18:30 - 21:30 | Darmstadt | LAB³ zusammen mit Freie Netze Südhessen e.V. | [Call for Presentations](https://pretalx.com/denog-meetup-2023-04/cfp) |
+| ----------- | ----------- | ----------- | ----------- | ----------- | 
+| 28.06.2023 | 18:30 - 21:30 | Darmstadt | LAB³ zusammen mit Freie Netze Südhessen e.V. | [Call for Presentations](https://pretalx.com/denog-meetup-2023-04/cfp) | 
+| 27.09.2023 | 18:30 - 21:30 | Nürnberg | Netways zusammen mit Core-Backbone | |
 
 <br>
 <br>
@@ -45,7 +46,7 @@ DENOG Meetups sind Abendveranstaltungen der Deutschsprachigen Network Operators 
 
 DENOG Meetups richten sich an die lokalen Communities diverser Städte und werden von diesen organisiert. Ein Meetup besteht aus ca. 3 Vorträgen (ca. 30min) und einem anschließenden Zusammenkommen bei Getränken und Snacks. 
 
-## Kostenlose Anmeldung
+## Kostenlose Anmeldung Meetup 04-2023 - Darmstadt am 28.06.2023
 
 <pretix-widget event="https://pretix.eu/denog/denogmeetup23-04/"></pretix-widget>
 <noscript>
