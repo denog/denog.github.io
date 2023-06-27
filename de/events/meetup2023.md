@@ -35,7 +35,7 @@ Anfahrt: <br />
 Bitte beachtet die geänderte Verkehrsführung aufgrund der Baustelle Rheinstraße – Google weiß aber Bescheid.
 Parkplätze gibt es abends ausreichend an der Straße, ansonsten ist das Parken 18-24 Uhr auch kostenfrei auf dem Gelände (einfach Ticket ziehen, das muss dann innerhalb dieser Zeit nicht gezahlt werden).
 
-<img src="/images/meetups/Anfahrt_LAB3eV.png" style="height:300px;">
+<img src="/images/meetups/Anfahrt_LAB3eV.jpg" style="height:300px;">
 <img src="/images/meetups/LAB_Eingang.png" style="height:300px;">
 
 Siehe außerdem: <a href="https://www.lab3.org/contact/">https://www.lab3.org/contact/</a>
