@@ -27,6 +27,13 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
+                    <h4>Meetup 05-2023 Nürnberg</h4>
+                    <p>In-person Meetup in Nürnberg am 27.09.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
+                    <a href="https://www.denog.de/de/events/meetup2023.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>DENOG14 Recordings</h4>
                     <p>All DENOG14 Recordings can be found here</p>
                     <a href="/de/meetings/denog14/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
@@ -37,13 +44,6 @@ redirect_from: "/"
                     <h4>DENOG15 in Berlin (19.-21.11.)</h4>
                     <p>DENOG15 will be held in Berlin, Germany. <b>Save the date: Nov, 19th to 21st 2023</b>.</p>
                     <a href="https://denog15.denog.de/" class="btn btn-custom-default pull-right">Conference Website <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
-
-                <article>
-                    <h4>Meetup 2023-04 Darmstadt</h4>
-                    <p>In-person Meetup in Darmstadt am 28.06.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
-                    <a href="https://www.denog.de/de/events/meetup2023.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
             </div>
