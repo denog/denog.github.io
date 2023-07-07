@@ -22,7 +22,7 @@ Alle Slides vergangener Veranstaltungen finden sich auch im [Media Repository](h
 **{{ entry.year }} {{ entry.meeting }} Meeting**\\
 [{{ entry.meeting }}, {{ entry.city }}]({{ entry.url }})
 <details>
-    <summary><b>Slides</b></summary>
+    <summary><b>Slides</b> (click to expand)</summary>
 <ul>
 {% for presentation in presentations %}
     {% if presentation.path contains entry.meeting %}
