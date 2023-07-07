@@ -1,5 +1,17 @@
 # DENOG Website
 
+## Update in https://github.com/denog/media/
+
+Das Verzeichnis media/ ist ein git submodule, das sich den Inhalt von
+https://github.com/denog/media/ holt. Wenn dort ein Update gemacht wurde, muss
+das submodule hier aktualisiert werden, bspw. mit 
+```
+git submodule update --init --force --remote
+```
+Danach muss auch die Webseite neu gebaut werden, damit die Media-Dateien wieder
+eingelesen und in den html-Seiten gespeichert werden. 
+
+
 ## Neue Konferenz anlegen
 
 Um eine neue Konferenz anzulegen muss im Ordner `de/meetings/<event>` ein neuer Unterordner erstellt werden.
