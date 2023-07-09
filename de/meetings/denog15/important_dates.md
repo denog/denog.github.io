@@ -20,6 +20,7 @@ order: 11
 | Monday    | July 17th | Start of CFP |
 | Thursday  | August 31st | End of early bird ticket sale |
 | Friday    | September 15th | End of CFP |
+|           | Approx. CW40 | Workshop registration opens |
 | Friday    | October 27th | End of ticket sale with guaranteed t-shirt and social |
 | Sunday    | November 19th | <b>Workshops; Pre-Social</b> |
 | Monday    | November 20th | <b>Conference; Social</b> |

@@ -12,7 +12,7 @@ order: 24
 <br>
 <h1>Workshop Registration</h1><br>
 
-Will open soon ...
+Will open approx. CW40 / begin of October. We need the workshop organizers first. 
 
 <!-- <pretix-widget event="https://pretix.eu/denog/denog15workshops/"></pretix-widget>
 <noscript>
