@@ -16,4 +16,4 @@ order: 12
 
 <br />
 
-CFP will open soon ... 
+CFP will open Monday, July 17th 
