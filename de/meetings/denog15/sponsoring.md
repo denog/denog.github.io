@@ -25,7 +25,7 @@ Interested parties can reserve packages via this website starting on 2023-07-18 
 
 | Date (CEST)      |                                                      |
 |------------------|------------------------------------------------------|
-| 2023-TODO  18:00 | Sponsoring packages announced                        |
-| 2023-TODO  09:00 | Presale starts, patron members have exclusive access |
-| 2023-TODO  08:59 | End of exclusive access for patron members           |
-| 2023-TODO  09:00 | Sponsoring packages are genereally available         |
+| 2023-07-10  18:00 | Sponsoring packages announced                        |
+| 2023-07-18  09:00 | Presale starts, patron members have exclusive access |
+| 2023-07-25  08:59 | End of exclusive access for patron members           |
+| 2023-07-25  09:00 | Sponsoring packages are genereally available         |
