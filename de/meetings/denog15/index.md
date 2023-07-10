@@ -20,14 +20,6 @@ order: 0
 
 <br />
 
-<b>2023-06-01 Setup of conference website</b><br /><br />
-Until now, only the date and the city is announced. 
-
-We will follow with the venue, CFP, sponsoring packages, agenda, (pre-) social, ...
-<br />
-<br />
-
-
 
 <b>Overview of conference website:</b><br />
 <table border="0" width="100%">
