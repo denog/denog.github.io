@@ -16,7 +16,7 @@ order: 0
 
 <center>
     <h1>DENOG15 will take place from November 19th to November 21st 2023 in Berlin!</h1>
-</center> 
+</center>
 
 <br />
 
@@ -30,11 +30,11 @@ order: 0
 <tr>
  <td>
   <a href="important_dates.html">Important Dates </a><br />
-  <!-- <a href="agenda.html">Agenda</a><br /> --> 
-  <!-- <a href="recordings.html">Recoding & Slides</a><br /> --> 
+  <!-- <a href="agenda.html">Agenda</a><br /> -->
+  <!-- <a href="recordings.html">Recoding & Slides</a><br /> -->
   <a href="orga.html">Orga Team & PC</a><br />
-  <!-- <a href="sponsoring.html">Sponsoring</a><br /> --> 
-  <!-- <a href="speaker.html">Speaker Information</a><br /> --> 
+  <a href="sponsoring.html">Sponsoring</a><br />
+  <!-- <a href="speaker.html">Speaker Information</a><br /> -->
  </td>
  <td>
   <a href="participation.html">How to participate</a><br />
@@ -66,6 +66,6 @@ order: 0
   <a href="venueremote.html">Meeting Venue remote</a><br />
  </td>
 </tr>
-</table> --> 
+</table> -->
 
 
