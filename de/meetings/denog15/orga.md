@@ -30,6 +30,7 @@ Get in touch: pc @ lists.denog.de
 | Name                   | Affiliation                       |
 |------------------------|-----------------------------------|
 | Florian Hibler         | DENOG e.V. / Arista               |
+| Franziska Lichtblau    | SAP SE                            |
 | Kay Rechthien          | Fastly Inc.                       |
 | Moritz Frenzel (Chair) | DENOG e.V. / noscito network GmbH |
 | Richard Hartmann       | Grafana                           |
