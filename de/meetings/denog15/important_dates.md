@@ -11,10 +11,10 @@ order: 11
 # Important Dates
 
 | --------- | --------- | --------- | 
-| Sunday    | July 9th | Accouncement of location | 
-| Sunday    | July 9th | Ticket shop opens |
-| Monday    | July 10th | Sponsoring timeline published |
-| Monday    | July 10th | Sponsoring packages announced |
+| Monday    | July 10th | Accouncement of location | 
+| Monday    | July 10th | Ticket shop opens |
+| Tuesday   | July 11th | Sponsoring timeline published |
+| Tuesday   | July 11th | Sponsoring packages announced |
 | Tuesday   | July 18th | Sponsoring presale starts, patron members have exclusive access |
 | Tuesday   | July 25th | Sponsoring end of patron members exclusive access |
 | Monday    | July 17th | Start of CFP |
