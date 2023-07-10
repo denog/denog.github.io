@@ -11,14 +11,17 @@ order: 15
 ## Orga Team
 Get in touch: event @ denog.de
 
+- Anita Meyer 
+- Fiona Weber
 - Kay Rechthien
 - Moritz Frenzel
 - Patrick Bussmann
 - Sebastian Becker
 - Stefan Funke
+- Susann Böhme
 - Theo Voss
 - Tim Kleefass
-- Fiona Weber
+- Ute Wolf
 
 ## Program Committee
 
