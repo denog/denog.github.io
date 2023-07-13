@@ -12,6 +12,8 @@ order: 23
 <br>
 <h1>Registration</h1><br>
 
+<b>Lost your registration?</b> Please go to <a href="https://pretix.eu/denog/denog15/">https://pretix.eu/denog/denog15/</a> and click at the bottom of the page on the "Resend order link" button. Doesn't help? Send us an email: event (at) denog.de<br /><br />
+
 <pretix-widget event="https://pretix.eu/denog/denog15/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
