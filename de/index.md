@@ -34,9 +34,9 @@ redirect_from: "/"
                 </article>
 
                 <article>
-                    <h4>DENOG14 Recordings</h4>
-                    <p>All DENOG14 Recordings can be found here</p>
-                    <a href="/de/meetings/denog14/recordings.html" class="btn btn-custom-default pull-right">Recordings <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG15 CFP started</h4>
+                    <p>The DENOG15 Call for Presentations & Workshops started! Please see the full CFP</p>
+                    <a href="/de/meetings/denog15/cfp.html" class="btn btn-custom-default pull-right">DENOG15 CFP<i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
