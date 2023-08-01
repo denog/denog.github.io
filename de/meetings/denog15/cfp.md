@@ -12,9 +12,7 @@ order: 12
 
 <br />
 
-<br />
-
-<br />
+Please submit talks and workshops via <a href="https://pretalx.com/denog15/cfp">https://pretalx.com/denog15/cfp</a>
 
 # DENOG15 Call for Presentations & Workshops
 
@@ -94,3 +92,4 @@ Should you have any questions regarding the CfP or your submission do not hesita
 Should you require a personal contact please contact the program committee chair Moritz Frenzel (moritz (at) denog.de) or Sebastian Becker (sebastian (at) denog.de).
 
 
+Please submit talks and workshops via <a href="https://pretalx.com/denog15/cfp">https://pretalx.com/denog15/cfp</a>
