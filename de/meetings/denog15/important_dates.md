@@ -18,8 +18,8 @@ order: 11
 | Tuesday   | July 18th | Sponsoring presale starts, patron members have exclusive access |
 | Monday    | July 21th | Start of CFP |
 | Tuesday   | July 25th | Sponsoring end of patron members exclusive access |
-| Thursday  | August 31st | End of early bird ticket sale |
-| Friday    | September 1st | End of CFP |
+| Thursday  | <span style="color:red">August 31st</span> | <span style="color:red">End of early bird ticket sale</span> |
+| Friday    | <span style="color:red">September 1st</span> | <span style="color:red">End of CFP</span> |
 |           | Approx. CW40 | Workshop registration opens |
 | Friday    | October 27th | End of ticket sale with guaranteed t-shirt and social |
 | Sunday    | November 19th | <b>Workshops; Pre-Social</b> |
