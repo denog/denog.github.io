@@ -8,6 +8,9 @@ meeting: DENOG15
 order: 32
 ---
 
+<br>
+<br>
+<br>
 ## Conference Hotel & Reservation
 
 We have reserved a contingent for DENOG15 attendees at a special rate at the Estrel Berlin and are committed to taking these. The special rate can be booked by emailing reservierung@estrel.com using the code "DENOG 15". The code is valid until October 8th, 2023.
@@ -48,3 +51,6 @@ We are committed to holding a sustainable conference. We will gradually announce
 
 Your accommodation could be operated sustainably, for example with renewable energy. Ideally, it should be within walking distance of the venue. For the pre-social and social event, we will make sure that these locations are within walking distance or can be reached by public transport. 
 
+<br />
+<br />
+<br />
