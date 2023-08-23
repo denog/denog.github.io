@@ -40,3 +40,11 @@ As it is the first time for uns in Berlin, we do not have any specific recommend
 
 <br>
 
+## Sustainability - transportation and accommodations 
+
+DENOG15 in Berlin will be held in the Estrel Congress Center (Sonnenallee 225, 12057 Berlin). 
+
+We are committed to holding a sustainable conference. We will gradually announce various information about this. For today, please consider sustainable aspects when planning your trip. For arrival with public transport you can use the “Deutschlandticket” (https://deutschlandticket.de/) and the event ticket for the Estrel Hotel (https://www.estrel.com/en/congress/services -> scroll down to "Event Ticket with Deutsche Bahn"). 
+
+Your accommodation could be operated sustainably, for example with renewable energy. Ideally, it should be within walking distance of the venue. For the pre-social and social event, we will make sure that these locations are within walking distance or can be reached by public transport. 
+
