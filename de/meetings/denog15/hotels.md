@@ -15,7 +15,8 @@ order: 32
 
 We have reserved a contingent for DENOG15 attendees at a special rate at the Estrel Berlin and are committed to taking these. The special rate can be booked by emailing reservierung@estrel.com using the code "DENOG 15". The code is valid until October 8th, 2023.
 
-<b>If the hotel refers to a booking via website, please insist on the e-mail booking, as this was explicitly requested by the hotel in the first place. An online booking via the hotel website is NOT possible, the code is not accepted there or returns the wrong rates!</b>
+<b>If the hotel refers to a booking via website, please insist on the e-mail booking, as this was explicitly requested by the hotel in the first place. An online booking via the hotel website is NOT possible, the code is not accepted there or returns the wrong rates!
+Please check the confirmation, you may have to fill out and send back a form.</b> 
 
 Standard single room: 123,00€ room/night, incl. breakfast with a value of 25€/person
 Standard double room: 160,00€ room/night, incl. breakfast with a value of 25€/person
