@@ -4,7 +4,7 @@ markdown: kramdown
 env: "production"
 url: https://www.denog.de
 
-exclude: ['_theme', package.json, Gemfile, Gemfile.lock, '.idea', '.travis.yml']
+exclude: ['_theme', package.json, Gemfile, Gemfile.lock, '.idea', '.travis.yml', 'vendor']
 include: ['.well-known']
 
 plugins:

@@ -43,6 +43,7 @@ order: 0
   <a href="workshop_registration.html">Workshop Registration</a><br />
   <a href="attendees.html">Attendee list</a><br />
   <a href="socialmedia.html">Social Media</a><br />
+  <a href="hotels.html">Conference Hotel & Reservation</a><br />
  </td>
 </tr>
 </table>
