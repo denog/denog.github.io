@@ -6,7 +6,6 @@ year: 2023
 city: Berlin
 meeting: DENOG15
 order: 13
-hide: true
 ---
 
 <br /> 
@@ -14,6 +13,9 @@ hide: true
 <br /> 
 
 Agenda will be presented well in advance before conference.
+
+<br /> 
+
 
 <!-- <pretalx-schedule event-url="https://pretalx.com/denog15/" locale="en" format="list" style="--pretalx-clr-primary: #F9CD00"></pretalx-schedule>
 <noscript>
