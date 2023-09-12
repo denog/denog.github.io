@@ -6,7 +6,6 @@ year: 2023
 city: Berlin
 meeting: DENOG15
 order: 31
-hide: false
 ---
 
 <br>
