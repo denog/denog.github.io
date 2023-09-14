@@ -23,13 +23,12 @@ Agenda will be presented well in advance before conference.
 <table>
 <tr>
  <th>Time in CET</th>
- <th>&nbsp;&nbsp;&nbsp;&nbsp;</th>
- <th>Sunday</th>
+ <th colspan="2">Sunday, November 19th</th>
 </tr>
 <tr>
- <td>10:00</td>
+ <td >10:00</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
- <td style="background-color:#fff2cc">Registration Desk open</td>
+ <td width="300px" style="background-color:#fff2cc">Registration Desk open</td>
 </tr>
 <tr>
  <td>11:00 - 12:30</td>
@@ -79,13 +78,12 @@ Agenda will be presented well in advance before conference.
 <table>
 <tr>
  <th>Time in CET</th>
- <th>&nbsp;&nbsp;&nbsp;&nbsp;</th>
- <th>Monday</th>
+ <th colspan="2">Monday, November 20th</th>
 </tr>
 <tr>
  <td>09:00</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
- <td style="background-color:#fff2cc">Registration Desk open</td>
+ <td width="300px" style="background-color:#fff2cc">Registration Desk open</td>
 </tr>
 <tr>
  <td>09:00 - 10:00</td>
@@ -154,13 +152,12 @@ Agenda will be presented well in advance before conference.
 <table>
 <tr>
  <th>Time in CET</th>
- <th>&nbsp;&nbsp;&nbsp;&nbsp;</th>
- <th>Tuesday</th>
+ <th colspan="2">Tuesday, November 21st</th>
 </tr>
 <tr>
  <td>08:30</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
- <td style="background-color:#fff2cc">Registration Desk open</td>
+ <td width="300px" style="background-color:#fff2cc">Registration Desk open</td>
 </tr>
 <tr>
  <td>09:00 - 10:30</td>
