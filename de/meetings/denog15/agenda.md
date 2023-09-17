@@ -12,7 +12,10 @@ order: 13
 <br /> 
 <br /> 
 
-Agenda will be presented well in advance before conference.
+Agenda will be presented well in advance before conference. 
+<br />
+<br />
+Find here the <b><a target="_blank" href="https://pretalx.com/denog15/featured/">DENOG15 featured sessions (new window)</a></b>.
 
 <br /> 
 
