@@ -20,14 +20,15 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 <b>Aktuell geplante Meetups:</b>
 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 27.09.2023 | 18:30 - 21:30 | Nürnberg | Netways zusammen mit Core-Backbone | [Call for Presentations](https://pretalx.com/denog-meetup-2023-05/cfp) | [Tickets](https://pretix.eu/denog/denogmeetup23-05/)
+| 27.09.2023 | 18:30 - 21:30 | Nürnberg | Netways zusammen mit Core-Backbone | ~~[Call for Presentations](https://pretalx.com/denog-meetup-2023-05/cfp)~~ | [Tickets](https://pretix.eu/denog/denogmeetup23-05/) 
 
 <br>
 <br>
 ## DENOG Meetup 05-2023 - Nürnberg<br>
-Wann: 27.09.2023<br>
-18:30 - 21:30 Uhr<br>
-Wo: Netways, Deutschherrnstraße 15-19, 90429 Nürnberg
+Wann: 27.09.2023<br />
+18:30 - 21:30 Uhr<br />
+Wo: Netways, Deutschherrnstraße 15-19, 90429 Nürnberg<br />
+Anfahrt: <a href="/images/meetups/Anfahrt-Kesselhaus.pdf">Anfahrtsbeschreibung</a>
 <br>
 <br>
 <br>
