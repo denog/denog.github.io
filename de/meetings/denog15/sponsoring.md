@@ -13,8 +13,7 @@ order: 16
 # Sponsoring
 
 Are you interested in sponsoring DENOG15? Please feel free to contact our sponsoring team by mail [sponsoring@denog.de](mailto:sponsoring@denog.de).
-We are always happy to assist you with any other questions regarding the conference. Please note that the presale of this years sponsoring packages will be handled via this website and **not** by e-mail. See [form below](#reservations).
-
+We are always happy to assist you with any other questions regarding the conference.
 We look forward to DENOG15 onsite and remote together with you!
 
 
@@ -25,8 +24,7 @@ Packages can be reserved for up to 14 days, thereafter they will become generall
 DENOG Patron members have exclusive access to all packages in the first week of the sale.
 Packages are sold on a "first come, first serve" basis.
 
-For reservations please use the [form below](#reservations).
-
+For reservations please contact [our sponsoring team](mailto:sponsoring@denog.de)
 ## Timeline
 
 | Date (CEST)      |                                                      |
@@ -36,11 +34,11 @@ For reservations please use the [form below](#reservations).
 | 2023-07-25  08:59 | End of exclusive access for patron members           |
 | 2023-07-25  09:00 | Sponsoring packages are generally available         |
 
-## Reservations
+<!-- ## Reservations
 
 Packages can ordered using the form below or by folowing [**this link**](https://forms.gle/gLd2Sxc3gYMS1aUPA).
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29Wbo_m4pl3C5f22Dc1sSC7CK3N8Kkc5sAp-bABWfw5fX5g/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29Wbo_m4pl3C5f22Dc1sSC7CK3N8Kkc5sAp-bABWfw5fX5g/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe> -->
 
 <br/>
 <br/>
