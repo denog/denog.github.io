@@ -8,18 +8,25 @@ meeting: DENOG15
 order: 13
 ---
 
-<br /> 
-<br /> 
-<br /> 
-
-Agenda will be presented well in advance before conference. 
 <br />
 <br />
-Find here the <b><a target="_blank" href="https://pretalx.com/denog15/featured/">DENOG15 featured sessions (new window)</a></b>.
+<br />
 
-<br /> 
+Agenda will be presented well in advance before conference.
+<br />
+<br />
+<pretalx-schedule event-url="https://pretalx.com/denog15/" locale="en" format="list" style="--pretalx-clr-primary: #F9CD00"></pretalx-schedule>
+<noscript>
+   <div class="pretalx-widget">
+        <div class="pretalx-widget-info-message">
+            JavaScript is disabled in your browser. To access our schedule without JavaScript,
+            please <a target="_blank" href="https://pretalx.com/denog15/schedule/">click here</a>.
+        </div>
+    </div>
+</noscript>
+<br />
 
-# DRAFT Timetable
+# Timetable
 
 ## Sunday
 
@@ -204,14 +211,4 @@ Find here the <b><a target="_blank" href="https://pretalx.com/denog15/featured/"
 </tr>
 </table>
 
-<br /><br /><br />   
-
-<!-- <pretalx-schedule event-url="https://pretalx.com/denog15/" locale="en" format="list" style="--pretalx-clr-primary: #F9CD00"></pretalx-schedule>
-<noscript>
-   <div class="pretalx-widget">
-        <div class="pretalx-widget-info-message">
-            JavaScript is disabled in your browser. To access our schedule without JavaScript,
-            please <a target="_blank" href="https://pretalx.com/denog15/schedule/">click here</a>.
-        </div>
-    </div>
-</noscript> --> 
+<br /><br /><br />
