@@ -27,16 +27,16 @@ redirect_from: "/"
 
             <div class="newsblockwrapper">
                 <article>
-                    <h4>Meetup 05-2023 Nürnberg</h4>
-                    <p>In-person Meetup in Nürnberg am 27.09.2023 ab 18.30 Uhr. Kostenlose Anmeldung jetzt offen.</p>
-                    <a href="https://www.denog.de/de/events/meetup2023.html" class="btn btn-custom-default pull-right">Übersicht <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG15 Social Location</h4>
+                    <p>The DENOG15 social location has been published!</p>
+                    <a href="/de/meetings/denog15/social.html" class="btn btn-custom-default pull-right">DENOG15 Social <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
                 <article>
-                    <h4>DENOG15 CFP started</h4>
-                    <p>The DENOG15 Call for Presentations & Workshops started! Please see the full CFP</p>
-                    <a href="/de/meetings/denog15/cfp.html" class="btn btn-custom-default pull-right">DENOG15 CFP<i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG15 Agenda Released</h4>
+                    <p>The DENOG15 agenda has been released!</p>
+                    <a href="/de/meetings/denog15/agenda.html" class="btn btn-custom-default pull-right">DENOG15 Agenda <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
