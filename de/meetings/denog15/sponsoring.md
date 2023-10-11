@@ -24,7 +24,7 @@ Packages can be reserved for up to 14 days, thereafter they will become generall
 DENOG Patron members have exclusive access to all packages in the first week of the sale.
 Packages are sold on a "first come, first serve" basis.
 
-For reservations please contact [our sponsoring team](mailto:sponsoring@denog.de)
+DENOG15 sponosring packages are SOLD OUT - for future events please contact [our sponsoring team](mailto:sponsoring@denog.de)
 ## Timeline
 
 | Date (CEST)      |                                                      |
