@@ -46,7 +46,7 @@ order: 13
 <tr>
  <td>12:30 - 13:30</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#ccffcc">Lunch</td>
+ <td style="background-color:#d9f2e6">Lunch</td>
 </tr>
 <tr>
  <td>13:30 - 15:00</td>
@@ -56,7 +56,7 @@ order: 13
 <tr>
  <td>15:00 - 15:30</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#ccffcc">Coffee Break</td>
+ <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
  <td>15:30 - 17:00</td>
@@ -96,7 +96,7 @@ order: 13
 <tr>
  <td>09:00 - 10:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#ccffcc">Welcome Breakfast</td>
+ <td style="background-color:#d9f2e6">Welcome Breakfast</td>
 </tr>
 <tr>
  <td>10:00 - 10:30</td>
@@ -116,7 +116,7 @@ order: 13
 <tr>
  <td>12:00 - 13:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#ccffcc">Lunch</td>
+ <td style="background-color:#d9f2e6">Lunch</td>
 </tr>
 <tr>
  <td>12:00 - 14:00</td>
@@ -131,7 +131,7 @@ order: 13
 <tr>
  <td>15:45 - 16:30</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#ccffcc">Coffee Break</td>
+ <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
  <td>16:30 - 18:00</td>
@@ -175,7 +175,7 @@ order: 13
 <tr>
  <td>10:30 - 11:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#ccffcc">Coffee Break</td>
+ <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
  <td>11:00 - 12:00</td>
@@ -185,7 +185,7 @@ order: 13
 <tr>
  <td>12:00 - 13:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#ccffcc">Lunch</td>
+ <td style="background-color:#d9f2e6">Lunch</td>
 </tr>
 <tr>
  <td>12:00 - 14:00</td>
