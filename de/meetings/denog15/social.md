@@ -20,6 +20,7 @@ We're excited to welcome you at [Teufelsberg](https://en.wikipedia.org/wiki/Teuf
 
 ### Getting there
 A bus transfer will be arranged to and from the location, further details will be published soon.
+Participants with limited mobility are kindly asked to reach out to [event@denog.de](mailto:event@denog.de) so we can make respective arrangements.
 
 Google Maps Link: [https://maps.app.goo.gl/n6Q5azVMqBGN7zYk6](https://maps.app.goo.gl/n6Q5azVMqBGN7zYk6)
 
