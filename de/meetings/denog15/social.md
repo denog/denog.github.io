@@ -14,7 +14,7 @@ order: 14
 
 
 ## DENOG15 - Monday Official Social @ Teufelsberg
-Monday 21st November 2023 at 19.00h CET - 01.00h CET
+Monday 20th November 2023 at 19.00h CET - 01.00h CET
 
 We're excited to welcome you at [Teufelsberg](https://en.wikipedia.org/wiki/Teufelsberg), Berlins iconic listening station with a long history to explore. Join us for a great social event with foods and drinks as well as guided tours through the history of the Teufelsberg, it's origin from the remainders of WW2 and its important role during the Cold War. You will be rewarded with a breathtaking view over Berlin and a stunning grafitti gallery!
 
