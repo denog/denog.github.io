@@ -10,6 +10,17 @@ order: 16
 
 <br />
 <br />
+# Supported by
+Kongressfond Berlin (Berlin Congress Fund)
+<br />
+
+<img src="/images/meetings/denog15/Berlin-Senatsverwaltung-fuer-Wirtschaft-Energie-und-Betriebe.jpeg"/><br />
+<br />
+<b>DENOG15 meeting is co-funded by the Berlin Congress Fund!</b> <br />
+
+More information about the Berlin Congress Fund <a href="https://convention.visitberlin.de/kongressfonds-berlin">https://convention.visitberlin.de/kongressfonds-berlin</a>
+
+
 # Sponsoring
 
 Are you interested in sponsoring DENOG15? Please feel free to contact our sponsoring team by mail [sponsoring@denog.de](mailto:sponsoring@denog.de).
