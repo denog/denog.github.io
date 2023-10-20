@@ -14,7 +14,7 @@ order: 16
 Kongressfond Berlin (Berlin Congress Fund)
 <br />
 
-<img src="/images/meetings/denog15/Berlin-Senatsverwaltung-fuer-Wirtschaft-Energie-und-Betriebe.jpeg"/><br />
+<img src="/images/meetings/denog15/sponsor_berlin.png"/><br />
 <br />
 <b>DENOG15 meeting is co-funded by the Berlin Congress Fund!</b> <br />
 
