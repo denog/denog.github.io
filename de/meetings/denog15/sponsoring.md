@@ -11,7 +11,7 @@ order: 16
 <br />
 <br />
 # Supported by
-Kongressfond Berlin (Berlin Congress Fund)
+Kongressfonds Berlin (Berlin Congress Fund)
 <br />
 
 <img src="/images/meetings/denog15/sponsor_berlin.png"/><br />
