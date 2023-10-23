@@ -126,7 +126,7 @@ order: 11
 <tr>
  <td>12:00 - 14:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#e6ccff">1:1 Peering Session</td>
+ <td style="background-color:#e6ccff">Meet Me Session</td>
 </tr>
 <tr>
  <td>14:00 - 15:45</td>
@@ -195,7 +195,7 @@ order: 11
 <tr>
  <td>12:00 - 14:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#e6ccff">1:1 Peering Session</td>
+ <td style="background-color:#e6ccff">Meet Me Session</td>
 </tr>
 <tr>
  <td>14:00 - 15:30</td>
