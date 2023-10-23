@@ -41,7 +41,7 @@ order: 11
 <tr>
  <td >10:00</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
- <td width="300px" style="background-color:#fff2cc">Registration Desk open</td>
+ <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
 <tr>
  <td>11:00 - 12:30</td>
@@ -71,7 +71,7 @@ order: 11
 <tr>
  <td>17:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#fff2cc">Registration Desk close</td>
+ <td style="background-color:#fff2cc">Info Point close</td>
 </tr>
 <tr>
  <td>17:30</td>
@@ -96,7 +96,7 @@ order: 11
 <tr>
  <td>09:00</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
- <td width="300px" style="background-color:#fff2cc">Registration Desk open</td>
+ <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
 <tr>
  <td>09:00 - 10:00</td>
@@ -146,7 +146,7 @@ order: 11
 <tr>
  <td>18:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#fff2cc">Registration Desk & Location close</td>
+ <td style="background-color:#fff2cc">Info Point & Location close</td>
 </tr>
 <tr>
  <td>18:00</td>
@@ -170,7 +170,7 @@ order: 11
 <tr>
  <td>08:30</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
- <td width="300px" style="background-color:#fff2cc">Registration Desk open</td>
+ <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
 <tr>
  <td>09:00 - 10:30</td>
