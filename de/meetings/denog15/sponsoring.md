@@ -14,9 +14,12 @@ order: 16
 Kongressfonds Berlin (Berlin Congress Fund)
 <br />
 
-<img src="/images/meetings/denog15/sponsor_berlin.png"/><br />
+<img width="300px" src="/images/meetings/denog15/sponsor_berlin.png"/>&nbsp;&nbsp;
+<img width="240px" src="/images/meetings/denog15/sponsor_eu_efre.jpg"/><br />
 <br />
 <b>DENOG15 meeting is co-funded by the Berlin Congress Fund!</b> <br />
+
+<b>The Berlin Congress Fund is an initiative of the State of Berlin and is financed by the European Regional Development Fund (ERDF) and the state of Berlin</b>.<br />
 
 More information about the Berlin Congress Fund <a href="https://convention.visitberlin.de/kongressfonds-berlin">https://convention.visitberlin.de/kongressfonds-berlin</a>
 
