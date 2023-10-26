@@ -32,7 +32,7 @@ Check out the [important dates]("important_dates.html") to get an overview.
 See the Venue at <a href="venue.html">Venue & getting there</a> and <a href="venueremote.html">Meeting Venue remote</a>. 
 
 # Hygiene Concept
-Right now we do not plan for COVID-19 testing.<br />
+We do have a hygiene concept and will update you well in advance of the conference.<br />
 
 # Agenda & Workshops
 See our <a href="agenda.html">Agenda</a>.<br />
