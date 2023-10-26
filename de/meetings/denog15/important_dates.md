@@ -23,7 +23,7 @@ order: 11
 |           | Approx. CW40 | Workshop registration opens |
 | Saturday  | October 28th | End of ticket sale with guaranteed t-shirt and social, last day to pay with bank transfer |
 | Sunday    | November 05th | Last day to pay with SEPA debit | 
-| Sunday    | November 12th | Last day to modify you order (name, ASN, ICR name, etc.) |
+| Sunday    | November 12th | Last day to modify you order (name, ASN, IRC name, etc.) |
 | Sunday    | November 19th | <b>Workshops; Pre-Social</b> |
 | Monday    | November 20th | <b>Conference; Social</b> |
 | Tuesday   | November 21st | <b>Conference</b> |
