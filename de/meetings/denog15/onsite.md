@@ -7,6 +7,5 @@ city: Berlin
 meeting: DENOG15
 order: 30
 nolink: True
-hide: true
 ---
 
