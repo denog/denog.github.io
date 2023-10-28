@@ -32,11 +32,8 @@ Check out the [important dates]("important_dates.html") to get an overview.
 See the Venue at <a href="venue.html">Venue & getting there</a> and <a href="venueremote.html">Meeting Venue remote</a>. 
 
 # Hygiene Concept
-A full-scale test center like last year is very expensive and, due to the elimination of public test centers, can no longer be supplemented by off-peak times and would therefore have to be expanded further.
-What is much more important, however, is that the location does not allow for demarcation or access control to our area, making traceable testing very difficult.
-
-Last year's experiences showed us that our community takes our own health and that of other participants seriously, which is why this year we decided to give all participants approved COVID tests for self-testing directly at the cloakroom and check-in for each day of the event and to set up a corresponding area for self-tests. 
-The > 1,000 COVID tests for this have already been delivered!<br />
+We recommend that everyone tests themselves at home before departure and before entering the event. 
+For your convenience, we will hand out one test per event day to each participant at the info point. 
 
 # Agenda & Workshops
 See our <a href="agenda.html">Agenda</a>.<br />
