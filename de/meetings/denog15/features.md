@@ -48,13 +48,11 @@ Rules:
 
 
 ## Workspace quiet & Workspace loud
-
 The Workspaces are dedicated rooms to work. You can choose between the room "workspace quiet" and the room "workspace loud". In the "workspace quiet" we ask everyone to be - quiet! Here you can write your emails or do whatever work without being interrupted by noise. In the "workspace loud" talking is allowed.
 
 Both workspaces are equipped with chairs, tables, power (EU plug) and wifi.
 
 
 ## Community Sticker Exchange
-
 The Community Sticker Exchange is the place to exchange your beloved stickers! If you wish, bring your own stickers to the exchange. The deliverer is responsible for the stickers.
 
