@@ -15,7 +15,7 @@ order: 32
 
 
 ## Attendee Wall
-Are you on-site and looking for someone you haven’t met in person before? Then take a look at our attendee wall! After check-in, we’ll offer anyone to take an instant photo and post it on the attendee wall, right next to the Info Desk. This gives everyone an opportunity to see  who is already on site and add a face to the name. If you wish you can directly schedule a “meet me session” and get to know each other!
+Are you on-site and looking for someone you haven’t met in person before? Then take a look at our attendee wall! After check-in, we’ll offer anyone to take an instant photo and post it on the attendee wall, right next to the Info Desk. This gives everyone an opportunity to see  who is already on site and add a face to the name. If you wish you can directly schedule a "meet me session" and get to know each other!
 
 
 ## Meet Me Sessions
@@ -27,7 +27,7 @@ In "Meet" you can set up a profile and indicate if you are not available during 
 
 We will send every on-site participant access to the "Meet" tool in the coming days along with more detailed instructions. 
 
-We’d like to thank our friends at <a href="https://nix.cz">nix.cz</a> warmly for making the “Meet” tool available to us!
+We’d like to thank our friends at <a href="https://nix.cz">nix.cz</a> warmly for making the "Meet" tool available to us!
 
 
 ## Job Board
