@@ -29,7 +29,7 @@ We will send every on-site participant access to the "Meet" tool in the coming d
 
 We’d like to thank our friends at <a href="https://nix.cz">nix.cz</a> warmly for making the "Meet" tool available to us!
 
-More information about the "Meet" tool and helpful steps can be found here: <a href="meetmesessions.html">Meet Me Sessions</a>.
+<b>More information about the "Meet" tool and helpful steps can be found here: <a href="meetmesessions.html">Meet Me Sessions</a>.</b>
 
 
 ## Job Board
