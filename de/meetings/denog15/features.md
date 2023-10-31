@@ -21,7 +21,7 @@ Are you on-site and looking for someone you haven’t met in person before? Then
 ## Meet Me Sessions
 Would you like to introduce yourself or get to know someone? Maybe you've got a short topic to sync-up on? Let me introduce you to the meet me sessions!
 
-We blocked two periods during the conference days Monday and Tuesday. These are during the lunch breaks from 12:00 p.m. to 2:00 p.m. (lunch is served at the partially overlapping time from 12:00 p.m. to 1:00 p.m.). During these periods you have 5 slots of each 15 minutes plus a 5 minute break. So enough time to introduce yourself, but probably not for a full conversation or contract negotiation.
+We blocked two periods during the conference days Monday and Tuesday. These are during the lunch breaks from 12:00 p.m. to 2:00 p.m. (lunch is served at the partially overlapping time from 12:00 p.m. to 1:00 p.m.). During these periods you have 5 slots of each 15 minutes plus a 5 minute break. So enough time to introduce yourself, but probably not for a full conversation or contract negotiation. There are two Meet Me Rooms (MMRs) reserved for the meetings. The tool will randomly give your meeting a table, but you can also choose a custom place, like "at the Barista". 
 
 In "Meet" you can set up a profile and indicate if you are not available during time slots. It’s okay to decline a Meet request or not to offer "Meet Me Sessions" at all. For the latter, we’d like to ask you to then unset your availability in "Meet". We hope to give you a good opportunity to get in touch with others!
 
