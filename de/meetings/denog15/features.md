@@ -29,6 +29,8 @@ We will send every on-site participant access to the "Meet" tool in the coming d
 
 We’d like to thank our friends at <a href="https://nix.cz">nix.cz</a> warmly for making the "Meet" tool available to us!
 
+More information about the "Meet" tool and helpful steps can be found here: <a href="meetmesessions.html">Meet Me Sessions</a>.
+
 
 ## Job Board
 You attend DENOG15, the largest network operator conference in Germany, and it comes to your mind that someone in the crowd could be a match for one of your open job offers? That’s a brilliant idea! DENOG is offering a job board for the first time this year! 
