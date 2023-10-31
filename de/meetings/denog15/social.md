@@ -12,9 +12,10 @@ order: 14
 ## DENOG15 - Sunday PreSocial - Blind Peering (self paid) at 7 p.m
 Sunday 19th November 2023 around 19.00h CET
 
-We will book tables for around 8 people across Berlin and will assign randomly composed groups. There will be a Table Captain, who is familiar with DENOG. You will get an email around two days before the event with the name and location of the restaurant, time (around 7 p.m.), name and affiliation of the other membersparticipants ofr your group and the contact details of the Table Captain. 
+We will book tables for around 8 people across Berlin and will assign randomly composed groups. There will be a Table Captain, who is familiar with DENOG. 
+If you have registered you will get an email around two days before the event with the name and location of the restaurant, time (around 7 p.m.), name and affiliation of the other members of your group and the contact details of the Table Captain. 
 Please make sure to be on time and let us know in advance if you can not join. We made sure to break up usual groups to give you the opportunity to meet new faces. 
-Please be advised that the blind peering social is self-paid, so please bring your wallet to pay for your dinner. We need to reserve the right to charge you the restaurant's cancellation fee if you do not cancel before Saturday or do not show up - but much worse would be very small groups at too large tables who were looking forward to seeing you and then miss you! 
+Please be advised that the blind peering social is self-paid, so please bring your wallet to pay for your dinner. We reserve the right to charge you the restaurant's cancellation fee if you do not cancel before Saturday or do not show up - but much worse would be very small groups at too large tables who were looking forward to seeing you! 
 <br />
 For questions or changes you can contact us at <a href="mailto:event@denog.de">event@denog.de</a>. 
 <br />
