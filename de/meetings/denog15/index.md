@@ -38,11 +38,11 @@ order: 0
  </td>
  <td>
   <a href="participation.html">How to participate</a><br />
-  <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
   <a href="tickets.html">Register (Tickets)</a><br />
   <a href="workshop_registration.html">Workshop Registration</a><br />
   <a href="attendees.html">Attendee list</a><br />
   <a href="socialmedia.html">Social Media</a><br />
+  <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
   <a href="hotels.html">Conference Hotel & Reservation</a><br />
  </td>
 </tr>
@@ -58,6 +58,7 @@ order: 0
 <tr>
  <td>
   <a href="venue.html">Venue & getting there</a><br />
+  <a href="features.html">Features (new 2023)</a><br />
   <a href="hotels.html">Accomodation</a><br />
 <!--  <a href="social.html">Social Events</a><br />
   <a href="covid_test.html">COVID-19 Information</a><br />
