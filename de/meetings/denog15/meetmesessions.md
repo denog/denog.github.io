@@ -5,18 +5,46 @@ title: DENOG15 - Meet Me Sessions
 year: 2023
 city: Berlin
 meeting: DENOG15
-hide: true
+order: 33
 ---
 
 <br>
 <br>
 
-# Meet Me Sessions
-
 On this page we want to give you some help for the meet me sessions. 
+
+1. Important information 
+2. Help and guidance for the tool "Meet"
+<!-- 3. FAQ  -->
 
 We’d like to thank our friends at <a href="https://nix.cz">nix.cz</a> warmly for making the <a href="https://nix.cz/en/meet">“Meet”</a> tool available to us!
 
+
+# 1. Important information
+
+Some data for the tool "Meet" will be synced from your ticket (pretix); sync is done on daily basis, closer to the conference on an hourly basis. 
+Some of the data can be changed in "Meet". Here is the overview: 
+
+<table>
+<tr>
+ <td width="50%"><b>Data from your ticket (pretix)</b></td>
+ <td width="50%"><b>Data in "Meet"</b></td>                      
+</tr>
+<tr><td> First Name 							</td><td> Cannot be changed 	</td></tr>
+<tr><td> Last Name 							</td><td> Cannot be changed     </td></tr>
+<tr><td> Attendee email address  					</td><td> Cannot be changed     </td></tr>
+<tr><td> Company (<i>"Company Name on your badge/attendee list"</i>) 	</td><td> Cannot be changed     </td></tr>
+<tr><td> ASN (<i>"AS Nummer"</i>)					</td><td> Cannot be changed	</td></tr>
+<tr><td> Pronoun (<i>"Pronouns"</i>)					</td><td> Suffix - Could be changed in Meet, but we might overwrite it from pretix </td></tr>
+<tr><td colspan=2><b>Only in "Meet" available; therefor change in your profile in "Meet":</b>		</td></tr>
+<tr><td> n/a								</td><td> Title 		</td></tr>
+<tr><td> n/a								</td><td> Job title 		</td></tr>
+<tr><td> n/a								</td><td> Note 			</td></tr>
+</table>
+<br />
+
+
+# 2. Help and guidance for the tool "Meet"
 
 ## Registration 
 
