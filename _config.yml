@@ -5,7 +5,7 @@ env: "production"
 url: https://www.denog.de
 
 exclude: ['_theme', package.json, Gemfile, Gemfile.lock, '.idea', '.travis.yml', 'vendor']
-include: ['.well-known']
+include: ['.well-known', 'files/board_meetings']
 
 plugins:
   - jekyll-redirect-from
@@ -16,8 +16,7 @@ defaults:
       path: ""
     values:
       layout: "page"
-  - 
-    scope:
-      path: "media"
+  - scope:
+      path: "files/board_meetings"
     values:
-      media: true
+      board_meeting: true
