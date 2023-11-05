@@ -26,6 +26,14 @@ redirect_from: "/"
 
 
             <div class="newsblockwrapper">
+
+                <article>
+                    <h4>Mitgliederversammlung: 23.11.2023 18.00h</h4>
+                    <p>Einladung zur DENOG e.V. Mitgliederversammlung</p>
+                    <a href="/de/governance/documents.html" class="btn btn-custom-default pull-right">Governance <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+                
                 <article>
                     <h4>DENOG15 Social Location</h4>
                     <p>The DENOG15 social location has been published!</p>
