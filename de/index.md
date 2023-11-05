@@ -33,13 +33,6 @@ redirect_from: "/"
                     <a href="/de/governance/documents.html" class="btn btn-custom-default pull-right">Governance <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
-                
-                <article>
-                    <h4>DENOG15 Social Location</h4>
-                    <p>The DENOG15 social location has been published!</p>
-                    <a href="/de/meetings/denog15/social.html" class="btn btn-custom-default pull-right">DENOG15 Social <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
 
                 <article>
                     <h4>DENOG15 Agenda Released</h4>
