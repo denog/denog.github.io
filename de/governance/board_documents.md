@@ -1,3 +1,8 @@
+---
+title: Vorstand
+lang: de
+ref: BoardDocuments
+---
 # Boardmeeting Protokolle
 
 Der Vorstand trifft sich regelmäßig am 1. Dienstag des Monats zu einem Boardmeeting, die Protokolle werden im jeweils folgenden Boardmeeting verabschiedet und im Anschluss veröffentlicht.
