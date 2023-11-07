@@ -9,17 +9,6 @@ ref: Board
 Der Vorstand besteht, wie in der Satzung definiert, aus 1. Vorsitzende:n, 2. Vorsitzende:n, Kassenwart:in sowie bis zu vier Beisitzer:innen.
 Die Vorstandsmitglieder werden von der Mitgliederversammlung für einen Zeitraum von zwei Jahren gewählt. Weitere Informationen finden sich in der aktuell gültigen [Satzung](documents.html).
 
-## Boardmeeting Protokolle
-
-Der Vorstand trifft sich regelmäßig am 1. Dienstag des Monats zu einem Boardmeeting, die Protokolle werden veröffentlicht:
-
-{% assign protocols = site.static_files | where: "board_meeting", true %}
-<ul>
-  {% for protocol in protocols reversed %}
-    <li><a href="{{ protocol.path }}">{{ protocol.basename }}</a></li>
-  {% endfor %}
-</ul>
-
 
 ## Mitgliederversammlung 2022
 
