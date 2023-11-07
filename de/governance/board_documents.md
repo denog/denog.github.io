@@ -1,5 +1,5 @@
 ---
-title: Vorstand
+title: Vorstandsprotokolle
 lang: de
 ref: BoardDocuments
 ---
