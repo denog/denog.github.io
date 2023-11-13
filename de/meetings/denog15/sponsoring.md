@@ -25,8 +25,7 @@ This event was funded as part of the Union's response to the Covid-19 pandemic.
 
 More information about the Berlin Congress Fund <a href="https://convention.visitberlin.de/kongressfonds-berlin">https://convention.visitberlin.de/kongressfonds-berlin</a>
 
-(German) Kongressfonds Berlin: Die Vorhaben werden zunächst mit Mitteln aus REACT-EU des Europäischen Fonds für regionale Entwicklung (EFRE) und anschließend mit Mitteln des Landes Berlin zur Unterstützung der Krisenbewältigung im Kontext der COVID19-Pandemie und ihrer sozialen Folgen und zur Vorbereitung einer grünen, digitalen und stabilen Erholung der Wirtschaft gefördert.
-
+Congress Fund Berlin (Kongressfonds Berlin): The projects are initially supported with funds from REACT-EU of the European Regional Development Fund (ERDF) and subsequently with funds from the State of Berlin to support crisis management in the context of the COVID19 pandemic and its social consequences and to prepare for a green, digital and stable economic recovery.
 
 
 # Sponsoring
