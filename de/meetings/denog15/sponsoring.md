@@ -21,6 +21,8 @@ Kongressfonds Berlin (Berlin Congress Fund)
 
 <b>The Berlin Congress Fund is an initiative of the State of Berlin and is financed by the European Regional Development Fund (ERDF) and the state of Berlin</b>.<br />
 
+(German) "Die Vorhaben werden zunächst mit Mitteln aus REACT-EU des Europäischen Fonds für regionale Entwicklung (EFRE) und anschließend mit Mitteln des Landes Berlin zur Unterstützung der Krisenbewältigung im Kontext der COVID19-Pandemie und ihrer sozialen Folgen und zur Vorbereitung einer grünen, digitalen und stabilen Erholung der Wirtschaft gefördert." 
+
 More information about the Berlin Congress Fund <a href="https://convention.visitberlin.de/kongressfonds-berlin">https://convention.visitberlin.de/kongressfonds-berlin</a>
 
 
