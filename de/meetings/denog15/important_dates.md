@@ -173,27 +173,27 @@ order: 11
  <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
 <tr>
- <td>09:00 - 10:30</td>
+ <td>09:00 - 10:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks</td>
 </tr>
 <tr>
- <td>10:30 - 11:00</td>
+ <td>10:00 - 10:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
- <td>11:00 - 12:00</td>
+ <td>10:30 - 12:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks</td>
 </tr>
 <tr>
- <td>12:00 - 13:00</td>
+ <td>12:10 - 13:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Lunch</td>
 </tr>
 <tr>
- <td>12:00 - 14:00</td>
+ <td>12:10 - 14:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#e6ccff">Meet Me Session</td>
 </tr>
