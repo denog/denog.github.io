@@ -61,7 +61,7 @@ order: 0
   <a href="features.html">Features (new 2023)</a><br />
   <a href="hotels.html">Accomodation</a><br />
   <a href="social.html">Social Events</a><br />
-<!--  <a href="covid_test.html">COVID-19 Information</a><br /> -->
+  <a href="hygiene_concept.html">Hygiene Concept</a><br /> 
   <a href="eventsupport.html">Event Support on-site</a><br /> 
  </td>
  <td>
