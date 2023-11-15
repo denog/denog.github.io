@@ -53,7 +53,7 @@ order: 0
 <table border="0" width="100%">
 <tr>
  <td width="50%"><b>On-Site</b></td>
-<!-- <td width="50%"><b>Remote</b></td> -->
+ <td width="50%"><b>Remote</b></td> 
 </tr>
 <tr>
  <td>
@@ -65,7 +65,7 @@ order: 0
   <a href="eventsupport.html">Event Support on-site</a><br /> 
  </td>
  <td>
-<!--  <a href="venueremote.html">Meeting Venue remote</a><br /> -->
+  <a href="venueremote.html">Meeting Venue remote</a><br />
  </td>
 </tr>
 </table>
