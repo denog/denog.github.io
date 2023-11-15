@@ -60,9 +60,9 @@ order: 0
   <a href="venue.html">Venue & getting there</a><br />
   <a href="features.html">Features (new 2023)</a><br />
   <a href="hotels.html">Accomodation</a><br />
-<!--  <a href="social.html">Social Events</a><br />
-  <a href="covid_test.html">COVID-19 Information</a><br />
-  <a href="eventsupport.html">Event Support on-site</a><br /> -->
+  <a href="social.html">Social Events</a><br />
+<!--  <a href="covid_test.html">COVID-19 Information</a><br /> -->
+  <a href="eventsupport.html">Event Support on-site</a><br /> 
  </td>
  <td>
 <!--  <a href="venueremote.html">Meeting Venue remote</a><br /> -->
