@@ -16,7 +16,7 @@ If you are participating on-site do not hesitate to reach out to our Info Point,
 If, during any time at the event - either remote or in person, you feel unwell, unsafe, threatened, etc. please do not hesitate to approach anyone of board members or contact us via vorstand@denog.de
 
 
-# Helping the event (aka. be an angel)
+# Helping at the event (aka. be an angel)
 
 Would you like to be an angel and help with DENOG15? Want to contribute with your skill and strength, meet other people, have a look behind the scene, just help out? For most of the roles you don’t need any specific experience and you will learn everything you need for the job in our briefings on-site.
 
