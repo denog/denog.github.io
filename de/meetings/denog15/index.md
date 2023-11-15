@@ -53,19 +53,19 @@ order: 0
 <table border="0" width="100%">
 <tr>
  <td width="50%"><b>On-Site</b></td>
-<!-- <td width="50%"><b>Remote</b></td> -->
+ <td width="50%"><b>Remote</b></td> 
 </tr>
 <tr>
  <td>
   <a href="venue.html">Venue & getting there</a><br />
   <a href="features.html">Features (new 2023)</a><br />
   <a href="hotels.html">Accomodation</a><br />
-<!--  <a href="social.html">Social Events</a><br />
-  <a href="covid_test.html">COVID-19 Information</a><br />
-  <a href="eventsupport.html">Event Support on-site</a><br /> -->
+  <a href="social.html">Social Events</a><br />
+  <a href="hygiene_concept.html">Hygiene Concept</a><br /> 
+  <a href="eventsupport.html">Event Support on-site</a><br /> 
  </td>
  <td>
-<!--  <a href="venueremote.html">Meeting Venue remote</a><br /> -->
+  <a href="venueremote.html">Meeting Venue remote</a><br />
  </td>
 </tr>
 </table>

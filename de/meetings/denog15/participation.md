@@ -32,8 +32,10 @@ Check out the [important dates]("important_dates.html") to get an overview.
 See the Venue at <a href="venue.html">Venue & getting there</a> and <a href="venueremote.html">Meeting Venue remote</a>. 
 
 # Hygiene Concept
-We recommend that everyone tests themselves daily for COVID-19 before entering the event (home/hotel).
-For your convenience, we will hand out COVID-19 selftest for all days to each participant at the info point on arrival.
+We ask that everyone tests themselves daily for COVID-19 before entering the event (home/hotel).
+For your convenience, we will hand out COVID-19 self-tests for all days to each participant at the info point on arrival.
+
+Be responsible and stay home if you feel sick!
 
 # Agenda & Workshops
 See our <a href="agenda.html">Agenda</a>.<br />
