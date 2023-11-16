@@ -18,7 +18,8 @@ To get to the venue simply enter the main lobby of the ESTREL Hotel and head lef
 
 Adress:<br />
 ECC Berlin (Estrel Congress Center)<br />
-Ziegrastraße 225, 12057 Berlin, Germany
+Sonnenallee 225, 12057 Berlin (<- use this for navigation)<br />
+<del>Ziegrastraße 225, 12057 Berlin, Germany</del> (<- entrance to the building not possible)
 
 Find in 
 * <a href="https://maps.app.goo.gl/c5EPCofTR5F9u852A">Google Maps</a>
