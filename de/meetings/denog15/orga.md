@@ -37,6 +37,6 @@ Get in touch: pc @ lists.denog.de
 | Sebastian Becker       | Deutsche Telekom                  |
 | Stefan Wahl            |                                   |
 | Theo Voss              | inter.link                        |
-| Tim Kleefass           | OneFiber                          |
+| Tim Kleefass           |                                   |
 | Wolfgang Tremmel       | DE-CIX                            |
 
