@@ -23,6 +23,8 @@ order: 0
 <center>
     <h2>Please rate the conference, talks & workshops</h2>
 </center>
+
+<br />
     <a href="https://forms.gle/4jBiqHDyzU4c4A7E9">DENOG15 conference Feedback</a>
     <a href="https://forms.gle/ZkzHzvXYCpGb88uD7">Workshop Feedback</a><br/>
     <a href="https://forms.gle/qhgooAqZWYfUYgcp7">Talk Feedback Day 1</a><br/>
