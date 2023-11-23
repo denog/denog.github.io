@@ -11,7 +11,7 @@ breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 <b>Aktuell geplante Meetups:</b>
 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 07.02.2024 | 18:30 - 21:30 | Frankfurt am Main | Xantaro | ~~[Call for Presentations](https://pretalx.com/denog-meetup-2024-01/cfp)~~ | [Tickets](https://pretix.eu/denog/denogmeetup24-01/) 
+| 07.02.2024 | 18:30 - 21:30 | Frankfurt am Main | Xantaro | [Call for Presentations](https://pretalx.com/denog-meetup-2024-01/cfp) | [Tickets](https://pretix.eu/denog/denogmeetup24-01/) 
 
 <br>
 <br>
