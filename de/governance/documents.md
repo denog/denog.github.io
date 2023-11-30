@@ -8,6 +8,11 @@ ref: Documents
 
 ## Mitgliederversammlung 2023
 - Einladung Mitgliederversammlung 2023: [ [Einladung] ](/files/gov/20231025_DENOGeV_Einladung_Mitgliederversammlung_2023.pdf)
+- [ Protokoll Mitgliederversammlung 2023 Final ](/files/gov/20231123_Protokoll_Mitgliederversammlung_DENOG_e_V_2023_final.pdf) 
+- <b>Anhänge</b>
+  - [ Slidedeck ](/files/gov/Mitgliederversammlung_2023-Slidedeck.pdf)
+  - [ Bericht der Kassenprüfer ](/files/gov/Kassenpruefung_DENOG_2022_signed.pdf)
+<br><br>
 <br><br>
 
 
