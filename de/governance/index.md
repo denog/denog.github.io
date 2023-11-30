@@ -18,10 +18,10 @@ Seit der Mitgliedersammlung am 16.11.2022 setzt sich der Vorstand wie folgt zusa
 
 | Vorstandsposten | Aktuelle Besetzung   | Gewählt     | Wahlperiode                 |
 |-----------------|----------------------|-------------|-----------------------------|
-| 1. Vorstand     | Patrick Bußmann      | 10.11.2021  | Wahl in ungeraden Jahren    |
+| 1. Vorstand     | Patrick Bußmann      | 23.11.2023  | Wahl in ungeraden Jahren    |
 | 2. Vorstand     | Moritz Frenzel       | 16.11.2022  | Wahl in geraden Jahren      |
-| Kassenwart:in   | Arnold Nipper        | 10.11.2021  | Wahl in ungeraden Jahren    |
-| Beisitzer:in    | Annika Wickert       | 10.11.2021  | Wahl in ungeraden Jahren    |
+| Kassenwart:in   | Tim Kleefass         | 23.11.2023  | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Janina Fassbender    | 23.11.2023  | Wahl in ungeraden Jahren    |
 | Beisitzer:in    | Florian Hibler       | 16.11.2022  | Wahl in geraden Jahren      |
 | Beisitzer:in    | Fiona Weber          | 16.11.2022  | Wahl in geraden Jahren      |
 
