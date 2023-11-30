@@ -8,17 +8,16 @@ ref: Documents
 
 ## Mitgliederversammlung 2023
 - Einladung Mitgliederversammlung 2023: [ [Einladung] ](/files/gov/20231025_DENOGeV_Einladung_Mitgliederversammlung_2023.pdf)
-- [ Protokoll Mitgliederversammlung 2023 Final ](/files/gov/20231123_Protokoll_Mitgliederversammlung_DENOG_e_V_2023_final.pdf) 
+- Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/Mitgliederversammlung_2023-Slidedeck.pdf)
+- Protokoll Mitgliederversammlung 2023: [ [Protokoll] ](/files/gov/20231123_Protokoll_Mitgliederversammlung_DENOG_e_V_2023_final.pdf) 
 - <b>Anhänge</b>
-  - [ Slidedeck ](/files/gov/Mitgliederversammlung_2023-Slidedeck.pdf)
   - [ Bericht der Kassenprüfer ](/files/gov/Kassenpruefung_DENOG_2022_signed.pdf)
-<br><br>
 <br><br>
 
 
 ## Mitgliederversammlung 2022
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20221116_DENOGev_Mitgliederversammlung_2022.pdf)
-- [ Protokoll Mitgliederversammlung 2022 Final ](/files/gov/20230110_Protokoll_Mitgliederversammlung_DENOG_e_V_2022_final.pdf) 
+- Protokoll Mitgliederversammlung 2022: [ [Protokoll] ](/files/gov/20230110_Protokoll_Mitgliederversammlung_DENOG_e_V_2022_final.pdf) 
 - <b>Anhänge</b>
   - [ Bericht der Kassenprüfer ](/files/gov/20221113_Anlage_2_Kassenpruefung_DENOG_2021.pdf)
 <br><br>
@@ -34,7 +33,7 @@ ref: Documents
 
 ## Mitgliederversammlung 2020
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/20201111 - Mitgliederversammlung 2020 - Slidedeck Final.pdf)
-- [ Protokoll Mitgliederversammlung 2020 Final ](/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf) 
+- Protokoll Mitgliederversammlung 2020: [ [Protokoll] ](/files/gov/20210325 - Protokoll DENOG e.V. Mitgliederversammlung - Final - Signed.pdf) 
 - <b>Anhänge</b>
   -  Polyas Wahlunterlagen (im Protokoll enthalten)
   - [ Bericht der Kassenprüfer ](/files/gov/20201110_Kassenprüfung_DENOG_2019_signed.pdf)
