@@ -8,7 +8,7 @@ Um im Verein DENOG e.V. Mitglied zu werden, bitte einmal das folgende Formular a
 
 <a href="/files/verein/Antrag_Mitgliedschaft_v19_SEPA_20231229.pdf">Antrag auf Mitgliedschaft</a> 
 
-Für ein neues SEPA-Basis-Lastschriftmandat: 
+Für Änderungen an den Stammdaten oder ein neues SEPA-Basis-Lastschriftmandat: 
 
-<a href="/files/verein/SEPA_Einzugsermaechtigung_v03_20231229.pdf">Änderung oder neues SEPA-Basis-Lastschriftmandat</a>
+<a href="/files/verein/Aenderungen_Mitgliedschaft_v04_20240108.pdf">Änderung Stammdaten oder SEPA-Basis-Lastschriftmandat</a>
 

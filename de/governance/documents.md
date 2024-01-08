@@ -59,7 +59,7 @@ ref: Documents
 - [Geschäftsordnung des Vorstandes (Stand: 22.02.2019) ](/files/gov/20190222 - Version 1.0 Geschäftsordnung für den Vorstand DENOG.pdf)
 - [Guidance DENOG Jahreskonferenzvergabe Version 1.0 (Stand: 10.11.2020) ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf) 
 - [Reisekosten Regelung DENOG e.V. (Stand: 22.04.2021) ](/files/gov/20210422 DENOG eV Reisekostenregelung Final.pdf)
-- [Änderung oder neues SEPA-Basis-Lastschriftmandat ](/files/verein/SEPA_Einzugsermaechtigung_v03_20231229.pdf)
+- [Änderung an den Stammdaten oder neues SEPA-Basis-Lastschriftmandat ](/files/verein/Aenderungen_Mitgliedschaft_v04_20240108.pdf)
 
 - [Mitglied werden ](/de/governance/become_member.html)
 - [Fördermitglied werden ](/de/governance/become_sustaining_member.html)
