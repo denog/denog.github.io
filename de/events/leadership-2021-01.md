@@ -1,8 +1,13 @@
 ---
 layout: page
 lang: de
-title: DENOG Meetups
+title: DENOG Leadership-Meetup 2021-01
 year: 2021
+city: Virtual
+date: 2021-03-24
+meeting: Leadership-Meetup 2021-01
+meeting_type: meetup
+home: true
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
 
