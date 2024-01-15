@@ -3,9 +3,11 @@ layout: conference
 lang: de
 title: DENOG12 - About
 year: 2020
+date: 2020-11-08
 city: virtual
 home: true
 meeting: DENOG12
+meeting_type: conference
 ---
 
 <br><br>
