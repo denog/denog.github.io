@@ -3,9 +3,11 @@ layout: conference
 lang: de
 title: DENOG16 - Start
 year: 2024
+date: 2024-11-17
 city: Berlin
 home: true
 meeting: DENOG16
+meeting_type: conference
 order: 0
 ---
 
