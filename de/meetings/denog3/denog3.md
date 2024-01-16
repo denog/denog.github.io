@@ -3,10 +3,12 @@ layout: conference
 lang: de
 title: DENOG3
 year: 2011
+date: 2011-10-20
 city: Frankfurt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 home: true
 meeting: DENOG3
+meeting_type: conference
 ---
 ![DENOG3]({{ site.url }}/images/meeting-3.jpg){:class="img-responsive"}
 

@@ -3,9 +3,11 @@ layout: conference
 lang: de
 title: DENOG15 - Start
 year: 2023
+date: 2023-11-19
 city: Berlin
 home: true
 meeting: DENOG15
+meeting_type: conference
 order: 0
 ---
 

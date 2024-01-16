@@ -3,10 +3,12 @@ layout: conference
 lang: de
 title: DENOG5
 year: 2013
+date: 2013-11-14
 city: Darmstadt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 home: true
 meeting: DENOG5
+meeting_type: conference
 ---
 ![DENOG5]({{ site.url }}/images/meeting-5.jpg){:class="img-responsive"}
 

@@ -3,10 +3,12 @@ layout: conference
 lang: de
 title: DENOG10
 year: 2018
+date: 2018-11-21
 city: Darmstadt
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 home: true
 meeting: DENOG10
+meeting_type: conference
 ---
 ![](/images/meeting-10.jpg){:class="img-responsive"}
 
