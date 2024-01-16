@@ -6,7 +6,7 @@ year: 2022
 city: Berlin
 date: 2022-05-15
 meeting: RIPE 84 Pre-Social
-meeting_type: meetup
+meeting_type: other
 home: true
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
 ---
