@@ -28,6 +28,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>Meetup 2024-04: <br> 24.04.2024 18.30h</h4>
+                    <p>Registration und CFP für das vierte Meetup 2024 in <b>Darmstadt</b> ist offen</p>
+                    <a href="/de/events/meetup-2024-04.html" class="btn btn-custom-default pull-right">Meetup 2024-04 <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>Meetup 2024-01: <br> 07.02.2024 18.30h</h4>
                     <p>Registration und CFP für das erste Meetup 2024 in Frankfurt ist offen</p>
                     <a href="/de/events/meetup-2024-01.html" class="btn btn-custom-default pull-right">Meetup 2024-01 <i class="ion-arrow-right-c"></i></a>
@@ -41,12 +48,6 @@ redirect_from: "/"
                 <br>
                 </article>
 
-                <article>
-                    <h4>DENOG15 in Berlin (19.-21.11.)</h4>
-                    <p>DENOG15 will be held in Berlin, Germany. <b>Save the date: Nov, 19th to 21st 2023</b>. <br />Ticket-Shop is now open!</p>
-                    <a href="https://denog15.denog.de/" class="btn btn-custom-default pull-right">Conference Website <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
             </div>
 
             <hr/>
