@@ -36,7 +36,7 @@ redirect_from: "/"
 
                 <article>
                     <h4>Meetup 2024-01: <br> 07.02.2024 18.30h</h4>
-                    <p>Registration und CFP für das erste Meetup 2024 in Frankfurt ist offen</p>
+                    <p>Registration und CFP für das erste Meetup 2024 in <b>Frankfurt am Main</b> ist offen</p>
                     <a href="/de/events/meetup-2024-01.html" class="btn btn-custom-default pull-right">Meetup 2024-01 <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
