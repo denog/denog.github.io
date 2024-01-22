@@ -28,6 +28,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>Routing WG 2024-01:<br > 07.02.2024 10.00h</h4>
+                    <p>Onsite und Remote-Meeting für Contribtors, Registrierung ist offen</p>
+                    <a href="/de/events/routingwg-2024-01.html" class="btn btn-custom-default pull-right">Routing WG 2024-01 <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>Meetup 2024-04: <br> 24.04.2024 18.30h</h4>
                     <p>Registration und CFP für das vierte Meetup 2024 in <b>Darmstadt</b> ist offen</p>
                     <a href="/de/events/meetup-2024-04.html" class="btn btn-custom-default pull-right">Meetup 2024-04 <i class="ion-arrow-right-c"></i></a>
@@ -38,13 +45,6 @@ redirect_from: "/"
                     <h4>Meetup 2024-01: <br> 07.02.2024 18.30h</h4>
                     <p>Registration und CFP für das erste Meetup 2024 in <b>Frankfurt am Main</b> ist offen</p>
                     <a href="/de/events/meetup-2024-01.html" class="btn btn-custom-default pull-right">Meetup 2024-01 <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
-
-                <article>
-                    <h4>Mitgliederversammlung: 23.11.2023 18.00h</h4>
-                    <p>Einladung zur DENOG e.V. Mitgliederversammlung</p>
-                    <a href="/de/governance/documents.html" class="btn btn-custom-default pull-right">Governance <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
