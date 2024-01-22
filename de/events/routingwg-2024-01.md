@@ -5,7 +5,7 @@ title: DENOG Routing WG 2024-01
 year: 2024
 city: Frankfurt
 date: 2024-02-07
-meeting: Routing WG 2024-01
+meeting: Routing WG Hackathon 2024-01
 meeting_type: wg
 home: true
 breadcrumbs: [<a href="../archiv.html">Archiv</a>]
@@ -30,7 +30,7 @@ Alle Meetups aus 2024:
 {% endfor %}
 
 
-# DENOG Routing WG 2024-01 - Frankfurt am Main<br />
+# DENOG Routing WG Hackathon 2024-01 - Frankfurt am Main<br />
 
 | ----- | ------- |
 | Wann  | 07.02.2024 10:00 - 17:00 Uhr |
@@ -41,7 +41,7 @@ Alle Meetups aus 2024:
 <br>
 
 DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. 
-Dies ist ein vor-Ort und Remote-Treffen der Routing WG des DENOG: [https://routing.denog.de/](https://routing.denog.de/).
+Dies ist ein Hackathon vor-Ort und Remote der Routing WG des DENOG: [https://routing.denog.de/](https://routing.denog.de/).
 
 ## Kostenlose Anmeldung 
 
