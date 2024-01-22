@@ -13,10 +13,9 @@ order: 0
 
 <br />
 
-![DENOG16 Banner](/images/meetings/denog16/denog16_fernsehturm.png)
+![DENOG16 Banner](/images/meetings/denog16/denog16_banner.png)
 <br />
 
-Save the date: 
 <center>
     <h1>DENOG16 will take place from November 17th to November 19th 2024 in Berlin!</h1>
 </center>
