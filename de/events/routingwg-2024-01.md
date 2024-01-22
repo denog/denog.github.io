@@ -30,7 +30,7 @@ Alle Meetups aus 2024:
 {% endfor %}
 
 
-## DENOG Routing WG 2024-01 - Frankfurt am Main<br />
+# DENOG Routing WG 2024-01 - Frankfurt am Main<br />
 
 | ----- | ------- |
 | Wann  | 07.02.2024 10:00 - 17:00 Uhr |
