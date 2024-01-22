@@ -34,14 +34,14 @@ Alle Meetups aus 2024:
 
 | ----- | ------- |
 | Wann  | 07.02.2024 10:00 - 17:00 Uhr |
-| Bei wem | Xantaro |
+| Bei wem | Xantaro (Location Sponsor) |
 | Wo    | Xantaro Deutschland GmbH, Hahnstraße 31-35, 60528 Frankfurt am Main |
 
 <br>
 <br>
 
 DENOG ist eine Community für Menschen, die am Internet in Deutschland forschen, es betreiben und weiter entwickeln. 
-Dies ist ein Hackathon vor-Ort und Remote der Routing WG des DENOG: [https://routing.denog.de/](https://routing.denog.de/).
+Dies ist ein <b>Hackathon</b> vor-Ort und Remote der Routing WG des DENOG: [https://routing.denog.de/](https://routing.denog.de/).
 
 ## Kostenlose Anmeldung 
 
