@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Important Dates
 layout: conference
 lang: de
-title: DENOG15 - Important Dates
 year: 2023
 city: Berlin
 meeting: DENOG15

@@ -1,8 +1,8 @@
 ---
+title: DENOG Meetups sind zurück
+date: 2023-02-08 00:00:00 Z
 lang: de
 layout: post
-title: DENOG Meetups sind zurück
-date: 2023-02-08
 author: Patrick Bussmann
 author_email: patrick@denog.de
 ---

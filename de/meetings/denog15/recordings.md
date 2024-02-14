@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Recordings & Slides
 layout: conference
 lang: de
-title: DENOG15 - Recordings & Slides
 year: 2023
 city: Berlin
 meeting: DENOG15

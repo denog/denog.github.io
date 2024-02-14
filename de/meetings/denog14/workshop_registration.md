@@ -1,12 +1,13 @@
 ---
+title: DENOG14 - Workshop Registration
 layout: conference
 lang: de
-title: DENOG14 - Workshop Registration
 year: 2022
 city: Hamburg
 meeting: DENOG14
 order: 24
 ---
+
 <br>
 <br>
 <br>

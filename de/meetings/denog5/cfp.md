@@ -1,11 +1,14 @@
 ---
-lang: de 
-ref: cfp5
 title: DENOG 5 - CALL FOR PARTICIPATION AND PAPERS
-breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog5">DENOG5</a>]
+lang: de
+ref: cfp5
+breadcrumbs:
+- <a href="/archiv.html">Archiv</a>
+- <a href="/archiv/denog5">DENOG5</a>
 meeting: DENOG5
 layout: conference
 ---
+
 The fifth meeting of the German Network Operators Group (DENOG) will be held in Darmstadt, Germany on the 14th of November 2013. We are pleased to hereby invite applications for presentations or lightning talks to be held at this event.
 
 ## GENERAL INFORMATION

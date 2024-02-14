@@ -1,15 +1,17 @@
 ---
+title: DENOG8
+date: 2016-11-23 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG8
 year: 2016
-date: 2016-11-23
 city: Darmstadt
-breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+breadcrumbs:
+- <a href="../archiv.html">Archiv</a>
 home: true
 meeting: DENOG8
 meeting_type: conference
 ---
+
 ![](/images/meeting-8.jpg){:class="img-responsive"}
 
 ## Live Stream

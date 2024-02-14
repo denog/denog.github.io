@@ -1,7 +1,7 @@
 ---
+title: DENOG13 - Agenda
 layout: conference
 lang: de
-title: DENOG13 - Agenda
 year: 2021
 city: virtual
 meeting: DENOG13

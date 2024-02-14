@@ -1,15 +1,17 @@
 ---
+title: DENOG2
+date: 2010-11-04 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG2
 year: 2010
-date: 2010-11-04
 city: Frankfurt
-breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+breadcrumbs:
+- <a href="../archiv.html">Archiv</a>
 home: true
 meeting: DENOG2
 meeting_type: conference
 ---
+
 ## 2010-11-12 Winners of the Timlic Tombola
 
 The winners of the Timlic Tombola have been drawn and are announced on www.timlic.de.

@@ -1,7 +1,7 @@
 ---
+title: Kontakt
 lang: de
 ref: kontakt
-title: Kontakt
 ---
 
 # Kontakt

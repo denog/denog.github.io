@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Orga Team & PC
 layout: conference
 lang: de
-title: DENOG15 - Orga Team & PC
 year: 2023
 city: Berlin
 meeting: DENOG15

@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - How to participate
 layout: conference
 lang: de
-title: DENOG15 - How to participate
 year: 2023
 city: Berlin
 meeting: DENOG15

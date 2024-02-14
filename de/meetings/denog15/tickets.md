@@ -1,12 +1,13 @@
 ---
+title: DENOG15 - Register (Tickets)
 layout: conference
 lang: de
-title: DENOG15 - Register (Tickets)
 year: 2023
 city: Berlin
 meeting: DENOG15
 order: 23
 ---
+
 <br>
 <br>
 <br>

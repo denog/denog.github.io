@@ -1,9 +1,9 @@
 ---
+title: DENOG12 - About
+date: 2020-11-08 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG12 - About
 year: 2020
-date: 2020-11-08
 city: virtual
 home: true
 meeting: DENOG12

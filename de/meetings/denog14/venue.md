@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Venue & getting there
 layout: conference
 lang: de
-title: DENOG14 - Venue & getting there
 year: 2022
 city: Hamburg
 meeting: DENOG14

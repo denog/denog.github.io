@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Call for Papers
 layout: conference
 lang: de
-title: DENOG15 - Call for Papers
 year: 2023
 city: Berlin
 meeting: DENOG15

@@ -1,11 +1,14 @@
 ---
-lang: de 
-ref: cfp6
 title: DENOG 6 - CALL FOR PARTICIPATION AND PAPERS
-breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog6">DENOG6</a>]
+lang: de
+ref: cfp6
+breadcrumbs:
+- <a href="/archiv.html">Archiv</a>
+- <a href="/archiv/denog6">DENOG6</a>
 meeting: DENOG6
 layout: conference
 ---
+
 The sixth meeting of the German Network Operators Group (DENOG) will be held in Darmstadt, Germany on the 20th of November 2014. We are pleased to hereby invite applications for presentations or lightning talks to be held at this event.
 
 ## GENERAL INFORMATION

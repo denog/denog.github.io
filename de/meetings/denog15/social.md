@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Social Events
 layout: conference
 lang: de
-title: DENOG15 - Social Events
 year: 2023
 city: Berlin
 meeting: DENOG15

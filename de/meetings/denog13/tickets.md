@@ -1,12 +1,13 @@
 ---
+title: DENOG13 - Tickets
 layout: conference
 lang: de
-title: DENOG13 - Tickets
 year: 2021
 city: virtual
 meeting: DENOG13
 hide: true
 ---
+
 <br/>
 <br/>
 <pretix-widget event="https://pretix.eu/denog/denog13/"></pretix-widget>

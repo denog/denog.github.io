@@ -1,22 +1,36 @@
+---
 title: DENOG e.V.
-baseurl: "" # the subpath of your site, e.g. /blog
-markdown: kramdown
-env: "production"
-url: https://www.denog.de
-
-exclude: ['_theme', package.json, Gemfile, Gemfile.lock, '.idea', '.travis.yml', 'vendor']
-include: ['.well-known', 'files/board_meetings']
-
-plugins:
-  - jekyll-redirect-from
-
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "page"
-  - scope:
-      path: "files/board_meetings"
-    values:
-      board_meeting: true
+- scope:
+    path: ''
+  values:
+    layout: page
+- scope:
+    path: files/board_meetings
+  values:
+    board_meeting: true
+baseurl: ''
+markdown: kramdown
+env: production
+url: https://www.denog.de
+exclude:
+- _theme
+- package.json
+- Gemfile
+- Gemfile.lock
+- ".idea"
+- ".travis.yml"
+- vendor
+include:
+- ".well-known"
+- files/board_meetings
+plugins:
+- jekyll-redirect-from

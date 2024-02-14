@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Hygiene Concept
 layout: conference
 lang: de
-title: DENOG15 - Hygiene Concept
 year: 2023
 city: Berlin
 meeting: DENOG15

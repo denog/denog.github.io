@@ -1,11 +1,14 @@
 ---
-lang: de 
-ref: cfp7
 title: DENOG 7 - CALL FOR PARTICIPATION AND PAPERS
-breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog7">DENOG7</a>]
+lang: de
+ref: cfp7
+breadcrumbs:
+- <a href="/archiv.html">Archiv</a>
+- <a href="/archiv/denog7">DENOG7</a>
 meeting: DENOG7
 layout: conference
 ---
+
 The seventh meeting of the German Network Operators Group (DENOG) will be held in Darmstadt, Germany on the 29th and 30th of October 2015. We are pleased to hereby invite applications for presentations or lightning talks to be held at this event.
 
 ## General Information

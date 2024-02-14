@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Agenda
 layout: conference
 lang: de
-title: DENOG14 - Agenda
 year: 2022
 city: Hamburg
 meeting: DENOG14

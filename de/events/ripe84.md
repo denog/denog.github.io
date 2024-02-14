@@ -1,14 +1,15 @@
 ---
+title: RIPE 84 Pre-Social
+date: 2022-05-15 00:00:00 Z
 layout: page
 lang: de
-title: RIPE 84 Pre-Social
 year: 2022
 city: Berlin
-date: 2022-05-15
 meeting: RIPE 84 Pre-Social
 meeting_type: other
 home: true
-breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+breadcrumbs:
+- <a href="../archiv.html">Archiv</a>
 ---
 
 # RIPE 84 Pre-Social

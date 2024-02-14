@@ -3,6 +3,7 @@ lang: de
 ref: index
 redirect_from: "/"
 ---
+
 <div id="mainpage">
     <div class="pagecontentblock">
         <div class="mainpagebox mainpageboxlarge">

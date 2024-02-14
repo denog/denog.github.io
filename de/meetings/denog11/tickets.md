@@ -1,11 +1,12 @@
 ---
+title: DENOG11 - Tickets
 layout: conference
 lang: de
-title: DENOG11 - Tickets
 year: 2019
 city: Hamburg
 meeting: DENOG11
 ---
+
 <br>
 <br>
 <br>

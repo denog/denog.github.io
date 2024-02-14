@@ -1,9 +1,10 @@
 ---
+title: RIPE 84 Pre-Social
 layout: page
 lang: de
-title: RIPE 84 Pre-Social
 year: 2022
-breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+breadcrumbs:
+- <a href="../archiv.html">Archiv</a>
 ---
 
 # RIPE 84 Pre-Social

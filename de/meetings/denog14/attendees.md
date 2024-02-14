@@ -1,13 +1,14 @@
 ---
+title: DENOG14 - Attendees
 layout: conference
 lang: de
-title: DENOG14 - Attendees
 year: 2022
 city: Hamburg
 meeting: DENOG14
 ref: chatterliste_iframe
 order: 26
 ---
+
 <iframe src="https://www.denog.de/pretix-attendeelist/denog14/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG13 Attendees">
   <!-- Textalternativen werden nicht unterstützt -->
 </iframe>

@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Venue & getting there
 layout: conference
 lang: de
-title: DENOG15 - Venue & getting there
 year: 2023
 city: Berlin
 meeting: DENOG15

@@ -1,11 +1,14 @@
 ---
-lang: de 
-ref: agenda7
 title: DENOG7 - AGENDA
-breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog7">DENOG7</a>]
+lang: de
+ref: agenda7
+breadcrumbs:
+- <a href="/archiv.html">Archiv</a>
+- <a href="/archiv/denog7">DENOG7</a>
 meeting: DENOG7
 layout: conference
 ---
+
 The slides for all presentations will be produced in English. The spoken language of the presentation itself can be either German or English at the discretion of the presenter. However we expect the majority of the presentations to be held in German.
 
 ## Day 1 - 29.10.2015

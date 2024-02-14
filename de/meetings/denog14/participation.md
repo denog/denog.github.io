@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - How to participate
 layout: conference
 lang: de
-title: DENOG14 - How to participate
 year: 2022
 city: Hamburg
 meeting: DENOG14

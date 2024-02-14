@@ -1,12 +1,13 @@
 ---
+title: DENOG13 - Workshop Registration
 layout: conference
 lang: de
-title: DENOG13 - Workshop Registration 
 year: 2021
 city: virtual
 meeting: DENOG13
 hide: true
 ---
+
 <br/>
 <br/>
 <pretix-widget event="https://pretix.eu/denog/denog13-workshops/"></pretix-widget>

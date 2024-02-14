@@ -1,10 +1,12 @@
 ---
+title: DENOG Meetups
 layout: page
 lang: de
-title: DENOG Meetups
 year: 2023
-breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+breadcrumbs:
+- <a href="../archiv.html">Archiv</a>
 ---
+
 {% include text-expand.html %}
 
 # DENOG Meetups {{page.year}}

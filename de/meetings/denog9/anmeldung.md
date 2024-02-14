@@ -1,10 +1,11 @@
 ---
 title: DENOG 9 - ANMELDUNG
-lang: de 
+lang: de
 ref: anmeldung
 meeting: DENOG9
 layout: conference
 ---
+
 <h1>DENOG 9 Meeting - Anmeldung</h1>
 
 <p>

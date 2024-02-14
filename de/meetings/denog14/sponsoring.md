@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Sponsoring
 layout: conference
 lang: de
-title: DENOG14 - Sponsoring
 year: 2022
 city: Hamburg
 meeting: DENOG14

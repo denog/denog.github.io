@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Accommodations
 layout: conference
 lang: de
-title: DENOG14 - Accommodations
 year: 2022
 city: Hamburg
 meeting: DENOG14

@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - COVID19 Information
 layout: conference
 lang: de
-title: DENOG14 - COVID19 Information
 year: 2022
 city: Hamburg
 meeting: DENOG14

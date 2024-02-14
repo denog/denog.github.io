@@ -1,15 +1,17 @@
 ---
+title: DENOG9
+date: 2017-11-23 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG9
 year: 2017
-date: 2017-11-23
 city: Darmstadt
-breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+breadcrumbs:
+- <a href="../archiv.html">Archiv</a>
 home: true
 meeting: DENOG9
 meeting_type: conference
 ---
+
 ![](/images/meeting-9.jpg){:class="img-responsive"}
 
 ## Live Stream

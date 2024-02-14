@@ -1,7 +1,7 @@
 ---
+title: DENOG CHARTA
 lang: de
 ref: charta
-title: DENOG CHARTA
 ---
 
 # Charta & Ziele

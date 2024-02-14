@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Agenda
 layout: conference
 lang: de
-title: DENOG15 - Agenda
 year: 2023
 city: Berlin
 meeting: DENOG15

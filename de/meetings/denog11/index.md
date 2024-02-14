@@ -1,9 +1,9 @@
 ---
+title: DENOG11 - Übersicht
+date: 2019-11-10 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG11 - Übersicht
 year: 2019
-date: 2019-11-10
 city: Hamburg
 home: true
 meeting: DENOG11

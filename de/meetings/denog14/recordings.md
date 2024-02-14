@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Recordings & Slides
 layout: conference
 lang: de
-title: DENOG14 - Recordings & Slides
 year: 2022
 city: Hamburg
 meeting: DENOG14

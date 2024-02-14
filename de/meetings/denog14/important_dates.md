@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Important Dates
 layout: conference
 lang: de
-title: DENOG14 - Important Dates
 year: 2022
 city: Hamburg
 meeting: DENOG14

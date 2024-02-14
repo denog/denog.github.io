@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Accommodations
 layout: conference
 lang: de
-title: DENOG15 - Accommodations
 year: 2023
 city: Berlin
 meeting: DENOG15

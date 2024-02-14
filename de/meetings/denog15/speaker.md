@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Speaker Information
 layout: conference
 lang: de
-title: DENOG15 - Speaker Information
 year: 2023
 city: Berlin
 meeting: DENOG15

@@ -1,11 +1,14 @@
 ---
-lang: de 
-ref: agenda3
 title: DENOG3 - AGENDA
-breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog3">DENOG3</a>]
+lang: de
+ref: agenda3
+breadcrumbs:
+- <a href="/archiv.html">Archiv</a>
+- <a href="/archiv/denog3">DENOG3</a>
 meeting: DENOG3
 layout: conference
 ---
+
 The slides for all presentations will be produced in English. The spoken language of the presentation itself can be either German or English at the discretion of the presenter. However we expect the majority of the presentations to be held in German.
 
 <table class="table">

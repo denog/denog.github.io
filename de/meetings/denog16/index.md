@@ -1,9 +1,9 @@
 ---
+title: DENOG16 - Start
+date: 2024-11-17 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG16 - Start
 year: 2024
-date: 2024-11-17
 city: Berlin
 home: true
 meeting: DENOG16

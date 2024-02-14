@@ -1,12 +1,11 @@
 ---
+title: DENOG12 - Recordings
 layout: conference
 lang: de
-title: DENOG12 - Recordings
 year: 2020
 city: virtual
 meeting: DENOG12
 ---
-
 
 ## Monday, November 9th
 

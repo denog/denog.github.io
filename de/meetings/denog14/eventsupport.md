@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Event Support
 layout: conference
 lang: de
-title: DENOG14 - Event Support
 year: 2022
 city: Hamburg
 meeting: DENOG14

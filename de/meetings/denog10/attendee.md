@@ -1,7 +1,7 @@
 ---
+title: DENOG10 - Attendee List
 layout: conference
 lang: de
-title: DENOG10 - Attendee List
 year: 2018
 city: Darmstadt
 meeting: DENOG10

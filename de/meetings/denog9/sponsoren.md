@@ -1,10 +1,11 @@
 ---
+title: Sponsoren
 lang: de
 ref: sponsoren
-title: Sponsoren
 meeting: DENOG9
 layout: conference
 ---
+
 ## Host
 
 ![DE-CIX]({{ site.url }}/images/hosts/decix.png)

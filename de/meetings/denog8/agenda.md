@@ -1,10 +1,11 @@
 ---
-lang: de 
-ref: agenda8
 title: DENOG8 - AGENDA
+lang: de
+ref: agenda8
 meeting: DENOG8
 layout: conference
 ---
+
 Die Folien aller Vorträge werden in englischer Sprache vorliegen. Alle Vorträge werden ebenfalls in englisch gehalten.
 
 ### Tag 1 - 23.11.2016 

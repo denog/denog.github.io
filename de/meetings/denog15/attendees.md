@@ -1,13 +1,14 @@
 ---
+title: DENOG15 - Attendees
 layout: conference
 lang: de
-title: DENOG15 - Attendees
 year: 2023
 city: Berlin
 meeting: DENOG15
 ref: chatterliste_iframe
 order: 26
 ---
+
 <iframe src="https://www.denog.de/pretix-attendeelist/denog15/" width="100%" height="768" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" name="Attendeelist" title="DENOG15 Attendees">
   <!-- Textalternativen werden nicht unterstützt -->
 </iframe>

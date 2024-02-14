@@ -1,11 +1,14 @@
 ---
-lang: de 
-ref: agenda1
 title: DENOG1 - AGENDA
-breadcrumbs: [<a href="/archiv.html">Archiv</a>, <a href="/archiv/denog1">DENOG1</a>]
+lang: de
+ref: agenda1
+breadcrumbs:
+- <a href="/archiv.html">Archiv</a>
+- <a href="/archiv/denog1">DENOG1</a>
 meeting: DENOG1
 layout: conference
 ---
+
 <table class="table">
 <tbody><tr><th>Start</th><th>Ende</th><th>Titel</th><th>Autor</th><th>Folien</th></tr>
 <tr><td>10:00</td><td>12:00</td><td colspan="3"><b><a name="track1">Track #1: Internet, Politik und Regulierung</a></b></td></tr>

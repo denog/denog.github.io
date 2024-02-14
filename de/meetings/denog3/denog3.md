@@ -1,15 +1,17 @@
 ---
+title: DENOG3
+date: 2011-10-20 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG3
 year: 2011
-date: 2011-10-20
 city: Frankfurt
-breadcrumbs: [<a href="../archiv.html">Archiv</a>]
+breadcrumbs:
+- <a href="../archiv.html">Archiv</a>
 home: true
 meeting: DENOG3
 meeting_type: conference
 ---
+
 ![DENOG3]({{ site.url }}/images/meeting-3.jpg){:class="img-responsive"}
 
 ## 2011-10-24 Slides available

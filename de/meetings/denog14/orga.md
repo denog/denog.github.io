@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Orga Team & PC
 layout: conference
 lang: de
-title: DENOG14 - Orga Team & PC
 year: 2022
 city: Hamburg
 meeting: DENOG14

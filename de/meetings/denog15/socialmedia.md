@@ -1,12 +1,13 @@
 ---
+title: DENOG15 - Social Media
 layout: conference
 lang: de
-title: DENOG15 - Social Media
 year: 2023
 city: Berlin
 meeting: DENOG15
 order: 27
 ---
+
 <br /> 
 <br /> 
 

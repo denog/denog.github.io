@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Speaker Information
 layout: conference
 lang: de
-title: DENOG14 - Speaker Information
 year: 2022
 city: Hamburg
 meeting: DENOG14

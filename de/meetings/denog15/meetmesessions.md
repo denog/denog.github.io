@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Meet Me Sessions
 layout: conference
 lang: de
-title: DENOG15 - Meet Me Sessions
 year: 2023
 city: Berlin
 meeting: DENOG15

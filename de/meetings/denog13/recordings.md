@@ -1,7 +1,7 @@
 ---
+title: DENOG13 - Recordings
 layout: conference
 lang: de
-title: DENOG13 - Recordings
 year: 2021
 city: virtual
 meeting: DENOG13

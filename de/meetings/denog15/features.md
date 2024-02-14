@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Features
 layout: conference
 lang: de
-title: DENOG15 - Features
 year: 2023
 city: Berlin
 meeting: DENOG15

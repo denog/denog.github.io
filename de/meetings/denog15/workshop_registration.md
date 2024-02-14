@@ -1,12 +1,13 @@
 ---
+title: DENOG15 - Workshop Registration
 layout: conference
 lang: de
-title: DENOG15 - Workshop Registration
 year: 2023
 city: Berlin
 meeting: DENOG15
 order: 24
 ---
+
 <br>
 <br>
 <br>

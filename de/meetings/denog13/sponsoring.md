@@ -1,11 +1,12 @@
 ---
+title: DENOG13 - Sponsoring
 layout: conference
 lang: de
-title: DENOG13 - Sponsoring
 year: 2021
 city: virtual
 meeting: DENOG13
 ---
+
 # Sponsoring
 
 <br>

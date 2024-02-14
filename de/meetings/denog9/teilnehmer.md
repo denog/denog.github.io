@@ -1,10 +1,11 @@
 ---
+title: DENOG9 - ATTENDEE LIST
 lang: de
 ref: teilnehmer
-title: DENOG9 - ATTENDEE LIST
 meeting: DENOG9
 layout: conference
 ---
+
 <h1>Teilnehmer DENOG9</h1>
 <table class="table table-hover table-striped">
     <tr><td>1&1 Internet SE # Roman Meyer</td></tr>

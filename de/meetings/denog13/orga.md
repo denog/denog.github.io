@@ -1,12 +1,11 @@
 ---
+title: DENOG13 - Orga Team
 layout: conference
 lang: de
-title: DENOG13 - Orga Team
 year: 2021
 city: virtual
 meeting: DENOG13
 ---
-
 
 ## Orga Team
 Get in touch: event @ denog.de

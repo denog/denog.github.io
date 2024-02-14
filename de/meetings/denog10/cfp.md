@@ -1,7 +1,7 @@
 ---
+title: DENOG10 - Call for Papers
 layout: conference
 lang: de
-title: DENOG10 - Call for Papers
 year: 2018
 city: Darmstadt
 meeting: DENOG10

@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Remote Venue
 layout: conference
 lang: de
-title: DENOG14 - Remote Venue
 year: 2022
 city: Hamburg
 meeting: DENOG14

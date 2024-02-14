@@ -1,9 +1,9 @@
 ---
+title: DENOG14 - Start
+date: 2022-11-13 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG14 - Start
 year: 2022
-date: 2022-11-13
 city: Hamburg
 home: true
 meeting: DENOG14

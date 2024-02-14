@@ -1,7 +1,7 @@
 ---
+title: Community Blog
 lang: de
 ref: community_blog
-title: Community Blog
 ---
 
 # Community Blog

@@ -1,7 +1,7 @@
 ---
+title: DENOG12 - Workshops
 layout: conference
 lang: de
-title: DENOG12 - Workshops
 year: 2020
 city: virtual
 meeting: DENOG12

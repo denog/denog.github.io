@@ -1,7 +1,7 @@
 ---
+title: DENOG14 2022 - Hamburg - Recap
 layout: page
 lang: de
-title: DENOG14 2022 - Hamburg - Recap
 year: 2022
 ---
 

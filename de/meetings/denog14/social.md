@@ -1,7 +1,7 @@
 ---
+title: DENOG14 - Social Events
 layout: conference
 lang: de
-title: DENOG14 - Social Events
 year: 2022
 city: Hamburg
 meeting: DENOG14

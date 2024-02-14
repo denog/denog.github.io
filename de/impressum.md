@@ -1,8 +1,9 @@
 ---
+title: Impressum
 lang: de
 ref: impressum
-title: Impressum
 ---
+
 <h2>Impressum</h2>
 <p>DENOG e.V.<br />
 p. Adr. Patrick Bussmann<br />

@@ -1,7 +1,7 @@
 ---
+title: DENOG11 - Call for Papers
 layout: conference
 lang: de
-title: DENOG11 - Call for Papers
 year: 2019
 city: Hamburg
 meeting: DENOG11

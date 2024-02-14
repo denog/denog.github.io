@@ -1,7 +1,7 @@
 ---
+title: DENOG15 - Sponsoring
 layout: conference
 lang: de
-title: DENOG15 - Sponsoring
 year: 2023
 city: Berlin
 meeting: DENOG15

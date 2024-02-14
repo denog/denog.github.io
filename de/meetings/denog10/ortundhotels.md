@@ -1,8 +1,8 @@
 ---
+title: DENOG10 - VERANSTALTUNGSORT & HOTELS
 layout: conference
 lang: de
 ref: denog10-ortundhotels
-title: DENOG10 - VERANSTALTUNGSORT & HOTELS
 meeting: DENOG10
 ---
 

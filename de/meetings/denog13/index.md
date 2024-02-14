@@ -1,9 +1,9 @@
 ---
+title: DENOG13 - About
+date: 2021-11-07 00:00:00 Z
 layout: conference
 lang: de
-title: DENOG13 - About
 year: 2021
-date: 2021-11-07
 city: virtual
 home: true
 meeting: DENOG13
