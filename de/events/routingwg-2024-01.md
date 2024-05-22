@@ -1,6 +1,6 @@
 ---
 title: DENOG Routing WG 2024-01
-date: 2024-02-07 00:00:00 Z
+date: 2024-02-07
 layout: page
 lang: de
 year: 2024

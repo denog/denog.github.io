@@ -1,6 +1,6 @@
 ---
 title: DENOG13 - About
-date: 2021-11-07 00:00:00 Z
+date: 2021-11-07
 layout: conference
 lang: de
 year: 2021

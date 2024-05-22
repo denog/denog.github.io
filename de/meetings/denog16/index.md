@@ -1,6 +1,6 @@
 ---
 title: DENOG16 - Start
-date: 2024-11-17 00:00:00 Z
+date: 2024-11-17
 layout: conference
 lang: de
 year: 2024

@@ -1,6 +1,6 @@
 ---
 title: DENOG11 - Übersicht
-date: 2019-11-10 00:00:00 Z
+date: 2019-11-10
 layout: conference
 lang: de
 year: 2019

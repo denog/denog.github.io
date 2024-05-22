@@ -1,6 +1,6 @@
 ---
 title: DENOG15 - Start
-date: 2023-11-19 00:00:00 Z
+date: 2023-11-19
 layout: conference
 lang: de
 year: 2023

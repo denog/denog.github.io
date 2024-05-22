@@ -1,6 +1,6 @@
 ---
 title: DENOG12 - About
-date: 2020-11-08 00:00:00 Z
+date: 2020-11-08
 layout: conference
 lang: de
 year: 2020

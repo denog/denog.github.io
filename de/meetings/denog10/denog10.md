@@ -1,6 +1,6 @@
 ---
 title: DENOG10
-date: 2018-11-21 00:00:00 Z
+date: 2018-11-21
 layout: conference
 lang: de
 year: 2018

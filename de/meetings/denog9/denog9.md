@@ -1,6 +1,6 @@
 ---
 title: DENOG9
-date: 2017-11-23 00:00:00 Z
+date: 2017-11-23
 layout: conference
 lang: de
 year: 2017

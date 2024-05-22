@@ -1,6 +1,6 @@
 ---
 title: DENOG7
-date: 2015-10-29 00:00:00 Z
+date: 2015-10-29
 layout: conference
 lang: de
 year: 2015

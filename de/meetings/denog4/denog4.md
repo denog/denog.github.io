@@ -1,6 +1,6 @@
 ---
 title: DENOG4
-date: 2012-11-15 00:00:00 Z
+date: 2012-11-15
 layout: conference
 lang: de
 year: 2012
