@@ -1,6 +1,6 @@
 ---
 title: DENOG1
-date: 2009-11-05 00:00:00 Z
+date: 2009-11-05
 layout: conference
 year: 2009
 city: Frankfurt

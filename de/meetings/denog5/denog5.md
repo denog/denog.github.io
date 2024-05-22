@@ -1,6 +1,6 @@
 ---
 title: DENOG5
-date: 2013-11-14 00:00:00 Z
+date: 2013-11-14
 layout: conference
 lang: de
 year: 2013

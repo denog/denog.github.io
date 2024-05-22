@@ -1,6 +1,6 @@
 ---
 title: DENOG Leadership-Meetup 2022-01
-date: 2022-03-08 00:00:00 Z
+date: 2022-03-08
 layout: page
 lang: de
 year: 2022

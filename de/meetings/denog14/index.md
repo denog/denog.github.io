@@ -1,6 +1,6 @@
 ---
 title: DENOG14 - Start
-date: 2022-11-13 00:00:00 Z
+date: 2022-11-13
 layout: conference
 lang: de
 year: 2022

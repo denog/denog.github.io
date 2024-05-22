@@ -1,6 +1,6 @@
 ---
 title: DENOG8
-date: 2016-11-23 00:00:00 Z
+date: 2016-11-23
 layout: conference
 lang: de
 year: 2016

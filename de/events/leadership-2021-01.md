@@ -1,6 +1,6 @@
 ---
 title: DENOG Leadership-Meetup 2021-01
-date: 2021-03-24 00:00:00 Z
+date: 2021-03-24
 layout: page
 lang: de
 year: 2021

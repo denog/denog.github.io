@@ -1,6 +1,6 @@
 ---
 title: DENOG6
-date: 2014-11-20 00:00:00 Z
+date: 2014-11-20
 layout: conference
 lang: de
 year: 2014

@@ -1,6 +1,6 @@
 ---
 title: DENOG e.V. feiert 5 jähriges Jubiläum
-date: 2022-11-24 00:00:00 Z
+date: 2022-11-24
 lang: de
 layout: post
 author: Patrick Bussmann

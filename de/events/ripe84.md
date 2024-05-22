@@ -1,6 +1,6 @@
 ---
 title: RIPE 84 Pre-Social
-date: 2022-05-15 00:00:00 Z
+date: 2022-05-15
 layout: page
 lang: de
 year: 2022
