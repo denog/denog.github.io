@@ -6,8 +6,8 @@ ref: impressum
 
 <h2>Impressum</h2>
 <p>DENOG e.V.<br />
-p. Adr. Patrick Bussmann<br />
-Schlesierstr. 14<br />85368 Moosburg a.d.Isar</p>
+Schlesierstr. 14<br />
+85368 Moosburg a.d.Isar</p>
 <p>Telefon: -<br />
 E-Mail: <a href="mailto:vorstand@denog.de">vorstand@denog.de</a><br />
 </p>
@@ -80,7 +80,6 @@ Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den vorg
 <p>Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:</p>
 
 <p>DENOG e.V.<br />
-p. Adr. Patrick Bussmann<br />
 Schlesierstrasse 14<br />
 85368 Moosburg a.d. Isar<br />
 Deutschland<br />
