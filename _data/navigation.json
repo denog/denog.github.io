@@ -36,24 +36,12 @@
 				]
 			},
 			{
-				"url": "meetings/denog15/index.html",
-				"text": "DENOG15",
+				"url": "meetings/denog16/index.html",
+				"text": "DENOG16",
 				"childs": [
 					{
-						"url": "meetings/denog15/index.html",
+						"url": "meetings/denog16/index.html",
 						"text": "About"
-					},
-					{
-						"url": "meetings/denog15/agenda.html",
-						"text": "Agenda"
-					},
-					{
-						"url": "meetings/denog15/important_dates.html",
-						"text": "Important Dates"
-					},
-					{
-						"url": "meetings/denog15/participation.html",
-						"text": "How to participate"
 					}
 				]
 			},
