@@ -44,12 +44,13 @@ Packages are sold on a "first come, first serve" basis.
 
 ## Timeline
 
-| Date (CEST)      |                                                      |
-|------------------|------------------------------------------------------|
+| Date (CEST)       |                                                      |
+|-------------------|------------------------------------------------------|
 | 2024-06-25  19:00 | Sponsoring packages announced                        |
+| 2024-07-04  23:59 | Acceptance period for new sustaining members         |
 | 2024-07-09  10:00 | Presale starts, patron members have exclusive access |
 | 2024-07-16  08:59 | End of exclusive access for patron members           |
-| 2024-07-23  09:00 | Sponsoring packages are generally available         |
+| 2024-07-23  09:00 | Sponsoring packages are generally available          |
 
 <!-- ## Reservations
 
