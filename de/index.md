@@ -30,16 +30,9 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>Meetup 2024-03: <br> 09.04.2024 18.30h</h4>
-                    <p>Registration und CFP für das Meetup in <b>Düsseldorf</b> ist offen</p>
-                    <a href="/de/events/meetup-2024-03.html" class="btn btn-custom-default pull-right">Meetup 2024-03 <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
-
-                <article>
-                    <h4>Meetup 2024-04: <br> 24.04.2024 18.30h</h4>
-                    <p>Registration und CFP für das vierte Meetup 2024 in <b>Darmstadt</b> ist offen</p>
-                    <a href="/de/events/meetup-2024-04.html" class="btn btn-custom-default pull-right">Meetup 2024-04 <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG16 // Sponsoring Packages</h4>
+                    <p>We have published for DENOG16 the Sponsoring Packages and timeline</p>
+                    <a href="/de/meetings/denog16/sponsoring.html" class="btn btn-custom-default pull-right">DENOG16 Sponsoring <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 

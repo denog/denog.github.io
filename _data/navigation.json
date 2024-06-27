@@ -40,6 +40,10 @@
 				"text": "DENOG16",
 				"childs": [
 					{
+						"url": "meetings/denog16/sponsoring.html",
+						"text": "Sponsoring"
+					},
+					{
 						"url": "meetings/denog16/index.html",
 						"text": "About"
 					}
