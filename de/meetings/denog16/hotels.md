@@ -11,14 +11,16 @@ order: 34
 <br>
 <br>
 <br>
-## Conference Hotel & Reservation
+## Special rate at the Conference Hotel
 
-We have reserved a contingent for DENOG16 attendees at a special rate at the Estrel Berlin and are committed to taking these. The special rate can be booked by using <a href="https://reservations.travelclick.com/17417?groupID=4400971">this link</a> (yes, it says DENOG15, but you are booking for DENOG16). If you have trouble using the link, you can email the hotel at reservierung@estrel.com using the code "DENOG15 / DENOG16". The code is valid until October 7th, 2024.
+We have reserved a contingent for DENOG16 attendees at a special rate at the Estrel Berlin and are committed to taking these. The special rate can be <b>booked by using <a href="https://reservations.travelclick.com/17417?groupID=4400971">this link</a></b> (yes, it says DENOG15, but you are booking for DENOG16). If you have trouble using the link, you can email the hotel at reservierung@estrel.com using the code "DENOG15 / DENOG16". The code is valid until October 7th, 2024.
 
 <b>Please double check for the correct rate! Please check the confirmation, you may have to fill out and send back a form.</b>
 
-Standard single room: 138,00€ room/night, incl. breakfast with a value of 25€/person, add. city tax apply (around 5,65€/night)
-Standard double room: 175,00€ room/night, incl. breakfast with a value of 25€/person, add. city tax apply (around 6,25€/night)
+<ul>
+<li>Standard single room: 138,00€ room/night, incl. breakfast with a value of 25€/person, add. city tax apply (around 5,65€/night)</li>
+<li>Standard double room: 175,00€ room/night, incl. breakfast with a value of 25€/person, add. city tax apply (around 6,25€/night)</li>
+</ul>
 
 Please note, that since this year the city tax applies also for business travel. 
 
