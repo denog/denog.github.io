@@ -44,6 +44,10 @@
 						"text": "About"
 					}, 
 					{
+						"url": "meetings/denog16/tickets.html",
+						"text": "Register (Tickets)"
+					}, 
+					{
 						"url": "meetings/denog16/sponsoring.html",
 						"text": "Sponsoring"
 					}
