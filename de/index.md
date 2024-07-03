@@ -30,18 +30,25 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG16: Call for papers open</h4>
+                    <p>We have opened the call for papers!</p><br /><br />
+                    <a href="/de/meetings/denog16/cfp.html" class="btn btn-custom-default pull-right">DENOG16 Call for papers <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>DENOG16: Ticket shop open</h4>
                     <p>We have opened the ticket shop! Member Vouchers and the CFP will come by the end of the week.</p>
                     <a href="/de/meetings/denog16/tickets.html" class="btn btn-custom-default pull-right">DENOG16 Ticket shop <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
-                <article>
+<!--                <article>
                     <h4>DENOG16: Important Dates</h4>
                     <p>See all important Dates for DENOG16.</p><br /><br />
                     <a href="/de/meetings/denog16/important_dates.html" class="btn btn-custom-default pull-right">DENOG16 Important Dates <i class="ion-arrow-right-c"></i></a>
                 <br>
-                </article>
+                </article> -->
 
                 <article>
                     <h4>DENOG16: Sponsoring Packages</h4>
