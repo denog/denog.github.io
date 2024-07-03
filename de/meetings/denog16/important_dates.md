@@ -10,25 +10,26 @@ order: 11
 
 # Important Dates
 
-| --------- | --------- | --------- | 
-| Tuesday   | June 25th | Sponsoring timeline published |
-| Tuesday   | June 25th | Sponsoring packages announced |
-| Monday    | July 02nd | Ticket shop opens |
-| Tuesday   | July 09th | Sponsoring presale starts, patron members have exclusive access |
-| Tuesday   | July 16th | Sponsoring end of patron members exclusive access |
-| Tuesday   | July 23th | Sponsoring packages are generally available |
-| Saturday  | July 27th | Event Orga Offsite |
-| TBD       | TBD       | Start of CFP |
+| --------- | -------------- | --------- | 
+| Tuesday   | June 25th      | Sponsoring timeline published |
+| Tuesday   | June 25th      | Sponsoring packages announced |
+| Wednesday | July 03rd      | Ticket shop opens |
+| Friday    | July 05th      | Start of CFP |
+| Tuesday   | July 09th      | Sponsoring presale starts, patron members have exclusive access |
+| Tuesday   | July 16th      | Sponsoring end of patron members exclusive access |
+| Tuesday   | July 23th      | Sponsoring packages are generally available |
+| Saturday  | July 27th      | Event Orga Offsite |
 | Thursday  | <span style="color:red">August 31st</span> | <span style="color:red">End of early bird ticket sale</span> |
-| TBD       | TBD       | <span style="color:red">End of CFP</span> |
-| TBD       | TBD       | Workshop registration opens |
-| TBD       | TBD       | Publishing of Agenda | 
-| Wednesday | October 23th | End of ticket sale with guaranteed t-shirt and social, last day to pay with bank transfer |
-| Sunday    | November 03th | Last day to pay with SEPA debit | 
-| Sunday    | November 08th | Last day to modify you order (name, ASN, IRC name, etc.) |
-| Sunday    | November 17th | <b>Workshops; Pre-Social</b> |
-| Monday    | November 18th | <b>Conference; Social</b> |
-| Tuesday   | November 19st | <b>Conference</b> |
+| Saturday  | <span style="color:red">August 31st</span> | <span style="color:red">End of CFP</span> |
+|           | TBD            | Publishing of Agenda | 
+|           | TBD            | Workshop registration opens |
+| Wednesday | October 23th   | End of ticket sale with guaranteed t-shirt and social |
+| Saturday  | October 26th   | Last day to pay with bank transfer |
+| Sunday    | November 03th  | Last day to pay with SEPA debit | 
+| Sunday    | November 08th  | Last day to modify you order (name, ASN, IRC name, etc.) |
+| Sunday    | November 17th  | <b>Workshops; Pre-Social</b> |
+| Monday    | November 18th  | <b>Conference; Social</b> |
+| Tuesday   | November 19st  | <b>Conference</b> |
 
 
 # Timetable
