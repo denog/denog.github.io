@@ -52,11 +52,14 @@ Packages are sold on a "first come, first serve" basis.
 | 2024-07-16  08:59 | End of exclusive access for patron members           |
 | 2024-07-23  09:00 | Sponsoring packages are generally available          |
 
-<!-- ## Reservations
+## Reservations
 
-Packages can ordered using the form below or by folowing [**this link**](https://forms.gle/gLd2Sxc3gYMS1aUPA).
+**The form below will become active at 2024-07-09 10:00 CEST**
+Submissions before this deadline will not be considered.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc29Wbo_m4pl3C5f22Dc1sSC7CK3N8Kkc5sAp-bABWfw5fX5g/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe> -->
+Packages can ordered using the form below or by folowing [**this link**](https://forms.gle/wMUBxPfGvviVS4537).
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfm5mukBtev91qtytaivYB_6epqpqQ_t-wvPNY9wLv3NbDoOg/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 
 <br/>
 <br/>
