@@ -11,7 +11,7 @@ order: 17
 ## Press
 
 DENOG e.V. welcomes members of the press to DENOG16 and offers up to two media accreditations per outlet.
-Members of the press are requested to apply for accreditation **not later than 2024-10-31** by email to [event@denog.de](mailto:event@denog.de) with proof of eligibility as described below.
+Members of the press are requested to apply for accreditation **not later than 2024-10-31** by email to [pl@denog.de](mailto:pl@denog.de) with proof of eligibility as described below.
 
 ## Accreditation Criteria
 
