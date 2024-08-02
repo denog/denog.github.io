@@ -26,7 +26,7 @@ order: 0
 <table border="0" width="100%">
 <tr>
  <td width="50%"><b>Program</b></td>
- <td width="50%"><b>Attendee Info</b></td> 
+ <td width="50%"><b>Attendee Info</b></td>
 </tr>
 <tr>
  <td>
@@ -44,6 +44,7 @@ order: 0
   <a href="attendees.html">Attendee list</a><br />
   <a href="socialmedia.html">Social Media</a><br />
   <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
+  < a href="press.html">Press Information</a><br/>
  </td>
 </tr>
 </table>
@@ -59,8 +60,8 @@ order: 0
  <td>
   <a href="venue.html">Venue & getting there</a><br />
 <!--  <a href="features.html">Features (new 2023)</a><br /> -->
-  <a href="hotels.html">Conference Hotel & Reservation</a><br /> 
-<!--  <a href="social.html">Social Events</a><br /> 
+  <a href="hotels.html">Conference Hotel & Reservation</a><br />
+<!--  <a href="social.html">Social Events</a><br />
   <a href="hygiene_concept.html">Hygiene Concept</a><br />
   <a href="eventsupport.html">Event Support on-site</a><br /> -->
  </td>
