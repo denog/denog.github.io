@@ -44,7 +44,7 @@ order: 0
   <a href="attendees.html">Attendee list</a><br />
   <a href="socialmedia.html">Social Media</a><br />
   <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
-  < a href="press.html">Press Information</a><br/>
+  <a href="press.html">Press Information</a><br/>
  </td>
 </tr>
 </table>
