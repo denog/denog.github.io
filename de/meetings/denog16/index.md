@@ -13,7 +13,7 @@ order: 0
 
 <br />
 
-![DENOG16 Banner](/images/meetings/denog16/denog16_banner.png)
+<img src="/images/meetings/denog16/denog16_banner.png" alt="DENOG16 Banner" class="img-fluid">
 <br />
 
 <center>
