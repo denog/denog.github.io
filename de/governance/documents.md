@@ -52,7 +52,7 @@ ref: Documents
 
 
 ## Vereinsordnungen & Öffentliche Dokumente
-- [Satzung (Stand: 24.11.2017) ](/files/verein/20171124-DENOG_Satzung.pdf)
+- [Satzung (Stand: 10.11.2021) ](/files/verein/20211011_DENOGev_Satzung_1-1_FINAL)
 - [Beitragsordnung (Stand: 10.11.2020) ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
 - [Aufnahmeordnung (Stand: 16.10.2018) ](/files/gov/20181015_Version1-0-Aufnahmeordnung-DENOG-e-V.pdf)<br>
 
