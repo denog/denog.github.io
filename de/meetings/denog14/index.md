@@ -21,6 +21,8 @@ order: 0
 ![DENOG14 Banner](/images/meetings/denog14/denog14_banner.png)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g49Du_g__RE" title="DENOG14 2022 - Hamburg - Recap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <table border="0" width="100%">
 <tr>
  <td width="50%"><b>Program</b></td>
