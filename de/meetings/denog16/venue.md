@@ -41,7 +41,7 @@ Bus M41 (direction “Baumschulenstraße”) to “Ziegrastraße”
 
 OR
 
-Any S-Bahn in the east direction to S-Bahn station "Ostkreuz" (S3 / S5 / S7 / S75) or S-Bahn station "Treptower Park" (S9), then the S-Bahn S41 (Ringbahn – clockwise direction) to "Sun Alley" (Estrel)
+Any S-Bahn in the east direction to S-Bahn station "Ostkreuz" (S3 / S5 / S7 / S75) or S-Bahn station "Treptower Park" (S9), then the S-Bahn S41 (Ringbahn – clockwise direction) to "Sonnenallee" (Estrel)
 
 Public transport travel time: approx. 25 minutes
 
@@ -59,7 +59,7 @@ Taxi journey time: approx. 15 minutes
 Taxi fare: approx. 22 euros
 
 <b>From Ostbahnhof</b>
-Any S-Bahn in the east direction to S-Bahn station "Ostkreuz" (S3 / S5 / S7 / S75) or S-Bahn station "Treptower Park" (S9), then the S-Bahn S41 (Ringbahn – clockwise direction) to "Sun Alley" (Estrel)
+Any S-Bahn in the east direction to S-Bahn station "Ostkreuz" (S3 / S5 / S7 / S75) or S-Bahn station "Treptower Park" (S9), then the S-Bahn S41 (Ringbahn – clockwise direction) to "Sonnenallee" (Estrel)
 
 Public transport travel time: approx. 15 minutes
 
@@ -72,7 +72,7 @@ Public transport tickets
 <b>Tickets for public transport</b>
 To travel by public transport you need a single ticket
 
-Tariff zone AB for 3.00 euros (except when traveling from Berlin-Brandenburg Airport BER one Single ticket fare area ABC for 3.80 euros). You can get tickets at the BVG counter, on Machines at the S-Bahn and subway stations or from the bus driver.
+Tariff zone AB for 3.50 euros (except when traveling from Berlin-Brandenburg Airport BER one Single ticket fare area ABC for 4.40 euros). You can get tickets at the BVG counter, on Machines at the S-Bahn and subway stations or from the bus driver.
 
 For arrival with public transport you can use the "Deutschlandticket" (https://deutschlandticket.de/) and the event ticket for the Estrel Hotel (https://www.estrel.com/en/congress/services -> scroll down to "Event Ticket with Deutsche Bahn").
 
