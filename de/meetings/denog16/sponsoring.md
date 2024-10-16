@@ -8,24 +8,18 @@ meeting: DENOG16
 order: 16
 ---
 
-<!-- <br />
+<br />
 <br />
 # Supported by
 Kongressfonds Berlin (Berlin Congress Fund)
 <br />
 
-<img width="300px" src="/images/meetings/denog15/sponsor_berlin.png"/>&nbsp;&nbsp;
-<img width="240px" src="/images/meetings/denog15/sponsor_eu_efre.jpg"/><br />
+<img width="300px" src="/images/meetings/denog15/sponsor_berlin.png"/><br />
 <br />
 <b>DENOG16 meeting is co-funded by the Berlin Congress Fund!</b> <br />
 
-<b>The Berlin Congress Fund is an initiative of the State of Berlin and is financed by the European Regional Development Fund (ERDF) and the state of Berlin</b>.<br />
-
-This event was funded as part of the Union's response to the Covid-19 pandemic.
-
+DENOG16 is co-funded by the Congress Fund for Sustainable Congress of the Senate Department for Economic Affairs. 
 More information about the Berlin Congress Fund <a href="https://convention.visitberlin.de/kongressfonds-berlin">https://convention.visitberlin.de/kongressfonds-berlin</a>
-
-Congress Fund Berlin (Kongressfonds Berlin): The projects are initially supported with funds from REACT-EU of the European Regional Development Fund (ERDF) and subsequently with funds from the State of Berlin to support crisis management in the context of the COVID19 pandemic and its social consequences and to prepare for a green, digital and stable economic recovery. -->
 
 
 # Sponsoring
