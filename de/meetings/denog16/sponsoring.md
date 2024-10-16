@@ -14,7 +14,7 @@ order: 16
 Kongressfonds Berlin (Berlin Congress Fund)
 <br />
 
-<img width="300px" src="/images/meetings/denog15/sponsor_berlin.png"/><br />
+<img width="600px" src="/images/meetings/denog16/berlin-senwienbe-logo-horiz-transp.png"/><br />
 <br />
 <b>DENOG16 meeting is co-funded by the Berlin Congress Fund!</b> <br />
 
