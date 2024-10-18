@@ -34,18 +34,15 @@ order: 11
 
 # Timetable
 
-TBD
-
-<!--
 ## Sunday
 
 <table>
 <tr>
  <th>Time in CET</th>
- <th colspan="2">Sunday, November 19th</th>
+ <th colspan="2">Sunday, November 17th</th>
 </tr>
 <tr>
- <td >10:00</td>
+<td >10:00</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
  <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
@@ -75,7 +72,7 @@ TBD
  <td style="background-color:#ccd9ff">Workshops</td>
 </tr>
 <tr>
- <td>17:00</td>
+ <td>17:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#fff2cc">Info Point close</td>
 </tr>
@@ -97,10 +94,10 @@ TBD
 <table>
 <tr>
  <th>Time in CET</th>
- <th colspan="2">Monday, November 20th</th>
+ <th colspan="2">Monday, November 19th</th>
 </tr>
 <tr>
- <td>09:00</td>
+ <td>08:30</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
  <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
@@ -110,22 +107,22 @@ TBD
  <td style="background-color:#d9f2e6">Welcome Breakfast</td>
 </tr>
 <tr>
- <td>10:00 - 10:30</td>
+ <td>09:30 - 10:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Newcomer Welcome</td>
 </tr>
 <tr>
- <td>10:30 - 11:00</td>
+ <td>10:00 - 10:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Opening Talk</td>
 </tr>
 <tr>
- <td>11:00 - 12:00</td>
+ <td>10:30 - 12:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks</td>
 </tr>
 <tr>
- <td>12:00 - 13:00</td>
+ <td>12:00 - 14:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Lunch</td>
 </tr>
@@ -174,51 +171,55 @@ TBD
  <th colspan="2">Tuesday, November 21st</th>
 </tr>
 <tr>
- <td>08:30</td>
+ <td>08:00</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
  <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
 <tr>
- <td>09:00 - 10:00</td>
+ <td>08:00 - 09:00</td>
+ <td style="background-color:#fff2cc"></td>
+ <td style="background-color:#d9f2e6">Welcome Coffee</td>
+</tr>
+<tr>
+ <td>09:00 - 10:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks</td>
 </tr>
 <tr>
- <td>10:00 - 10:30</td>
+ <td>10:30 - 11:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
- <td>10:30 - 12:00</td>
+ <td>11:00 - 12:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks</td>
 </tr>
 <tr>
- <td>12:10 - 13:00</td>
+ <td>12:30 - 14:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Lunch</td>
 </tr>
 <tr>
- <td>12:10 - 14:00</td>
+ <td>12:30 - 14:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#e6ccff">Meet Me Session</td>
 </tr>
 <tr>
- <td>14:00 - 15:30</td>
+ <td>14:00 - 16:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks & Closing</td>
 </tr>
 <tr>
- <td>15:30 - 17:00</td>
+ <td>16:00 - 18:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#fff2cc">Teardown</td>
 </tr>
 <tr>
- <td>17:00</td>
+ <td>18:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#fff2cc">Location close</td>
 </tr>
 </table>
--->
 
 <br /><br /><br />
