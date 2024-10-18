@@ -29,7 +29,7 @@ order: 11
 | Sunday    | November 08th  | Last day to modify you order (name, ASN, IRC name, etc.) |
 | Sunday    | November 17th  | <b>Workshops; Pre-Social</b> |
 | Monday    | November 18th  | <b>Conference; Social</b> |
-| Tuesday   | November 19st  | <b>Conference</b> |
+| Tuesday   | November 19th  | <b>Conference</b> |
 
 
 # Timetable
