@@ -94,7 +94,7 @@ order: 11
 <table>
 <tr>
  <th>Time in CET</th>
- <th colspan="2">Monday, November 19th</th>
+ <th colspan="2">Monday, November 18th</th>
 </tr>
 <tr>
  <td>08:30</td>
@@ -168,7 +168,7 @@ order: 11
 <table>
 <tr>
  <th>Time in CET</th>
- <th colspan="2">Tuesday, November 21st</th>
+ <th colspan="2">Tuesday, November 19th</th>
 </tr>
 <tr>
  <td>08:00</td>
