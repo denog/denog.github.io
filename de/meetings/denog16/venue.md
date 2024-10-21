@@ -27,7 +27,7 @@ Find in
 
 ## Getting there
 
-Information by Estrell (in German): <a href="https://www.estrel.com/files/downloads/hotel/Estrel_Lage_Anfahrt_2022%20de.pdf">Anfahrtsskizze</a>
+Information by Estrel (in German): <a href="https://www.estrel.com/files/downloads/hotel/Estrel_Lage_Anfahrt_2022%20de.pdf">Anfahrtsskizze</a>
 
 <b>Be aware, you have to use the hotel entrance to get to the ESTREL Congress Center (ECC):</b> <br /><br />
 <img width="500px" src="/images/meetings/denog15/ecc_entrance.png" />
