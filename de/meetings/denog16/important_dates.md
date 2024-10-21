@@ -42,12 +42,12 @@ order: 11
  <th colspan="2">Sunday, November 17th</th>
 </tr>
 <tr>
-<td >10:00</td>
+<td >09:30</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
  <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
 </tr>
 <tr>
- <td>11:00 - 12:30</td>
+ <td>10:00 - 12:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Workshops</td>
 </tr>
@@ -137,7 +137,7 @@ order: 11
  <td style="background-color:#ccd9ff">Talks</td>
 </tr>
 <tr>
- <td>15:45 - 16:30</td>
+ <td>15:40 - 16:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
