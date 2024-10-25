@@ -48,6 +48,10 @@
 						"text": "Register (Tickets)"
 					}, 
 					{
+						"url": "meetings/denog16/workshop_registration.html",
+						"text": "Workshop Registration"
+					}, 
+					{
 						"url": "meetings/denog16/agenda.html",
 						"text": "Agenda"
 					},
