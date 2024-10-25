@@ -42,9 +42,14 @@ order: 11
  <th colspan="2">Sunday, November 17th</th>
 </tr>
 <tr>
-<td >09:30</td>
+<td>09:00</td>
  <td style="background-color:#fff2cc">&nbsp;&nbsp;&nbsp;&nbsp;</td>
  <td width="300px" style="background-color:#fff2cc">Info Point (Registration) & Location open</td>
+</tr>
+<tr>
+ <td>09:30 - 10:00</td>
+ <td style="background-color:#fff2cc"></td>
+ <td style="background-color:#d9f2e6">Welcome Coffee</td>
 </tr>
 <tr>
  <td>10:00 - 12:30</td>
@@ -52,22 +57,22 @@ order: 11
  <td style="background-color:#ccd9ff">Workshops</td>
 </tr>
 <tr>
- <td>12:30 - 13:30</td>
+ <td>12:00 - 13:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Lunch</td>
 </tr>
 <tr>
- <td>13:30 - 15:00</td>
+ <td>13:30 - 16:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Workshops</td>
 </tr>
 <tr>
- <td>15:00 - 15:30</td>
+ <td>16:00 - 16:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
- <td>15:30 - 17:00</td>
+ <td>16:30 - 17:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Workshops</td>
 </tr>
@@ -104,7 +109,7 @@ order: 11
 <tr>
  <td>09:00 - 10:00</td>
  <td style="background-color:#fff2cc"></td>
- <td style="background-color:#d9f2e6">Welcome Breakfast</td>
+ <td style="background-color:#d9f2e6">Welcome Coffee</td>
 </tr>
 <tr>
  <td>09:30 - 10:00</td>
