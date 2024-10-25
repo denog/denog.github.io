@@ -18,18 +18,18 @@ order: 32
 Are you on-site and looking for someone you haven’t met in person before? Then take a look at our attendee wall! After check-in, we’ll offer anyone to take an instant photo and post it on the attendee wall, right next to the Info Desk. This gives everyone an opportunity to see  who is already on site and add a face to the name. If you wish you can directly schedule a "meet me session" and get to know each other!
 
 
-## Meet Me Sessions
-Would you like to introduce yourself or get to know someone? Maybe you've got a short topic to sync-up on? Let me introduce you to the meet me sessions!
+## MeetMe-Sessions
+Would you like to introduce yourself or get to know someone? Maybe you've got a short topic to sync-up on? Let me introduce you to the MeetMe-Sessions!
 
-We blocked two periods during the conference days Monday and Tuesday. These are during the lunch breaks from 12:00 p.m. to 2:00 p.m. (lunch is served at the partially overlapping time from 12:00 p.m. to 1:00 p.m.). During these periods you have 5 slots of each 15 minutes plus a 5 minute break. So enough time to introduce yourself, but probably not for a full conversation or contract negotiation. There are two Meet Me Rooms (MMRs) reserved for the meetings. The tool will randomly give your meeting a table, but you can also choose a custom place, like "at the Barista". 
+We blocked two periods during the conference days Monday and Tuesday. These are during the lunch breaks - this year lunch will be served longer and the same time as the MeetMe-Sessions. During these periods you have some slots of each 15 minutes plus a 5 minute break. So enough time to introduce yourself, but probably not for a full conversation or contract negotiation.
 
-In "Meet" you can set up a profile and indicate if you are not available during time slots. It’s okay to decline a Meet request or not to offer "Meet Me Sessions" at all. For the latter, we’d like to ask you to then unset your availability in "Meet". We hope to give you a good opportunity to get in touch with others!
+In the tool "Meet" you can set up a profile and indicate if you are not available during time slots. It’s okay to decline a Meet request or not to offer "MeetMe-Sessions" at all. For the latter, we’d like to ask you to then unset your availability in "Meet". We hope to give you a good opportunity to get in touch with others!
 
 We will send every on-site participant access to the "Meet" tool in the coming days along with more detailed instructions. 
 
-We’d like to thank our friends at <a href="https://nix.cz">nix.cz</a> warmly for making the "Meet" tool available to us!
+We’d like to thank our friends at <a href="https://nix.cz">nix.cz</a> warmly for making the “Meet” tool available to us!
 
-<b>More information about the "Meet" tool and helpful steps can be found here: <a href="meetmesessions.html">Meet Me Sessions</a>.</b>
+<b>More information about the "Meet" tool and helpful steps can be found here: <a href="meetmesessions.html">MeetMe-Sessions</a>.</b>
 
 
 ## Job Board
