@@ -37,7 +37,7 @@ Follow us on
   <td><a href="https://www.instagram.com/denog_e.v/" title="Instagram" target="_new">instagram.com/denog_e.v/</a></td>
 </tr>
 <tr>
-  <td><a href="https://bsky.app/profile/denog.bsky.social" title="bsky.app" target="_new"><i class="ion-social-bsky" target="_new"></a></td>
+  <td><a href="https://bsky.app/profile/denog.bsky.social" title="bsky.app" target="_new"><i class="ion-social-bsky" target="_new"></i></a></td>
   <td><a href="https://bsky.app/profile/denog.bsky.social" title="bsky.app" target="_new">bsky.app/profile/denog.bsky.social</a></td>
 </tr>
 </table>
