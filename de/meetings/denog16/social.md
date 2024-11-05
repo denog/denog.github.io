@@ -21,14 +21,24 @@ For questions or changes you can contact us at <a href="mailto:event@denog.de">e
 <br />
 
 ## DENOG16 - Monday Official Social @ Deutsches Technik Museum
+![DENOG16 Social @ Deutsches Technik Museum](https://technikmuseum.berlin/assets/Technikmuseum/Bilder/Stiftung/Image/technikmuseum-rosinenbomber-neu-quer.jpg)
+<br />
+
 Monday 18th November 2024 at 19.00h CET - 01.00h CET
 
 We're excited to welcome you at [Deutsches Technik Museum](https://technikmuseum.berlin). 
 
+### Deutsches Technik Museum
 Deutsches Technik Museum (German Museum of Technology) in Berlin-Kreuzberg is one of the world's leading technology museums. It is located on the historic site of the Gleisdreieck transportation hub and the Anhalter freight station. The raisin bomber (the Douglas C47 “Skytrain”), which was hung on the facade of the new building at the topping-out ceremony in 1999, has become an internationally recognized landmark. Covering 28,500 square meters, it offers an exciting journey of discovery through the cultural history of technology. There are fascinating exhibitions on aviation, shipping, rail transport, the world of technical networking and sugar, automobility, film technology, computer history, chemistry and pharmacy and much more.
 
 Since its opening, the museum has continuously expanded its collection and exhibition space. Many new buildings, areas and exhibitions have been opened over the decades.
 Most recently, in 2015, the permanent exhibition “The network. People, cables, data streams” was opened in 2015. With over 500 objects, it provides an insight into the world of technical networking.
+
+## About the foundation
+With the Deutsches Technik Museum and the associated Science Center Spectrum, the Stiftung Deutsches Technikmuseum Berlin operates an outstanding institution for the history of technology in the capital. Together, the museum and the Spectrum attract over 700,000 visitors a year. Under the motto “Simply for you”, the foundation conveys the history of technology and the joy of experimentation in a lively way.
+
+Source: <a href="https://technikmuseum.berlin/ueber-uns/">https://technikmuseum.berlin/ueber-uns/</a>
+
 
 ### Getting there
 A bus transfer will be arranged to and from the location, further details will be published soon.
