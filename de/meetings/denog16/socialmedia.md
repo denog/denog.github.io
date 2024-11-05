@@ -18,7 +18,7 @@ Follow us on
 <table border=0>
 <tr>
  <td><a href="https://www.linkedin.com/company/denog/" title="LinkedIn" target="_new"><i class="ion-social-linkedin" target="_new"></i></a></td>
- <td><a href="https://www.linkedin.com/company/denog/" title="LinkedIn" target="_new">linkedin.com/company/denog/</a></li></td>
+ <td><a href="https://www.linkedin.com/company/denog/" title="LinkedIn" target="_new">linkedin.com/company/denog/</a></td>
 </tr>
 <tr>
   <td><a href="https://twitter.com/DENOGnews" title="Twitter" target="_new"><i class="ion-social-twitter" target="_new"></i></a></td>
@@ -42,6 +42,7 @@ Follow us on
 </tr>
 </table>
 
+<br />
 <b>Hashtag: #DENOG #DENOG16</b>
 
 
