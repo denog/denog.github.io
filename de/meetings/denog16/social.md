@@ -21,7 +21,7 @@ For questions or changes you can contact us at <a href="mailto:event@denog.de">e
 <br />
 
 ## DENOG16 - Monday Official Social @ Deutsches Technik Museum
-![DENOG16 Social @ Deutsches Technik Museum](https://technikmuseum.berlin/assets/Technikmuseum/Bilder/Stiftung/Image/technikmuseum-rosinenbomber-neu-quer.jpg)
+<img width="500px" src="https://technikmuseum.berlin/assets/Technikmuseum/Bilder/Stiftung/Image/technikmuseum-rosinenbomber-neu-quer.jpg" />
 <br />
 
 Monday 18th November 2024 at 19.00h CET - 01.00h CET

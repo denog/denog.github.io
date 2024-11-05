@@ -1,5 +1,5 @@
 ---
-title: DENOG16 - MeetMe\-Sessions
+title: DENOG16 - MeetMe Sessions
 layout: conference
 lang: de
 year: 2024
