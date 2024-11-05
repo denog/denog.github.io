@@ -32,8 +32,8 @@ order: 0
  <td>
   <a href="important_dates.html">Important Dates </a><br />
   <a href="agenda.html">Agenda</a><br />
-<!--  <a href="social.html">Social Event</a><br />
-  <a href="orga.html">Orga Team & PC</a><br /> -->
+  <a href="social.html">Social Event</a><br />
+<!--  <a href="orga.html">Orga Team & PC</a><br /> -->
   <a href="sponsoring.html">Sponsoring</a><br />
 <!--  <a href="speaker.html">Speaker Information</a><br /> -->
  </td>
