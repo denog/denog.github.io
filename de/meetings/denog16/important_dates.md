@@ -72,7 +72,7 @@ order: 11
  <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
- <td>16:30 - 17:00</td>
+ <td>16:30 - 17:30</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Workshops</td>
 </tr>
@@ -95,7 +95,6 @@ order: 11
 
 
 ## Monday
-
 <table>
 <tr>
  <th>Time in CET</th>
@@ -147,17 +146,17 @@ order: 11
  <td style="background-color:#d9f2e6">Coffee Break</td>
 </tr>
 <tr>
- <td>16:30 - 18:00</td>
+ <td>16:30 - 18:10</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks</td>
 </tr>
 <tr>
- <td>18:00</td>
+ <td>18:10</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#fff2cc">Info Point & Location close</td>
 </tr>
 <tr>
- <td>18:00</td>
+ <td>18:10</td>
  <td style="background-color:#d9f2e6"></td>
  <td style="background-color:#d9f2e6">Transfer to Social</td>
 </tr>
@@ -168,8 +167,8 @@ order: 11
 </tr>
 </table>
 
-## Tuesday
 
+## Tuesday
 <table>
 <tr>
  <th>Time in CET</th>
@@ -211,12 +210,12 @@ order: 11
  <td style="background-color:#e6ccff">MeetMe-Sessions</td>
 </tr>
 <tr>
- <td>14:00 - 16:00</td>
+ <td>14:00 - 16:10</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#ccd9ff">Talks & Closing</td>
 </tr>
 <tr>
- <td>16:00 - 18:00</td>
+ <td>16:10 - 18:00</td>
  <td style="background-color:#fff2cc"></td>
  <td style="background-color:#fff2cc">Teardown</td>
 </tr>
