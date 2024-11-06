@@ -26,7 +26,7 @@ If you’re interested in contributing, here’s how to get involved, the roles 
 ## How to sign up 
 <b>Engel System Registration:</b> please register at https://engel.denog.de/register,  we ask you to include your real name, email address and phone number so that we can recognize and reach you
 
-<b>Send availability and role selection:</b> Email <b>nina@denog.de</b> with your chosen volunteer role(s) and the specific times you’re available (please find shifts and roles below) 
+<b>Send availability and role selection:</b> Email <b>engel@denog.de</b> with your chosen volunteer role(s) and the specific times you’re available (please find shifts and roles below) 
 
 
 ## What’s expected
