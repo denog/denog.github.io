@@ -8,7 +8,7 @@ for i in "$GDIR"/*.pdf; do
 done
 
 for i in *.pdf; do 
-  magick convert "$i" "${i}.png"
+  magick convert "$i"[0] "${i}.png"
 done
 
 ( 
