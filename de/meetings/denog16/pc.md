@@ -8,7 +8,25 @@ meeting: DENOG16
 order: 16
 ---
 
-# DENOG Programme Committe 
+# DENOG Programme Committe (PC)
+
+Get in touch: pc @ lists.denog.de
+
+| Name                   | Affiliation                       |
+|------------------------|-----------------------------------|
+| Florian Hibler         | DENOG e.V. / Arista               |
+| Franziska Lichtblau    | SAP SE                            |
+| Kay Rechthien          | Fastly Inc.                       |
+| Moritz Frenzel (Chair) | DENOG e.V. / Zayo Europe          |
+| Richard Hartmann       | Grafana                           |
+| Sebastian Becker       | Deutsche Telekom                  |
+| Stefan Wahl            |                                   |
+| Theo Voss              | inter.link                        |
+| Tim Kleefass           | DENOG e.V. / DE-CIX               |
+| Wolfgang Tremmel       | DE-CIX                            |
+
+
+# PC elections
 
 ## Expectations for PC members
 
@@ -49,7 +67,7 @@ feel comfortable on stage you can also help as a Video Herald - please reach out
 the PC chairs and they will let you know the details.
 
 
-## PC Elections 
+## Execution of the elections 
 
 Everyone has the opportunity to participate in voting for the DENOG PC. Each
 member of DENOG e.V. and each checked-in onsite attendee (excluding sponsors)
@@ -64,21 +82,3 @@ If you are interested in helping to create the great programm for the upcoming
 DENOG events then you can do that by running for a seat on the PC. Please send
 an email with a picture and a short bio to pc@lists.denog.de.  You can run for
 the PC until Monday November 18th 20:00 CET. 
-
-## Current Program Committee
-
-Get in touch: pc @ lists.denog.de
-
-| Name                   | Affiliation                       |
-|------------------------|-----------------------------------|
-| Florian Hibler         | DENOG e.V. / Arista               |
-| Franziska Lichtblau    | SAP SE                            |
-| Kay Rechthien          | Fastly Inc.                       |
-| Moritz Frenzel (Chair) | DENOG e.V. / Zayo Europe          |
-| Richard Hartmann       | Grafana                           |
-| Sebastian Becker       | Deutsche Telekom                  |
-| Stefan Wahl            |                                   |
-| Theo Voss              | inter.link                        |
-| Tim Kleefass           | DENOG e.V. / DE-CIX               |
-| Wolfgang Tremmel       | DE-CIX                            |
-
