@@ -27,20 +27,3 @@ Get in touch: event @ denog.de
 - Ute Wolf
 
 
-## Program Committee
-
-Get in touch: pc @ lists.denog.de
-
-| Name                   | Affiliation                       |
-|------------------------|-----------------------------------|
-| Florian Hibler         | DENOG e.V. / Arista               |
-| Franziska Lichtblau    | SAP SE                            |
-| Kay Rechthien          | Fastly Inc.                       |
-| Moritz Frenzel (Chair) | DENOG e.V. / noscito network GmbH |
-| Richard Hartmann       | Grafana                           |
-| Sebastian Becker       | Deutsche Telekom                  |
-| Stefan Wahl            |                                   |
-| Theo Voss              | inter.link                        |
-| Tim Kleefass           |                                   |
-| Wolfgang Tremmel       | DE-CIX                            |
-
