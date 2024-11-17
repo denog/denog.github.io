@@ -76,6 +76,9 @@ vote per candidate). Voting will open on DENOG Day 2 (Tuesday, November 19th
 9am) and close after the conference on Friday, November 22nd 23:59. The elected
 PC members will be announced on the DENOG list the following week.
 
+We will use the Voting tool OpaVote. You will receive the email from "OpaVote
+Voting Link <noreply@opavote.com>" with the subject "Vote for DENOG PC".
+
 ## Volunteering for the DENOG PC
 
 If you are interested in helping to create the great programm for the upcoming
