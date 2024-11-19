@@ -52,7 +52,7 @@ Short Bio is at <a href="https://www.linkedin.com/in/arnoldnipper/">https://www.
 
 <img height="200px" src="/images/meetings/denog16/pc_nico_von_thadden.jpg" />
 
-TODO
+I'm Nicola von Thadden and also known as nicoduck. I build and run networks for fun and (not only) profit, I have been active at DENOG for many years now and also help with various other events like CCC Congress and multiple camps. 
 
 ### Sebastian Klamt 
 
