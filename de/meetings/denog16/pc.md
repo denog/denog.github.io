@@ -46,7 +46,7 @@ I am interested in continuing my role in the DENOG Program Committee. Since 2019
 
 ### Arnold Nipper 
 
-Short Bio is at https://www.linkedin.com/in/arnoldnipper/. And I want to make DENOG diverse in respect of older and impaired people. 
+Short Bio is at <a href="https://www.linkedin.com/in/arnoldnipper/">https://www.linkedin.com/in/arnoldnipper/</a>. And I want to make DENOG diverse in respect of older and impaired people. 
 
 ### Nico von Thadden
 
