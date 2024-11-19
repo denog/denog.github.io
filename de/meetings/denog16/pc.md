@@ -32,7 +32,7 @@ Get in touch: pc @ lists.denog.de
 
 ### Jan Walzer
 
-<img height"500px" src="/images/meetings/denog16/pc_jan_walzer.png" />
+<img height="500px" src="/images/meetings/denog16/pc_jan_walzer.png" />
 
 With over 15 years of network consulting experience, Jan Walzer has been an active member of the DENOG community since its inaugural conference in 2008.
 In 2011, he led and implemented a project for Worldwide IPv6 Day in the area of frontend servers at 1&1 Internet.
@@ -40,7 +40,7 @@ For the past eight years, he has worked as a Cloud Architect with OpenStack and 
 
 ### Theo Voss
 
-<img height"500px" src="/images/meetings/denog16/pc_theo_voss.jpg" />
+<img height="500px" src="/images/meetings/denog16/pc_theo_voss.jpg" />
 
 I am interested in continuing my role in the DENOG Program Committee. Since 2019, I have been part of the PC and event team, and since 2022, I’ve taken on organizing the DENOG conference socials. I have been active in the Internet Community for over 10 years, co-founding "Community-IX," a non-profit supporting Internet initiatives, and presenting at several industry conferences. As the CEO and Co-Founder of Inter.link, I focus on providing sustainable and innovative connectivity, pushing our community towards unchartered waters. I’d like to keep contributing to DENOG by supporting its events and programs with my experience and dedication to the community.
 
@@ -50,13 +50,13 @@ Short Bio is at https://www.linkedin.com/in/arnoldnipper/. And I want to make DE
 
 ### Nico von Thadden
 
-<img height"500px" src="/images/meetings/denog16/pc_nico_von_thadden.jpg" />
+<img height="500px" src="/images/meetings/denog16/pc_nico_von_thadden.jpg" />
 
 TODO
 
 ### Sebastian Klamt 
 
-<img height"500px" src="/images/meetings/denog16/pc_sebastian_klamt.jpg" />
+<img height="500px" src="/images/meetings/denog16/pc_sebastian_klamt.jpg" />
 
 I'm currently working as a network architect at the GWDG, which is the university computing center for the University of Göttingen and a computing and IT competence center for the Max Planck Society.
 My work consists of planning, operating and automating data center and access networks, a small WAN and other network-related services, covering a wide range of topics.
@@ -65,7 +65,7 @@ Since attending DENOG 11 for the first time in 2019, I have really enjoyed the c
 
 ### Alice Boeddinghaus 
 
-<img height"500px" src="/images/meetings/denog16/pc_alice_boeddinghaus.jpg" />
+<img height="500px" src="/images/meetings/denog16/pc_alice_boeddinghaus.jpg" />
 
 Alice is a Computer Science and Business student studying at the HTW Berlin. She is currently in the
 5th Semester. She has been a part of the Network Community for two years having attended the last 4
