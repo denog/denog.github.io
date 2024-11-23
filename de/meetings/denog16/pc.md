@@ -21,7 +21,7 @@ Get in touch: pc @ lists.denog.de
 | Richard Hartmann               | Grafana                           |
 | Sebastian Becker [Co-Chair]    | Deutsche Telekom                  |
 | Stefan Wahl                    |                                   |
-| Theo Voss                      | inter.link                        |
+| Theo Voss                      | Inter.link                        |
 | Tim Kleefass                   | DENOG e.V. / DE-CIX               |
 | Wolfgang Tremmel               | DE-CIX                            |
 
