@@ -11,19 +11,24 @@ order: 15
 ## Orga Team
 Get in touch: event @ denog.de
 
-- Anita Meyer 
-- Christian Dieckhoff
-- Ember Keske
-- Fiona Weber
-- Janina Faßbender
-- Moritz Frenzel
-- Nina Saidi
-- Patrick Bussmann
-- Sebastian Becker
-- Stefan Funke
-- Susann Böhme
-- Theo Voss
-- Tim Kleefass
-- Ute Wolf
+- Anita Meyer (Event Video)
+- Christian Dieckhoff (Video & Livestream)
+- Klara Grziwok (Video & Livestream)
+- Ember Keske (Video & Livestream)
+- Florian Hibler (Pre-Social)
+- Fiona Weber (Video & Livestream)
+- Giulia Pothika (Social Media / Event Communication)
+- Janina Fassbender (Social Media / Event Communication)
+- Nina Saini (Angel Coordination)
+- Philip Grosser (Stage Hands)
 
+- Sebastian Becker (Angels / Stage Management)
+- Stefan Funke (Stage Hands)
+- Susann Böhme (Infopoint / Jobboard)
+- Theo Voss (Socials)
+- Ute Wolf (Infopoint, T-Shirts, Crew Cloth)
+
+- Moritz Frenzel (Lead / Coordination)
+- Tim Kleefass (Lead / Coordination)
+- Patrick Bussmann (Lead / Coordination)
 
