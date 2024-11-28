@@ -11,7 +11,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-12">
-                             <a href="/de/meetings/denog16/"><img src="{{ site.url }}/images/meetings/denog16/denog16_banner.png" id="mainpagelogo" /></a>
+                             <a href="/de/meetings/denog17/"><img src="{{ site.url }}/images/meetings/denog17/denog17_banner.jpg" id="mainpagelogo" /></a>
                         </div>
                         <div class="col-md-6 col-sm-12">
                         <h2 class="mainpageboxheadline">Unterstütze den DENOG e.V.</h2>
@@ -30,30 +30,16 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>DENOG16: Call for papers open</h4>
-                    <p>We have opened the call for papers!</p><br /><br />
-                    <a href="/de/meetings/denog16/cfp.html" class="btn btn-custom-default pull-right">DENOG16 Call for papers <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG16 is over</h4>
+                    <p>Find us:</p><br /><br />
+                    <a href="https://www.youtube.com/@DENOG" class="btn btn-custom-default pull-right">DENOG@ Youtube <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
                 <article>
-                    <h4>DENOG16: Ticket shop open</h4>
-                    <p>We have opened the ticket shop! Member Vouchers and the CFP will come by the end of the week.</p>
-                    <a href="/de/meetings/denog16/tickets.html" class="btn btn-custom-default pull-right">DENOG16 Ticket shop <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
-
-<!--                <article>
-                    <h4>DENOG16: Important Dates</h4>
-                    <p>See all important Dates for DENOG16.</p><br /><br />
-                    <a href="/de/meetings/denog16/important_dates.html" class="btn btn-custom-default pull-right">DENOG16 Important Dates <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article> -->
-
-                <article>
-                    <h4>DENOG16: Sponsoring Packages</h4>
-                    <p>We have published for DENOG16 the Sponsoring Packages and timeline</p>
-                    <a href="/de/meetings/denog16/sponsoring.html" class="btn btn-custom-default pull-right">DENOG16 Sponsoring <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG16 is over</h4>
+                    <p>Find us:</p><br /><br />
+                    <a href="https://media.ccc.de/b/conferences/denog/denog16" class="btn btn-custom-default pull-right">DENOG@ media.ccc.de <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
