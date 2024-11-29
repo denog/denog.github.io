@@ -6,6 +6,15 @@ ref: Documents
 
 # Dokumente
 
+## Mitgliederversammlung 2024
+- Einladung Mitgliederversammlung 2023: [ [Einladung] ](/files/gov/20241029_DENOG_Mitgliederversammlung2024_Einladung.pdf)
+- Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/Mitgliederversammlung_2024-Slidedeck.pdf)
+<!-- - Protokoll Mitgliederversammlung 2023: [ [Protokoll] ](/files/gov/20241128_Protokoll_Mitgliederversammlung_DENOG_e_V_2024_final.pdf) -->
+- <b>Anhänge</b>
+  - [ Bericht der Kassenprüfer ](/files/gov/Kassenpruefung_DENOG_2023_unterschrieben.pdf)
+<br><br>
+
+
 ## Mitgliederversammlung 2023
 - Einladung Mitgliederversammlung 2023: [ [Einladung] ](/files/gov/20231025_DENOGeV_Einladung_Mitgliederversammlung_2023.pdf)
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/Mitgliederversammlung_2023-Slidedeck.pdf)
