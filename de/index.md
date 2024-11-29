@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>Neuer Vorstand gewählt</h4>
+                    <p>In unserer gestrigen Mitglieder- versammlung wurden drei neue Vorstandsmitglieder gewählt!</p> 
+                    <a href="/de/governance/board.html" class="btn btn-custom-default pull-right">Vorstand <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>DENOG16 is over</h4>
                     <p>Find us:</p><br /><br />
                     <a href="https://www.youtube.com/@DENOG" class="btn btn-custom-default pull-right">DENOG@ Youtube <i class="ion-arrow-right-c"></i></a>
