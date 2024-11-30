@@ -37,16 +37,17 @@ redirect_from: "/"
                 </article>
 
                 <article>
-                    <h4>DENOG16 is over</h4>
-                    <p>Find us:</p><br /><br />
-                    <a href="https://www.youtube.com/@DENOG" class="btn btn-custom-default pull-right">DENOG@ Youtube <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG16 is over :-(</h4>
+                    <p>But you find all the videos online! :-)</p>
+                    <a href="https://media.ccc.de/b/conferences/denog/denog16" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a><br /><br />
+                    <a href="https://www.youtube.com/@DENOG" class="btn btn-custom-default pull-right">Youtube <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
                 <article>
-                    <h4>DENOG16 is over</h4>
-                    <p>Find us:</p><br /><br />
-                    <a href="https://media.ccc.de/b/conferences/denog/denog16" class="btn btn-custom-default pull-right">DENOG@ media.ccc.de <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG@ instagram</h4>
+                    <p>We are pleased that you will follow us at </p><br /><br />
+                    <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
