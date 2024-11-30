@@ -72,3 +72,10 @@ Die HTML-Datei für die Rechte Sponsor-Leiste liegt in `de/meetings/<event>/_inc
     </section>
 </div>
 ```
+
+
+# Hints
+Docu: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+
+Install: https://jekyllrb.com/tutorials/using-jekyll-with-bundler/
+
