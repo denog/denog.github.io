@@ -1,6 +1,6 @@
 ---
 title: DENOG17 - Start
-date: 2024-11-09
+date: 2025-11-09
 layout: conference
 lang: de
 year: 2025
