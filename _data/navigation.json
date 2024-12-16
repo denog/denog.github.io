@@ -36,28 +36,12 @@
 				]
 			},
 			{
-				"url": "meetings/denog16/index.html",
-				"text": "DENOG16",
+				"url": "meetings/denog17/index.html",
+				"text": "DENOG17 - 2025",
 				"childs": [
 					{
-						"url": "meetings/denog16/index.html",
+						"url": "meetings/denog17/index.html",
 						"text": "About"
-					}, 
-					{
-						"url": "meetings/denog16/tickets.html",
-						"text": "Register (Tickets)"
-					}, 
-					{
-						"url": "meetings/denog16/workshop_registration.html",
-						"text": "Workshop Registration"
-					}, 
-					{
-						"url": "meetings/denog16/agenda.html",
-						"text": "Agenda"
-					},
-					{
-						"url": "meetings/denog16/venue.html",
-						"text": "Venue"
 					}
 				]
 			},
@@ -70,12 +54,12 @@
 						"text": "DENOG15 Recap Video"
 					},
 					{
-						"url": "meetings/denog15/index.html",
-						"text": "DENOG15 2023"
+						"url": "meetings/denog16/index.html",
+						"text": "DENOG16 - 2024"
 					},
 					{
-						"url": "events/meetups2024.html",
-						"text": "Meetups 2024"
+						"url": "events/member-days-2025.html",
+						"text": "Member Days 2025"
 					},
 					{
 						"url": "archiv.html",
