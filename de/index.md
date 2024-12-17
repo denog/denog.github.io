@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>Member Days 2025</h4>
+                    <p>Hier treffen sich aktive und interessierte Mitglieder des DENOG e.V. für zwei Tage in Kassel</p>
+                    <a href="/de/events/member-days-2025.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>Neuer Vorstand gewählt</h4>
                     <p>In unserer gestrigen Mitglieder- versammlung wurden drei neue Vorstandsmitglieder gewählt!</p> 
                     <a href="/de/governance/board.html" class="btn btn-custom-default pull-right">Vorstand <i class="ion-arrow-right-c"></i></a>
@@ -44,12 +51,12 @@ redirect_from: "/"
                 <br>
                 </article>
 
-                <article>
+<!--                <article>
                     <h4>DENOG@ instagram</h4>
                     <p>We are pleased that you will follow us at </p><br /><br />
                     <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
                 <br>
-                </article>
+                </article> -->
 
             </div>
 
