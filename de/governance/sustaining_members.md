@@ -39,6 +39,8 @@ ref: Association
 - EXA Infrastructure (seit 05/2024)
 - RETN (seit 07/2024)
 - SysEleven (seit 07/2024)
+- Megaport (seit 07/2024)
+- Rechenzentrum Haßfurt (seit 07/2024)
 
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
