@@ -30,16 +30,16 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>Member Days 2025</h4>
-                    <p>Hier treffen sich aktive und interessierte Mitglieder des DENOG e.V. für zwei Tage in Kassel</p>
-                    <a href="/de/events/member-days-2025.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG Meetup Frankfurt</h4>
+                    <p>Wir freuen uns auf unser erstes Meetup in 2025 bei Xantaro in Frankfurt</p>
+                    <a href="/de/events/meetup-2025-01.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
                 <article>
-                    <h4>Neuer Vorstand gewählt</h4>
-                    <p>In unserer gestrigen Mitglieder- versammlung wurden drei neue Vorstandsmitglieder gewählt!</p> 
-                    <a href="/de/governance/board.html" class="btn btn-custom-default pull-right">Vorstand <i class="ion-arrow-right-c"></i></a>
+                    <h4>Member Days 2025</h4>
+                    <p>Hier treffen sich aktive und interessierte Mitglieder des DENOG e.V. für zwei Tage in Kassel</p>
+                    <a href="/de/events/member-days-2025.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
