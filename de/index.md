@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG Meetup Dortmund</h4>
+                    <p>Wir freuen uns auf unser zweites Meetup in 2025 bei rrbone in Dortmund</p>
+                    <a href="/de/events/meetup-2025-02.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>DENOG Meetup Frankfurt</h4>
                     <p>Wir freuen uns auf unser erstes Meetup in 2025 bei Xantaro in Frankfurt</p>
                     <a href="/de/events/meetup-2025-01.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
@@ -40,14 +47,6 @@ redirect_from: "/"
                     <h4>Member Days 2025</h4>
                     <p>Hier treffen sich aktive und interessierte Mitglieder des DENOG e.V. für zwei Tage in Kassel</p>
                     <a href="/de/events/member-days-2025.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article>
-
-                <article>
-                    <h4>DENOG16 is over :-(</h4>
-                    <p>But you find all the videos online! :-)</p>
-                    <a href="https://media.ccc.de/b/conferences/denog/denog16" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a><br /><br />
-                    <a href="https://www.youtube.com/@DENOG" class="btn btn-custom-default pull-right">Youtube <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
