@@ -64,6 +64,7 @@ ref: Documents
 - [Satzung (Stand: 10.11.2021) ](/files/verein/20211011_DENOGev_Satzung_1-1_FINAL.pdf)
 - [Beitragsordnung (Stand: 10.11.2020) ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
 - [Aufnahmeordnung (Stand: 16.10.2018) ](/files/gov/20181015_Version1-0-Aufnahmeordnung-DENOG-e-V.pdf)<br>
+- [Code of Conduct (Stand: 28.11.2024) ](/files/gov/DENOG_Code_of_Conduct_1.0_-_Final.pdf)<br>
 
 - [Geschäftsordnung des Vorstandes v1.1 (Stand: 19.11.2024) ](/files/gov/20241119 - Version 1.1 Geschäftsordnung für den Vorstand DENOG.pdf)
 - [Guidance DENOG Jahreskonferenzvergabe Version 1.0 (Stand: 10.11.2020) ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf)
