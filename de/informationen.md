@@ -43,7 +43,7 @@ Da der IRC Server manchmal von Spammern belagert wird, setzen wir bei Bedarf das
 Um sich mit anderen DENOG-Aktiven im IRC unterhalten zu können, benötigt man zunächst einen IRC Client. Für Windows-User empfiehlt sich die Nutzung des weit verbreiteten IRC Clients mIRC, Linux/Unix-User verwenden desöfteren die Clients irssi, EPIC oder BitchX, für Benutzer von Mac OS X empfiehlt sich LimeChat oder Colloquy. Quassel (cross-platform) und der (kostenpflichtigen) Web-Service IRCCloud sind ebenfalls beliebt und bieten etwas niedriger Einstiegshürden.
 Nachdem man sich für einen IRC Client entschieden hat, kann man sich zu einem [IRCNet Server](https://www.ircnet.info/servers) verbinden und mittels des Befehls `/join #DENOG` den Channel der DENOG betreten.
 
-Ebenfalls ist der Einstieg via Matrix über eine Bridge möglich. Die Bridge der Universität Utwente kannst du nutzen, indem du den Raum [#_ircnet_#denog:irc.snt.utwente.nl](https://matrix.to/#/#_ircnet_#denog:irc.snt.utwente.nl){:target="_blank"} betrittst.
+Ebenfalls ist der Einstieg via Matrix über eine Bridge möglich. Die Bridge der Universität Utwente kannst du nutzen, indem du den Raum [#_ircnet_#denog:irc.snt.utwente.nl](https://matrix.to/#/#_ircnet_#denog:irc.snt.utwente.nl){:target="_blank"} betrittst. Eingabe mit Passwort: "!join #denog 179".
 
 
 ## Unterstützung durch die Community
