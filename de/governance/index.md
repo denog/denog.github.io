@@ -14,16 +14,16 @@ Um diesem Austausch nicht nur zu ermöglichen, sondern weiter voranzutreiben und
 
 Vorstandsposten werden für zwei Jahre gewählt.
 
-Seit der Mitgliedersammlung am 16.11.2022 setzt sich der Vorstand wie folgt zusammen:
+Seit der Mitgliedersammlung am 28.11.2024 setzt sich der Vorstand wie folgt zusammen:
 
 | Vorstandsposten | Aktuelle Besetzung   | Gewählt     | Wahlperiode                 |
 |-----------------|----------------------|-------------|-----------------------------|
 | 1. Vorstand     | Patrick Bußmann      | 23.11.2023  | Wahl in ungeraden Jahren    |
-| 2. Vorstand     | Moritz Frenzel       | 16.11.2022  | Wahl in geraden Jahren      |
+| 2. Vorstand     | Moritz Frenzel       | 28.11.2024  | Wahl in geraden Jahren      |
 | Kassenwart:in   | Tim Kleefass         | 23.11.2023  | Wahl in ungeraden Jahren    |
 | Beisitzer:in    | Janina Fassbender    | 23.11.2023  | Wahl in ungeraden Jahren    |
-| Beisitzer:in    | Florian Hibler       | 16.11.2022  | Wahl in geraden Jahren      |
-| Beisitzer:in    | Fiona Weber          | 16.11.2022  | Wahl in geraden Jahren      |
+| Beisitzer:in    | Florian Hibler       | 28.11.2024  | Wahl in geraden Jahren      |
+| Beisitzer:in    | Nicol Nógrádi        | 28.11.2024  | Wahl in geraden Jahren      |
 
 <br />
 <a href="board.html" class="btn btn-custom-default">Ehemalige Vorstände <i class="ion-arrow-right-c"></i></a>
