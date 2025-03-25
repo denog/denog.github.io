@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG Meetup Wolfsburg</h4>
+                    <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg</p>
+                    <a href="/de/events/meetup-2025-04.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>DENOG Meetup Berlin</h4>
                     <p>Wir freuen uns auf unser drittes Meetup in 2025 bei IPB in Berlin</p>
                     <a href="/de/events/meetup-2025-03.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
@@ -42,7 +49,7 @@ redirect_from: "/"
                     <a href="/de/events/meetup-2025-02.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
-
+<!--
                 <article>
                     <h4>DENOG Meetup Frankfurt</h4>
                     <p>Wir freuen uns auf unser erstes Meetup in 2025 bei Xantaro in Frankfurt</p>
@@ -50,7 +57,7 @@ redirect_from: "/"
                 <br>
                 </article>
 
-<!--                <article>
+                <article>
                     <h4>Member Days 2025</h4>
                     <p>Hier treffen sich aktive und interessierte Mitglieder des DENOG e.V. für zwei Tage in Kassel</p>
                     <a href="/de/events/member-days-2025.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
