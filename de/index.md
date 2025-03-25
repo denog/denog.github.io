@@ -32,7 +32,7 @@ redirect_from: "/"
                 <article>
                     <h4>DENOG Meetup Wolfsburg</h4>
                     <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg</p>
-                    <a href="/de/events/meetup-2025-03.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                    <a href="/de/events/meetup-2025-04.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
