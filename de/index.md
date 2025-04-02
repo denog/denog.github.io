@@ -31,11 +31,25 @@ redirect_from: "/"
 
                 <article>
                     <h4>DENOG Meetup Wolfsburg</h4>
-                    <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg</p>
+                    <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg am 21.05.</p>
                     <a href="/de/events/meetup-2025-04.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
+                <article>
+                    <h4>Videos der Meetups</h4>
+                    <p>... findest Du im Nachgang auf youtube: </p><br />
+                    <a href="https://youtube.com/denog" class="btn btn-custom-default pull-right">youtube.com/denog <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+
+                <article>
+                    <h4>DENOG@ instagram</h4>
+                    <p>We are pleased that you will follow us at </p><br />
+                    <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+<!--
                 <article>
                     <h4>DENOG Meetup Berlin</h4>
                     <p>Wir freuen uns auf unser drittes Meetup in 2025 bei IPB in Berlin</p>
@@ -49,7 +63,7 @@ redirect_from: "/"
                     <a href="/de/events/meetup-2025-02.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
-<!--
+
                 <article>
                     <h4>DENOG Meetup Frankfurt</h4>
                     <p>Wir freuen uns auf unser erstes Meetup in 2025 bei Xantaro in Frankfurt</p>
@@ -69,7 +83,8 @@ redirect_from: "/"
                     <p>We are pleased that you will follow us at </p><br /><br />
                     <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
                 <br>
-                </article> -->
+                </article> 
+-->
 
             </div>
 
