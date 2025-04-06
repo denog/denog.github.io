@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG17: Important dates</h4>
+                    <p>We have published the timeline with important dates</p>
+                    <a href="/de/meetings/denog17/important_dates.html" class="btn btn-custom-default pull-right">Important Dates <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+
+                <article>
                     <h4>DENOG Meetup Wolfsburg</h4>
                     <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg am 21.05.</p>
                     <a href="/de/events/meetup-2025-04.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
@@ -43,13 +50,14 @@ redirect_from: "/"
                 <br>
                 </article> 
 
+<!--
                 <article>
                     <h4>DENOG@ instagram</h4>
                     <p>We are pleased that you will follow us at </p><br />
                     <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
-<!--
+
                 <article>
                     <h4>DENOG Meetup Berlin</h4>
                     <p>Wir freuen uns auf unser drittes Meetup in 2025 bei IPB in Berlin</p>
