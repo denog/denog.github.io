@@ -10,12 +10,14 @@ order: 11
 
 # Important Dates
 
+We are planning with the following timeline. As with any organisation of a large conference, there may be postponements. 
+
 | --------- | -------------- | --------- | 
 |           | Mid April      | Publish of timelone |
 | Monday    | April 28th     | Ticket shop opens |
 | Monday    | May 5th        | Call for Papers open |
 | Monday    | May 19th       | Sponsoring timeline published |
-| Monday    | June 2nd       | Sponsoring packages announced |
+| Monday    | <span style="color:red">June 2nd</span>       | <span style="color:red">Sponsoring packages announced</span> |
 | Monday    | June 16th      | Acceptance period for new sustaining members for sponsoring |
 | Monday    | June 23rd      | Sponsoring presale starts, patron members have exclusive access |
 | Monday    | June 30th      | Sponsoring end of patron members exclusive access |
@@ -35,6 +37,10 @@ order: 11
 
 
 # Timetable
+
+Our timetable for the conference is not yet finalised. With the realisation last year we assume the following times, which we have written down for your orientation. 
+
+<big style="color: red">Subject to change!</big>
 
 ## Sunday
 
