@@ -12,28 +12,31 @@ order: 11
 
 We are planning with the following timeline. As with any organisation of a large conference, there may be postponements. 
 
+<big style="color: red">Subject to change!</big>
+
+
 | --------- | -------------- | --------- | 
-|           | Mid April      | Publish of timelone |
+|           | Mid April      | Publish of timeline |
 | Monday    | April 28th     | Ticket shop opens |
 | Monday    | May 5th        | Call for Papers open |
-| Monday    | May 19th       | Sponsoring timeline published |
-| Monday    | <span style="color:red">June 2nd</span>       | <span style="color:red">Sponsoring packages announced</span> |
+| Monday    | May 19th       | Final Sponsoring timeline published |
+| <b>Monday</b>    | <b>June 2nd</b>       | <b>Sponsoring packages announced</b> |
 | Monday    | June 16th      | Acceptance period for new sustaining members for sponsoring |
 | Monday    | June 23rd      | Sponsoring presale starts, patron members have exclusive access |
 | Monday    | June 30th      | Sponsoring end of patron members exclusive access |
 | Monday    | June 31st      | Sponsoring packages are generally available |
-| Friday    | <span style="color:red">July 4th</span> | <span style="color:red">End of early bird ticket sale</span> |
+| <b>Friday</b>    | <b>July 4th</b> | <b>End of early bird ticket sale</b> |
 | Monday    | July 7th       | Sponsoring end of reservation periode |
-| Thursday  | <span style="color:red">July 31st</span> | <span style="color:red">End of CFP</span> |
+| <b>Thursday</b>  | <b>July 31st</b> | <b>End of CFP</b> |
 | Monday    | September 15th | Publishing of Agenda | 
 | Monday    | September 15th | Workshop registration opens |
 | Thurdsday | October 9th    | End of ticket sale with guaranteed t-shirt and social |
 | Friday    | October 24th   | Last day to pay with bank transfer |
 | Friday    | October 24th   | Last day to pay with SEPA debit | 
 | Friday    | November 7th   | Last day to modify you order (name, ASN, IRC name, etc.) |
-| Sunday    | November 9th   | <b>Workshops; Pre-Social</b> |
-| Monday    | November 10th  | <b>Conference; Social</b> |
-| Tuesday   | November 11th  | <b>Conference</b> |
+| <b>Sunday</b>    | <b>November 9th</b>   | <b>Workshops; Pre-Social</b> |
+| <b>Monday</b>    | <b>November 10th</b>  | <b>Conference; Social</b> |
+| <b>Tuesday</b>   | <b>November 11th</b>  | <b>Conference</b> |
 
 
 # Timetable
