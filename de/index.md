@@ -30,26 +30,34 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG17: Important dates</h4>
+                    <p>We have published the timeline with important dates for the upcoming DENOG17, November 9th to 11th</p>
+                    <a href="/de/meetings/denog17/important_dates.html" class="btn btn-custom-default pull-right">Important Dates <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+
+                <article>
                     <h4>DENOG Meetup Wolfsburg</h4>
-                    <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg am 21.05.</p>
+                    <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg am 21.05.</p><br />
                     <a href="/de/events/meetup-2025-04.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
                 <article>
                     <h4>Videos der Meetups</h4>
-                    <p>... findest Du im Nachgang auf youtube: </p><br />
+                    <p>... findest Du im Nachgang auf youtube: </p><br /><br />
                     <a href="https://youtube.com/denog" class="btn btn-custom-default pull-right">youtube.com/denog <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
 
+<!--
                 <article>
                     <h4>DENOG@ instagram</h4>
                     <p>We are pleased that you will follow us at </p><br />
                     <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
-<!--
+
                 <article>
                     <h4>DENOG Meetup Berlin</h4>
                     <p>Wir freuen uns auf unser drittes Meetup in 2025 bei IPB in Berlin</p>
