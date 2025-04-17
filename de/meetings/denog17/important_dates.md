@@ -88,7 +88,7 @@ Our timetable for the conference is not yet finalised. With the realisation last
 <table>
 <tr>
  <th>Time in CET</th>
- <th colspan="2">Tuesday, November 10th</th>
+ <th colspan="2">Tuesday, November 11th</th>
 </tr>
 <tr>
  <td>08:00 - 16:00</td>
