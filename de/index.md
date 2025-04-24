@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG Recap Videos</h4>
+                    <p>Here we want to go back in time with you and remember or introduce you to our DENOG conferences: </p>
+                    <a href="/de/events/denog_recap_video.html" class="btn btn-custom-default pull-right">DENOG Recap Videos <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+
+                <article>
                     <h4>DENOG17: Important dates</h4>
                     <p>We have published the timeline with important dates for the upcoming DENOG17, November 9th to 11th</p>
                     <a href="/de/meetings/denog17/important_dates.html" class="btn btn-custom-default pull-right">Important Dates <i class="ion-arrow-right-c"></i></a>
@@ -43,6 +50,7 @@ redirect_from: "/"
                 <br>
                 </article>
 
+<!--
                 <article>
                     <h4>Videos der Meetups</h4>
                     <p>... findest Du im Nachgang auf youtube: </p><br /><br />
@@ -50,7 +58,6 @@ redirect_from: "/"
                 <br>
                 </article> 
 
-<!--
                 <article>
                     <h4>DENOG@ instagram</h4>
                     <p>We are pleased that you will follow us at </p><br />

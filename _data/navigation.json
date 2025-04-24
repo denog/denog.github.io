@@ -54,8 +54,8 @@
 				"text": "Events",
 				"childs": [
 					{
-						"url": "events/denog15_video.html",
-						"text": "DENOG15 Recap Video"
+						"url": "events/denog_recap_video.html",
+						"text": "DENOG Recap Videos"
 					},
 					{
 						"url": "meetings/denog16/index.html",
