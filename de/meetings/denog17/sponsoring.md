@@ -29,11 +29,11 @@ Packages are sold on a "first come, first serve" basis.
 
 | Date (CEST)       |                                                      |
 |-------------------|------------------------------------------------------|
-| 2024-06-02  11:00 | Sponsoring packages announced                        |
-| 2024-06-16  23:59 | Acceptance period for new sustaining members ends    |
-| 2024-06-23  11:00 | Presale starts, patron members have exclusive access |
-| 2024-06-30  10:59 | End of exclusive access for patron members           |
-| 2024-06-31  11:00 | Sponsoring packages are generally available          |
+| 2025-06-02  11:00 | Sponsoring packages announced                        |
+| 2025-06-16  23:59 | Acceptance period for new sustaining members ends    |
+| 2025-06-23  11:00 | Presale starts, patron members have exclusive access |
+| 2025-06-30  10:59 | End of exclusive access for patron members           |
+| 2025-06-31  11:00 | Sponsoring packages are generally available          |
 
 ## Reservations
 
