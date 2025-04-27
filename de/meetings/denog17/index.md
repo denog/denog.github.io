@@ -26,7 +26,7 @@ order: 0
 <table border="0" width="100%">
 <tr>
  <td width="50%"><b>Program</b></td>
-<!-- <td width="50%"><b>Attendee Info</b></td> -->
+ <td width="50%"><b>Attendee Info</b></td> 
 </tr>
 <tr>
  <td>
@@ -37,15 +37,15 @@ order: 0
   <a href="sponsoring.html">Sponsoring</a><br />
   <a href="speaker.html">Speaker Information</a><br />  -->
  </td>
-<!-- <td>
-  <a href="participation.html">How to participate</a><br />
+ <td>
+<!--  <a href="participation.html">How to participate</a><br /> -->
   <a href="tickets.html">Register (Tickets)</a><br />
-  <a href="workshop_registration.html">Workshop Registration</a><br />
+<!--  <a href="workshop_registration.html">Workshop Registration</a><br />
   <a href="attendees.html">Attendee list</a><br />
   <a href="socialmedia.html">Social Media</a><br />
   <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
-  <a href="press.html">Press Information</a><br/> 
- </td> -->
+  <a href="press.html">Press Information</a><br/> -->
+ </td> 
 </tr>
 </table>
 
