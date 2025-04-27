@@ -13,16 +13,16 @@ order: 0
 
 <br />
 
-<img src="{{ site.url }}/images/meetings/denog17/denog17_banner.jpg" alt="DENOG17 Banner" class="img-fluid">
+<img src="{{ site.url }}/images/meetings/denog17/denog17_banner.jpg" alt="DENOG17 Banner" width="400px" class="img-fluid">
 <br />
 
 <center>
-    <h1>DENOG17 will take place from November 09th to November 11th 2025 in Essen!</h1>
+    <h1>DENOG17 will take place from November 09th to 11th 2025 in Essen!</h1>
 </center>
 
 <br />
 
-<b>Overview of conference website:</b><br />
+<!-- <b>Overview of conference website:</b><br /> -->
 <table border="0" width="100%">
 <tr>
  <td width="50%"><b>Program</b></td>
