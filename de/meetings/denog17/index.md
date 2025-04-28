@@ -42,9 +42,10 @@ order: 0
   <a href="tickets.html">Register (Tickets)</a><br />
 <!--  <a href="workshop_registration.html">Workshop Registration</a><br /> -->
   <a href="attendees.html">Attendee list</a><br />
-<!--  <a href="socialmedia.html">Social Media</a><br />
+  <a href="socialmedia.html">Social Media</a><br />
   <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
-  <a href="press.html">Press Information</a><br/> -->
+  <a href="coc.html">&#8599; Code of Conduct</a><br />
+<!--  <a href="press.html">Press Information</a><br/> -->
  </td> 
 </tr>
 </table>
