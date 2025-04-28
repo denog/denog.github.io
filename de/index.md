@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENG17 Ticket Sale open!</h4>
+                    <p>We have opened the ticket sale for DENOG17 in Essen! </p><br />
+                    <a href="/de/meetings/denog17/tickets.html" class="btn btn-custom-default pull-right">Register (Tickets) <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+
+                <article>
                     <h4>DENOG Recap Videos</h4>
                     <p>Here we want to go back in time with you and remember or introduce you to our DENOG conferences: </p>
                     <a href="/de/events/denog_recap_video.html" class="btn btn-custom-default pull-right">DENOG Recap Videos <i class="ion-arrow-right-c"></i></a>
