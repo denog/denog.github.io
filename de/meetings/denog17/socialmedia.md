@@ -11,6 +11,17 @@ order: 27
 <br /> 
 <br /> 
 
+# Spread the word
+<table border=0>
+<tr>
+ <td><img width="250px" src="/images/meetings/denog17/DENOG17_MeetMeInEssen.png" /></td>
+ <td style="vertical-align: top"><br />You are planning to be in Essen and want to share your attendance on social media? <br /><br />
+Spread the word by sharing the picture below and let others know you’ll be there!<br /><br />
+Don't forget to use our hashtags: <b>#DENOG #DENOG17</b></td>
+</tr>
+</table>
+
+
 # Social Media 
 
 Follow us on
@@ -44,4 +55,7 @@ Follow us on
 
 <br />
 <b>Hashtag: #DENOG #DENOG17</b>
+
+
+
 
