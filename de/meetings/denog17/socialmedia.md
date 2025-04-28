@@ -45,7 +45,3 @@ Follow us on
 <br />
 <b>Hashtag: #DENOG #DENOG17</b>
 
-
-# Twitter Timeline von @DENOGnews
-<a class="twitter-timeline" href="https://twitter.com/DENOGnews?ref_src=twsrc%5Etfw">Tweets by DENOGnews</a> (Bitte kurz warten, bis ich geladen habe.) <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
