@@ -24,7 +24,7 @@ We are planning with the following timeline. As with any organisation of a large
 | Monday    | June 16th      | Acceptance period for new sustaining members for sponsoring |
 | Monday    | June 23rd      | Sponsoring presale starts, patron members have exclusive access |
 | Monday    | June 30th      | Sponsoring end of patron members exclusive access |
-| Monday    | June 31st      | Sponsoring packages are generally available |
+| Monday    | June 30th      | Sponsoring packages are generally available |
 | <b>Friday</b>    | <b>July 4th</b> | <b>End of early bird ticket sale</b> |
 | Monday    | July 7th       | Sponsoring end of reservation periode |
 | <b>Thursday</b>  | <b>July 31st</b> | <b>End of CFP</b> |

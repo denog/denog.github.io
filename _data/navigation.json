@@ -50,6 +50,10 @@
 					{
 						"url": "meetings/denog17/tickets.html",
 						"text": "Register (Tickets)"
+					},
+					{
+						"url": "meetings/denog17/sponsoring.html",
+						"text": "Sponsoring"
 					}
 				]
 			},

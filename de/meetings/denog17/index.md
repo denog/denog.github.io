@@ -31,11 +31,11 @@ order: 0
 <tr>
  <td>
   <a href="important_dates.html">Important Dates </a><br />
-<!--  <a href="agenda.html">Agenda</a><br />
+ <!-- <a href="agenda.html">Agenda</a><br />
   <a href="social.html">Social Event</a><br />
-  <a href="orga.html">Orga Team & PC</a><br />
+  <a href="orga.html">Orga Team & PC</a><br /> -->
   <a href="sponsoring.html">Sponsoring</a><br />
-  <a href="speaker.html">Speaker Information</a><br />  -->
+  <!-- <a href="speaker.html">Speaker Information</a><br />  -->
  </td>
  <td>
 <!--  <a href="participation.html">How to participate</a><br /> -->
@@ -59,8 +59,8 @@ order: 0
 <tr>
  <td>
   <a href="venue.html">Venue & getting there</a><br />
-<!--  <a href="features.html">Features</a><br /> 
-  <a href="meetmesessions.html">MeetMe-Sessions</a><br /> 
+<!--  <a href="features.html">Features</a><br />
+  <a href="meetmesessions.html">MeetMe-Sessions</a><br />
   <a href="hotels.html">Conference Hotel & Reservation</a><br />
   <a href="social.html">Social Events</a><br />
   <a href="hygiene_concept.html">Hygiene Concept</a><br />
