@@ -37,7 +37,7 @@ Packages are sold on a "first come, first serve" basis.
 
 ## Reservations
 
-**Reservatiosn will be available at 2025-06-23 11:00 CEST for patron members**
+**Reservations will be available at 2025-06-23 11:00 CEST for patron members**
 
 
 <br/>
