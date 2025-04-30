@@ -31,7 +31,7 @@ redirect_from: "/"
 
                 <article>
                     <h4>DENOG Meetup Düsseldorf</h4>
-                    <p>Wir freuen uns auf unser fünftes Meetup in 2025 bei Sipgate in Düsseldorf am 17.06.</p><br />
+                    <p>Wir freuen uns auf unser fünftes Meetup in 2025 bei sipgate in Düsseldorf am 17.06.</p><br />
                     <a href="/de/events/meetup-2025-05.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
