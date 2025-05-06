@@ -102,8 +102,18 @@ also help with various other events like CCC Congress and multiple camps.
 <table border=0>
 <tr>
 <td>
+<img height="200px" src="/images/meetings/denog17/pc_Sebastian_Becker.jpg" />
 </td>
 <td style="vertical-align:top">
+I joined Deutsche Telekom in January 2002. I worked my way through the 24/7
+shift NOC, last level support and configurations to engineering for AS3320 ip
+backbone. In 2019, after developing configurations and improving our BGP policy
+for AS3320 and taking on the role of Juniper Systems Engineer for our backbone,
+I took the next step and took on a role in product management. And here I am,
+the only Peering Manager for AS3320.
+I've been with DENOG since 2019, mostly behind the scenes, helping to organise
+the conferences and meetings.
+I have also been co-chair of the RIPE Routing Working Group since 2025.
 </td>
 </tr>
 </table>
@@ -163,8 +173,15 @@ network design to DE-CIX.
 <table border=0>
 <tr>
 <td>
+<img height="200px" src="/images/meetings/denog17/pc_wolfgang_tremmel.jpeg" />
 </td>
 <td style="vertical-align:top">
+After completing his degree at Karlsruhe University, Wolfgang started working
+as a network engineer in 1994. He went on to become head of network operations
+and peering manager at a range of ISPs.
+In 2006, Wolfgang joined DE-CIX as Director Customer Support, a position he
+held for ten years. Since 2016, Wolfgang has been head of the DE-CIX Academy,
+making sure customers understand how BGP and other routing protocols work.
 </td>
 </tr>
 </table>
