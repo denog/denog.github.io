@@ -54,8 +54,24 @@ DENOG PC.
 <table border=0>
 <tr>
 <td>
+<img height="200px" src="/images/meetings/denog17/pc_florian_hibler.jpeg" />
 </td>
 <td style="vertical-align:top">
+Florian is a seasoned professional in the internet industry, with over
+two decades of experience spanning technical and leadership roles. He
+currently serves as the Manager of Systems Engineering for Germany,
+Austria, and Switzerland at Arista Networks, a position he has held
+since 2021. Florian joined Arista in 2017, bringing with him a wealth
+of knowledge from his previous 17 years in technical and management
+positions at various service providers and internet exchange points
+(IXPs), where he focused on engineering, architecture, and strategic
+initiatives.
+
+Beyond his corporate responsibilities, Florian has been deeply
+involved in the internet community. He is a engaged with DENOG since
+the very beginning. Further he is an elected founding board member of
+DENOG e.V., where he continues to contribute to the group's mission of
+fostering collaboration and knowledge sharing among network operators.
 </td>
 </tr>
 </table>
