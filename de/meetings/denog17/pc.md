@@ -88,12 +88,17 @@ fostering collaboration and knowledge sharing among network operators.
 </table>
 
 
-### Moritz Frenzel (DENOG e.V. / Zayo Europe)
+### Moritz Frenzel (DENOG e.V. / EdgeOps GmbH)
 <table border=0>
 <tr>
+<img height="200px" src="/images/meetings/denog17/pc_moritz_frenzel.png" />
 <td>
 </td>
 <td style="vertical-align:top">
+Moritz is an experienced manager in the networking industry, currently working as Managing Director of EdgeOps GmbH. He is passionate about the network industry and its drive to connect people and networks, which he supports by day as the driving force behind Stuttgart-IX and as Vice Chairman of DENOG e.V. in his spare time.<br/>
+<br/>
+Moritz has over ten years of industry experience with regional carriers, national data centres, international CDNs and global cloud providers and shares his industry knowledge as a freelance consultant. He is an experience board member serving various communities continously since 2013.<br/>
+In his free time Moritz enjoys to organize conferences, build networks in weird places, 3D printing and cooking.
 </td>
 </tr>
 </table>
@@ -179,7 +184,7 @@ conference and meetup organisation since years. He's part of the PC since 2019
 and since end of 2023 treasurer of the board. Besides being involved into
 Stuttgart-IX, his professional live brought him to BelWü, SWITCH, EXARING
 (waipu.tv), OneFiber Interconnect and since February 2024 as head of global
-network design to DE-CIX. 
+network design to DE-CIX.
 </td>
 </tr>
 </table>
@@ -260,7 +265,7 @@ Voting Link <noreply@opavote.com>" with the subject "Vote for DENOG PC".
 
 If you are interested in helping to create the great programm for the upcoming
 DENOG events then you can do that by running for a seat on the PC. Please send
-an email with a picture and a short bio to pc@lists.denog.de. 
+an email with a picture and a short bio to pc@lists.denog.de.
 
 You can run for the PC until Monday November 18th 20:00 CET.
 
