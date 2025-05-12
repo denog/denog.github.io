@@ -37,7 +37,7 @@ redirect_from: "/"
                 </article>
 
                 <article>
-                    <h4>DENG17 Ticket Sale open!</h4>
+                    <h4>DENOG17 Ticket Sale open!</h4>
                     <p>We have opened the ticket sale for DENOG17 in Essen! </p><br />
                     <a href="/de/meetings/denog17/tickets.html" class="btn btn-custom-default pull-right">Register (Tickets) <i class="ion-arrow-right-c"></i></a>
                 <br>
