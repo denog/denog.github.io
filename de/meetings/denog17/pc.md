@@ -20,7 +20,7 @@ Get in touch: pc @ lists.denog.de
 | Alice Boeddinghaus             | Student                           | 2024       |
 | Florian Hibler                 | DENOG e.V. / Arista               | -          |
 | Franziska Lichtblau [Co-Chair] | SAP SE                            | -          |
-| Moritz Frenzel                 | DENOG e.V. / Zayo Europe          | -          |
+| Moritz Frenzel                 | DENOG e.V. / EdgeOps GmbH         | -          |
 | Nico von Thadden               | PFALZKOM GmbH                     | 2024       |
 | Sebastian Becker [Co-Chair]    | Deutsche Telekom                  | -          |
 | Stefan Wahl                    |                                   | -          |
@@ -91,8 +91,8 @@ fostering collaboration and knowledge sharing among network operators.
 ### Moritz Frenzel (DENOG e.V. / EdgeOps GmbH)
 <table border=0>
 <tr>
-<img height="200px" src="/images/meetings/denog17/pc_moritz_frenzel.png" />
 <td>
+<img height="200px" src="/images/meetings/denog17/pc_moritz_frenzel.png" />
 </td>
 <td style="vertical-align:top">
 Moritz is an experienced manager in the networking industry, currently working as Managing Director of EdgeOps GmbH. He is passionate about the network industry and its drive to connect people and networks, which he supports by day as the driving force behind Stuttgart-IX and as Vice Chairman of DENOG e.V. in his spare time.<br/>
