@@ -17,22 +17,22 @@ Get in touch: pc @ lists.denog.de
 
 | Name                           | Affiliation                       | Elected in |
 |--------------------------------|-----------------------------------|------------|
-| Alice Boeddinghaus             | Student                           | 2024       |
-| Florian Hibler                 | DENOG e.V. / Arista               | -          |
-| Franziska Lichtblau [Co-Chair] | SAP SE                            | -          |
-| Moritz Frenzel                 | DENOG e.V. / EdgeOps GmbH         | -          |
-| Nico von Thadden               | PFALZKOM GmbH                     | 2024       |
-| Sebastian Becker [Co-Chair]    | Deutsche Telekom                  | -          |
-| Stefan Wahl                    |                                   | -          |
-| Theo Voss                      | Inter.link                        | 2024       |
-| Tim Kleefass                   | DENOG e.V. / DE-CIX               | -          |
-| Wolfgang Tremmel               | DE-CIX                            | -          |
+| <a href="#alice">Alice Boeddinghaus</a>             | Student                           | 2024       |
+| <a href="#florian">Florian Hibler</a>                 | DENOG e.V. / Arista               | -          |
+| <a href="#franziska">Franziska Lichtblau [Co-Chair]</a> | SAP SE                            | -          |
+| <a href="#moritz">Moritz Frenzel</a>                 | DENOG e.V. / EdgeOps GmbH         | -          |
+| <a href="#nico">Nico von Thadden</a>               | PFALZKOM GmbH                     | 2024       |
+| <a href="#sebastian">Sebastian Becker [Co-Chair]</a>    | Deutsche Telekom                  | -          |
+| <a href="#stefan">Stefan Wahl</a>                    |                                   | -          |
+| <a href="#theo">Theo Voss</a>                      | Inter.link                        | 2024       |
+| <a href="#tim">Tim Kleefass</a>                   | DENOG e.V. / DE-CIX               | -          |
+| <a href="#wolfgang">Wolfgang Tremmel</a>               | DE-CIX                            | -          |
 
 
 
 ## Biographies
 
-### Alice Boeddinghaus (Student)
+<h3 id="alice">Alice Boeddinghaus (Student)</h3>
 <table border=0>
 <tr>
 <td>
@@ -50,7 +50,7 @@ DENOG PC.
 </table>
 
 
-### Florian Hibler (DENOG e.V. / Arista)
+<h3 id="florian">Florian Hibler (DENOG e.V. / Arista)</h3>
 <table border=0>
 <tr>
 <td>
@@ -77,7 +77,7 @@ fostering collaboration and knowledge sharing among network operators.
 </table>
 
 
-### Franziska Lichtblau [Co-Chair] (SAP SE)
+<h3 id="franziska">Franziska Lichtblau [Co-Chair] (SAP SE)</h3>
 <table border=0>
 <tr>
 <td>
@@ -88,7 +88,7 @@ fostering collaboration and knowledge sharing among network operators.
 </table>
 
 
-### Moritz Frenzel (DENOG e.V. / EdgeOps GmbH)
+<h3 id="moritz">Moritz Frenzel (DENOG e.V. / EdgeOps GmbH)</h3>
 <table border=0>
 <tr>
 <td>
@@ -104,7 +104,7 @@ In his free time Moritz enjoys to organize conferences, build networks in weird 
 </table>
 
 
-### Nico von Thadden (PFALZKOM GmbH)
+<h3 id="nico">Nico von Thadden (PFALZKOM GmbH)</h3>
 <table border=0>
 <tr>
 <td>
@@ -119,7 +119,7 @@ also help with various other events like CCC Congress and multiple camps.
 </table>
 
 
-### Sebastian Becker [Co-Chair] (Deutsche Telekom)
+<h3 id="sebastian">Sebastian Becker [Co-Chair] (Deutsche Telekom)</h3>
 <table border=0>
 <tr>
 <td>
@@ -140,7 +140,7 @@ I have also been co-chair of the RIPE Routing Working Group since 2025.
 </table>
 
 
-### Stefan Wahl
+<h3 id="stefan">Stefan Wahl</h3>
 <table border=0>
 <tr>
 <td>
@@ -151,7 +151,7 @@ I have also been co-chair of the RIPE Routing Working Group since 2025.
 </table>
 
 
-### Theo Voss (Inter.link)
+<h3 id="theo">Theo Voss (Inter.link)</h3>
 <table border=0>
 <tr>
 <td>
@@ -172,7 +172,7 @@ events and programs with my experience and dedication to the community.
 </table>
 
 
-### Tim Kleefass (DENOG e.V. / DE-CIX)
+<h3 id="tim">Tim Kleefass (DENOG e.V. / DE-CIX)</h3>
 <table border=0>
 <tr>
 <td>
@@ -190,7 +190,7 @@ network design to DE-CIX.
 </table>
 
 
-### Wolfgang Tremmel (DE-CIX)
+<h3 id="wolfgang">Wolfgang Tremmel (DE-CIX)</h3>
 <table border=0>
 <tr>
 <td>
