@@ -1,14 +1,14 @@
 ---
-title: DENOG17 - Programme Committe
+title: DENOG17 - Programme Committee
 layout: conference
 lang: de
 year: 2025
-city: Berlin
+city: Essen
 meeting: DENOG17
-order: 16
+order: 17
 ---
 
-# DENOG Programme Committe (PC)
+# DENOG Programme Committee (PC)
 
 
 ## Members
