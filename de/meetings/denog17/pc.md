@@ -68,7 +68,7 @@ positions at various service providers and internet exchange points
 initiatives.
 
 Beyond his corporate responsibilities, Florian has been deeply
-involved in the internet community. He is a engaged with DENOG since
+involved in the internet community. He is engaged with DENOG since
 the very beginning. Further he is an elected founding board member of
 DENOG e.V., where he continues to contribute to the group's mission of
 fostering collaboration and knowledge sharing among network operators.
