@@ -30,6 +30,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG Meetup Stuttgart</h4>
+                    <p>Wir freuen uns auf unser sechtes Meetup in 2025 bei Nokia in Stuttgart am 02.07.</p><br />
+                    <a href="/de/events/meetup-2025-06.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
                     <h4>DENOG17 Call for Papers open!</h4>
                     <p>We have opened the Call for Papers for DENOG17 in Essen! </p><br />
                     <a href="/de/meetings/denog17/cfp.html" class="btn btn-custom-default pull-right">Call for Papers (CFP) <i class="ion-arrow-right-c"></i></a>
