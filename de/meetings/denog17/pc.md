@@ -204,10 +204,11 @@ events and programs with his experience and dedication to the community.
 <td style="vertical-align:top">
 Tim started with DENOG2 conference and is engaged in the DENOG conference and
 meetup organisation since years. He's part of the PC since 2019 and since end
-of 2023 treasurer of the board. Besides being involved into Stuttgart-IX, his
-professional live brought him to BelWü, SWITCH, EXARING (waipu.tv), OneFiber
-Interconnect and since February 2024 as head of global network design to
-DE-CIX.
+of 2023 treasurer of the board.<br /><br />
+
+Besides being involved into Stuttgart-IX, his professional live brought him to
+BelWü, SWITCH, EXARING (waipu.tv), OneFiber Interconnect and since February
+2024 as head of global network design to DE-CIX.
 </td>
 </tr>
 </table>
