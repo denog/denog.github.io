@@ -42,7 +42,8 @@ Get in touch: pc @ lists.denog.de
 Alice is a Computer Science and Business student studying at the HTW Berlin. She is currently in the
 5th Semester. She has been a part of the Network Community for two years having attended the last 4
 RIPE meetings and many other community meetings in Berlin. The DENOG16 Meeting being her first
-DENOG Meeting.
+DENOG Meeting. <br /> <br />
+
 She enjoys hearing interesting talks and would like give back to the community by serving on the
 DENOG PC.
 </td>
@@ -65,7 +66,7 @@ since 2021. Florian joined Arista in 2017, bringing with him a wealth
 of knowledge from his previous 17 years in technical and management
 positions at various service providers and internet exchange points
 (IXPs), where he focused on engineering, architecture, and strategic
-initiatives.
+initiatives. <br /> <br />
 
 Beyond his corporate responsibilities, Florian has been deeply
 involved in the internet community. He is engaged with DENOG since
@@ -81,8 +82,18 @@ fostering collaboration and knowledge sharing among network operators.
 <table border=0>
 <tr>
 <td>
+<img height="200px" src="/images/meetings/denog17/pc_franziska_lichtblau.jpg" />
 </td>
 <td style="vertical-align:top">
+Franziska has a background in Internet measurement research with a focus on
+interconnection and BGP, and now works at SAP developing and supporting an
+internal infrastructure as a service cloud platform. <br /> <br />
+
+She joined the DENOG community years ago and is serving the DENOG Programme
+Committee since two years as chair. <br /> <br />
+
+Other community activities include the RIPE Programme Committee and RIPE Code
+of Conduct Team.
 </td>
 </tr>
 </table>
@@ -95,10 +106,19 @@ fostering collaboration and knowledge sharing among network operators.
 <img height="200px" src="/images/meetings/denog17/pc_moritz_frenzel.png" />
 </td>
 <td style="vertical-align:top">
-Moritz is an experienced manager in the networking industry, currently working as Managing Director of EdgeOps GmbH. He is passionate about the network industry and its drive to connect people and networks, which he supports by day as the driving force behind Stuttgart-IX and as Vice Chairman of DENOG e.V. in his spare time.<br/>
-<br/>
-Moritz has over ten years of industry experience with regional carriers, national data centres, international CDNs and global cloud providers and shares his industry knowledge as a freelance consultant. He is an experience board member serving various communities continously since 2013.<br/>
-In his free time Moritz enjoys to organize conferences, build networks in weird places, 3D printing and cooking.
+Moritz is an experienced manager in the networking industry, currently working
+as Managing Director of EdgeOps GmbH. He is passionate about the network
+industry and its drive to connect people and networks, which he supports by day
+as the driving force behind Stuttgart-IX and as Vice Chairman of DENOG e.V. in
+his spare time.<br /><br />
+
+Moritz has over ten years of industry experience with regional carriers,
+national data centres, international CDNs and global cloud providers and shares
+his industry knowledge as a freelance consultant. He is an experience board
+member serving various communities continously since 2013.<br /><br />
+
+In his free time Moritz enjoys to organize conferences, build networks in weird
+places, 3D printing and cooking.
 </td>
 </tr>
 </table>
@@ -111,9 +131,9 @@ In his free time Moritz enjoys to organize conferences, build networks in weird 
 <img height="200px" src="/images/meetings/denog17/pc_nico_von_thadden.jpg" />
 </td>
 <td style="vertical-align:top">
-I'm Nicola von Thadden and also known as nicoduck. I build and run networks for
-fun and (not only) profit, I have been active at DENOG for many years now and
-also help with various other events like CCC Congress and multiple camps.
+Nicola is also known as nicoduck. He builds and runs networks for fun and (not
+only) profit, he has been active at DENOG for many years now and also helps
+with various other events like CCC Congress and multiple camps.
 </td>
 </tr>
 </table>
@@ -126,15 +146,17 @@ also help with various other events like CCC Congress and multiple camps.
 <img height="200px" src="/images/meetings/denog17/pc_Sebastian_Becker.jpg" />
 </td>
 <td style="vertical-align:top">
-I joined Deutsche Telekom in January 2002. I worked my way through the 24/7
-shift NOC, last level support and configurations to engineering for AS3320 ip
-backbone. In 2019, after developing configurations and improving our BGP policy
-for AS3320 and taking on the role of Juniper Systems Engineer for our backbone,
-I took the next step and took on a role in product management. And here I am,
-the only Peering Manager for AS3320.
-I've been with DENOG since 2019, mostly behind the scenes, helping to organise
-the conferences and meetings.
-I have also been co-chair of the RIPE Routing Working Group since 2025.
+Sebastian joined Deutsche Telekom in January 2002. He worked his way through the 24/7
+shift NOC, last level support and configurations to engineering for AS3320 IP
+backbone. In 2019, after developing configurations and improving the BGP policy
+for AS3320 and taking on the role of Juniper Systems Engineer for the backbone,
+he took the next step and took on a role in product management. And here he is,
+the only Peering Manager for AS3320.<br /><br />
+
+He has been with DENOG since 2019, mostly behind the scenes, helping to organise
+the conferences and meetings.<br /><br />
+
+He is also co-chair of the RIPE Routing Working Group since 2025.
 </td>
 </tr>
 </table>
@@ -158,15 +180,16 @@ I have also been co-chair of the RIPE Routing Working Group since 2025.
 <img height="200px" src="/images/meetings/denog17/pc_theo_voss.jpg" />
 </td>
 <td style="vertical-align:top">
-I am interested in continuing my role in the DENOG Program Committee. Since
-2019, I have been part of the PC and event team, and since 2022, I’ve taken on
-organizing the DENOG conference socials. I have been active in the Internet
-Community for over 10 years, co-founding "Community-IX", a non-profit
+Since 2019, THeo has been part of the PC and event team, and since 2022, he's
+taken on organizing the DENOG conference socials. He has been active in the
+Internet Community for over 10 years, co-founding "Community-IX", a non-profit
 supporting Internet initiatives, and presenting at several industry
-conferences. As the CEO and Co-Founder of Inter.link, I focus on providing
+conferences. As the CEO and Co-Founder of Inter.link, he focus on providing
 sustainable and innovative connectivity, pushing our community towards
-unchartered waters. I’d like to keep contributing to DENOG by supporting its
-events and programs with my experience and dedication to the community.
+unchartered waters.<br /><br /> 
+
+He’d like to keep contributing to DENOG by supporting its
+events and programs with his experience and dedication to the community.
 </td>
 </tr>
 </table>
@@ -179,12 +202,12 @@ events and programs with my experience and dedication to the community.
 <img height="200px" src="/images/meetings/denog17/pc_tim_kleefass.jpg" />
 </td>
 <td style="vertical-align:top">
-Tim Kleefass started with DENOG2 conference and is engaged in the DENOG
-conference and meetup organisation since years. He's part of the PC since 2019
-and since end of 2023 treasurer of the board. Besides being involved into
-Stuttgart-IX, his professional live brought him to BelWü, SWITCH, EXARING
-(waipu.tv), OneFiber Interconnect and since February 2024 as head of global
-network design to DE-CIX.
+Tim started with DENOG2 conference and is engaged in the DENOG conference and
+meetup organisation since years. He's part of the PC since 2019 and since end
+of 2023 treasurer of the board. Besides being involved into Stuttgart-IX, his
+professional live brought him to BelWü, SWITCH, EXARING (waipu.tv), OneFiber
+Interconnect and since February 2024 as head of global network design to
+DE-CIX.
 </td>
 </tr>
 </table>
@@ -199,7 +222,8 @@ network design to DE-CIX.
 <td style="vertical-align:top">
 After completing his degree at Karlsruhe University, Wolfgang started working
 as a network engineer in 1994. He went on to become head of network operations
-and peering manager at a range of ISPs.
+and peering manager at a range of ISPs.<br /><br />
+
 In 2006, Wolfgang joined DE-CIX as Director Customer Support, a position he
 held for ten years. Since 2016, Wolfgang has been head of the DE-CIX Academy,
 making sure customers understand how BGP and other routing protocols work.
