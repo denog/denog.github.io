@@ -15,18 +15,18 @@ order: 17
 
 Get in touch: pc @ lists.denog.de
 
-| Name                           | Affiliation                       | Elected in |
-|--------------------------------|-----------------------------------|------------|
-| <a href="#alice">Alice Boeddinghaus</a>             | Student                           | 2024       |
-| <a href="#florian">Florian Hibler</a>                 | DENOG e.V. / Arista               | -          |
-| <a href="#franziska">Franziska Lichtblau [Co-Chair]</a> | SAP SE                            | -          |
-| <a href="#moritz">Moritz Frenzel</a>                 | DENOG e.V. / EdgeOps GmbH         | -          |
-| <a href="#nico">Nico von Thadden</a>               | PFALZKOM GmbH                     | 2024       |
-| <a href="#sebastian">Sebastian Becker [Co-Chair]</a>    | Deutsche Telekom                  | -          |
-| <a href="#stefan">Stefan Wahl</a>                    |                                   | -          |
-| <a href="#theo">Theo Voss</a>                      | Inter.link                        | 2024       |
-| <a href="#tim">Tim Kleefass</a>                   | DENOG e.V. / DE-CIX               | -          |
-| <a href="#wolfgang">Wolfgang Tremmel</a>               | DE-CIX                            | -          |
+| Name                                                    | Affiliation                | Elected in |
+|---------------------------------------------------------|----------------------------|------------|
+| <a href="#alice">Alice Boeddinghaus</a>                 | Student                    | 2024       |
+| <a href="#florian">Florian Hibler</a>                   | DENOG e.V. / Arista        | -          |
+| <a href="#franziska">Franziska Lichtblau [Co-Chair]</a> | SAP SE                     | -          |
+| <a href="#moritz">Moritz Frenzel</a>                    | DENOG e.V. / EdgeOps GmbH  | -          |
+| <a href="#nico">Nico von Thadden</a>                    | PFALZKOM GmbH              | 2024       |
+| <a href="#sebastian">Sebastian Becker [Co-Chair]</a>    | Deutsche Telekom           | -          |
+| <a href="#stefan">Stefan Wahl</a>                       | route128                   | -          |
+| <a href="#theo">Theo Voss</a>                           | Inter.link                 | 2024       |
+| <a href="#tim">Tim Kleefass</a>                         | DENOG e.V. / DE-CIX        | -          |
+| <a href="#wolfgang">Wolfgang Tremmel</a>                | DE-CIX                     | -          |
 
 
 
@@ -162,12 +162,25 @@ He is also co-chair of the RIPE Routing Working Group since 2025.
 </table>
 
 
-<h3 id="stefan">Stefan Wahl</h3>
+<h3 id="stefan">Stefan Wahl (route128)</h3>
 <table border=0>
 <tr>
 <td>
+<img height="200px" src="/images/meetings/denog17/pc_stefan_wahl.jpg" />
 </td>
 <td style="vertical-align:top">
+Stefan has been supporting the DENOG community for many years with his
+experience and contacts and helped with the organisation and planning of the
+event.<br /><br />
+
+Professionally, he is CTO at route128 and, with his own company, an
+international consultant specialising in IT, data centres, networks, IX and the
+Internet.<br /><br /> 
+
+He is an active member of the Internet community and regularly attends
+conferences and events. He is also active in Euro-IX as a board member, IXPDB
+and is co-chair of the RIPE Service Working Group. He is also a regular speaker
+at current affairs events. 
 </td>
 </tr>
 </table>
