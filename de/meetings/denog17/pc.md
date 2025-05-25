@@ -292,9 +292,9 @@ the PC chairs and they will let you know the details.
 Everyone has the opportunity to participate in voting for the DENOG PC. Each
 member of DENOG e.V. and each checked-in onsite attendee (excluding sponsors)
 will have three votes to distribute across all available candidates (up to one
-vote per candidate). Voting will open on DENOG Day 2 and close after the
-conference on Friday. The elected PC members will be announced on the DENOG
-list the following week.
+vote per candidate). Voting will open on DENOG Conference Day 2 (Tuesday) and 
+close after the conference on Friday. The elected PC members will be announced
+on the DENOG list the following week.
 
 We will use the Voting tool OpaVote. You will receive the email from "OpaVote
 Voting Link <noreply@opavote.com>" with the subject "Vote for DENOG PC".
@@ -304,6 +304,5 @@ Voting Link <noreply@opavote.com>" with the subject "Vote for DENOG PC".
 If you are interested in helping to create the great programm for the upcoming
 DENOG events then you can do that by running for a seat on the PC. Please send
 an email with a picture and a short bio to pc@lists.denog.de.
-
-You can run for the PC until Monday November 18th 20:00 CET.
+You can run for the PC until DENOG Conference Day 1 (Monday) 20:00 CET. 
 
