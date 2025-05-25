@@ -31,7 +31,7 @@ Get in touch: pc @ lists.denog.de
 
 
 ## Biographies
-
+<br />
 <h3 id="alice">Alice Boeddinghaus (Student)</h3>
 <table border=0>
 <tr>
@@ -50,7 +50,7 @@ DENOG PC.
 </tr>
 </table>
 
-
+<br />
 <h3 id="florian">Florian Hibler (DENOG e.V. / Arista)</h3>
 <table border=0>
 <tr>
@@ -78,6 +78,7 @@ fostering collaboration and knowledge sharing among network operators.
 </table>
 
 
+<br />
 <h3 id="franziska">Franziska Lichtblau [Co-Chair] (SAP SE)</h3>
 <table border=0>
 <tr>
@@ -99,6 +100,7 @@ of Conduct Team.
 </table>
 
 
+<br />
 <h3 id="moritz">Moritz Frenzel (DENOG e.V. / EdgeOps GmbH)</h3>
 <table border=0>
 <tr>
@@ -124,6 +126,7 @@ places, 3D printing and cooking.
 </table>
 
 
+<br />
 <h3 id="nico">Nico von Thadden (PFALZKOM GmbH)</h3>
 <table border=0>
 <tr>
@@ -139,6 +142,7 @@ with various other events like CCC Congress and multiple camps.
 </table>
 
 
+<br />
 <h3 id="sebastian">Sebastian Becker [Co-Chair] (Deutsche Telekom)</h3>
 <table border=0>
 <tr>
@@ -162,6 +166,7 @@ He is also co-chair of the RIPE Routing Working Group since 2025.
 </table>
 
 
+<br />
 <h3 id="stefan">Stefan Wahl (route128)</h3>
 <table border=0>
 <tr>
@@ -186,6 +191,7 @@ at current affairs events.
 </table>
 
 
+<br />
 <h3 id="theo">Theo Voss (Inter.link)</h3>
 <table border=0>
 <tr>
@@ -208,6 +214,7 @@ events and programs with his experience and dedication to the community.
 </table>
 
 
+<br />
 <h3 id="tim">Tim Kleefass (DENOG e.V. / DE-CIX)</h3>
 <table border=0>
 <tr>
@@ -227,6 +234,7 @@ BelWü, SWITCH, EXARING (waipu.tv), OneFiber Interconnect and since February
 </table>
 
 
+<br />
 <h3 id="wolfgang">Wolfgang Tremmel (DE-CIX)</h3>
 <table border=0>
 <tr>
