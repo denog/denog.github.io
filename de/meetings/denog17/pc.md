@@ -10,10 +10,9 @@ order: 17
 
 # DENOG Programme Committee (PC)
 
+Get in touch with the Programme Committee (PC): pc @ lists.denog.de
 
 ## Members
-
-Get in touch: pc @ lists.denog.de
 
 | Name                                                    | Affiliation                | Elected in |
 |---------------------------------------------------------|----------------------------|------------|

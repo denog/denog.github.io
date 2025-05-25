@@ -1,5 +1,5 @@
 ---
-title: DENOG16 - Programme Committe
+title: DENOG16 - Programme Committee
 layout: conference
 lang: de
 year: 2024
@@ -8,7 +8,7 @@ meeting: DENOG16
 order: 16
 ---
 
-# DENOG Programme Committe (PC)
+# DENOG Programme Committee (PC)
 
 Get in touch: pc @ lists.denog.de
 

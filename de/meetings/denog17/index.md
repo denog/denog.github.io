@@ -31,7 +31,7 @@ order: 0
 <tr>
  <td>
   <a href="important_dates.html">Important Dates </a><br />
-  <a href="pc.html">Programme Committe </a><br />
+  <a href="pc.html">Programme Committee </a><br />
  <!-- <a href="agenda.html">Agenda</a><br />
   <a href="social.html">Social Event</a><br />
   <a href="orga.html">Orga Team & PC</a><br /> -->
