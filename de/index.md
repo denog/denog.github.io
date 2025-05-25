@@ -66,6 +66,7 @@ redirect_from: "/"
                 <br>
                 </article> 
 
+<!--
                 <article>
                     <h4>DENOG17: Important dates</h4>
                     <p>We have published the timeline with important dates for the upcoming DENOG17, November 9th to 11th</p>
@@ -80,7 +81,6 @@ redirect_from: "/"
                 <br>
                 </article>
 
-<!--
                 <article>
                     <h4>Videos der Meetups</h4>
                     <p>... findest Du im Nachgang auf youtube: </p><br /><br />
