@@ -19,7 +19,7 @@ We look forward to DENOG17 onsite and remote together with you!
 
 
 ## Packages
-A list of all available sponsoring packages is available[**here**](/files/denog17/DENOG17_Sponsoring_Packages_v1.pdf).
+A list of all available sponsoring packages is available [**here**](/files/denog17/DENOG17_Sponsoring_Packages_v1.pdf).
 
 Interested parties can reserve packages via this website starting on 2025-06-23 11:00 CEST.
 Packages can be reserved for up to 14 days, thereafter they will become generally available.
@@ -41,6 +41,11 @@ Packages are sold on a "first come, first serve" basis.
 ## Reservations
 
 **Reservations will be available at 2025-06-23 11:00 CEST for patron members**
+
+Packages can ordered using the form below or by folowing [this link](https://forms.gle/3tXwW5TkgQPXLKXJA).
+Please note that this page will show an error before the presale start, this is intentional.
+
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdsHt0GGoQtVPDlDG3QRLa7omNjogrw5YN9kGDNe-yiBL613A/viewform?embedded=true" width="640" height="2489" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 
 
 <br/>
