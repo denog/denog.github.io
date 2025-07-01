@@ -43,6 +43,7 @@ redirect_from: "/"
                 <br>
                 </article> 
 
+<!--
                 <article>
                     <h4>DENOG Meetup Düsseldorf</h4>
                     <p>Wir freuen uns auf unser fünftes Meetup in 2025 bei sipgate in Düsseldorf am 17.06.</p><br />
@@ -50,7 +51,6 @@ redirect_from: "/"
                 <br>
                 </article>
 
-<!--
                 <article>
                     <h4>DENOG17 Ticket Sale open!</h4>
                     <p>We have opened the ticket sale for DENOG17 in Essen! </p><br />
