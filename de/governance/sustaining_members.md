@@ -42,6 +42,8 @@ ref: Association
 - Megaport (seit 07/2024)
 - Rechenzentrum Haßfurt (seit 07/2024)
 - htp GmbH (seit 01/2025)
+- AtlasEdge (seit 06/2025)
+- miriquidi networks GmbH (seit 06/2025)
 
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
