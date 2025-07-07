@@ -26,7 +26,7 @@ order: 0
 <table border="0" width="100%">
 <tr>
  <td width="50%"><b>Program</b></td>
- <td width="50%"><b>Attendee Info</b></td> 
+ <td width="50%"><b>Attendee Info</b></td>
 </tr>
 <tr>
  <td>
@@ -47,8 +47,8 @@ order: 0
   <a href="socialmedia.html">Social Media</a><br />
   <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
   <a href="coc.html">&#8599; Code of Conduct</a><br />
-<!--  <a href="press.html">Press Information</a><br/> -->
- </td> 
+ <a href="press.html">Press Information</a><br/>
+ </td>
 </tr>
 </table>
 
