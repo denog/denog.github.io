@@ -30,11 +30,11 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>DENOG Meetup Stuttgart</h4>
-                    <p>Wir freuen uns auf unser sechtes Meetup in 2025 bei Nokia in Stuttgart am 02.07.</p><br />
-                    <a href="/de/events/meetup-2025-06.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                    <h4>Videos der Meetups</h4>
+                    <p>... findest Du im Nachgang auf youtube: </p><br /><br />
+                    <a href="https://youtube.com/denog" class="btn btn-custom-default pull-right">youtube.com/denog <i class="ion-arrow-right-c"></i></a>
                 <br>
-                </article>
+                </article> 
 
                 <article>
                     <h4>DENOG17 Call for Papers open!</h4>
@@ -44,6 +44,13 @@ redirect_from: "/"
                 </article> 
 
 <!--
+                <article>
+                    <h4>DENOG Meetup Stuttgart</h4>
+                    <p>Wir freuen uns auf unser sechtes Meetup in 2025 bei Nokia in Stuttgart am 02.07.</p><br />
+                    <a href="/de/events/meetup-2025-06.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
                 <article>
                     <h4>DENOG Meetup Düsseldorf</h4>
                     <p>Wir freuen uns auf unser fünftes Meetup in 2025 bei sipgate in Düsseldorf am 17.06.</p><br />
