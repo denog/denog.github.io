@@ -13,6 +13,10 @@ order: 13
 <br />
 <br />
 <br />
+<big><b>Sneak Preview: <a href="https://pretalx.com/denog17/featured/">https://pretalx.com/denog17/featured/</a></b></big><br />
+
+<big>Here is the Agenda (with already the Workshops):</big>
+
 <pretalx-schedule event-url="https://pretalx.com/denog17/" locale="en" format="list" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
 <noscript>
    <div class="pretalx-widget">
