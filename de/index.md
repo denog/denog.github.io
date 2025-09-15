@@ -30,12 +30,27 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG17 Workshop Registration open!</h4>
+                    <p>We have opened the Registration for the Workshops on Sunday! </p><br />
+                    <a href="/de/meetings/denog17/workshop_registration.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+
+                <article>
+                    <h4>DENOG17 Agenda Sneak Preview!</h4>
+                    <p>Have a look at the sneak preview of the Agenda for DENOG17! </p><br />
+                    <a href="/de/meetings/denog17/agenda.html" class="btn btn-custom-default pull-right">Sneak Preview Agenda <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article> 
+
+                <article>
                     <h4>Videos der Meetups</h4>
                     <p>... findest Du im Nachgang auf youtube: </p><br /><br />
                     <a href="https://youtube.com/denog" class="btn btn-custom-default pull-right">youtube.com/denog <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
 
+<!--
                 <article>
                     <h4>DENOG17 Call for Papers open!</h4>
                     <p>We have opened the Call for Papers for DENOG17 in Essen! </p><br />
@@ -43,7 +58,6 @@ redirect_from: "/"
                 <br>
                 </article> 
 
-<!--
                 <article>
                     <h4>DENOG Meetup Stuttgart</h4>
                     <p>Wir freuen uns auf unser sechtes Meetup in 2025 bei Nokia in Stuttgart am 02.07.</p><br />
