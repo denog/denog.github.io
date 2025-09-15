@@ -25,11 +25,11 @@ If you have any questions, please reach out to event (at) denog.de
 
 Where does the event happen? <a href="venue.html">Venue & getting there</a>
 
-<pretix-widget event="https://pretix.eu/denog/denog16workshops/"></pretix-widget>
+<pretix-widget event="https://pretix.eu/denog/denog17workshops/"></pretix-widget>
 <noscript>
    <div class="pretix-widget">
         <div class="pretix-widget-info-message">
-            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/denog/denog16workshops/">hier</a>.
+            JavaScript ist in Ihrem Browser deaktiviert. Um unseren Ticket-Shop ohne JavaScript aufzurufen, klicken Sie bitte <a target="_blank" rel="noopener" href="https://pretix.eu/denog/denog17workshops/">hier</a>.
         </div>
     </div>
 </noscript>
