@@ -6,6 +6,7 @@ year: 2025
 city: Berlin
 meeting: DENOG17
 order: 12
+hide: yes
 ---
 
 <br />
