@@ -18,7 +18,7 @@ breadcrumbs:
 # DENOG Member Days 2026 - Kassel
 
 | ----- | ------- |
-| Wann  | Start Freitag (06.02.2025) - Ende Samstag (97.02.2025) | 
+| Wann  | Start Freitag (06.02.2026) - Ende Samstag (07.02.2026) | 
 | Wo    | CVJM-Tagungshaus Kassel (Hugo Preuß-Straße 40 a, 34131 Kassel) |
 | Wer   | DENOG e.V. Mitglieder und Fördermitglieder (1 Teilnehmende Person / Fördermitglied) |
 
