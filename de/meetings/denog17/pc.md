@@ -221,13 +221,15 @@ events and programs with his experience and dedication to the community.
 <img height="200px" src="/images/meetings/denog17/pc_tim_kleefass.jpg" />
 </td>
 <td style="vertical-align:top">
-Tim started with DENOG2 conference and is engaged in the DENOG conference and
-meetup organisation since years. He's part of the PC since 2019 and since end
-of 2023 treasurer of the board.<br /><br />
+Tim first got involved with the DENOG community at the DENOG2 conference and
+has been actively engaged in organizing DENOG conferences and meetups for many
+years. He has been a member of the Program Committee since 2019 and has served
+as the board’s treasurer since the end of 2023.<br /><br />
 
-Besides being involved into Stuttgart-IX, his professional live brought him to
-BelWü, SWITCH, EXARING (waipu.tv), OneFiber Interconnect and since February
-2024 as head of global network design to DE-CIX.
+In addition to his involvement with Stuttgart-IX, Tim’s professional journey
+has taken him through roles at BelWü, SWITCH, EXARING (waipu.tv), and OneFiber
+Interconnect. Since February 2024, he has been working at DE-CIX as Head of
+Global Network Design.
 </td>
 </tr>
 </table>
