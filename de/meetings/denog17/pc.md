@@ -12,20 +12,28 @@ order: 17
 
 Get in touch with the Programme Committee (PC): pc @ lists.denog.de
 
-## Members
+Table of contents: 
+<ul>
+<li><a href="#members-of-the-programme-committee">Members of the Programme Committee</a></li>
+<li><a href="#expectations-for-pc-members">Expectations for PC members</a></li>
+<li><a href="#elections">Elections</a></li>
+<li><a href="#candidates-2025">Candidates 2025</a></li>
+</ul>
 
-| Name                                                    | Affiliation                | Elected in |
-|---------------------------------------------------------|----------------------------|------------|
-| <a href="#alice">Alice Boeddinghaus</a>                 | Student                    | 2024       |
-| <a href="#florian">Florian Hibler</a>                   | DENOG e.V. / Arista        | -          |
-| <a href="#franziska">Franziska Lichtblau [Co-Chair]</a> | SAP SE                     | -          |
-| <a href="#moritz">Moritz Frenzel</a>                    | DENOG e.V. / EdgeOps GmbH  | -          |
-| <a href="#nico">Nico von Thadden</a>                    | PFALZKOM GmbH              | 2024       |
-| <a href="#sebastian">Sebastian Becker [Co-Chair]</a>    | Deutsche Telekom           | -          |
-| <a href="#stefan">Stefan Wahl</a>                       | route128                   | -          |
-| <a href="#theo">Theo Voss</a>                           | Inter.link                 | 2024       |
-| <a href="#tim">Tim Kleefass</a>                         | DENOG e.V. / DE-CIX        | -          |
-| <a href="#wolfgang">Wolfgang Tremmel</a>                | DE-CIX                     | -          |
+# Members of the Programme Committee
+
+| Name                                                    | Affiliation                | Term        |
+|---------------------------------------------------------|----------------------------|-------------|
+| <a href="#alice">Alice Boeddinghaus</a>                 | Student                    | 2024 - 2027 |
+| <a href="#florian">Florian Hibler</a>                   | DENOG e.V. / Arista        | ...  - 2025 |
+| <a href="#franziska">Franziska Lichtblau [Co-Chair]</a> | SAP SE                     |             |
+| <a href="#moritz">Moritz Frenzel</a>                    | DENOG e.V. / EdgeOps GmbH  | ...  - 2025 |
+| <a href="#nico">Nico von Thadden</a>                    | PFALZKOM GmbH              | 2024 - 2027 |
+| <a href="#sebastian">Sebastian Becker [Co-Chair]</a>    | Deutsche Telekom           |             |
+| <a href="#stefan">Stefan Wahl</a>                       | route128                   |             |
+| <a href="#theo">Theo Voss</a>                           | Inter.link                 | 2024 - 2027 |
+| <a href="#tim">Tim Kleefass</a>                         | DENOG e.V. / DE-CIX        |             |
+| <a href="#wolfgang">Wolfgang Tremmel</a>                | DE-CIX                     | ...  - 2025 |
 
 
 
@@ -257,7 +265,7 @@ making sure customers understand how BGP and other routing protocols work.
 
 
 
-## Expectations for PC members
+# Expectations for PC members
 
 What does the PC work entail?  Essentially, the Denog Programme Committee (PC)
 is responsible for compiling the agenda of the upcoming Denog meeting and
@@ -296,6 +304,7 @@ feel comfortable on stage you can also help as a Video Herald - please reach out
 the PC chairs and they will let you know the details.
 
 
+# Elections
 ## Execution of the elections
 
 Everyone has the opportunity to participate in voting for the DENOG PC. Each
@@ -315,3 +324,84 @@ DENOG events then you can do that by running for a seat on the PC. Please send
 an email with a picture and a short bio to pc@lists.denog.de.
 You can run for the PC until DENOG Conference Day 1 (Monday) 20:00 CET. 
 
+## Candidates 2025
+
+In 2025 we are filling three seats. Florian Hibler, Moritz Frenzel and Moritz
+Frenzel are stepping down. 
+
+<br />
+<h3 id="florian">Florian Hibler (DENOG e.V. / Arista)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_florian_hibler.jpeg" />
+</td>
+<td style="vertical-align:top">
+Florian is a seasoned professional in the internet industry, with over
+two decades of experience spanning technical and leadership roles. He
+currently serves as the Manager of Systems Engineering for Germany,
+Austria, and Switzerland at Arista Networks, a position he has held
+since 2021. Florian joined Arista in 2017, bringing with him a wealth
+of knowledge from his previous 17 years in technical and management
+positions at various service providers and internet exchange points
+(IXPs), where he focused on engineering, architecture, and strategic
+initiatives. <br /> <br />
+
+Beyond his corporate responsibilities, Florian has been deeply
+involved in the internet community. He is engaged with DENOG since
+the very beginning. Further he is an elected founding board member of
+DENOG e.V., where he continues to contribute to the group's mission of
+fostering collaboration and knowledge sharing among network operators.
+</td>
+</tr>
+</table>
+
+
+<br />
+<h3 id="wolfgang">Wolfgang Tremmel (DE-CIX)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_wolfgang_tremmel.jpeg" />
+</td>
+<td style="vertical-align:top">
+After completing his degree at Karlsruhe University, Wolfgang started working
+as a network engineer in 1994. He went on to become head of network operations
+and peering manager at a range of ISPs.<br /><br />
+
+In 2006, Wolfgang joined DE-CIX as Director Customer Support, a position he
+held for ten years. Since 2016, Wolfgang has been head of the DE-CIX Academy,
+making sure customers understand how BGP and other routing protocols work.
+</td>
+</tr>
+</table>
+
+
+
+<br />
+<h3 id="wouter">Wouter Van Renterghem (RETN)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_wouter.jpg" />
+</td>
+<td style="vertical-align:top">
+Wouter is a seasoned professional in the internet industry, with over two
+decades of experience spanning commercial and leadership roles. He currently
+serves as the Commercial Director Wholesale for Western Europe at RETN GmbH.
+Wouter joined RETN in 2024, bringing with him a wealth of knowledge from his
+previous 17 years in commercial and management positions at various service
+providers and internet exchange points (IXPs), where he focused on strategic
+and commercial initiatives.<br /><br />
+
+Beyond his corporate responsibilities, Wouter has been deeply involved in the
+internet community, where he’s an elected founding board member of Global
+Peering Forum Inc. (established in 2015), serving as the Secretary and
+contributing to the mission to advance the business interests of individuals
+involved in peering and interconnection.
+</td>
+</tr>
+</table>
+
+
+<br /><br />
