@@ -21,6 +21,7 @@ Get in touch: event @ denog.de
 - Kay Rechthien
 - Lara Hallaczek (Engel)
 - Philip Grosser
+- Sascha Heinemann (Pre-Social)
 - Sebastian Becker (PC Chair, Stage Management)
 - Stefan Funke 
 - Theo Voss (Social)
