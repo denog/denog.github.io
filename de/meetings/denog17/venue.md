@@ -35,4 +35,7 @@ Link to <a href="https://www.openstreetmap.org/?#map=18/51.451654/7.013113">Open
 
 It's really next to the Main Station of Essen! 
 
+Car parking: For all car drivers, the location offers a €5 day ticket for parking within walking distance. Find the parking deal here: <a href="https://www.q-park.de/de-de/staedte/essen/deals-in-essen/haus-der-technik-deal/">Q-Park</a>
+
+
 
