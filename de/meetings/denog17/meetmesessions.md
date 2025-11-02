@@ -27,7 +27,7 @@ Some of the data can be changed in "Meet".
 
 <ul>
 <li>In your order / ticket information should be the link to your ticket data in pretix. If you have lost that, please go to <a href="https://pretix.eu/denog/denog17/">https://pretix.eu/denog/denog17/</a> and click at the bottom of the page on the "Resend order link" button. Doesn't help? Send us an email: <a href="mailto:event@denog.de">event@denog.de</a>.</li>
-<li>You should have received an invitation to "Meet" (sender "noreply@denog.de", subject "[Meet] DENOG17 MeetMe-Sessions | Event invite"). If not, please contact <a href="mailto:event@denog.de">event@denog.de</a>.</li>
+<li>You should have received an invitation to "Meet" (sender "noreply@denog.de", subject "[Meet] DENOG17 | [ACTION REQUIRED]: Please activate your MeetMe-Sessions"). If not, please contact <a href="mailto:event@denog.de">event@denog.de</a>.</li>
 </ul>
 
 Here is the overview of your data: 

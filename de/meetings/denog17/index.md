@@ -64,14 +64,14 @@ order: 0
   <a href="venue.html">Venue & getting there</a><br />
   <a href="features.html">Features</a><br /> 
   <a href="meetmesessions.html">MeetMe-Sessions</a><br />
-<!--  <a href="hotels.html">Conference Hotel & Reservation</a><br />
+<!--  <a href="hotels.html">Conference Hotel & Reservation</a><br /> --> 
   <a href="social.html">Social Events</a><br />
-  <a href="hygiene_concept.html">Hygiene Concept</a><br />
-  <a href="eventsupport.html">Event Support on-site</a><br />  -->
+<!--  <a href="hygiene_concept.html">Hygiene Concept</a><br /> --> 
+  <a href="eventsupport.html">Event Support on-site</a><br /> 
  </td>
-<!-- <td>
+ <td>
   <a href="venueremote.html">Meeting Venue remote</a><br />
- </td> -->
+ </td> 
 </tr>
 </table>
 <br /><br />
