@@ -12,7 +12,7 @@ order: 17
 
 Get in touch with the Programme Committee (PC): pc @ lists.denog.de
 
-Table of contents: 
+Table of contents:
 <ul>
 <li><a href="#members-of-the-programme-committee">Members of the Programme Committee</a></li>
 <li><a href="#expectations-for-pc-members">Expectations for PC members</a></li>
@@ -187,12 +187,12 @@ event.<br /><br />
 
 Professionally, he is CTO at route128 and, with his own company, an
 international consultant specialising in IT, data centres, networks, IX and the
-Internet.<br /><br /> 
+Internet.<br /><br />
 
 He is an active member of the Internet community and regularly attends
 conferences and events. He is also active in Euro-IX as a board member, IXPDB
 and is co-chair of the RIPE Service Working Group. He is also a regular speaker
-at current affairs events. 
+at current affairs events.
 </td>
 </tr>
 </table>
@@ -212,7 +212,7 @@ Internet Community for over 10 years, co-founding "Community-IX", a non-profit
 supporting Internet initiatives, and presenting at several industry
 conferences. As the CEO and Co-Founder of Inter.link, he focus on providing
 sustainable and innovative connectivity, pushing our community towards
-unchartered waters.<br /><br /> 
+unchartered waters.<br /><br />
 
 He’d like to keep contributing to DENOG by supporting its
 events and programs with his experience and dedication to the community.
@@ -310,7 +310,7 @@ the PC chairs and they will let you know the details.
 Everyone has the opportunity to participate in voting for the DENOG PC. Each
 member of DENOG e.V. and each checked-in onsite attendee (excluding sponsors)
 will have three votes to distribute across all available candidates (up to one
-vote per candidate). Voting will open on DENOG Conference Day 2 (Tuesday) and 
+vote per candidate). Voting will open on DENOG Conference Day 2 (Tuesday) and
 close after the conference on Friday. The elected PC members will be announced
 on the DENOG list the following week.
 
@@ -322,12 +322,12 @@ Voting Link <noreply@opavote.com>" with the subject "Vote for DENOG PC".
 If you are interested in helping to create the great programm for the upcoming
 DENOG events then you can do that by running for a seat on the PC. Please send
 an email with a picture and a short bio to pc@lists.denog.de.
-You can run for the PC until DENOG Conference Day 1 (Monday) 20:00 CET. 
+You can run for the PC until DENOG Conference Day 1 (Monday) 20:00 CET.
 
 ## Candidates 2025
 
-In 2025 we are filling three seats. Florian Hibler, Moritz Frenzel and Moritz
-Frenzel are stepping down. 
+In 2025 we are filling three seats. Florian Hibler, Wolfgang Tremmel and Moritz
+Frenzel are stepping down.
 
 <br />
 <h3 id="florian">Florian Hibler (DENOG e.V. / Arista)</h3>
