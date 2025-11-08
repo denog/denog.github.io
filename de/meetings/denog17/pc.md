@@ -358,6 +358,28 @@ fostering collaboration and knowledge sharing among network operators.
 
 
 <br />
+<h3 id="jan">Jan Walzer</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_jan_walzer.png" />
+</td>
+<td style="vertical-align:top">
+With over 15 years of network consulting experience, Jan Walzer has been an
+active member of the DENOG community since its inaugural conference in 2008. <br /> <br />
+
+In 2011, he led and implemented a project for Worldwide IPv6 Day in the area of
+frontend servers at 1&1 Internet. <br /> <br />
+
+For the past eight years, he has worked as a Cloud Architect with OpenStack and
+is currently at Red Hat advising large enterprise clients; his extensive
+experience enables him to analyze problems from outside the typical network
+sphere and offer fresh perspectives. 
+</td>
+</tr>
+</table>
+
+<br />
 <h3 id="wolfgang">Wolfgang Tremmel (DE-CIX)</h3>
 <table border=0>
 <tr>
