@@ -358,7 +358,7 @@ fostering collaboration and knowledge sharing among network operators.
 
 
 <br />
-<h3 id="jan">Jan Walzer</h3>
+<h3 id="jan">Jan Walzer (Red Hat)</h3>
 <table border=0>
 <tr>
 <td>
