@@ -31,8 +31,15 @@ Informationen will follow!
 
 
 ### Getting there
-A bus transfer will be arranged to and from the location, further details will
-be published soon.
+A bus transfer will be arranged to and from the location:
+
+Bus transfer from Haus der Technik to the social location:
+
+18:15, 18:20, 18:25, 18:30, 18:35 (travel time around 40-45min)
+
+Bus transfer from the social location to Haus der Technik:
+
+21:30, 22:00, 22:30, 23:00, 23:30, 00:00, 00:30, 01:00
 
 Participants with limited mobility are kindly asked to reach out to
 [event@denog.de](mailto:event@denog.de) so we can make respective arrangements.
