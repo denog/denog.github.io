@@ -357,6 +357,39 @@ fostering collaboration and knowledge sharing among network operators.
 </table>
 
 
+<h3 id="henry">Henry Schaefer (Verizon)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_henry_schaefer.jpg" />
+</td>
+<td style="vertical-align:top">
+For those who do not know me, my name is Henry Schäfer. I was born and live in
+Germany with my wife and daughter, currently in Berlin.<br /><br />
+
+For almost three decades I have been working in the Internet Industry, bringing
+extensive experience in IP Networking, spanning Engineering, Design, Core
+Network Planning, Interconnection/Peering, Product Development Support, and
+Product Management. I joined UUNET in 1999 and have since held various
+positions—initially focused on the EMEA region and International data networks,
+and later taking on a global scope, now at Verizon. I offer a strong balance of
+advanced technology acumen and business skills.<br /><br />
+
+I am running for the Program Committee because I care deeply about the
+Internet, including its operation, governance, and ensuring it remains a safe
+place for everyone. I believe my experience can contribute a diverse
+perspective from many angles to the committee.<br /><br />
+
+Outside of my professional life, I am an active enthusiast of road and off-road
+cycling, sailing, and skiing, and have recently taken up swimming.<br /><br />
+
+I would be pleased to support the DENOG community further, particularly in an
+elected position such as on the Program Committee.
+</td>
+</tr>
+</table>
+
+
 <br />
 <h3 id="jan">Jan Walzer (Red Hat)</h3>
 <table border=0>
@@ -394,6 +427,33 @@ and peering manager at a range of ISPs.<br /><br />
 In 2006, Wolfgang joined DE-CIX as Director Customer Support, a position he
 held for ten years. Since 2016, Wolfgang has been head of the DE-CIX Academy,
 making sure customers understand how BGP and other routing protocols work.
+</td>
+</tr>
+</table>
+
+
+
+<br />
+<h3 id="vanessa">Vanessa Gaube (DB Fernverkehr)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_vanessa_gaube.jpg" />
+</td>
+<td style="vertical-align:top">
+Name/Pronouns: Vanessa Gaube, she/her 
+
+Vanessa is 27 years old and has been active in the networking industry since
+her studies, both in a professional and community context. In the past, she
+worked as a network engineer. In her current role as an infrastructure
+architect, she is responsible e.g. for the network architecture of trains.
+As a hobby, she also runs experimental IPv6-only infrastructure, testing the
+practical usability and documenting the experiences. <br /><br /> 
+
+As a young member of the community, knowledge transfer is particularly
+important to her. For example, she gives lectures on network technology at a
+local university, introducing young engineers to the practical aspects of how
+networks and the internet work. 
 </td>
 </tr>
 </table>
