@@ -441,7 +441,7 @@ making sure customers understand how BGP and other routing protocols work.
 <img height="200px" src="/images/meetings/denog17/pc_vanessa_gaube.jpg" />
 </td>
 <td style="vertical-align:top">
-Name/Pronouns: Vanessa Gaube, she/her 
+<i>Pronouns: she/her </i><br /><br />
 
 Vanessa is 27 years old and has been active in the networking industry since
 her studies, both in a professional and community context. In the past, she
