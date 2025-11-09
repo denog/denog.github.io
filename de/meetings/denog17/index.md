@@ -47,7 +47,8 @@ order: 0
   <a href="socialmedia.html">Social Media</a><br />
   <a href="denoginfo.html">&#8599; Info DENOG & Charta</a><br />
   <a href="coc.html">&#8599; Code of Conduct</a><br />
- <a href="press.html">Press Information</a><br/>
+  <a href="press.html">Press Information</a><br/>
+  <a href="feedback.html">Feedback / Surveys</a><br/>
  </td>
 </tr>
 </table>
