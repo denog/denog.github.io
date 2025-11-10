@@ -18,7 +18,6 @@ Get in touch: event @ denog.de
 - Florian Hibler
 - Giulia Pothika (Social Media / Event Communication)
 - Janina Fassbender (Social Media, Event Communication, Job-Board)
-- Kay Rechthien
 - Lara Hallaczek (Engel)
 - Philip Grosser
 - Sascha Heinemann (Pre-Social)
@@ -27,6 +26,7 @@ Get in touch: event @ denog.de
 - Theo Voss (Social)
 - Ute Wolf (Infopoint)
 
+- Kay Rechthien
 - Moritz Frenzel (Lead / Coordination, Sponsoring, IT, Logistik)
 - Patrick Bussmann (Lead / Coordination, Branding, Location)
 - Tim Kleefass (Lead / Coordination, Tickets, Invoicing)
