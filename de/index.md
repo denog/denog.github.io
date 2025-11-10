@@ -30,16 +30,9 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>DENOG17 Workshop Registration open!</h4>
-                    <p>We have opened the Registration for the Workshops on Sunday! </p><br />
-                    <a href="/de/meetings/denog17/workshop_registration.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article> 
-
-                <article>
-                    <h4>DENOG17 Agenda Sneak Preview!</h4>
-                    <p>Have a look at the sneak preview of the Agenda for DENOG17! </p><br />
-                    <a href="/de/meetings/denog17/agenda.html" class="btn btn-custom-default pull-right">Sneak Preview Agenda <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG17 Agenda</h4>
+                    <p>Have a look at the Agenda for DENOG17! </p><br />
+                    <a href="/de/meetings/denog17/agenda.html" class="btn btn-custom-default pull-right">DENOG17 Agenda <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
 
