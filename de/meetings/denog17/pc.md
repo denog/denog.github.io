@@ -413,27 +413,6 @@ sphere and offer fresh perspectives.
 </table>
 
 <br />
-<h3 id="wolfgang">Wolfgang Tremmel (DE-CIX)</h3>
-<table border=0>
-<tr>
-<td>
-<img height="200px" src="/images/meetings/denog17/pc_wolfgang_tremmel.jpeg" />
-</td>
-<td style="vertical-align:top">
-After completing his degree at Karlsruhe University, Wolfgang started working
-as a network engineer in 1994. He went on to become head of network operations
-and peering manager at a range of ISPs.<br /><br />
-
-In 2006, Wolfgang joined DE-CIX as Director Customer Support, a position he
-held for ten years. Since 2016, Wolfgang has been head of the DE-CIX Academy,
-making sure customers understand how BGP and other routing protocols work.
-</td>
-</tr>
-</table>
-
-
-
-<br />
 <h3 id="vanessa">Vanessa Gaube (DB Fernverkehr)</h3>
 <table border=0>
 <tr>
@@ -454,6 +433,27 @@ As a young member of the community, knowledge transfer is particularly
 important to her. For example, she gives lectures on network technology at a
 local university, introducing young engineers to the practical aspects of how
 networks and the internet work. 
+</td>
+</tr>
+</table>
+
+
+
+<br />
+<h3 id="wolfgang">Wolfgang Tremmel (DE-CIX)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_wolfgang_tremmel.jpeg" />
+</td>
+<td style="vertical-align:top">
+After completing his degree at Karlsruhe University, Wolfgang started working
+as a network engineer in 1994. He went on to become head of network operations
+and peering manager at a range of ISPs.<br /><br />
+
+In 2006, Wolfgang joined DE-CIX as Director Customer Support, a position he
+held for ten years. Since 2016, Wolfgang has been head of the DE-CIX Academy,
+making sure customers understand how BGP and other routing protocols work.
 </td>
 </tr>
 </table>
