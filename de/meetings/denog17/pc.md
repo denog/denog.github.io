@@ -324,6 +324,8 @@ DENOG events then you can do that by running for a seat on the PC. Please send
 an email with a picture and a short bio to pc@lists.denog.de.
 You can run for the PC until DENOG Conference Day 1 (Monday) 20:00 CET.
 
+<b>Voting is open until Friday, November 14th, 23:59 CET.</b>
+
 ## Candidates 2025
 
 In 2025 we are filling three seats. Florian Hibler, Wolfgang Tremmel and Moritz
