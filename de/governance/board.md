@@ -29,7 +29,7 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Theo Voss (gewählt am 12.11.2019)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
 
 ## Mitgliederversammlung 2023
@@ -51,7 +51,7 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Theo Voss (gewählt am 12.11.2019)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
 
 ## Mitgliederversammlung 2022
@@ -73,7 +73,7 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Theo Voss (gewählt am 12.11.2019)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
 
 ## Mitgliederversammlung 2021
@@ -95,7 +95,7 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Theo Voss (gewählt am 12.11.2019)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
 
 ## Mitgliederversammlung 2020
@@ -117,7 +117,7 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Theo Voss (gewählt am 12.11.2019)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
 
 ## Mitgliederversammlung 2019
@@ -138,7 +138,7 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Theo Voss (gewählt am 12.11.2019)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
 
 ## Mitgliederversammlung 2018
@@ -160,7 +160,7 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Sebastian Abt (gewählt am 24.11.2017)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
 
 ## Gründungsveranstaltung 2017
@@ -182,5 +182,5 @@ Des Weiteren sind die folgenden Kassenprüfer gewählt:
 
 - Sebastian Abt (gewählt am 24.11.2017)
 - Kay Rechthien (gewählt am 24.11.2017)
-- Magnus Frühling (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
 
