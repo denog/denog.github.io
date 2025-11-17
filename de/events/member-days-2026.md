@@ -40,7 +40,8 @@ Die Member Days richten sich an Mitglieder, die sich aktiv im Verein engagieren 
 
 Teilnehmerkreis: Exklusiv für Vereinsmitglieder; Fördermitglieder können mit einer Person teilnehmen.
 
-DENOG stellt die Unterkunft und Verpflegung. Dabei trägt der Verein die Kosten für ein Bett im Zweibettzimmer. Ein Upgrade auf ein Einzelzimmer ist auf eigene Kosten möglich.
+DENOG stellt die Unterkunft und Verpflegung. Eine Übernachtung im Einzelzimmer im Tagungshotel ist auf eigene Kosten (20€ p.P.) möglich.
+
 
 An- und Abreise tragen die Teilnehmenden.
 
