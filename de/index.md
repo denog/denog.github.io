@@ -31,7 +31,9 @@ redirect_from: "/"
 
                 <article>
                     <h4>DENOG17 Videos</h4>
-                    <a href="https://www.youtube.com/denog" class="btn btn-custom-default pull-right">YouTube <i class="ion-arrow-right-c"></i></a>
+                    <br /> 
+                    <br /> 
+                    <a href="https://www.youtube.com/denog" class="btn btn-custom-default pull-right">YouTube <i class="ion-arrow-right-c"></i></a><br />
                     <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
