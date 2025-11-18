@@ -30,9 +30,9 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>DENOG17 Agenda</h4>
-                    <p>Have a look at the Agenda for DENOG17! </p><br />
-                    <a href="/de/meetings/denog17/agenda.html" class="btn btn-custom-default pull-right">DENOG17 Agenda <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG17 Videos</h4>
+                    <a href="https://www.youtube.com/denog" class="btn btn-custom-default pull-right">YouTube <i class="ion-arrow-right-c"></i></a>
+                    <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
 

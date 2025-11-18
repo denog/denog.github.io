@@ -18,6 +18,7 @@ Table of contents:
 <li><a href="#expectations-for-pc-members">Expectations for PC members</a></li>
 <li><a href="#elections">Elections</a></li>
 <li><a href="#candidates-2025">Candidates 2025</a></li>
+<li><a href="#winners-2025">Winners 2025</a></li>
 </ul>
 
 # Members of the Programme Committee
@@ -487,5 +488,14 @@ involved in peering and interconnection.
 </tr>
 </table>
 
+
+## Winners 2025
+We are happy to announce the winners of the PC Vote: 
+
+<ul>
+<li>Florian Hibler</li>
+<li>Vanessa Gaube</li>
+<li>Wolfgang Tremmel</li>
+</ul>
 
 <br /><br />

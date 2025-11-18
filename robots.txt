@@ -1,5 +1,13 @@
 User-agent: *
 Disallow: /de/chatterliste_iframe.html
+Disallow: /de/meetings/denog25/attendees.html
+Disallow: /de/meetings/denog24/attendees.html
+Disallow: /de/meetings/denog23/attendees.html
+Disallow: /de/meetings/denog22/attendees.html
+Disallow: /de/meetings/denog21/attendees.html
+Disallow: /de/meetings/denog20/attendees.html
+Disallow: /de/meetings/denog19/attendees.html
+Disallow: /de/meetings/denog18/attendees.html
 Disallow: /de/meetings/denog17/attendees.html
 Disallow: /de/meetings/denog16/attendees.html
 Disallow: /de/meetings/denog15/attendees.html
