@@ -1,6 +1,6 @@
 ---
 title: Programme Committee 2026
-layout: conference
+layout: page
 lang: de
 year: 2026
 ---
