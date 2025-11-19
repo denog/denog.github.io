@@ -62,12 +62,16 @@
 				"text": "Events",
 				"childs": [
 					{
+						"url": "events/pc.html",
+						"text": "Programme Committee"
+					},
+					{
 						"url": "events/denog_recap_video.html",
 						"text": "DENOG Recap Videos"
 					},
 					{
 						"url": "archiv.html",
-						"text": "Alle Veranstaltungen"
+						"text": "All Events"
 					}
 				]
 			},
