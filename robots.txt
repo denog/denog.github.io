@@ -25,3 +25,4 @@ Disallow: /de/meetings/denog4/attendees.html
 Disallow: /de/meetings/denog3/attendees.html
 Disallow: /de/meetings/denog2/attendees.html
 Disallow: /de/meetings/denog1/attendees.html
+Disallow: /pretix-attendeelist/
