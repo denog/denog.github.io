@@ -37,7 +37,7 @@ Folgenden Personen sind aktuell Kassenprüfer im Verein:
 |----------------------|------------------|
 | Theo Voss            | 12.11.2019       |
 | Kay Rechthien        | 24.11.2017       |
-| Magnus Frühling      | 24.11.2017       |
+| Anna Frühling        | 24.11.2017       |
 
 
 ## Fördermitglieder
