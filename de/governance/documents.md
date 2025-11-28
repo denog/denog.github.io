@@ -27,6 +27,11 @@ ref: Documents
 
 ## Mitgliederversammlungen
 
+### Mitgliederversammlung 2025
+- Einladung Mitgliederversammlung 2025: [ [Einladung] ](/files/gov/20251030_DENOG_eV_Mitgliederversammlung_2025_Einladung.pdf)
+- Slidedeck: [ [Slidedeck] ](/files/gov/20251127_DENOG_eV_Mitgliederversammlung_2025_Slidedeck.pdf)
+<br><br>
+
 ### Mitgliederversammlung 2024
 - Einladung Mitgliederversammlung 2024: [ [Einladung] ](/files/gov/20241029_DENOG_Mitgliederversammlung2024_Einladung.pdf)
 - Slidedeck incl. Abstimmungsergebnisse: [ [Slidedeck] ](/files/gov/Mitgliederversammlung_2024-Slidedeck.pdf)
