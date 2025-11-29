@@ -52,3 +52,23 @@ Möchtest Du auch ordentliches oder förderndes <a href="become_sustaining_membe
 
 <a href="documents.html" class="btn btn-custom-default">Dokumente & Verordnungen <i class="ion-arrow-right-c"></i></a>
 
+## Spenden
+
+Der Verein DENOG e.V. ist gemeinnützig und kann Zuwendungsbestätigungen ausstellen
+
+<b>Umfang der Steuerbefreiung</b><br />
+Die Körperschaft ist teilweise nach § 5 Abs. 1 Nr. 9 KStG von der Körperschaftsteuer befreit.
+
+<b>Hinweise zu steuerbegünstigten Zwecken</b><br />
+Die Körperschaft fördert im Sinne der §§ 51 ff. AO ausschließlich und unmittelbar folgende gemeinnützige Zwecke:
+
+- Förderung von Wissenschaft und Forschung (§ 52 Abs. 2 Satz 1 Nr. 1 AO)
+- Förderung der Volks- und Berufsbildung einschließlich der Studentenhilfe (§ 52 Abs. 2 Satz 1 Nr. 7 AO)
+
+<b>Hinweis zur zur Ausstellung von Zuwendungsbestätigungen</b><br />
+Die Körperschaft ist berechtigt, für Spenden, die ihr zur Verwendung für diese
+Zwecke zugewendet werden, Zuwendungsbestätigungen nach amtlich vorgeschriebenem
+Vordruck (§ 50 Abs. 1 EStDV) auszustellen. 
+
+Möchtest Du spenden? Dann schreib uns bitte an zwecks Bankdverbindung und Zuwendungsbestätigung: <a href="mailto:spende@denog.de" class="btn btn-custom-default">spende(at)denog.de <i class="ion-arrow-right-c"></i></a>
+
