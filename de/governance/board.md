@@ -10,6 +10,28 @@ Der Vorstand besteht, wie in der Satzung definiert, aus 1. Vorsitzende:n, 2. Vor
 Die Vorstandsmitglieder werden von der Mitgliederversammlung für einen Zeitraum von zwei Jahren gewählt. Weitere Informationen finden sich in der aktuell gültigen [Satzung](documents.html).
 
 
+## Mitgliederversammlung 2025
+
+Seit der Mitgliederversammlung am 27.11.2025 setzt sich der Vorstand wie folgt zusammen:
+
+1. Vorstand: Patrick Bußmann (gewählt am 27.11.2025 für zwei Jahre / Wahl in ungeraden Jahren)
+2. Vorstand: Moritz Frenzel (gewählt am 28.11.2024 für zwei Jahre / Wahl in geraden Jahren)
+
+Kassenwart: Tim Kleefass (gewählt am 27.11.2025 für zwei Jahre / Wahl in ungeraden Jahren)
+
+Beisitz:
+- Janina Fassbender (gewählt am 27.11.2025 für zwei Jahre / Wahl in ungeraden Jahren)
+- Florian Hibler (gewählt am 28.11.2024 für zwei Jahre / Wahl in geraden Jahren)
+- Nicol Nógrádi (gewählt am 28.11.2024 für zwei Jahre / Wahl in geraden Jahren)
+
+
+Des Weiteren sind die folgenden Kassenprüfer gewählt:
+
+- Theo Voss (gewählt am 12.11.2019)
+- Kay Rechthien (gewählt am 24.11.2017)
+- Anna Frühling (gewählt am 24.11.2017)
+
+
 ## Mitgliederversammlung 2024
 
 Seit der Mitgliederversammlung am 28.11.2024 setzt sich der Vorstand wie folgt zusammen:

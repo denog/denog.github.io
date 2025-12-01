@@ -18,10 +18,10 @@ Seit der Mitgliedersammlung am 28.11.2024 setzt sich der Vorstand wie folgt zusa
 
 | Vorstandsposten | Aktuelle Besetzung   | Gewählt     | Wahlperiode                 |
 |-----------------|----------------------|-------------|-----------------------------|
-| 1. Vorstand     | Patrick Bußmann      | 23.11.2023  | Wahl in ungeraden Jahren    |
+| 1. Vorstand     | Patrick Bußmann      | 27.11.2025  | Wahl in ungeraden Jahren    |
 | 2. Vorstand     | Moritz Frenzel       | 28.11.2024  | Wahl in geraden Jahren      |
-| Kassenwart:in   | Tim Kleefass         | 23.11.2023  | Wahl in ungeraden Jahren    |
-| Beisitzer:in    | Janina Fassbender    | 23.11.2023  | Wahl in ungeraden Jahren    |
+| Kassenwart:in   | Tim Kleefass         | 27.11.2025  | Wahl in ungeraden Jahren    |
+| Beisitzer:in    | Janina Fassbender    | 27.11.2025  | Wahl in ungeraden Jahren    |
 | Beisitzer:in    | Florian Hibler       | 28.11.2024  | Wahl in geraden Jahren      |
 | Beisitzer:in    | Nicol Nógrádi        | 28.11.2024  | Wahl in geraden Jahren      |
 
