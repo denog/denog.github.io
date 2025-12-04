@@ -13,8 +13,8 @@ order: 0
 
 <br />
 
-<!-- <img src="{{ site.url }}/images/meetings/denog18/denog18_banner.jpg" alt="DENOG18 Banner" width="400px" class="img-fluid">
-<br /> -->
+<img src="{{ site.url }}/images/meetings/denog18/denog18_banner.jpg" alt="DENOG18 Banner" width="400px" class="img-fluid">
+<br /> 
 
 <center>
     <h1>DENOG18 will take place from November 15th to 17th 2026 in Essen!</h1>

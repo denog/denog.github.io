@@ -11,7 +11,7 @@ redirect_from: "/"
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-sm-12">
-                             <a href="/de/meetings/denog17/"><img src="{{ site.url }}/images/meetings/denog17/denog17_banner.jpg" id="mainpagelogo" /></a>
+                             <a href="/de/meetings/denog18/"><img src="{{ site.url }}/images/meetings/denog18/denog18_banner.jpg" id="mainpagelogo" /></a>
                         </div>
                         <div class="col-md-6 col-sm-12">
                         <h2 class="mainpageboxheadline">Unterstütze den DENOG e.V.</h2>
