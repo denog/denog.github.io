@@ -73,7 +73,6 @@ redirect_from: "/"
                     <a href="/de/meetings/denog17/tickets.html" class="btn btn-custom-default pull-right">Register (Tickets) <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
--->
 
                 <article>
                     <h4>DENOG Recap Videos</h4>
@@ -82,21 +81,22 @@ redirect_from: "/"
                 <br>
                 </article> 
 
-<!--
                 <article>
                     <h4>DENOG17: Important dates</h4>
                     <p>We have published the timeline with important dates for the upcoming DENOG17, November 9th to 11th</p>
                     <a href="/de/meetings/denog17/important_dates.html" class="btn btn-custom-default pull-right">Important Dates <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article> 
+-->
 
                 <article>
-                    <h4>DENOG Meetup Wolfsburg</h4>
-                    <p>Wir freuen uns auf unser viertes Meetup in 2025 bei Wobcom in Wolfsburg am 21.05.</p><br />
-                    <a href="/de/events/meetup-2025-04.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                    <h4>DENOG Meetup Köln</h4>
+                    <p>Wir freuen uns auf unser erstes Meetup in 2026 bei Plusnet in Köln am 03.03.</p><br />
+                    <a href="/de/events/meetup-2026-01.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
+<!--
                 <article>
                     <h4>Videos der Meetups</h4>
                     <p>... findest Du im Nachgang auf youtube: </p><br /><br />
