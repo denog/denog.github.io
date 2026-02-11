@@ -6,18 +6,19 @@ ref: wg
 
 # DENOG Working Groups
 
-Working Groups sind themenspezifische Arbeitsgruppen der Community. Sie setzen sich aus Mitgliedern und Interessierten zusammen, wobei die Teilnahme explizit nicht auf Mitglieder der DENOG beschränkt ist.
+Working Groups sind themenspezifische Arbeitskreise (nach §11 der [Satzung](/de/governance/documents.html)) der Community. Sie setzen sich aus Mitgliedern und Interessierten zusammen, wobei die Teilnahme explizit nicht auf Mitglieder der DENOG beschränkt ist.
 
 ## Welcome Group WG (in Gründung)
-Die **Welcome Group WG** (WGWG) ist eine in Gründung befindliche Arbeitsgruppe, die sich zum Ziel gesetzt hat, den Einstieg sowohl in die DENOG-Community, Konferenz, als auch in die Netzwerktechnologien im allgemeinen zu erleichtern. 
+Die **Welcome Group WG** (WGWG) ist eine in Gründung befindliche Arbeitsgruppe, die sich zum Ziel gesetzt hat, den Einstieg sowohl in die DENOG-Community, DENOG-Konferenz, als auch in die Netzwerktechnologien im Allgemeinen zu erleichtern. 
 
 Sie plant u.a. in Form von Dokumentation, Lern- und Lehrmaterial, Mentoring, als auch Workshops- und Vernetzungsmöglichkeiten den Einsteig in Internet, Netzwerk und Community zu erleichtern.
 
 ## Routing WG
 Unser langfristiges Ziel ist es, das Internet durch die Verbreitung von Best Common Practices (BCPs) **stabiler, sicherer und nachhaltiger** zu gestalten. Dies gilt sowohl für erfahrene Engineers als auch für die, für die dieser Bereich technisch neu ist. 
 
-Der technische Schwerpunkt liegt auf der Route Filterung in der Default Free Zone (DFZ). Dies lässt sich leicht auf benachbarte Bereiche wie Control Plane & Forwarding Filtering (Data Plane), Grundlagen des Carrier-Designs, Schulungen und Präsentationen ausweiten. Die Hauptaufgabe der Arbeitsgruppe besteht darin, Menschen zusammenzubringen, diese BCPs zu diskutieren, zu reviewen und zu veröffentlichen. 
-eiträge sind für alle über Github PRs möglich.
+Der technische Schwerpunkt liegt auf der Filterung von Routen in der Default Free Zone (DFZ). Dies lässt sich leicht auf benachbarte Bereiche wie Control Plane & Forwarding Filter (Data Plane), Grundlagen des Carrier-Designs, Schulungen und Präsentationen ausweiten. Die Hauptaufgabe der Arbeitsgruppe besteht darin, Menschen zusammenzubringen, diese BCPs zu diskutieren, zu reviewen und zu veröffentlichen. 
+
+Beiträge sind für alle über Github PRs möglich.
 
 | Was? | Wo & Wie? |
 | - | - |
@@ -44,7 +45,7 @@ Im Fokus stehen jene spezifischen Herausforderungen und Fragestellungen, die auf
 | - | - |
 | Mailingliste/Google Group | [https://groups.google.com/a/denog.de/g/denog-wg-access ](https://groups.google.com/a/denog.de/g/denog-wg-access ) |
 | - | - |
-| Matrix/Chat Room | [#denog-wg-access:matrix.org](https://matrix.to/#/#denog-wg-access:matrix.or) |
+| Matrix/Chat Room | [#denog-wg-access:matrix.org](https://matrix.to/#/#denog-wg-access:matrix.org) |
 | - | - |
 | Published Content | [access.denog.de](https://access.denog.de) |
 | - | - |
@@ -59,7 +60,7 @@ Im Fokus stehen jene spezifischen Herausforderungen und Fragestellungen, die auf
 ## Weitere Working Groups:
 - WG Member Days
 - WG Event
-- WG Program Committee
+- [Programme Committee](/de/events/pc.html)
 - WG Diversity
 - WG IT
 - WG Matrix/Kommunikations Platform
