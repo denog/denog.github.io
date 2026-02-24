@@ -40,13 +40,6 @@ redirect_from: "/"
                 <br>
                 </article> 
 
-                <article>
-                    <h4>Videos der Meetups</h4>
-                    <p>... findest Du im Nachgang auf youtube: </p><br /><br />
-                    <a href="https://youtube.com/denog" class="btn btn-custom-default pull-right">youtube.com/denog <i class="ion-arrow-right-c"></i></a>
-                <br>
-                </article> 
-
 <!--
                 <article>
                     <h4>DENOG17 Call for Papers open!</h4>
@@ -92,9 +85,16 @@ redirect_from: "/"
 -->
 
                 <article>
-                    <h4>DENOG Meetup Köln</h4>
+                    <h4>DENOG Meetup 2026-01 in Köln</h4>
                     <p>Wir freuen uns auf unser erstes Meetup in 2026 bei Plusnet in Köln am 03.03.</p><br />
                     <a href="/de/events/meetup-2026-01.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br>
+                </article>
+
+                <article>
+                    <h4>DENOG Meetup 2026-02 am Bodensee</h4>
+                    <p>Unser zweites Meetup findet am 26.03. am Bodensee bei Nesevo statt. </p><br />
+                    <a href="/de/events/meetup-2026-02.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br>
                 </article>
 
