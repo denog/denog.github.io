@@ -17,7 +17,7 @@ We are planning with the following timeline. As with any organisation of a large
 
 
 | ---------------- | --------------------- | ----------------------------------------------------------------------- | 
-| Monday           | May 11th              | Ticket shop opens                                                       |
+| Monday           | May 11th              | Ticket shop opens, sending vouchers to members                          |
 | Monday           | May 11th              | Call for Papers open                                                    |
 | <b>Monday</b>    | <b>June 1st</b>       | <b>Sponsoring packages announced</b>                                    |
 | Monday           | June 15th             | Acceptance period for new sustaining members for sponsoring             |
