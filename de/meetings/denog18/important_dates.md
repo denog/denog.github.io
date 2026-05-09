@@ -8,6 +8,35 @@ meeting: DENOG18
 order: 11
 ---
 
+
+# Important Dates
+
+We are planning with the following timeline. As with any organisation of a large conference, there may be postponements. 
+
+<big style="color: red">Subject to change!</big>
+
+
+| ---------------- | --------------------- | ----------------------------------------------------------------------- | 
+| Monday           | May 11th              | Ticket shop opens                                                       |
+| Monday           | May 11th              | Call for Papers open                                                    |
+| <b>Monday</b>    | <b>June 1st</b>       | <b>Sponsoring packages announced</b>                                    |
+| Monday           | June 15th             | Acceptance period for new sustaining members for sponsoring             |
+| Monday           | June 22rd             | Sponsoring presale starts, patron members have exclusive access         |
+| Monday           | June 29th             | Sponsoring end of patron members exclusive access                       |
+| Monday           | June 29th             | Sponsoring packages are generally available                             |
+| <b>Friday</b>    | <b>July 3rd</b>       | <b>End of early bird ticket sale</b>                                    |
+| Monday           | July 6th              | Sponsoring end of reservation periode                                   |
+| <b>Thursday</b>  | <b>August 3rd</b>     | <b>End of CFP</b>                                                       |
+| Monday           | September 25th        | Publishing of Agenda                                                    | 
+| Monday           | October 2nd           | Workshop registration opens                                             |
+| Thurdsday        | October 23rd          | End of ticket sale with guaranteed t-shirt and social                   |
+| Friday           | October 23rd          | Last day to pay with bank transfer & SEPA debit                         |
+| Friday           | November 13th         | Last day to modify you order (name, ASN, IRC name, etc.)                |
+| <b>Sunday</b>    | <b>November 15th</b>  | <b>Workshops; Pre-Social</b>                                            |
+| <b>Monday</b>    | <b>November 16th</b>  | <b>Conference; Social</b>                                               |
+| <b>Tuesday</b>   | <b>November 17th</b>  | <b>Conference</b>                                                       |
+
+
 # Timetable
 
 Our timetable for the conference is not yet finalised. With the realisation last year we assume the following times, which we have written down for your orientation. 
@@ -274,34 +303,6 @@ Our timetable for the conference is not yet finalised. With the realisation last
 </table>
 
 --> 
-
-# Important Dates
-
-We are planning with the following timeline. As with any organisation of a large conference, there may be postponements. 
-
-<big style="color: red">Subject to change!</big>
-
-
-| ---------------- | --------------------- | ----------------------------------------------------------------------- | 
-| Monday           | May 11th              | Publish of timeline                                                     |
-| Monday           | May 11th              | Ticket shop opens                                                       |
-| Monday           | May 11th              | Call for Papers open                                                    |
-| <b>Monday</b>    | <b>June 1st</b>       | <b>Sponsoring packages announced</b>                                    |
-| Monday           | June 15th             | Acceptance period for new sustaining members for sponsoring             |
-| Monday           | June 22rd             | Sponsoring presale starts, patron members have exclusive access         |
-| Monday           | June 29th             | Sponsoring end of patron members exclusive access                       |
-| Monday           | June 29th             | Sponsoring packages are generally available                             |
-| <b>Friday</b>    | <b>July 3rd</b>       | <b>End of early bird ticket sale</b>                                    |
-| Monday           | July 6th              | Sponsoring end of reservation periode                                   |
-| <b>Thursday</b>  | <b>August 3rd</b>     | <b>End of CFP</b>                                                       |
-| Monday           | September 25th        | Publishing of Agenda                                                    | 
-| Monday           | October 2nd           | Workshop registration opens                                             |
-| Thurdsday        | October 23rd          | End of ticket sale with guaranteed t-shirt and social                   |
-| Friday           | October 23rd          | Last day to pay with bank transfer & SEPA debit                         |
-| Friday           | November 13th         | Last day to modify you order (name, ASN, IRC name, etc.)                |
-| <b>Sunday</b>    | <b>November 15th</b>  | <b>Workshops; Pre-Social</b>                                            |
-| <b>Monday</b>    | <b>November 16th</b>  | <b>Conference; Social</b>                                               |
-| <b>Tuesday</b>   | <b>November 17th</b>  | <b>Conference</b>                                                       |
 
 
 <br /><br /><br />
