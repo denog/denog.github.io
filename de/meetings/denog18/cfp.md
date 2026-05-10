@@ -130,12 +130,16 @@ If you have any questions or requests concerning presentation submissions, pleas
 
 # Who should submit
 
-DENOG18 is open to everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
+DENOG18 is open to everyone, regardless of gender, gender identity and
+expression, age, sexual orientation, disability, physical appearance, body
+size, race, ethnicity, religion (or lack thereof), or technology choices.
+We judge your submissions solely upon the submission guidelines. 
 
-We judge your submissions solely upon the submission guidelines. DENOG18 also
-welcomes first-time speakers and can offer feedback and help with perfecting
-accepted talks. If you're unsure do not hesitate to reach out to the PC during
-the CFP.
+## Newcomers & first-time speakers
+
+DENOG explicitly encourages and welcomes first-time speakers and newcomers.
+If you are unsure whether your presentation fits into our programm do not hesitate to reach out to the PC during the Call for presentations. 
+In case your proposal gets accepeted we offer feedback and support to perfect your presentation.
 
 # Questions
 
