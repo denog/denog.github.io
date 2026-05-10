@@ -17,8 +17,8 @@ Table of contents:
 <li><a href="#members-of-the-programme-committee">Members of the Programme Committee</a></li>
 <li><a href="#expectations-for-pc-members">Expectations for PC members</a></li>
 <li><a href="#elections">Elections</a></li>
-<li><a href="#candidates-2025">Candidates 2025</a></li>
-<li><a href="#winners-2025">Winners 2025</a></li>
+<!-- <li><a href="#candidates-2026">Candidates 2026</a></li>
+<li><a href="#winners-2026">Winners 2026</a></li> -->
 </ul>
 
 # Members of the Programme Committee
