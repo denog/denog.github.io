@@ -90,8 +90,8 @@ your workshop.
 
 To appeal to a wide international audience, we ask you to keep the spoken
 language of your presentation to English and also submit your slides in
-English. If you do not feel comfortable or able to present in English, please
-reach out to the program committee.
+English, if that is possible for you. 
+If the talk would benefit from being held in other languages (usually german), please reach out to the program committee.
 
 If a workshop’s audience permits switching to any other language it is at the
 presenter’s discretion to choose English or German.
