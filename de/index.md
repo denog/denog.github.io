@@ -60,9 +60,9 @@ redirect_from: "/"
                 <article>
                     <h4>DENOG17 Videos</h4>
                     <br /> 
-                    <a href="https://www.youtube.com/denog" class="btn btn-custom-default pull-right">YouTube <i class="ion-arrow-right-c"></i></a><br />
+                    <a href="https://www.youtube.com/playlist?list=PLgJN7Up-XnKSROBIsuOZdmMV4d-rTosQP" class="btn btn-custom-default pull-right">YouTube DENOG17 <i class="ion-arrow-right-c"></i></a><br />
                     <br /> 
-                    <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a>
+                    <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de DENOG17 <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
 
