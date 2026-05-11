@@ -35,9 +35,9 @@ order: 0
 <!--  <a href="cfp.html">Call for Papers</a><br />
   <a href="agenda.html">Agenda</a><br /> --> 
   <a href="social.html">Social Event</a><br /> 
-<!--  <a href="orga.html">Orga Team & PC</a><br /> 
-  <a href="sponsoring.html">Sponsoring</a><br /> 
-  <a href="speaker.html">Speaker Information</a><br /> --> 
+<!--  <a href="orga.html">Orga Team & PC</a><br />  --> 
+  <a href="sponsoring.html">Sponsoring</a><br />  
+<!--  <a href="speaker.html">Speaker Information</a><br /> --> 
  </td>
  <td>
 <!--  <a href="participation.html">How to participate</a><br /> -->
