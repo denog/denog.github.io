@@ -13,7 +13,7 @@ order: 0
 
 <br />
 
-<img src="{{ site.url }}/images/meetings/denog18/denog18_banner.jpg" alt="DENOG17 Banner" width="400px" class="img-fluid">
+<img src="{{ site.url }}/images/meetings/denog18/denog18_banner.jpg" alt="DENOG18 Banner" width="400px" class="img-fluid">
 <br />
 
 <center>

@@ -15,10 +15,13 @@ We are planning with the following timeline. As with any organisation of a large
 
 <big style="color: red">Subject to change!</big>
 
+<a href="{{ site.url }}/images/meetings/denog18/denog18_timeline.jpeg"><img src="{{ site.url }}/images/meetings/denog18/denog18_timeline.jpeg" alt="DENOG18 Timeline" width="800px" class="img-fluid"></a>
+
+
 
 | ---------------- | --------------------- | ----------------------------------------------------------------------- | 
 | Monday           | May 11th              | Ticket shop opens, sending vouchers to members                          |
-| Monday           | May 11th              | Call for Papers open                                                    |
+| Tuesday          | May 12th              | Call for Papers open                                                    |
 | <b>Monday</b>    | <b>June 1st</b>       | <b>Sponsoring packages announced</b>                                    |
 | Monday           | June 15th             | Acceptance period for new sustaining members for sponsoring             |
 | Monday           | June 22rd             | Sponsoring presale starts, patron members have exclusive access         |
@@ -26,10 +29,10 @@ We are planning with the following timeline. As with any organisation of a large
 | Monday           | June 29th             | Sponsoring packages are generally available                             |
 | <b>Friday</b>    | <b>July 3rd</b>       | <b>End of early bird ticket sale</b>                                    |
 | Monday           | July 6th              | Sponsoring end of reservation periode                                   |
-| <b>Thursday</b>  | <b>August 3rd</b>     | <b>End of CFP</b>                                                       |
-| Monday           | September 25th        | Publishing of Agenda                                                    | 
-| Monday           | October 2nd           | Workshop registration opens                                             |
-| Thurdsday        | October 23rd          | End of ticket sale with guaranteed t-shirt and social                   |
+| <b>Tuesday</b>   | <b>August 4th</b>     | <b>End of CFP</b>                                                       |
+| Saturday         | September 12th        | Talks Sneak Preview, Workshop Agenda published                          |
+| Friday           | September 25th        | Talks Agenda published                                                  | 
+| Thurdsday        | October 23rd          | End of pre ticket sale with guaranteed t-shirt and social               |
 | Friday           | October 23rd          | Last day to pay with bank transfer & SEPA debit                         |
 | Friday           | November 13th         | Last day to modify you order (name, ASN, IRC name, etc.)                |
 | <b>Sunday</b>    | <b>November 15th</b>  | <b>Workshops; Pre-Social</b>                                            |
