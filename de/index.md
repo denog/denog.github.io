@@ -32,120 +32,161 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>DENOG17 Videos</h4>
-                    <br /> 
-                    <a href="https://www.youtube.com/denog" class="btn btn-custom-default pull-right">YouTube <i class="ion-arrow-right-c"></i></a><br />
-                    <br /> 
-                    <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a>
-                <br>
+                    <h4>Start your DENOG18 planning!</h4>
+                    <p>Please find here the preliminary </p><br />
+                    <br />
+                    <a href="/de/meetings/denog18/important_dates.html" class="btn btn-custom-default pull-right">Timeline for DENOG18 <i class="ion-arrow-right-c"></i></a>
+                <br />
                 </article> 
 
-<!--
+                <article>
+                    <h4>Ticketshpop open</h4>
+                    <p>The ticket shop is open with early bird tickets until 3rd of July </p><br />
+                    <a href="/de/meetings/denog18/tickets.html" class="btn btn-custom-default pull-right">Register for DENOG18 <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
+<!-- 
+                <article>
+                    <h4>DENOG18 Call for Papers open!</h4>
+                    <p>We have opened the Call for Papers for DENOG18 in November in Essen! </p><br />
+                    <a href="/de/meetings/denog18/cfp.html" class="btn btn-custom-default pull-right">Call for Papers (CFP) <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+--> 
+
+                <br />
+
+                <article>
+                    <h4>DENOG17 Recap & Playlists</h4>
+                    <br /> 
+                    <a href="https://www.youtube.com/watch?v=xBGH0GnNgFo&list=PLgJN7Up-XnKSROBIsuOZdmMV4d-rTosQP" class="btn btn-custom-default pull-right">DENOG17 Recap <i class="ion-arrow-right-c"></i></a><br />
+                    <br /> 
+                    <a href="https://www.youtube.com/playlist?list=PLgJN7Up-XnKSROBIsuOZdmMV4d-rTosQP" class="btn btn-custom-default pull-right">YouTube <i class="ion-arrow-right-c"></i></a>&nbsp; &nbsp;
+                    <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
+                <article>
+                    <h4>DENOG Meetup 2026-03 in Darmstadt</h4>
+                    <p>Wir freuen uns auf unser drittes Meetup in 2026 bei Flexoptix in Darmstadt am 24.06.2026</p><br />
+                    <a href="/de/events/meetup-2026-03.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article>
+
+                <article>
+                    <h4>DENOG Meetup 2026-04 in Dresden</h4>
+                    <p>Unser viertes Meetup findet am 30.06. in Dresden bei SachsenGigabit statt</p><br />
+                    <a href="/de/events/meetup-2026-04.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
+<!-- 
                 <article>
                     <h4>DENOG17 Call for Papers open!</h4>
                     <p>We have opened the Call for Papers for DENOG17 in Essen! </p><br />
                     <a href="/de/meetings/denog17/cfp.html" class="btn btn-custom-default pull-right">Call for Papers (CFP) <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
 
                 <article>
                     <h4>DENOG Meetup Stuttgart</h4>
                     <p>Wir freuen uns auf unser sechtes Meetup in 2025 bei Nokia in Stuttgart am 02.07.</p><br />
                     <a href="/de/events/meetup-2025-06.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article>
 
                 <article>
                     <h4>DENOG Meetup Düsseldorf</h4>
                     <p>Wir freuen uns auf unser fünftes Meetup in 2025 bei sipgate in Düsseldorf am 17.06.</p><br />
                     <a href="/de/events/meetup-2025-05.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article>
 
                 <article>
                     <h4>DENOG17 Ticket Sale open!</h4>
                     <p>We have opened the ticket sale for DENOG17 in Essen! </p><br />
                     <a href="/de/meetings/denog17/tickets.html" class="btn btn-custom-default pull-right">Register (Tickets) <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
 
                 <article>
                     <h4>DENOG Recap Videos</h4>
                     <p>Here we want to go back in time with you and remember or introduce you to our DENOG conferences: </p>
                     <a href="/de/events/denog_recap_video.html" class="btn btn-custom-default pull-right">DENOG Recap Videos <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
 
                 <article>
                     <h4>DENOG17: Important dates</h4>
                     <p>We have published the timeline with important dates for the upcoming DENOG17, November 9th to 11th</p>
                     <a href="/de/meetings/denog17/important_dates.html" class="btn btn-custom-default pull-right">Important Dates <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
--->
 
                 <article>
                     <h4>DENOG Meetup 2026-01 in Köln</h4>
                     <p>Wir freuen uns auf unser erstes Meetup in 2026 bei Plusnet in Köln am 03.03.</p><br />
                     <a href="/de/events/meetup-2026-01.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article>
 
                 <article>
                     <h4>DENOG meets ATNOG Meetup Bodensee</h4>
                     <p>Unser zweites Meetup findet am 26.03. zusammen mit ATNOG am Bodensee bei Nesevo statt. </p><br />
                     <a href="/de/events/meetup-2026-02.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
 
+-->
 <!--
                 <article>
                     <h4>Videos der Meetups</h4>
                     <p>... findest Du im Nachgang auf youtube: </p><br /><br />
                     <a href="https://youtube.com/denog" class="btn btn-custom-default pull-right">youtube.com/denog <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
 
                 <article>
                     <h4>DENOG@ instagram</h4>
                     <p>We are pleased that you will follow us at </p><br />
                     <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
 
                 <article>
                     <h4>DENOG Meetup Berlin</h4>
                     <p>Wir freuen uns auf unser drittes Meetup in 2025 bei IPB in Berlin</p>
                     <a href="/de/events/meetup-2025-03.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article>
 
                 <article>
                     <h4>DENOG Meetup Dortmund</h4>
                     <p>Wir freuen uns auf unser zweites Meetup in 2025 bei rrbone in Dortmund</p>
                     <a href="/de/events/meetup-2025-02.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article>
 
                 <article>
                     <h4>DENOG Meetup Frankfurt</h4>
                     <p>Wir freuen uns auf unser erstes Meetup in 2025 bei Xantaro in Frankfurt</p>
                     <a href="/de/events/meetup-2025-01.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article>
 
                 <article>
                     <h4>Member Days 2025</h4>
                     <p>Hier treffen sich aktive und interessierte Mitglieder des DENOG e.V. für zwei Tage in Kassel</p>
                     <a href="/de/events/member-days-2025.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article>
 
                 <article>
                     <h4>DENOG@ instagram</h4>
                     <p>We are pleased that you will follow us at </p><br /><br />
                     <a href="https://www.instagram.com/denog.de/" class="btn btn-custom-default pull-right"><i class="ion-social-instagram"></i> instagram <i class="ion-arrow-right-c"></i></a>
-                <br>
+                <br />
                 </article> 
 -->
 

@@ -40,23 +40,23 @@
 				]
 			},
 			{
-				"url": "meetings/denog17/index.html",
-				"text": "DENOG17 - 2025",
+				"url": "meetings/denog18/index.html",
+				"text": "DENOG18 - 2026",
 				"childs": [
 					{
-						"url": "meetings/denog17/index.html",
+						"url": "meetings/denog18/index.html",
 						"text": "About"
 					},
 					{
-						"url": "meetings/denog17/important_dates.html",
+						"url": "meetings/denog18/important_dates.html",
 						"text": "Important Dates"
 					},
 					{
-						"url": "meetings/denog17/tickets.html",
+						"url": "meetings/denog18/tickets.html",
 						"text": "Register (Tickets)"
 					},
 					{
-						"url": "meetings/denog17/sponsoring.html",
+						"url": "meetings/denog18/sponsoring.html",
 						"text": "Sponsoring"
 					}
 				]
