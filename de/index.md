@@ -46,14 +46,12 @@ redirect_from: "/"
                 <br />
                 </article> 
 
-<!-- 
                 <article>
                     <h4>DENOG18 Call for Papers open!</h4>
                     <p>We have opened the Call for Papers for DENOG18 in November in Essen! </p><br />
                     <a href="/de/meetings/denog18/cfp.html" class="btn btn-custom-default pull-right">Call for Papers (CFP) <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
---> 
 
                 <br />
 
