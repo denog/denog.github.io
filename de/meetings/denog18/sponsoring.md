@@ -24,6 +24,7 @@ order: 17
 | 2026-06-22  11:00 | Presale starts, patron members have exclusive access |
 | 2026-06-29  10:59 | End of exclusive access for patron members           |
 | 2026-06-29  11:00 | Sponsoring packages are generally available          |
+| 2026-07-06  11:00 | Sponsoring end of reservation period                 |
 
 
 <!-- 
