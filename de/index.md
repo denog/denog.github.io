@@ -40,7 +40,7 @@ redirect_from: "/"
                 </article> 
 
                 <article>
-                    <h4>Ticketshpop open</h4>
+                    <h4>Ticket Shop open!</h4>
                     <p>The ticket shop is open with early bird tickets until 3rd of July </p><br />
                     <a href="/de/meetings/denog18/tickets.html" class="btn btn-custom-default pull-right">Register for DENOG18 <i class="ion-arrow-right-c"></i></a>
                 <br />
