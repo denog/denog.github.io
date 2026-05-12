@@ -6,7 +6,6 @@ year: 2026
 city: Essen
 meeting: DENOG18
 order: 12
-hide: yes
 ---
 
 <br />
