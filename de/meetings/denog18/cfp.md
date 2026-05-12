@@ -12,7 +12,7 @@ order: 12
 
 <br />
 
-<b>Please submit talks and workshops via <a href="https://https://cfp.denog.de/denog18/cfp">https://cfp.denog.de/denog18/cfp</a></b>
+<b>Please submit talks and workshops via <a href="https://cfp.denog.de/denog18/cfp">https://cfp.denog.de/denog18/cfp</a></b>
 
 The 18th meeting of the German Network Operators Group (DENOG) will take place
 November 15th to 17th 2026 (all timings are in CET/UTC+1) in Essen, Germany!
