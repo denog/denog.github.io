@@ -12,7 +12,7 @@ order: 12
 
 <br />
 
-<b>Please submit talks and workshops via <a href="https://pretalx.com/denog18/cfp">https://pretalx.com/denog18/cfp</a></b>
+<b>Please submit talks and workshops via <a href="https://https://cfp.denog.de/denog18/cfp">https://cfp.denog.de/denog18/cfp</a></b>
 
 The 18th meeting of the German Network Operators Group (DENOG) will take place
 November 15th to 17th 2026 (all timings are in CET/UTC+1) in Essen, Germany!
@@ -115,7 +115,7 @@ and must not be solely promotional for your employer. We will not accept
 product or company marketing talks.
 
 To submit a proposal for a presentation, we request that you submit your talk
-at https://pretalx.com/denog18/cfp.
+at https://cfp.denog.de/denog18/cfp.
 
 The programme committee collects  all submissions up until the deadline for
 this CfP. In the following weeks, the programme committee collectively reviews
@@ -147,4 +147,4 @@ Should you require a personal contact please contact Franziska Lichtblau (franzi
 
 
 
-<b>Please submit talks and workshops via <a href="https://pretalx.com/denog18/cfp">https://pretalx.com/denog18/cfp</a></b>
+<b>Please submit talks and workshops via <a href="https://cfp.denog.de/denog18/cfp">https://cfp.denog.de/denog18/cfp</a></b>
