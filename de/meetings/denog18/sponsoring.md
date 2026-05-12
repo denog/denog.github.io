@@ -19,11 +19,11 @@ order: 17
 
 | Date (CEST)       |                                                      |
 |-------------------|------------------------------------------------------|
-| 2025-06-01        | Sponsoring packages announced                        |
-| 2025-06-15  23:59 | Acceptance period for new sustaining members ends    |
-| 2025-06-22  11:00 | Presale starts, patron members have exclusive access |
-| 2025-06-29  10:59 | End of exclusive access for patron members           |
-| 2025-06-29  11:00 | Sponsoring packages are generally available          |
+| 2026-06-01        | Sponsoring packages announced                        |
+| 2026-06-15  23:59 | Acceptance period for new sustaining members ends    |
+| 2026-06-22  11:00 | Presale starts, patron members have exclusive access |
+| 2026-06-29  10:59 | End of exclusive access for patron members           |
+| 2026-06-29  11:00 | Sponsoring packages are generally available          |
 
 
 <!-- 
