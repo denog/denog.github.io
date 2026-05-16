@@ -14,3 +14,4 @@ order: 26
 </iframe>
 <br> 
 *Use of the personal information above is governed by German data protection legislation. Prior consent from the owner is required before that information can be used. Note: These details are intended to enhance networking opportunities between attendees and should not be used for commercial purposes.*
+
