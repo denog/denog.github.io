@@ -29,10 +29,10 @@ Table of contents:
 | <a href="#florian">Florian Hibler</a>                   | DENOG e.V. / Arista        | 2025 - 2028 |
 | <a href="#franziska">Franziska Lichtblau [Co-Chair]</a> | SAP SE                     |             |
 | <a href="#nico">Nico von Thadden</a>                    | PFALZKOM GmbH              | 2024 - 2027 |
-| <a href="#sebastian">Sebastian Becker [Co-Chair]</a>    | Deutsche Telekom           |             |
-| <a href="#stefan">Stefan Wahl</a>                       | route128                   |             |
+| <a href="#sebastian">Sebastian Becker [Co-Chair]</a>    | Deutsche Telekom           | ... - 2026  |
+| <a href="#stefan">Stefan Wahl</a>                       | route128                   | ... - 2026  |
 | <a href="#theo">Theo Voss</a>                           | Inter.link                 | 2024 - 2027 |
-| <a href="#tim">Tim Kleefass</a>                         | DENOG e.V. / DE-CIX        |             |
+| <a href="#tim">Tim Kleefass</a>                         | DENOG e.V. / DE-CIX        | ... - 2026  |
 | <a href="#vanessa">Vanessa Gaube</a>                    | DB Fernverkehr             | 2025 - 2028 |
 | <a href="#wolfgang">Wolfgang Tremmel</a>                | DE-CIX                     | 2025 - 2028 |
 
@@ -331,12 +331,12 @@ You can run for the PC until DENOG Conference Day 1 (Monday) 20:00 CET.
 <b>Voting is open until Friday, November 14th, 23:59 CET.</b>
 -->
 
-<!-- 
 ## Candidates 2026
 
-In 2026 we are filling three seats. TODO are stepping down.
+In 2026 we are filling three seats. Sebastian Becker, Stefan Wahl and Tim Kleefass are stepping down.
 
 
+<!-- 
 ## Winners 2025
 We are happy to announce the winners of the PC Vote: 
 
