@@ -79,3 +79,12 @@ Docu: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyl
 
 Install: https://jekyllrb.com/tutorials/using-jekyll-with-bundler/
 
+```
+brew install ruby
+echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+source ~/.zshrc
+
+gem install bundler -v 4.0.11
+bundle _4.0.11_ install
+bundle _4.0.11_ exec jekyll serve
+```
