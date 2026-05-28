@@ -79,6 +79,27 @@ redirect_from: "/"
                 <br />
                 </article> 
 
+                <article>
+                    <h4>DENOG Meetup 2026-05 in Düsseldorf</h4>
+                    <p>Hurra, unser fünftes Meetup findet am 09.07. in Düsseldorf bei conet statt</p><br />
+                    <a href="/de/events/meetup-2026-05.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
+                <article>
+                    <h4>DENOG Meetup 2026-06 in Berlin</h4>
+                    <p>Unser sechstes Meetup findet am 02.07. in Berlin bei Deutsche Bahn/DB InfraGO @ cube berlin Megaport statt</p><br />
+                    <a href="/de/events/meetup-2026-06.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
+                <article>
+                    <h4>DENOG Meetup 2026-08 in Stuttgart</h4>
+                    <p>Next Meetup - iam 19.08. in Stuttgart bei Nokia</p><br />
+                    <a href="/de/events/meetup-2026-08.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
 <!-- 
                 <article>
                     <h4>DENOG17 Call for Papers open!</h4>
