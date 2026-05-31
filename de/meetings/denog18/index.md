@@ -1,6 +1,6 @@
 ---
 title: DENOG18 - Start
-date: 2025-11-15
+date: 2026-11-15
 layout: conference
 lang: de
 year: 2026
