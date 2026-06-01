@@ -30,7 +30,7 @@ Packages can be reserved for up to 14 days, thereafter they will become generall
 DENOG Patron members have exclusive access to all packages in the first week of the sale.
 Packages are sold on a "first come, first serve" basis.
 
-<a href="/files/denog17/DENOG17_Sponsoring_Packages_v1.pdf" class="btn btn-custom-default">Sponsoring Packages<i class="ion-arrow-right-c"></i></a>
+<a href="/files/denog18/DENOG18_Sponsoring_Packages_v1.pdf" class="btn btn-custom-default">Sponsoring Packages<i class="ion-arrow-right-c"></i></a>
 
 
 ## Timeline
