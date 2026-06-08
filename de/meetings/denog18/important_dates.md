@@ -32,7 +32,7 @@ We are planning with the following timeline. As with any organisation of a large
 | <b>Tuesday</b>   | <b>August 4th</b>     | <b>End of CFP</b>                                                       |
 | Saturday         | September 12th        | Talks Sneak Preview, Workshop Agenda published                          |
 | Friday           | September 25th        | Talks Agenda published                                                  | 
-| Thurdsday        | October 23rd          | End of pre ticket sale with guaranteed t-shirt and social               |
+| Friday           | October 23rd          | End of pre ticket sale with guaranteed t-shirt and social               |
 | Friday           | October 23rd          | Last day to pay with bank transfer & SEPA debit                         |
 | Friday           | November 13th         | Last day to modify you order (name, ASN, IRC name, etc.)                |
 | <b>Sunday</b>    | <b>November 15th</b>  | <b>Workshops; Pre-Social</b>                                            |
