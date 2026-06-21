@@ -44,6 +44,14 @@ Packages are sold on a "first come, first serve" basis.
 | 2026-06-29  11:00 | Sponsoring packages are generally available          |
 | 2026-07-06  11:00 | Sponsoring end of reservation period                 |
 
+## Reservations
+
+**Reservations will be available at 2026-06-22 11:00 CEST, patron members initially have exclusive access! Reservations are possible for everyone.**
+
+Packages can be ordered using the form below or by folowing [this link](https://forms.gle/nhCb8qgkRFyhdv5e6).
+Please note that this page will show an error before the presale start, this is intentional.
+
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf-vrDcUxS0iQaKjZYzEXauh8i1iQi5PDBZrX_rtkTbKeFMig/viewform?embedded=true" width="640" height="2489" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe>
 
 <br/>
 <br/>
