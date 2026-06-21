@@ -15,8 +15,6 @@ order: 17
 
 # Sponsoring
 
-# Sponsoring
-
 Are you interested in sponsoring DENOG18? Please feel free to contact our sponsoring team by mail [sponsoring@denog.de](mailto:sponsoring@denog.de).
 We are always happy to assist you with any other questions regarding the conference.
 We look forward to DENOG18 onsite and remote together with you!
