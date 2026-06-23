@@ -14,7 +14,8 @@ Als Fördermitglied des DENOG e.V. können Sie zeigen, dass Ihr Unternehmen die 
 Das bereitgestellte Logo darf ausschließlich zur Darstellung der Fördermitgliedschaft beim DENOG e.V. verwendet werden. Bitte ändern Sie das Logo nicht in Form, Farbe oder
 Proportionen. Bei Fragen zur Nutzung oder für individuelles Material wenden Sie sich bitte an <a href="vorstand@denog.de">vorstand@denog.de</a>.
 
-
+- <a href="/images/DENOG_eV_sustaining_member.png">DENOG_eV_sustaining_member.png</a>
+- <a href="/images/DENOG_eV_sustaining_member.svg">DENOG_eV_sustaining_member.svg</a>
 
 # Beispieltext für Ihre Webseite 
 ## Deutsche Version
