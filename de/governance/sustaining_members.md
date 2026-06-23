@@ -25,7 +25,6 @@ ref: Association
 - NLix (seit 06/2022)
 - noscito network GmbH (seit 08/2022)
 - nesevo (seit 10/2022)
-- Uniberg (seit 11/2022)
 - Nokia (seit 11/2022)
 - Exaring AG (seit 11/2022)
 - lukas.expert GmbH (seit 11/2022)
@@ -33,7 +32,6 @@ ref: Association
 - Akamai (seit 02/2023)
 - Equinix (seit 04/2023)
 - Xantaro (seit 06/2023)
-- level66.network (seit 06/2023)
 - TKRZ Stadtwerke (seit 11/2023)
 - Smartoptics (seit 01/2024)
 - EXA Infrastructure (seit 05/2024)
@@ -44,6 +42,11 @@ ref: Association
 - htp GmbH (seit 01/2025)
 - AtlasEdge (seit 06/2025)
 - miriquidi networks GmbH (seit 06/2025)
+- BelWü (Uni Stuttgart) (seit 07/2025)
+- Senko Advanced Components (seit 07/2025)
+- STORDIS GmbH (seit 07/2025)
+- Plusnet GmbH (seit 03/2026)
+- Telekom Deutschland GmbH (seit 04/2026)
 
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
