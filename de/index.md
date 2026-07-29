@@ -65,6 +65,7 @@ redirect_from: "/"
                 <br />
                 </article> 
 
+<!--
                 <article>
                     <h4>DENOG Meetup 2026-03 in Darmstadt</h4>
                     <p>Wir freuen uns auf unser drittes Meetup in 2026 bei Flexoptix in Darmstadt am 24.06.2026</p><br />
@@ -92,6 +93,7 @@ redirect_from: "/"
                     <a href="/de/events/meetup-2026-06.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
+-->
 
                 <article>
                     <h4>DENOG Meetup 2026-07 in Frankfurt am Main</h4>
@@ -103,6 +105,13 @@ redirect_from: "/"
                 <article>
                     <h4>DENOG Meetup 2026-08 in Stuttgart</h4>
                     <p>Next Meetup - am 19.08. in Stuttgart bei Nokia</p><br />
+                    <a href="/de/events/meetup-2026-08.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
+                <article>
+                    <h4>DENOG Meetup 2026-09 in Düsseldorf</h4>
+                    <p>Next Meetup - am 19.09. in Düsseldorf bei Sipgate</p><br />
                     <a href="/de/events/meetup-2026-08.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
