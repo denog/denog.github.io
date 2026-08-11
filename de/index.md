@@ -47,15 +47,6 @@ redirect_from: "/"
                 </article> 
 
                 <article>
-                    <h4>DENOG18 Call for Papers open!</h4>
-                    <p>We have opened the Call for Papers for DENOG18 in November in Essen! </p><br />
-                    <a href="/de/meetings/denog18/cfp.html" class="btn btn-custom-default pull-right">Call for Papers (CFP) <i class="ion-arrow-right-c"></i></a>
-                <br />
-                </article> 
-
-                <br />
-
-                <article>
                     <h4>DENOG17 Recap & Playlists</h4>
                     <br /> 
                     <a href="https://www.youtube.com/watch?v=xBGH0GnNgFo&list=PLgJN7Up-XnKSROBIsuOZdmMV4d-rTosQP" class="btn btn-custom-default pull-right">DENOG17 Recap <i class="ion-arrow-right-c"></i></a><br />
@@ -64,6 +55,8 @@ redirect_from: "/"
                     <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
+
+                <br />
 
 <!--
                 <article>
