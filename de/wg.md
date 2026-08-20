@@ -8,10 +8,18 @@ ref: wg
 
 Working Groups sind themenspezifische Arbeitskreise (nach §11 der [Satzung](/de/governance/documents.html)) der Community. Sie setzen sich aus Mitgliedern und Interessierten zusammen, wobei die Teilnahme explizit nicht auf Mitglieder der DENOG beschränkt ist.
 
-## Welcome Group WG (in Gründung)
-Die **Welcome Group WG** (WGWG) ist eine in Gründung befindliche Arbeitsgruppe, die sich zum Ziel gesetzt hat, den Einstieg sowohl in die DENOG-Community, DENOG-Konferenz, als auch in die Netzwerktechnologien im Allgemeinen zu erleichtern. 
+## Welcome Group WG
+Die **Welcome Group WG** (WGWG) ist eine in Entstehung befindliche Arbeitsgruppe, die sich zum Ziel gesetzt hat, den Einstieg sowohl in die DENOG-Community, DENOG-Konferenz, als auch in die Netzwerktechnologien im Allgemeinen zu erleichtern. 
 
 Sie plant u.a. in Form von Dokumentation, Lern- und Lehrmaterial, Mentoring, als auch Workshops- und Vernetzungsmöglichkeiten den Einsteig in Internet, Netzwerk und Community zu erleichtern.
+
+| Was? | Wo & Wie? |
+| - | - |
+| Matrix/Chat Room | [#denog-wg-routing:matrix.org](https://matrix.to/#/#denog-wg-routing:matrix.org) |
+| - | - |
+| Co-Chairs/Kontakt | [Vanessa Gaube](mailto:vanessa@denog.de) & ... |
+| - | - |
+| Sprache | Deutsch |
 
 ## Routing WG
 Unser langfristiges Ziel ist es, das Internet durch die Verbreitung von Best Common Practices (BCPs) **stabiler, sicherer und nachhaltiger** zu gestalten. Dies gilt sowohl für erfahrene Engineers als auch für die, für die dieser Bereich technisch neu ist. 
