@@ -32,6 +32,13 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>Termine der Routing Working Group Online!</h4>
+                    <p>Diese findest Du nun parallel zu den Meetup Terminen bei allen Events </p>
+                    <a href="/de/events/wg-routing-2026-03.html" class="btn btn-custom-default pull-right">Hier gehts zum nächsten <i class="ion-arrow-right-c"></i></a>
+                <br />
+                </article> 
+
+                <article>
                     <h4>Start your DENOG18 planning!</h4>
                     <p>Please find here the preliminary </p><br />
                     <br />
