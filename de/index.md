@@ -111,7 +111,7 @@ redirect_from: "/"
 
                 <article>
                     <h4>DENOG Meetup 2026-09 in Düsseldorf</h4>
-                    <p>Next Meetup - am 19.09. in Düsseldorf bei Sipgate</p><br />
+                    <p>Next Meetup - am 09.09. in Düsseldorf bei Sipgate</p><br />
                     <a href="/de/events/meetup-2026-09.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
