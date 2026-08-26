@@ -7,18 +7,17 @@ ref: Documents
 # Dokumente
 
 ## Vereinsordnungen & Öffentliche Dokumente
-- [Satzung (Stand: 27.11.2025) ](/files/verein/20251127_DENOGev_Satzung_1-2_FINAL.pdf)
-- [Beitragsordnung (Stand: 10.11.2020) ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf)
-- [Aufnahmeordnung (Stand: 16.10.2018) ](/files/gov/20181015_Version1-0-Aufnahmeordnung-DENOG-e-V.pdf)<br>
+- [Satzung (Stand: 27.11.2025) ](/files/verein/20251127_DENOGev_Satzung_1-2_FINAL.pdf) / [translated Articles of Association ](/files/verein/satzung-de-en_20251127.pdf)
+- [Beitragsordnung (Stand: 10.11.2020) ](/files/gov/20201110_DENOG_Beitragsordnung FINAL 20201110.pdf) / [translated Fee Schedule ](/files/verein/beitragsordnung-de-en_20201110.pdf)
+- [Aufnahmeordnung (Stand: 16.10.2018) ](/files/gov/20181015_Version1-0-Aufnahmeordnung-DENOG-e-V.pdf) / [translated Admission Rules ](/files/verein/aufnahmeordnung-de-en_20181015.pdf)<br>
 
+- [(Förder-) Mitglied werden oder Stammdaten ändern / Become a (sustaining) Member or change data ](/de/governance/become_member.html)
 
 - [Geschäftsordnung des Vorstandes v1.1 (Stand: 19.11.2024) ](/files/gov/20241119 - Version 1.1 Geschäftsordnung für den Vorstand DENOG.pdf)
 - [Guidance DENOG Jahreskonferenzvergabe Version 1.0 (Stand: 10.11.2020) ](/files/gov/20201110 - DENOG Konferenz - Konferenz Wahl & Anforderung - Final 1.0.pdf)
 - [Reisekosten Regelung DENOG e.V. (Stand: 22.04.2021) ](/files/gov/20210422 DENOG eV Reisekostenregelung Final.pdf)
-- [Änderung an den Stammdaten oder neues SEPA-Basis-Lastschriftmandat ](/files/verein/Aenderungen_Mitglied_v04_20240108.pdf)
 
-- [Mitglied werden ](/de/governance/become_member.html)
-- [Fördermitglied werden ](/de/governance/become_sustaining_member.html)
+
 
 ## Code of Conduct
 - [Code of Conduct (Stand: 28.11.2024) ](/files/gov/DENOG_Code_of_Conduct_1.0_-_Final.pdf)<br>
