@@ -4,7 +4,7 @@ date: 2026-11-16
 layout: page
 lang: de
 year: 2026
-city: Remote
+city: Essen
 meeting: WG Routing - Meeting @DENOG18
 meeting_type: wg
 home: true
