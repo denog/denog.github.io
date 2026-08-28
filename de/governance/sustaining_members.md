@@ -87,6 +87,7 @@ Learn more at: www.denog.de
 - STORDIS GmbH (seit 07/2025)
 - Plusnet GmbH (seit 03/2026)
 - Telekom Deutschland GmbH (seit 04/2026)
+- Hilco IP Services (seit 07/2026) 
 
 
 <a href="become_sustaining_member.html" class="btn btn-custom-default">Fördermitglied werden <i class="ion-arrow-right-c"></i></a>
