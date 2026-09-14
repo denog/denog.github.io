@@ -107,7 +107,6 @@ redirect_from: "/"
                     <a href="/de/events/meetup-2026-08.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
--->
 
                 <article>
                     <h4>DENOG Meetup 2026-09 in Düsseldorf</h4>
@@ -115,6 +114,7 @@ redirect_from: "/"
                     <a href="/de/events/meetup-2026-09.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
+-->
 
                 <article>
                     <h4>DENOG Meetup 2026-10 in Nürnberg</h4>
