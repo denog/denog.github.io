@@ -12,6 +12,14 @@ order: 12
 
 <br />
 
+<hr>
+<br />
+
+<b><span style="color:red">The CFP is closed. Find our Sneak Preview and Agenda <a href="agenda.html">here</a></span></b>.
+
+<br />
+<hr>
+
 <b>Please submit talks and workshops via <a href="https://cfp.denog.de/denog18/cfp">https://cfp.denog.de/denog18/cfp</a></b>
 
 The 18th meeting of the German Network Operators Group (DENOG) will take place

@@ -13,7 +13,7 @@ order: 13
 <br />
 <br />
 <br />
-<big><b>Sneak Preview: <a href="https://cfp.denog.de/denog18/featured/">https://cfp.denog.de/denog18/featured/</a></b></big><br />
+<big>Hey, we are happy to show you our <br /><b>Sneak Preview: <a href="https://cfp.denog.de/denog18/featured/">https://cfp.denog.de/denog18/featured/</a></b></big><br />
 
 <!-- <big>Here is the Agenda (with already the Workshops):</big>
 
