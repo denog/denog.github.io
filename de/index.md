@@ -32,6 +32,12 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
+                    <h4>DENOG18 Workshop Registration</h4>
+                    <p>The Registration for the Workshops is open - for attendees with an onsite ticket </p><br />
+                    <a href="/de/meetings/denog18/workshop_registration.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
+                </article> 
+
+                <article>
                     <h4>Termine der Routing Working Group Online!</h4>
                     <p>Diese findest Du nun parallel zu den Meetup Terminen bei allen Events </p>
                     <a href="/de/events/wg-routing-2026-03.html" class="btn btn-custom-default pull-right">Hier gehts zum nächsten <i class="ion-arrow-right-c"></i></a>
