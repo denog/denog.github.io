@@ -13,9 +13,10 @@ order: 13
 <br />
 <br />
 <br />
-<big>Hey, we are happy to show you our <br /><b>Sneak Preview: <a href="https://cfp.denog.de/denog18/featured/">https://cfp.denog.de/denog18/featured/</a></b></big><br />
+<big>Hey, we are happy to show you our <br />
+<b>Sneak Preview: <a href="https://cfp.denog.de/denog18/featured/">https://cfp.denog.de/denog18/featured/</a></b></big><br />
 
-<!-- <big>Here is the Agenda (with already the Workshops):</big>
+<big>and our <b><a href="https://cfp.denog.de/denog18/schedule/">Agenda</a></b>:</big>
 
 <pretalx-schedule event-url="https://cfp.denog.de/denog18/" locale="en" format="list" style="--pretalx-clr-primary: #3aa57c"></pretalx-schedule>
 <noscript>
@@ -26,4 +27,4 @@ order: 13
         </div>
     </div>
 </noscript>
--->
+
