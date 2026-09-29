@@ -33,8 +33,15 @@ redirect_from: "/"
 
                 <article>
                     <h4>DENOG18 Workshop Registration</h4>
+                    <br />
                     <p>The Registration for the Workshops is open - for attendees with an onsite ticket </p><br />
                     <a href="/de/meetings/denog18/workshop_registration.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
+                </article> 
+
+                <article>
+                    <h4>Agenda for DENOG18 in Essen published!</h4>
+                    <p>Please find our Agenda online </p><br />
+                    <a href="/de/meetings/denog18/agenda.html" class="btn btn-custom-default pull-right">Agenda DENOG18 <i class="ion-arrow-right-c"></i></a>
                 </article> 
 
                 <article>
@@ -47,7 +54,6 @@ redirect_from: "/"
                 <article>
                     <h4>Start your DENOG18 planning!</h4>
                     <p>Please find here the preliminary </p><br />
-                    <br />
                     <a href="/de/meetings/denog18/important_dates.html" class="btn btn-custom-default pull-right">Timeline for DENOG18 <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
