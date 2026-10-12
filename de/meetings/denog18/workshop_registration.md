@@ -13,7 +13,7 @@ order: 24
 <br>
 <h1>Workshop Registration</h1><br>
 
-The workshop day of the DENOG18 conference takes place on Sunday the 15th of November 2025 in Essen.
+The workshop day of the DENOG18 conference takes place on Sunday the 15th of November 2026 in Essen.
 Please register if you want to attend a workshop, as we have a limited number of seats.
 If a workshop is full, you can join the waiting list. When a seat frees up, you will get an email and need to acknowledge that you want to take that seat.
 
