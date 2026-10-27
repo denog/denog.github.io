@@ -32,7 +32,6 @@ ref: Documents
 - Protokoll Mitgliederversammlung 2025: [ [Protokoll] ](/files/gov/20251127_Protokoll_Mitgliederversammlung-DENOG_e_V_2025_final.pdf)
 - <b>Anhänge</b>
   - [ Bericht der Kassenprüfer ](/files/gov/Mitgliederversammlung_2025-Kassenpruefer_innen.pdf)
-Mitgliederversammlung_2025-Kassenpruefer_innen.pdf
 <br><br>
 
 ### Mitgliederversammlung 2024
