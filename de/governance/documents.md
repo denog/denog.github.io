@@ -29,6 +29,10 @@ ref: Documents
 ### Mitgliederversammlung 2025
 - Einladung Mitgliederversammlung 2025: [ [Einladung] ](/files/gov/20251030_DENOG_eV_Mitgliederversammlung_2025_Einladung.pdf)
 - Slidedeck: [ [Slidedeck] ](/files/gov/20251127_DENOG_eV_Mitgliederversammlung_2025_Slidedeck.pdf)
+- Protokoll Mitgliederversammlung 2025: [ [Protokoll] ](/files/gov/20251127_Protokoll_Mitgliederversammlung-DENOG_e_V_2025_final.pdf)
+- <b>Anhänge</b>
+  - [ Bericht der Kassenprüfer ](/files/gov/Mitgliederversammlung_2025-Kassenpruefer_innen.pdf)
+Mitgliederversammlung_2025-Kassenpruefer_innen.pdf
 <br><br>
 
 ### Mitgliederversammlung 2024
