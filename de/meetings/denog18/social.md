@@ -17,6 +17,9 @@ group. A couple days before the event, you'll receive an email with your
 restaurant details, group members' names, and your Table Captain's contact
 info.
 
+<b>New feature</b>: This year, you can send messages to everyone at your table,
+for example to organize carpools or agree on a meeting point.
+
 Please arrive on time and inform us if you can’t make it. This initiative is
 all about mixing up usual groups and meeting new faces! Note that the event is
 self-paid, so be prepared to cover your dinner cost. If you don’t cancel by
