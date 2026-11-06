@@ -65,6 +65,23 @@ Im Fokus stehen jene spezifischen Herausforderungen und Fragestellungen, die auf
 | - | - |
 | Meetups/Events | WG Meeting @ DENOG Member Days (Q1 jedes Jahr) <br> WG Meeting @ DENOG Conference (Q4 jedes Jahr) <br>WG Meeting @ Online (TBD) |
 
+## Outreach WG
+Die **Outreach Working Group (WG)** ist eine DENOG-interne WG, welche sich der Positionierung des Vereins und dessen Kommunikation verschrieben hat.
+
+| Was? | Wo & Wie? |
+| - | - |
+| Mailingliste/Google Group | [https://groups.google.com/a/denog.de/g/wg-outreach](https://groups.google.com/a/denog.de/g/wg-outreach) |
+| - | - |
+| Matrix/Chat Room | [#denog-wg-outreach:matrix.org](https://matrix.to/#/#denog-wg-outreach:matrix.org) |
+| - | - |
+| Published Content | [www.denog.de](https://www.denog.de) |
+| - | - |
+| Co-Chairs | Carsten, Julius, Henry, Michael & Patrick |
+| - | - |
+| Sprache | Deutsch |
+| - | - |
+| Meetups/Events | @DENOG Member Days (in Q1) <br> @DENOG Conference (in Q4) <br> WG Meeting @Online |
+
 ## Weitere Working Groups:
 - WG Member Days
 - WG Event
@@ -72,4 +89,4 @@ Im Fokus stehen jene spezifischen Herausforderungen und Fragestellungen, die auf
 - WG Diversity
 - WG IT
 - WG Matrix/Kommunikations Platform
-- WG Outreach (in Gründung)
+- WG Meetup
