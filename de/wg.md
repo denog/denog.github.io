@@ -8,18 +8,58 @@ ref: wg
 
 Working Groups sind themenspezifische Arbeitskreise (nach §11 der [Satzung](/de/governance/documents.html)) der Community. Sie setzen sich aus Mitgliedern und Interessierten zusammen, wobei die Teilnahme explizit nicht auf Mitglieder der DENOG beschränkt ist.
 
-## Welcome Group WG
-Die **Welcome Group WG** (WGWG) ist eine in Entstehung befindliche Arbeitsgruppe, die sich zum Ziel gesetzt hat, den Einstieg sowohl in die DENOG-Community, DENOG-Konferenz, als auch in die Netzwerktechnologien im Allgemeinen zu erleichtern. 
 
-Sie plant u.a. in Form von Dokumentation, Lern- und Lehrmaterial, Mentoring, als auch Workshops- und Vernetzungsmöglichkeiten den Einsteig in Internet, Netzwerk und Community zu erleichtern.
+- [Access WG](#access-wg)
+- Diversity WG
+- Event WG
+- IT WG
+- Matrix/Kommunikations Platform WG
+- Member Days WG
+- [Outreach (in Gründung) WG](#outreach-wg)
+- [Routing WG](#routing-wg)
+- [Welcome Group WG](#welcome-group-wg)
+- [Programme Committee](/de/events/pc.html)
+
+
+## Access WG
+Die **Working Group (WG) Access** soll ein dediziertes Forum für den Austausch und die Erarbeitung von Lösungen rund um nationale Themen im Bereich der Internet Service Provider (ISP) und Access-Infrastrukturen in Deutschland schaffen. 
+
+Im Fokus stehen jene spezifischen Herausforderungen und Fragestellungen, die aufgrund  nationaler Regularien, Gesetzeslagen oder einzigartiger Marktbedingungen nicht in der allgemeinen Standard-Literatur oder in internationalen Foren behandelt werden.
 
 | Was? | Wo & Wie? |
 | - | - |
-| Matrix/Chat Room | [#denog-wg-routing:matrix.org](https://matrix.to/#/#denog-wg-routing:matrix.org) |
+| Mailingliste/Google Group | [https://groups.google.com/a/denog.de/g/denog-wg-access ](https://groups.google.com/a/denog.de/g/denog-wg-access ) |
 | - | - |
-| Co-Chairs/Kontakt | [Vanessa Gaube](mailto:vanessa@denog.de) & ... |
+| Matrix/Chat Room | [#denog-wg-access:matrix.org](https://matrix.to/#/#denog-wg-access:matrix.org) |
+| - | - |
+| Published Content | [access.denog.de](https://access.denog.de) |
+| - | - |
+| Github Repo | [github.com/denog/denog-wg-access](https://github.com/denog/denog-wg-access) |
+| - | - |
+| Co-Chairs | [Andreas Kimpfler](mailto:andreas@denog.de) & Christian Giese |
+| - | - |
+| Sprache | Deutsch (Primär), Englisch  |
+| - | - |
+| Meetups/Events | WG Meeting @ DENOG Member Days (Q1 jedes Jahr) <br> WG Meeting @ DENOG Conference (Q4 jedes Jahr) <br>WG Meeting @ Online (TBD) |
+
+
+## Outreach WG
+Die **Outreach Working Group (WG)** ist eine DENOG-interne WG, welche sich der Positionierung des Vereins und dessen Kommunikation verschrieben hat.
+
+| Was? | Wo & Wie? |
+| - | - |
+| Mailingliste/Google Group | [https://groups.google.com/a/denog.de/g/wg-outreach](https://groups.google.com/a/denog.de/g/wg-outreach) |
+| - | - |
+| Matrix/Chat Room | [#denog-wg-outreach:matrix.org](https://matrix.to/#/#denog-wg-outreach:matrix.org) |
+| - | - |
+| Published Content | [www.denog.de](https://www.denog.de) |
+| - | - |
+| Co-Chairs | Carsten, Julius, Henry, Michael & Patrick |
 | - | - |
 | Sprache | Deutsch |
+| - | - |
+| Meetups/Events | @DENOG Member Days (in Q1) <br> @DENOG Conference (in Q4) <br> WG Meeting @Online |
+
 
 ## Routing WG
 Unser langfristiges Ziel ist es, das Internet durch die Verbreitung von Best Common Practices (BCPs) **stabiler, sicherer und nachhaltiger** zu gestalten. Dies gilt sowohl für erfahrene Engineers als auch für die, für die dieser Bereich technisch neu ist. 
@@ -44,49 +84,17 @@ Beiträge sind für alle über Github PRs möglich.
 | - | - |
 | Meetups/Events | WG Meeting @ DENOG Member Days (Q1 jedes Jahr) <br> WG Meeting @ DENOG Conference (Q4 jedes Jahr) <br> WG Guide Contributions via Hackathons (einmal pro Quartal) |
 
-## Access WG
-Die **Working Group (WG) Access** soll ein dediziertes Forum für den Austausch und die Erarbeitung von Lösungen rund um nationale Themen im Bereich der Internet Service Provider (ISP) und Access-Infrastrukturen in Deutschland schaffen. 
 
-Im Fokus stehen jene spezifischen Herausforderungen und Fragestellungen, die aufgrund  nationaler Regularien, Gesetzeslagen oder einzigartiger Marktbedingungen nicht in der allgemeinen Standard-Literatur oder in internationalen Foren behandelt werden.
+## Welcome Group WG
+Die **Welcome Group WG** (WGWG) ist eine in Entstehung befindliche Arbeitsgruppe, die sich zum Ziel gesetzt hat, den Einstieg sowohl in die DENOG-Community, DENOG-Konferenz, als auch in die Netzwerktechnologien im Allgemeinen zu erleichtern. 
 
-| Was? | Wo & Wie? |
-| - | - |
-| Mailingliste/Google Group | [https://groups.google.com/a/denog.de/g/denog-wg-access ](https://groups.google.com/a/denog.de/g/denog-wg-access ) |
-| - | - |
-| Matrix/Chat Room | [#denog-wg-access:matrix.org](https://matrix.to/#/#denog-wg-access:matrix.org) |
-| - | - |
-| Published Content | [access.denog.de](https://access.denog.de) |
-| - | - |
-| Github Repo | [github.com/denog/denog-wg-access](https://github.com/denog/denog-wg-access) |
-| - | - |
-| Co-Chairs | [Andreas Kimpfler](mailto:andreas@denog.de) & Christian Giese |
-| - | - |
-| Sprache | Deutsch (Primär), Englisch  |
-| - | - |
-| Meetups/Events | WG Meeting @ DENOG Member Days (Q1 jedes Jahr) <br> WG Meeting @ DENOG Conference (Q4 jedes Jahr) <br>WG Meeting @ Online (TBD) |
-
-## Outreach WG
-Die **Outreach Working Group (WG)** ist eine DENOG-interne WG, welche sich der Positionierung des Vereins und dessen Kommunikation verschrieben hat.
+Sie plant u.a. in Form von Dokumentation, Lern- und Lehrmaterial, Mentoring, als auch Workshops- und Vernetzungsmöglichkeiten den Einsteig in Internet, Netzwerk und Community zu erleichtern.
 
 | Was? | Wo & Wie? |
 | - | - |
-| Mailingliste/Google Group | [https://groups.google.com/a/denog.de/g/wg-outreach](https://groups.google.com/a/denog.de/g/wg-outreach) |
+| Matrix/Chat Room | [#denog-wg-routing:matrix.org](https://matrix.to/#/#denog-wg-routing:matrix.org) |
 | - | - |
-| Matrix/Chat Room | [#denog-wg-outreach:matrix.org](https://matrix.to/#/#denog-wg-outreach:matrix.org) |
-| - | - |
-| Published Content | [www.denog.de](https://www.denog.de) |
-| - | - |
-| Co-Chairs | Carsten, Julius, Henry, Michael & Patrick |
+| Co-Chairs/Kontakt | [Vanessa Gaube](mailto:vanessa@denog.de) & ... |
 | - | - |
 | Sprache | Deutsch |
-| - | - |
-| Meetups/Events | @DENOG Member Days (in Q1) <br> @DENOG Conference (in Q4) <br> WG Meeting @Online |
 
-## Weitere Working Groups:
-- WG Member Days
-- WG Event
-- [Programme Committee](/de/events/pc.html)
-- WG Diversity
-- WG IT
-- WG Matrix/Kommunikations Platform
-- WG Meetup
