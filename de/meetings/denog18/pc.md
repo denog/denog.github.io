@@ -333,6 +333,30 @@ offer fresh perspectives.
 
 
 <br />
+<h3 id="c_sebastian">Sebastian Becker [Co-Chair] (Deutsche Telekom)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_Sebastian_Becker.jpg" />
+</td>
+<td style="vertical-align:top">
+Sebastian joined Deutsche Telekom in January 2002. He worked his way through the 24/7
+shift NOC, last level support and configurations to engineering for AS3320 IP
+backbone. In 2019, after developing configurations and improving the BGP policy
+for AS3320 and taking on the role of Juniper Systems Engineer for the backbone,
+he took the next step and took on a role in product management. And here he is,
+the only Peering Manager for AS3320.<br /><br />
+
+He has been with DENOG since 2019, mostly behind the scenes, helping to organise
+the conferences and meetings.<br /><br />
+
+He is also co-chair of the RIPE Routing Working Group since 2025.
+</td>
+</tr>
+</table>
+
+
+<br />
 <h3 id="c_stefan">Stefan Wahl (route128)</h3>
 <table border=0>
 <tr>
