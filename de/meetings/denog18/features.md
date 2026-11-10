@@ -44,7 +44,7 @@ Rules:
 - Max. 3 job offers per company and/or attendee (no spam please!)
 - Name of on site attendee as locale contact must be included in every job offer
 - Send job offer(s) in PDF format to <a href="mailto:job-board@denog.de">job-board@denog.de</a>
-- Deadline for submission: Wednesday, November 11th 2025 11:59 pm 
+- Deadline for submission: Wednesday, November 11th 2026 11:59 pm 
 - DENOG will print the PDFs and hang them on the job board (pin boards) and also make them available to the online attendees in venueless
 - Please be aware, that we cannot accept any job offers printed by yourself or any other self service at the pin boards
 
