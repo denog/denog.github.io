@@ -52,16 +52,12 @@
 						"text": "Important Dates"
 					},
 					{
-						"url": "meetings/denog18/cfp.html",
-						"text": "Call for Papers (CFP)"
+						"url": "meetings/denog18/agenda.html",
+						"text": "Agenda"
 					},
 					{
 						"url": "meetings/denog18/tickets.html",
 						"text": "Register (Tickets)"
-					},
-					{
-						"url": "meetings/denog18/sponsoring.html",
-						"text": "Sponsoring"
 					}
 				]
 			},
