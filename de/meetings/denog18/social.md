@@ -33,6 +33,19 @@ For questions or changes you can contact us at <a href="mailto:event@denog.de">e
 
 Meeting peers, friends and new community members is a key part of each DENOG event. Join us for an exciting site, food and drinks!
 
-Please be patient for the location to be announced ... 
+Get Ready for the #DENOG18 Social Event! 🎉
+
+We've exclusively reserved the Deutsches Bergbau-Museum Bochum for you!
+
+📍 Location: Deutsches Bergbau-Museum Bochum <br/>
+🕖 When: Starting at 19:00 <br/>
+🚌 Getting There: Shuttle bus transfer to and from the venue. Parking is also available directly at the museum's main entrance. <br/>
+🎟️ Don’t forget to bring your conference badge! <br/>
+
+Please contact event@denog.de in advance if you have mobility restrictions or dietary requirements (other than vegetarian or vegan). Wheelchair-accessible transport can be arranged upon request.
+
+Join us for an unforgettable evening of networking, behind the scene, great conversations and fun in an iconic industrial setting!
+
+#DENOG18 #Networking #Dortmund #SocialEvent
 
 
