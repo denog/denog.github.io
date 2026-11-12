@@ -27,7 +27,7 @@ Table of contents:
 | <a href="#stefan">Stefan Wahl</a>                       | route128                   | TBD         |
 | <a href="#theo">Theo Voss</a>                           | Inter.link                 | 2024 - 2027 |
 | <a href="#tim">Tim Kleefass</a>                         | DENOG e.V. / DE-CIX        | TBD         |
-| <a href="#vanessa">Vanessa Gaube</a>                    | DB Fernverkehr             | 2025 - 2028 |
+| <a href="#vanessa">Vanessa Gaube</a>                    | DB InfraGo AG              | 2025 - 2028 |
 | <a href="#wolfgang">Wolfgang Tremmel</a>                | DE-CIX                     | 2025 - 2028 |
 
 
@@ -213,7 +213,7 @@ Global Network Design.
 
 
 <br />
-<h3 id="vanessa">Vanessa Gaube (DB Fernverkehr)</h3>
+<h3 id="vanessa">Vanessa Gaube (DB InfraGo AG)</h3>
 <table border=0>
 <tr>
 <td>
@@ -222,7 +222,7 @@ Global Network Design.
 <td style="vertical-align:top">
 <i>Pronouns: she/her </i><br /><br />
 
-Vanessa is 27 years old and has been active in the networking industry since
+Vanessa has been active in the networking industry since
 her studies, both in a professional and community context. In the past, she
 worked as a network engineer. In her current role as an infrastructure
 architect, she is responsible e.g. for the network architecture of trains.
