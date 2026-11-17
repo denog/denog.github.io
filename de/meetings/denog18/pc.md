@@ -409,14 +409,13 @@ offer fresh perspectives.
 <table border=0>
 <tr>
 <td>
-<!-- <img height="200px" src="/images/meetings/denog17/" />-->
+<img height="200px" src="/images/meetings/denog18/pc_moritz_jordan.jpg" />
 </td>
 <td style="vertical-align:top">
-I'd like to put myself forward as a candidate for the upcoming PC election.
-After talking with Wolfgang, I think this could be a good opportunity to get
-more involved in the DENOG community and contribute to the programme.<br /><br />
-I'm currently working at DE-CIX as a Software Engineer.
-Please let me know if you need some more information.
+I'd like to help keep the DENOG programme interesting and diverse, bringing in
+my perspective as a young networking enthusiast with a background in software
+engineering and network research. I'm eager to learn, contribute to the
+community, and help put together a great programme!
 </td>
 </tr>
 </table>
