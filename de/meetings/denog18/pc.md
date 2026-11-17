@@ -411,7 +411,7 @@ Please let me know if you need some more information.
 
 
 <br />
-<h3 id="c_rose">Rose Jacobsen</h3>
+<h3 id="c_rose">Rose Jacobsen (Pfalzkom)</h3>
 <table border=0>
 <tr>
 <td>
@@ -518,10 +518,9 @@ vote per candidate). Voting will open on DENOG Conference Day 2 (Tuesday) and
 close after the conference on Friday. The elected PC members will be announced
 on the DENOG list the following week.
 
-<!-- 
 We will use the Voting tool OpaVote. You will receive the email from "OpaVote
 Voting Link <noreply@opavote.com>" with the subject "Vote for DENOG PC".
--->
+
 
 ## Volunteering for the DENOG PC
 
@@ -530,16 +529,9 @@ DENOG events then you can do that by running for a seat on the PC. Please send
 an email with a picture and a short bio to pc@lists.denog.de.
 You can run for the PC until DENOG Conference Day 1 (Monday) 20:00 CET.
 
-<!-- 
-<b>Voting is open until Friday, November 14th, 23:59 CET.</b>
--->
+<b>Voting is open until Friday, November 20th, 20:00 CET.</b>
 
 <!-- 
-## Candidates 2026
-
-In 2026 we are filling three seats. TODO are stepping down.
-
-
 ## Winners 2025
 We are happy to announce the winners of the PC Vote: 
 
