@@ -310,6 +310,18 @@ the PC chairs and they will let you know the details.
 In 2026 we are filling three seats. Sebastian Becker, Stefan Wahl and Tim
 Kleefass are stepping down.
 
+| Name                                                    |
+|---------------------------------------------------------|
+| <a href="#c_kunsi">Franziska Kunsmann (Seibert Group)</a> |
+| <a href="#c_henry">Henry Schaefer (Verizon)</a> |
+| <a href="#c_jakob">Jakob Bork (SysEleven / secunet cloud)</a> |
+| <a href="#c_jan">Jan Walzer (Red Hat)</a> |
+| <a href="#c_moritz">Moritz Jordan (DE-CIX)</a> |
+| <a href="#c_rose">Rose Jacobsen (Pfalzkom)</a> |
+| <a href="#c_robin">Robin Christ (partimus)</a> |
+| <a href="#c_sebastian">Sebastian Becker [Co-Chair] (Deutsche Telekom)</a> |
+| <a href="#c_stefan">Stefan Wahl (route128)</a> | 
+
 
 <br />
 <h3 id="c_kunsi">Franziska Kunsmann (Seibert Group)</h3>
