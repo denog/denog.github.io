@@ -438,6 +438,21 @@ forward paths, to find their footing and encourage new perspectives on stage.
 
 
 <br />
+<h3 id="c_robin">Robin Christ (partimus)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog18/pc_robin_christ.jpeg" />
+</td>
+<td style="vertical-align:top">
+Robin is a 26-year-old Senior Network Engineer at partimus GmbH and specialist in EVPN and BGP. He is an active contributor to open source projects like FRR, VyOS and Proxmox. He began his career at 17 as a freelance software engineer before gradually moving into network engineering.<br /><br />
+Robin believes the networking field should invest far more in accessible learning materials and clear documentation, and he leads by example through open source documentation, blog articles, volunteer teaching at university, and talks like “EVPN for Humans” at DENOG18. On the PC, he would like to help bring more talks to DENOG that make complex topics genuinely understandable.
+</td>
+</tr>
+</table>
+
+
+<br />
 <h3 id="c_sebastian">Sebastian Becker [Co-Chair] (Deutsche Telekom)</h3>
 <table border=0>
 <tr>
@@ -481,28 +496,6 @@ He is an active member of the Internet community and regularly attends
 conferences and events. He is also active in Euro-IX as a board member, IXPDB
 and is co-chair of the RIPE Service Working Group. He is also a regular speaker
 at current affairs events.
-</td>
-</tr>
-</table>
-
-
-<br />
-<h3 id="c_tim">Tim Kleefass (DENOG e.V. / DE-CIX)</h3>
-<table border=0>
-<tr>
-<td>
-<img height="200px" src="/images/meetings/denog17/pc_tim_kleefass.jpg" />
-</td>
-<td style="vertical-align:top">
-Tim first got involved with the DENOG community at the DENOG2 conference and
-has been actively engaged in organizing DENOG conferences and meetups for many
-years. He has been a member of the Program Committee since 2019 and has served
-as the board’s treasurer since the end of 2023.<br /><br />
-
-In addition to his involvement with Stuttgart-IX, Tim’s professional journey
-has taken him through roles at BelWü, SWITCH, EXARING (waipu.tv), and OneFiber
-Interconnect. Since February 2024, he has been working at DE-CIX, currently as
-Head of Global Interconnection Platform.
 </td>
 </tr>
 </table>
