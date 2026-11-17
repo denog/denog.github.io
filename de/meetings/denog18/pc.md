@@ -312,6 +312,66 @@ Kleefass are stepping down.
 
 
 <br />
+<h3 id="c_kunsi">Franziska Kunsmann (Seibert Group)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog18/pc_franziska_kunsmann.jpg" />
+</td>
+<td style="vertical-align:top">
+I'm Franziska, currently working for Seibert Group as a mixture of IT, event
+tech and facility management. IT and networking has been a hobby of mine since
+2006, doing this for a living since 2019, which was also the year of my first
+DENOG conference.
+</td>
+</tr>
+</table>
+
+
+<br />
+<h3 id="c_henry">Henry Schaefer (Verizon)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog17/pc_henry_schaefer.jpg" />
+</td>
+<td style="vertical-align:top">
+For those who do not know me, my name is Henry Schäfer. I was born and live in Germany with my wife and daughter, currently in Berlin.<br /><br />
+For almost three decades I have been working in the Internet Industry, bringing extensive experience in IP Networking, spanning Engineering, Design, Core Network Planning, Interconnection/Peering, Product Development Support, and Product Management. I joined UUNET in 1999 and have since held various positions—initially focused on the EMEA region and International data networks, and later taking on a global scope, now at Verizon. I offer a strong balance of advanced technology acumen and business skills.<br /><br />
+I am running for the Program Committee because I care deeply about the Internet, including its operation, governance, and ensuring it remains a safe place for everyone. I believe my experience can contribute a diverse perspective from many angles to the committee.<br /><br />
+Outside of my professional life, I am an active enthusiast of road and off-road cycling, sailing, and skiing, and have recently taken up swimming.<br /><br />
+I would be pleased to support the DENOG community further, particularly in an elected position such as on the Program Committee.
+</td>
+</tr>
+</table>
+
+
+<br />
+<h3 id="c_jakob">Jakob Bork (SysEleven / secunet cloud)</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog18/pc_jakob_bork.jpg" />
+</td>
+<td style="vertical-align:top">
+Jakob completed his computer science studies this year at FU Berlin, TU
+Berlin, and HPI Potsdam. His research interests include Internet
+measurements as reflected in his master's thesis on measurements of
+services using MASQUE. That work is currently being peer-reviewed for
+publication.<br /><br />
+Jakob currently works as a network engineer at SysEleven / secunet cloud.<br /><br />
+He has participated in annual CCC events for more than a decade, and
+attended various community events in recent years, including DENOG,
+RIPE, and the BCIX Roundtable.<br /><br />
+He strives for a program that includes research and operational reports
+and explores topics in depth while explaining basic concepts of them to
+the entire audience.
+</td>
+</tr>
+</table>
+
+
+<br />
 <h3 id="c_jan">Jan Walzer (Red Hat)</h3>
 <table border=0>
 <tr>
@@ -327,6 +387,51 @@ For the past ten years, he has worked as a Cloud Architect with OpenStack and
 is currently at Red Hat advising enterprise clients; his extensive experience
 enables him to analyze problems from outside the typical network sphere and
 offer fresh perspectives.
+</td>
+</tr>
+</table>
+
+
+<br />
+<h3 id="c_moritz">Moritz (DE-CIX)</h3>
+<table border=0>
+<tr>
+<td>
+<!-- <img height="200px" src="/images/meetings/denog17/" />-->
+</td>
+<td style="vertical-align:top">
+I'd like to put myself forward as a candidate for the upcoming PC election.
+After talking with Wolfgang, I think this could be a good opportunity to get
+more involved in the DENOG community and contribute to the programme.<br /><br />
+I'm currently working at DE-CIX as a Software Engineer.
+Please let me know if you need some more information.
+</td>
+</tr>
+</table>
+
+
+<br />
+<h3 id="c_rose">Rose Jacobsen</h3>
+<table border=0>
+<tr>
+<td>
+<img height="200px" src="/images/meetings/denog18/pc_rose_jacobsen.jpeg" />
+</td>
+<td style="vertical-align:top">
+Rose is a 27-year-old Network Engineer at Pfalzkom.<br /><br />
+After gaining experience as a System Administrator, she made the move into the
+networking industry, where she has been expanding her knowledge and practical
+experience ever since. Her work has taken her from datacenter visits in
+Frankfurt to working in substations across the Palatinate region.<br /><br />
+Her first DENOG conference was DENOG14 in Hamburg. Since then, she has attended
+every DENOG conference except DENOG15 and has also enjoyed attending several
+DENOG Community Meetups, particularly across Southern Germany.<br /><br />
+Having grown alongside the community, she would now like to give something back
+by joining the Programme Committee. She hopes to contribute her practical
+perspective, enthusiasm for networking and passion for the community, while
+helping bring interesting and diverse topics to the DENOG stage.<br /><br />
+Her main drive would be to help newcomers, especially ones with not so straight
+forward paths, to find their footing and encourage new perspectives on stage.
 </td>
 </tr>
 </table>
@@ -382,7 +487,7 @@ at current affairs events.
 
 
 <br />
-<h3 id="tim">Tim Kleefass (DENOG e.V. / DE-CIX)</h3>
+<h3 id="c_tim">Tim Kleefass (DENOG e.V. / DE-CIX)</h3>
 <table border=0>
 <tr>
 <td>
@@ -401,8 +506,6 @@ Head of Global Interconnection Platform.
 </td>
 </tr>
 </table>
-
-
 
 
 # Elections
