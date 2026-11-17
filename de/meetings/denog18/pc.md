@@ -393,7 +393,7 @@ offer fresh perspectives.
 
 
 <br />
-<h3 id="c_moritz">Moritz (DE-CIX)</h3>
+<h3 id="c_moritz">Moritz Jordan (DE-CIX)</h3>
 <table border=0>
 <tr>
 <td>
