@@ -32,47 +32,16 @@ redirect_from: "/"
             <div class="newsblockwrapper">
 
                 <article>
-                    <h4>DENOG18 Workshop Registration</h4>
+                    <h4>DENOG e.V. Mitgliederversammlung</h4>
                     <br />
-                    <p>The Registration for the Workshops is open - for attendees with an onsite ticket </p><br />
-                    <a href="/de/meetings/denog18/workshop_registration.html" class="btn btn-custom-default pull-right">Workshop Registration <i class="ion-arrow-right-c"></i></a>
+                    <p>Die DENOG e.V. Mitgliederversammlung 2026 findet am 03.12. statt  </p>
+                    <a href="/de/events/mitgliederversammlung-2026.html" class="btn btn-custom-default pull-right">Mitgliederversammlung 2026 <i class="ion-arrow-right-c"></i></a>
                 </article> 
 
                 <article>
                     <h4>Agenda for DENOG18 in Essen published!</h4>
                     <p>Please find our Agenda online </p><br />
                     <a href="/de/meetings/denog18/agenda.html" class="btn btn-custom-default pull-right">Agenda DENOG18 <i class="ion-arrow-right-c"></i></a>
-                </article> 
-
-                <article>
-                    <h4>Termine der Routing Working Group Online!</h4>
-                    <p>Diese findest Du nun parallel zu den Meetup Terminen bei allen Events </p>
-                    <a href="/de/events/wg-routing-2026-03.html" class="btn btn-custom-default pull-right">Hier gehts zum nächsten <i class="ion-arrow-right-c"></i></a>
-                <br />
-                </article> 
-
-                <article>
-                    <h4>Start your DENOG18 planning!</h4>
-                    <p>Please find here the preliminary </p><br />
-                    <a href="/de/meetings/denog18/important_dates.html" class="btn btn-custom-default pull-right">Timeline for DENOG18 <i class="ion-arrow-right-c"></i></a>
-                <br />
-                </article> 
-
-                <article>
-                    <h4>Ticket Shop open!</h4>
-                    <p>The ticket shop is open with early bird tickets until 3rd of July </p><br />
-                    <a href="/de/meetings/denog18/tickets.html" class="btn btn-custom-default pull-right">Register for DENOG18 <i class="ion-arrow-right-c"></i></a>
-                <br />
-                </article> 
-
-                <article>
-                    <h4>DENOG17 Recap & Playlists</h4>
-                    <br /> 
-                    <a href="https://www.youtube.com/watch?v=xBGH0GnNgFo&list=PLgJN7Up-XnKSROBIsuOZdmMV4d-rTosQP" class="btn btn-custom-default pull-right">DENOG17 Recap <i class="ion-arrow-right-c"></i></a><br />
-                    <br /> 
-                    <a href="https://www.youtube.com/playlist?list=PLgJN7Up-XnKSROBIsuOZdmMV4d-rTosQP" class="btn btn-custom-default pull-right">YouTube <i class="ion-arrow-right-c"></i></a>&nbsp; &nbsp;
-                    <a href="https://media.ccc.de/c/denog17" class="btn btn-custom-default pull-right">media.ccc.de <i class="ion-arrow-right-c"></i></a>
-                <br />
                 </article> 
 
                 <br />
@@ -126,7 +95,6 @@ redirect_from: "/"
                     <a href="/de/events/meetup-2026-09.html" class="btn btn-custom-default pull-right">zur Anmeldung <i class="ion-arrow-right-c"></i></a>
                 <br />
                 </article> 
--->
 
                 <article>
                     <h4>DENOG Meetup 2026-10 in Nürnberg</h4>
@@ -135,7 +103,6 @@ redirect_from: "/"
                 <br />
                 </article> 
 
-<!-- 
                 <article>
                     <h4>DENOG17 Call for Papers open!</h4>
                     <p>We have opened the Call for Papers for DENOG17 in Essen! </p><br />
